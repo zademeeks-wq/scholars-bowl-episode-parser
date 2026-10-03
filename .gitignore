@@ -1,0 +1,4 @@
+# Raw caption transcripts are inputs supplied by the user; keep them local.
+data/transcripts/
+__pycache__/
+*.pyc

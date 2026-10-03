@@ -1,0 +1,87 @@
+@EP S41 E59
+@ROUND Championship
+@TEAMS Webb School of Knoxville | Jefferson County High School
+@R1 Sam, Jackson, Penny, Stephen, James, Ridge
+@R2 Zach, Elaine, Max, Amy, Eli, Evan, Isabella, Laurel
+# ---- first half ----
+T1 | Literature | What is the name of the inspector relentlessly pursuing Jean Valjean? | Javert | Zach:C | | .answer garbled in captions ("Xavier"); Javert from context
+B1 | Literature | Part 1: Which author created the literary character [unclear]? // Part 2: Which author created the literary character Silas Marner? | Part 1: Washington Irving // Part 2: George Eliot | I | !Part 1 character name lost in captions (team said Victor Hugo; host said Washington Irving)
+T2 | Geography | Which of the Great Lakes provides shoreline to the state of Ohio? | Lake Erie | Max:C
+B2 | Geography | What river is the boundary between Washington and Oregon and is the largest North American river that empties into the Pacific Ocean? | Columbia River | I
+T3 | Astronomy | What type of galaxy is the Milky Way? | Spiral | Max:C
+B3 | Astronomy | What are two of the three forms of energy released by the sun that can disrupt Earth-based communications? | Any two of: solar flares, prominences, coronal mass ejections | I
+T4 | Geometry | In an isosceles right triangle, what is the length of the hypotenuse in radical form with a side of 20? | 20√2 | Sam:C
+B4 | Geometry | Part 1: If the diameter of a circle is 16, what is the circumference of the circle? // Part 2: What is its area? | Part 1: 16π // Part 2: 64π | C
+T5 | Architecture | What is the name of the approximately 555-foot-high marble obelisk in our nation's capital? | Washington Monument | Zach:I | Sam:C | !captions ambiguous ("Zach Washington Memorial, right, no chance to steal Sam"); read as Zach (JC) wrong, Sam (Webb) steals; bonus went to Webb
+B5 | Architecture | Part 1: With a total height just over half a mile high, what is the world's tallest structure shown here? // Part 2: In what city is it located? | Part 1: Burj Khalifa // Part 2: Dubai | C
+T6 | Music | Which classic rock band's album titled Escape includes the songs Open Arms, Who's Crying Now, and Don't Stop Believin'? | Journey | Zach:I | Jackson:C | .Zach buzzed mid-question with Green Day; question finished for the steal
+B6 | Music | Which band's 2004 album American Idiot is the basis for a Broadway musical of the same name? | Green Day | C
+T7 | U.S. History | In which year did Abraham Lincoln officially issue the Emancipation Proclamation? | 1863 | Zach:C | .cut off by buzz after "emancipation"; completed from host's "proclamation"
+B7 | History | Who was the first and only speaker of the House to also serve as president? | James K. Polk | I
+T8 | Government | What word besides USA has appeared on all first class postage stamps since 2011? | Forever | Jackson:I | 2:I | .steal player name garbled in captions ("Jack")
+T9 | Foreign Language | What is the French word for Friday? | Vendredi | Zach:C
+B9 | Foreign Language | What is the English translation of the German phrase "Wo ist der Flughafen?" | Where is the airport? | Zach:I | .German phrase reconstructed from captions ("But is there a fluke happen"); host hint: Flughafen = airport
+T10 | Vocabulary | What six letter word beginning with Z means a fervent and even militant proponent of something? | Zealot | Zach:I | Sam:C | .answer garbled in captions ("Zell. It."); Zealot fits the definition
+B10 | Vocabulary | Part 1: What nine letter word beginning with S means to supplant or take the place of a person or thing previously in [unclear]? // Part 2: Now spell "supersede." | Part 1: Supersede // Part 2: S-U-P-E-R-S-E-D-E | Sam:C | !end of Part 1 garbled in captions ("previously in a foreign")
+T11 | Economics | What economic term refers to the amount of goods that consumers want…? | Demand | ?:C | .player and team not identified in captions; question cut off by buzz
+B11 | Economics | In January 2024, what socialist government put an end to the Petro cryptocurrency that was launched seven years ago to sidestep U.S. sanctions, but which never took off and became embroiled in a graft scandal? | Venezuela | I
+T12 | Health | What is the term for a blood-filled sac formed by a ballooning in an arterial or venous wall? | Aneurysm | 2:C | .buzzer not named; team from "Health bonus for Jefferson County"
+B12 | Health | In what city and country did Doctor Christiaan Barnard perform the first successful heart transplant operation? | Cape Town, South Africa | I
+T13 | Math | A cup and a saucer together weigh 12 ounces. The cup weighs twice as much as the saucer. How much does the cup weigh? | 8 ounces | Sam:C
+B13 | Math | Given the two functions f(x) = 4x + 5 and g(x) = x + 6, evaluate the expression f(g(4)). | 45 | C
+T14 | Music | How many encores did Elvis Presley usually give? | Zero | ?:C | .player and team not identified in captions
+B14 | Music | Part 1: In which state is Elvis Presley's birthplace? // Part 2: In which state is Elvis's mansion called Graceland? | Part 1: Mississippi // Part 2: Tennessee | P10
+T15 | Foreign Language | What is the English translation of the French word "école"? | School | Zach:C | .name garbled in captions ("Jacques"); bonus deferred to Zach
+B15 | Foreign Language | What is the English translation of the German question "[unclear: The field costs lettuce]"? | How much does it cost? | Zach:C | !German phrase garbled in captions ("The field costs lettuce")
+T16 | Geography | What state, not known for cheeseheads, is America's leading producer of dairy products? | California | Sam:C | .buzzer name garbled in captions ("salmon" = Sam?); bonus went to Webb
+B16 | Geography | What four U.S. states border Mexico? | California, Arizona, New Mexico, Texas | Stephen:C
+T17 | Chemistry | Which element has the symbol Pd? | Palladium | Penny:C | .symbol read from captions "P penny"; answer Palladium accepted
+B17 | Chemistry | What is the electron configuration for the alkali metal potassium in noble gas notation? | [Ar] 4s¹ | C
+T18 | Miscellaneous | In which country did parmesan cheese originate? | Italy | Penny:C
+B18 | Miscellaneous | Which member of the Royal family founded the Earthshot Awards to reward solutions to improve the environment? | Prince William | I
+T19 | Religion | What is the collection of prayer beads separated into decades? | Rosary | Max:C
+B19 | Religion | What Catholic saint who was born in what is now Macedonia in 1910 established the Missionaries of Charity in India in 1950, was awarded the Nobel Peace Prize in 1979, died in 1997, and was canonized in 2016? | Mother Teresa (Saint Teresa of Calcutta) | C
+T20 | Literature | Which Shakespearean play is about the assassination of a Roman emperor? | Julius Caesar | 2:C | .buzzer not named; team from "bonus for Jefferson County"
+B20 | Literature | The First Folio, which is regarded by many as the most important book in the history of English literature, contains 36 of William Shakespeare's comedies, histories, and tragedies, including which two comedies that have the word night? | Twelfth Night and A Midsummer Night's Dream | C | .host verdict not captured; answer given matches
+T21 | Government | Which amendment to the U.S. Constitution says a person cannot be forced to testify against himself? | Fifth Amendment | Zach:C | .name garbled in captions ("Jacques fit")
+B21 | Government | Name the four U.S. presidents who did not make any nominations for Supreme Court appointments, as there were no vacancies while they were in office. | Jimmy Carter, Andrew Johnson, Zachary Taylor, William Henry Harrison | P5 | .team named only Carter correctly (5 points)
+T22 | Physics | How much work is done in a system if a 20 Newton force is applied to move an object four meters? | 80 joules | ?:C | !text garbled and cut off by buzz ("20 Newton stack"); player and team not identified; no bonus because time ran out
+# ---- second half ----
+T23 | Pre-Calculus | What is the limit of sine x divided by x as x approaches infinity? | 0 | Sam:C
+B23 | Pre-Calculus | Part 1: If the sine ratio of an angle is 5/13, what is the cosine ratio of the same angle? // Part 2: If the sine ratio of an angle is 5/13, what is the tangent ratio of the same angle? | Part 1: 12/13 // Part 2: 5/12 | C
+T24 | Art | What 13 letter word describes paintings or other artwork done in shades of only one color or hue? | Monochromatic | Amy:C
+B24 | Art | Part 1: The Apotheosis of Washington, a fresco depicting George Washington rising to the heavens in glory, is located in what building? // Part 2: Specifically, where in the Capitol is the Apotheosis of Washington? | Part 1: The U.S. Capitol // Part 2: The eye of the rotunda | P10
+T25 | English | Which figure of speech is used in the following sentence? The snow is a white blanket. | Metaphor | Penny:I | 2:C | .stealing player not named
+B25 | English | Part 1: Which figure of speech is used in the following sentence? Maria heard the last piece of pie calling her name. // Part 2: Which figure of speech is used in the following sentence? My love is like a red rose. | Part 1: Personification // Part 2: Simile | C
+T26 | History | Which country's capital stands on the site of the ancient Roman capital of Britannia? | England | 2:I | James:C | !who buzzed first and who stole is unclear in captions ("Pini. Turkey. No chance to steal web games. Britain"); read as JC wrong, Webb alternate James steals
+B26 | History | Which event led to the US and the USSR setting up a hotline in 1963 to facilitate communication between the US president and the Soviet premier? | Cuban Missile Crisis | C
+T27 | Health | What is the term for a sudden increase in the birth rate, as happened in the US and Britain after World War Two? | Baby boom | ?:C | .player and team not identified in captions
+B27 | Health | Part 1: What are the common names for the ossicles, which are the tiny bones malleus, incus and stapes? // Part 2: In what part of the body are they located? | Part 1: Hammer, anvil and stirrup // Part 2: The ear | I
+T28 | History | Which American founding document includes the right to life, liberty and the pursuit of happiness? | Declaration of Independence | Zach:I | Penny:C
+B28 | History | A Tennessee state park in Greene County that was significantly damaged by the flooding of the Nolichucky River during Hurricane Helene honors the birthplace of what man, who was born in 1786, served in Congress and died at the Alamo in 1836? | Davy Crockett | C
+T29 | Music | Which 19th century American composer and bandleader is known as the March King? | John Philip Sousa | Amy:C
+B29 | Music | Part 1: Who wrote the operetta The Mikado? // Part 2: What is the musical term for the introductory music at the beginning of The Mikado? | Part 1: Gilbert and Sullivan // Part 2: Overture | I
+T30 | Geography | The Upper Peninsula of Michigan is separated from the mitten, mostly by Lake Michigan, and partially by which other Great Lake? | Lake Huron | 1:I | 2:I | .players not named; teams read from "Superior, no. Chance to steal, Jefferson County. Ontario"
+T31 | Astronomy | In 1983, who became the first American woman and third woman of all time to go into space when she rode on the Challenger? | Sally Ride | Sam:C
+B31 | Astronomy | The Jupiter Icy Moons Explorer, known as JUICE, which did a flyby of the Moon and Earth in 2024 and will fly by Venus in 2025 on its way to arrive at Jupiter in 2031, is operated by what agency? | European Space Agency | I
+T32 | Algebra | To complete the square of x squared minus 16x, what number must be added to the expression? | 64 | Sam:C | .name garbled in captions ("Psalm")
+B32 | Algebra | Sam was getting 22 miles per gallon before working on the carburetor of his car. Now Sam gets 27.5 miles per gallon. What is the percent of increase? | 25% | C
+T33 | Sports | Which university has permission from Disney to use Donald Duck as their official mascot? | University of Oregon | Sam:C
+B33 | Sports | Part 1: In what city is the Kentucky Derby held? // Part 2: On what racetrack is the Kentucky Derby held? | Part 1: Louisville, Kentucky // Part 2: Churchill Downs | C
+T34 | Literature | In what fictional work is Newspeak the official language? | 1984 | Sam:C
+B34 | Visual | Part 1: What writer shown here became the first poet to speak at a presidential inauguration? // Part 2: Which vice president is trying to use his top hat to block the sun on the paper? | Part 1: Robert Frost // Part 2: Lyndon B. Johnson | P10 | !which part was missed is unclear (team said Whitman / Keats / Robert Frost for Part 1; host confirmed Lyndon Johnson; 10 points)
+T35 | U.S. History | What is the first and last name of the person after whom America was named? | Amerigo Vespucci | ?:C | .player and team not identified; host verdict not captured
+B35 | History | Which Medal of Honor recipient and famous pilot was the first to fly across the North American continent in less than 24 hours in 1922 and led the bombing of Tokyo in 1942? | Jimmy Doolittle | I
+T36 | Biology | What 13 letter word beginning with T is the term for the process of plants taking up liquid water? | Transpiration | ?:C | .player and team not identified (caption token "sac")
+B36 | Biology | Part 1: Which scientist is credited with discovering the human ABO blood groups? // Part 2: Which scientist is credited with discovering penicillin? | Part 1: Karl Landsteiner // Part 2: Alexander Fleming | P10
+T37 | Geography | In which country are the Apennine Mountains located? | Italy | Sam:C
+B37 | Geography | On Veterans Day 2024, the US and Australia announced that the Royal Australian Navy had discovered the wreckage of the USS Edsall, which was sunk by the Japanese during World War Two, about 250 miles south-southeast of Christmas Island. In what ocean? | Indian Ocean | I
+T38 | Foreign Language | What is the English translation of the Spanish word "[unclear: Hefei]"? | Bus | 2:C | !Spanish word garbled in captions ("Hefei"); team inferred from Zach answering the bonus
+B38 | Foreign Language | Part 1: What is the Spanish word for 15? // Part 2: What is the Spanish word for 16? | Part 1: Quince // Part 2: Dieciséis | Zach:C | .Part 1 answer garbled in captions; both parts accepted (20 points)
+T39 | Spelling | Spell a nine letter word beginning with P that is a synonym for believable. | P-L-A-U-S-I-B-L-E | Zach:C
+B39 | Spelling | Part 1: What 11 letter word beginning with R means to echo or produce an aftereffect? // Part 2: Now spell "reverberate." | Part 1: Reverberate // Part 2: R-E-V-E-R-B-E-R-A-T-E | Amy:C
+T40 | Government | What kind of legislative bill packages together several measures or diverse subjects into a single bill? | Omnibus bill | Zach:C
+B40 | Government | Who considered a career as a concert pianist before eventually becoming a professor of political science at Stanford, the National Security Advisor in 2001 and Secretary of State in 2005? | Condoleezza Rice | U | !host verdict not captured ("Roy Roy welcoming Roy, that's Condoleezza Rice"); team's answer garbled
+T41 | Chemistry | What sweet-smelling organic compound with the chemical formula C4[unclear]? | Diethyl ether | Zach:C | !question text incomplete: captions cut off at "C4"
+B41 | Chemistry | Commonly called buckyballs, what is the name for C60, which has a cage-like fused ring structure made of 20 hexagons and 12 pentagons and resembles a soccer ball? | Buckminsterfullerene | I | .team gave no answer
+T42 | Geometry | A 120 degree angle is bisected, and those two angles are trisected. What is the measure of each final resulting angle? | 20 degrees | Jackson:I | Zach:C | .Jackson passed ("I don't know"); question reread for the steal; game ended after this tossup

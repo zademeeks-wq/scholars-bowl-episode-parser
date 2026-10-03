@@ -200,11 +200,13 @@ def parse_actor(ep, tok, where):
         return {'kind': 'NB'}
     if tok == '?':
         return {'kind': '?'}
-    m = re.fullmatch(r'(?:([12])\.)?([^:]*):([CIU])', tok)
+    m = re.fullmatch(r'(?:([12?])\.)?([^:]*):([CIU])', tok)
     if not m:
         raise Err('%s: bad buzz/steal token %r' % (where, tok))
     pre, left, code = m.groups()
     left = left.strip()
+    if pre == '?':
+        return {'kind': 'A', 'team': 'U', 'name': left, 'code': code}
     if left == '?':
         return {'kind': 'A', 'team': 'U', 'name': '', 'code': code}
     if left in ('1', '2'):
@@ -233,6 +235,8 @@ def parse_bonus_token(ep, tok, where):
         name = name.strip()
         if pre:
             nteam = int(pre) - 1
+        elif team is not None and team != 'U':
+            nteam = team
         else:
             nteam = team_of_name(ep, name, where)
         if team is None:

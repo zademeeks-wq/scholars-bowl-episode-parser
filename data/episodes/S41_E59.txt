@@ -1,6 +1,6 @@
 @EP S41 E59
 @ROUND Championship
-@TEAMS Webb School of Knoxville | Jefferson County High School
+@TEAMS Webb School of Knoxville (Penny's team) | Jefferson County High School
 @R1 Sam, Jackson, Penny, Stephen, James, Ridge
 @R2 Zach, Elaine, Max, Amy, Eli, Evan, Isabella, Laurel
 # ---- first half ----

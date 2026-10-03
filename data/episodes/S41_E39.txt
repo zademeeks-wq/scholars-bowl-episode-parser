@@ -1,0 +1,92 @@
+@EP S41 E39
+@ROUND Round of 32
+@TEAMS Maryville High School (Luna's team) | Webb School of Knoxville (Penny's team)
+@R1 Peggy, Leanne, Luna, Elizabeth, Adam
+@R2 Sam, Jackson, Penny, Stephen, James, Ridge
+# ---- first half ----
+T1 | Foreign Language | What is the literal translation of the name of the archipelago at the southern tip of South America known as Tierra del Fuego? | Land of fire | Sam:C
+B1 | Foreign Language | Name two of the European countries where Catalan is spoken. | Any two of: Spain, France, Andorra, Italy | P10 | .team said Spain and Portugal; only Spain counted (10 points)
+T2 | Literature | Who is the author of the play Pygmalion? | George Bernard Shaw | Stephen:I | 1:U | !Stephen said Sophocles; steal offered to Maryville but the host scolded them for conferring and the steal outcome is not captured; answer taken from the host's remark
+T3 | Vocabulary | What term describes words of two languages that have almost the same spelling with the same meaning? | Cognates | Sam:C
+B3 | Vocabulary | Merriam-Webster's word of the year for 2023 was what nine letter word beginning with A that means genuine, honest, true or real? | Authentic | C
+T4 | Physics | Which branch of physics deals with the properties of light? | Optics | Sam:C
+B4 | Physics | Name two of the three words represented by the variables in Ohm's law, E equals I R. | Any two of: voltage, current, resistance | C
+T5 | Geography | Which state has the smallest land area? | Rhode Island | Sam:C
+B5 | Visual | The flag shown here represents which Canadian province that is the country's most populous and borders four of the five Great Lakes, as well as the states of Minnesota, Michigan, Ohio, Pennsylvania and New York? | Ontario | C
+T6 | Art | Which art movement lasted from 1600 to 1750 and included artists such as Bernini and Rembrandt? | Baroque | Leanne:C | | .player and answer garbled in captions ("Go ahead, Leon. Burrows is right")
+B6 | Art | Which artist pranked the art world when his balloon girl was sold at auction in 2018 and was then partially destroyed by a shredder hidden inside the frame? | Banksy | I | .team said Da Vinci
+T7 | English | He was as brave as a lion is an example of what type of figure of speech? | Simile | Penny:I | 1:C | .Penny said metaphor; Maryville stealing player not named
+B7 | English | Using punctuation if necessary, spell the plural form of the last name Jackson, as in "Happy Holidays from the Jacksons." | J-A-C-K-S-O-N-S | I | .team spelled it with an apostrophe
+T8 | Math | What is the equation for a line that crosses the y axis at three with a slope of one half? | y = ½x + 3 | Penny:C
+B8 | Math | Part 1: Change 3/20 into a decimal. // Part 2: Change 125/625 into a decimal. | Part 1: 0.15 // Part 2: 0.2 | C | .captions read Part 2 as "2.2"; 125/625 = 0.2
+T9 | Chemistry | Methanethiol is added to what normally odorless mixture of methane and ethane to provide its characteristic pungent scent? | Natural gas | Stephen:C | | .question reconstructed from captions ("methane file", "methane and methane")
+B9 | Chemistry | What is the periodic trend that measures how much energy is required to remove an electron from an atom? | Ionization energy | I | .team said electronegativity
+T10 | U.S. History | Also called Emancipation Day, what is the holiday that commemorates the date in 1865 that enslaved people learned they were free? | Juneteenth | Jackson:C | | .cut off by buzz; completed from the host's follow-up
+B10 | History | Part 1: Who was president of the United States when Saturday Night Live first aired on October 11th, 1975? // Part 2: Which original SNL cast member's ridicule of Gerald Ford as being accident prone may have affected the 1976 election? | Part 1: Gerald Ford // Part 2: Chevy Chase | P10 | .Part 2 missed
+T11 | Technology | The keyboard shortcut Control R is commonly used in web browsers to do what? | Reload the page | 2:I | Luna:I | .first buzzer name garbled in captions ("Any"); Webb said new tab, Luna said new window
+T12 | Spelling | A meteorologist studies the weather. Spell "meteorologist." | M-E-T-E-O-R-O-L-O-G-I-S-T | Sam:C
+B12 | Spelling | Saccharine means excessively sweet or sentimental. Spell "saccharine." | S-A-C-C-H-A-R-I-N-E | Sam:C
+T13 | Literature | In the Shakespeare play, who tells Julius Caesar to beware the Ides of March? | The soothsayer | Jackson:C
+B13 | Literature | Part 1: In 2024, the Clarence Brown Theatre presented a new musical titled Knoxville that was adapted from a novel by which author who was awarded a posthumous Pulitzer Prize in 1958? // Part 2: What is the title of Agee's Pulitzer winning novel that was also made into a 1963 movie titled All the Way Home? | Part 1: James Agee // Part 2: A Death in the Family | I | .team said Alex Haley; no answer for Part 2
+T14 | Science | What is the science and art of extracting metals from their ores and modifying them for use? | Metallurgy | Penny:C
+B14 | Science | Part 1: Which metal is the primary component in the ore galena? // Part 2: Which metal is the primary component in the ore hematite? | Part 1: Lead // Part 2: Iron | P10 | .team said gallium for Part 1
+T15 | Government | Which document begins, "When in the course of human events"? | Declaration of Independence | Jackson:C
+B15 | Visual | Who are the two elected officials shown here to represent Tennessee in the U.S. Senate? | Marsha Blackburn and Bill Hagerty | Jackson:P10 | .team said Marsha Blackburn and Tim Burchett; only Blackburn counted
+T16 | Music | Which type of musical composition is characterized by the systematic imitation of one or more themes overlapping? | Fugue | 2:I | 1:I | !first buzzer name garbled ("Many") and Maryville's steal answer unclear in captions ("It's a fugue or a rondo")
+T17 | Vocabulary | What seven letter word starting with P means a hypothetical remedy for all ills or diseases? | Panacea | Sam:C
+B17 | Vocabulary | What seven letter word beginning with I means to cause something or someone to be alone or apart from others? | Isolate | C
+T18 | Geometry | What is a line that intersects a circle in exactly one point? | Tangent line | Penny:C
+B18 | Geometry | Two similar quadrilaterals, A and B, have perimeters of 30 meters and 45 meters, respectively. What is the reduced scale factor comparing quadrilateral A to B? | 2/3 | I | .team said 2.25
+T19 | Geology | What geological era means middle life and includes the Jurassic and Cretaceous? | Mesozoic | Sam:C | .cut off by buzz; completed from the host's follow-up
+B19 | Geology | What stone is said to have been given to Abraham by Gabriel and kept in the Kaaba in Mecca? | The Black Stone | C
+T20 | Economics | What is the official currency in Egypt? | Egyptian pound | Stephen:I | | .Stephen said rupee; steal offered to Maryville, no answer captured
+T21 | Religion | Which of the following four words does not belong with the others? Minister, prelate, parishioner, pontiff. | Parishioner | 1:I | Jackson:C | .Maryville's first buzzer not named (said pontiff)
+B21 | Religion | What is an Indian religion that traces its spiritual ideas and history through the succession of 24 supreme preachers of Dharma, and the three main pillars translating to nonviolence, non-absolutism and asceticism? | Jainism | I | .team said Buddhism
+T22 | Mythology | In Norse mythology, who were the female figures who served Odin and guided the souls of dead warriors to Valhalla? | Valkyries | 1:C | .buzzer name garbled in captions ("Liam"); team from "bonus for Maryville"
+B22 | Mythology | What day of the week is named for Frigga, the Norse goddess of marital love and the hearth? | Friday | C
+T23 | Geography | What is Australia's largest city? | Sydney | 1:C | !team is a guess: captions read "It's m Sydney" then "a bonus in geography ... for which two European countries" (probably "for Maryville")
+B23 | Geography | In 2020, which two European countries discussed a change to their border that had been determined by glacier ridge lines in an area near the Matterhorn? | Switzerland and Italy | C
+T24 | Health | What is the branch of medicine devoted to the care of the muscular and skeletal systems? | Orthopedics | Penny:C
+B24 | Health | Histology, also known as microscopic anatomy, is a branch of biology concerned with the study of what? | Tissues and cells | I | .question partly reconstructed from captions ("with the what for blood"); team said blood
+# ---- second half ----
+T25 | World History | Who was Lord Protector of England from 1653 to 1658, after the defeat of King Charles the First? | Oliver Cromwell | Penny:I | 1:I | .Penny blurted out before being recognized; Maryville said Charlemagne
+T26 | Games | What is the classic game of strategic naval combat that involves two players searching for the opponent's fleet? | Battleship | Penny:C | | .cut off by buzz; completed from the host's follow-up
+B26 | Games | Part 1: What is a dice game made by Hasbro with the objective to score points by rolling five dice up to three times per turn to make certain combinations? // Part 2: What is the highest Yahtzee score attainable under standard rules? | Part 1: Yahtzee // Part 2: 1,575 points | P10 | .team said 2,500 for Part 2
+T27 | Foreign Language | How many basic pitched tones does Mandarin Chinese have? | Four | Penny:C | .answer read from caption "for"
+B27 | Foreign Language | What is the Spanish translation of "more coffee, please"? | Más café, por favor | C
+T28 | Math | If you drive 48 miles per hour for 15 minutes, how far have you gone? | 12 miles | Sam:C
+B28 | Visual | What is the correct change from a $100 bill for a meal costing $75.53? | $24.47 | C
+T29 | Astronomy | Launched by the Soviet Union in 1957, what was the world's first artificial satellite? | Sputnik 1 | Penny:C | .cut off by buzz; completed from the host's follow-up
+B29 | Astronomy | A taikonaut is an astronaut from what country? | China | I | .team said Taiwan, then Italy
+T30 | Government | What general name is given to people who are already in office and sometimes running for reelection? | Incumbents | Sam:C
+B30 | Government | Give the modern names of four of the 12 Tennessee counties that comprised the state of Franklin. | Any four of: Blount, Campbell, Carter, Greene, Hawkins, Jefferson, Johnson, Sevier, Sullivan, Unicoi, Washington | P10 | .team got Blount and Sevier (5 points each); host read the list of counties
+T31 | Miscellaneous | Garmin, TomTom and Magellan all make devices that use what type of technology? | GPS | Penny:I | Luna:I | !answer not stated in captions (GPS inferred; host only said "they are brands"); Penny's answer not captured, Luna said clock
+T32 | Literature | Which French author created the character Jean Valjean? | Victor Hugo | 2:C | .buzzer not named; team from the bonus deferral to Ridge
+B32 | Literature | Part 1: Which Irish author wrote Dracula? // Part 2: Which Irish author wrote The Chronicles of Narnia? | Part 1: Bram Stoker // Part 2: C.S. Lewis | Ridge:C | .a teammate guessed Mary Shelley before deferring to Ridge
+T33 | Architecture | What is a parallel building element used to support a floor or ceiling? | Joist | Elizabeth:I | Penny:I | .Elizabeth said column, Penny said pillar
+T34 | Biology | What type of farming depends on natural substances rather than synthetic materials to fertilize soil? | Organic farming | 2:I | 1:C | .a Webb player blurted the answer out before being recognized; Maryville steals
+B34 | Biology | Part 1: Derived from the old French word for apple, what is the four letter word meaning a type of fruit produced by flowering plants, including apples, pears and quinces? // Part 2: In Roman mythology, who was the goddess of fruitful abundance? | Part 1: Pome // Part 2: Pomona | I | .team said citrus for Part 1; Luna and Stephanie for Part 2
+T35 | Geography | 55% of the population of Indonesia lives on which island? | Java | Penny:I | | .Penny said Sumatra; steal offered to Maryville, no answer captured
+T36 | Sports | What part of the backboard does an air ball touch? | None | Penny:C
+B36 | Visual | Who is the seven foot seven inches tall Romanian former NBA player shown here, who is one of the two tallest players in NBA history? | Gheorghe Mureșan | I | .name garbled in captions ("George Morrison"); team said Jokic and Dirk Nowitzki
+T37 | Vocabulary | Resignation is to office as abdication is to what? | Throne | Sam:C | .cut off by buzz
+B37 | Vocabulary | Part 1: What four letter word ending in X means a mineral variety of agate and precious stones? // Part 2: What four letter word ending in X means a medium sized wild cat with a short tail? | Part 1: Onyx // Part 2: Lynx | Sam:C
+T38 | Algebra | What type of polynomial is x to the third power plus four x? | Cubic | Sam:C | .cut off by buzz; completed from the host's follow-up
+B38 | Algebra | Solve the equation two thirds x plus y equals two for x, if the value of y is 14. | x = -18 | C
+T39 | Science | What unit is commonly used to measure the energy value of a food? | Calorie | James:C
+B39 | Science | Part 1: What is the SI unit of amount of substance? // Part 2: What is the SI unit of measurement for temperature? | Part 1: Mole // Part 2: Kelvin | C
+T40 | U.S. History | In February 1870, who became the first African-American to serve in the U.S. Congress? | Hiram Rhodes Revels | 2:I | | .first buzzer name garbled ("Any"), said Booker T. Washington; steal offered to Maryville, no answer captured
+T41 | Foreign Language | What is the German translation for "good morning"? | Guten Morgen | Sam:I | Luna:C | .Sam said guten Tag
+B41 | Foreign Language | What Latin phrase is used in English to say something is done to a sickening degree? | Ad nauseam | Leanne:I | .Leanne ran out of time
+T42 | English | What eight letter word beginning with A is a synonym for proponent? | Advocate | Sam:C
+B42 | English | Using alliteration, what two animals could each complete the idiom, "as busy as a beaver"? | Bee and beaver | C | !question wording unclear in captions; answer read from "Being beaver"
+T43 | Music | What billionaire singer songwriter has had number one hits with Anti-Hero and Cruel Summer? | Taylor Swift | James:C
+B43 | Music | Which English singer songwriter was cleared of copyright infringement when a New York jury declared he didn't steal key components of Marvin Gaye's 1973 song Let's Get It On when creating his 2014 hit Thinking Out Loud? | Ed Sheeran | C
+T44 | Health | What speed do X-rays travel? | The speed of light | James:C
+B44 | Health | What words do the letters in the term MRI represent? | Magnetic resonance imaging | I | .team said magnetic rotational imagery
+T45 | Geography | What is the name of the wind belts that are located just north and south of the equator? | Trade winds | Luna:I | 2:I | .Luna said the Pacific winds; Webb's stealing player garbled in captions, said Gulf Stream
+T46 | Art | In the 1960s, the co-founder of the Children's Television Workshop asked what puppeteer to create a family of characters to populate Sesame Street? | Jim Henson | Ridge:C | .name garbled in captions ("Bridge")
+B46 | Art | What is the English translation of the Latin phrase "Ars Gratia Artis" that appears surrounding the lion's head in the Metro-Goldwyn-Mayer studios logo? | Art for art's sake | C
+T47 | Literature | The Iliad tells the story of which war? | The Trojan War | 1:C | !team is a guess: buzzer name garbled ("win", likely the same Maryville player as "Liam" earlier) and the bonus team is not named
+B47 | Literature | Part 1: What influential American writer who would go on to write Cat's Cradle and Breakfast of Champions received Army training at the University of Tennessee at Knoxville in 1943? // Part 2: After being captured during the Battle of the Bulge, Vonnegut was imprisoned in an underground meat locker in Dresden, which was the inspiration for which of his novels? | Part 1: Kurt Vonnegut // Part 2: Slaughterhouse-Five | I | .host said no points; team said Cat's Cradle for Part 2
+T48 | Pre-Calculus | What is the measure in degrees of the angle, in radians, of seven pi over six? | 210 degrees | Sam:C | .game ended after this tossup, no bonus

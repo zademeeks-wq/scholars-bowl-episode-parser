@@ -1,0 +1,81 @@
+@EP S41 E40
+@ROUND Round of 32
+@TEAMS Maryville High School (Skyler's team) | Webb School of Knoxville (Daisy's team)
+@R1 Alex, Andy, Skyler, Tori, Zoe, Asher, Maddie, Connor
+@R2 Nolan, Alexandra, Daisy, Alex, Isaac, Kaiser
+# Both teams have a player named Alex; use 1.Alex / 2.Alex / ?.Alex. "Alexander" in the captions = Alexandra.
+# ---- first half ----
+T1 | Vocabulary | What six letter word beginning with C means an indication of approval, carrying great prestige? | Cachet | NB | | .nobody buzzed; the host gave the answer
+T2 | Geography | What Tennessee city earned the nickname the Marble City because of its pink marble quarries? | Knoxville | 1:I | Daisy:C | .Maryville's first buzzer not named; answer garbled in captions ("furry friends will")
+B2 | Geography | Part 1: What U.S. city is nicknamed the Gateway to the West? // Part 2: What U.S. city is nicknamed the Motor City? | Part 1: St. Louis // Part 2: Detroit | C
+T3 | Biology | What essential component gives plants cell walls their strength and resilience? | Cellulose | ?:C | .player and team not identified in captions
+B3 | Biology | Part 1: What is a group of frogs called? // Part 2: In addition to a herd and a memory, what is a group of elephants called? | Part 1: An army // Part 2: A parade | I | .team said "hop" and "family"
+T4 | Geometry | In parallelogram ABCD, if angle A has a measure of 50 degrees, what is the measure of angle D? | 130 degrees | 1:I | 2.Alex:C | .Maryville's first buzzer not named (said 50)
+B4 | Geometry | Part 1: What is the measure of the angle complementary to 56 degrees? // Part 2: What is the supplement to 56 degrees? | Part 1: 34 degrees // Part 2: 124 degrees | 2/Alex:C
+T5 | Foreign Language | What is the Spanish word for brother? | Hermano | 1:C | .buzzer not named; team from the bonus (Tori answered)
+B5 | Foreign Language | Please translate the sign shown here: "Peligro. Solo personal autorizado a partir de este punto." | Danger. Authorized personnel only beyond this point. | Tori:C | .the host first called "authorized personnel only" partially right; at halftime he said the judges gave Maryville full credit
+T6 | Spelling | Espresso is made by forcing very hot water… Spell "espresso." | E-S-P-R-E-S-S-O | Daisy:C | .cut off by buzz
+B6 | Spelling | Part 1: Spell "complement," as in a thing that completes or brings to perfection. // Part 2: Spell "compliment," as in a nice thing to say about someone. | Part 1: C-O-M-P-L-E-M-E-N-T // Part 2: C-O-M-P-L-I-M-E-N-T | C
+T7 | Physics | What word describes three lines that pass through the same point? | Concurrent | 1.Alex:I | Alexandra:I | .Alex said converging; Webb's stealing player ("Alexander" in captions) said intersecting
+T8 | Architecture | What famous performing arts venue with a distinctive sail-like design is located in the capital of New South Wales? | Sydney Opera House | Daisy:C | .cut off by buzz
+B8 | Architecture | What palace and fortress complex, located in Granada, Andalusia, Spain, is one of the most famous monuments of Islamic architecture and one of the best preserved palaces of the historic Islamic world? | The Alhambra | I | .team said the Hagia Sophia
+T9 | Literature | What series of books by Jeff Kinney follows Greg Heffley as he records the daily trials… | Diary of a Wimpy Kid | 2.Alex:C | .cut off by buzz (host finished "a friendship, and so on"); team from "literature bonus now for Webb"
+B9 | Literature | Through February 2025, the Denver Art Museum is hosting an exhibition of more than 400 artworks by the author and illustrator of what book about Max, who dresses in a wolf suit, chases his dog with a fork and turns his bedroom into a jungle? | Where the Wild Things Are (Maurice Sendak) | I | .team named the book, then the host asked for the author and illustrator; team said Robert Frost, no points
+T10 | U.S. History | What was the name of the 1765 British tax on playing cards, publications and legal documents? | The Stamp Act | 2:C | .buzzer not named; the host reminded the player to wait to be recognized; team from "bonus for Webb"
+B10 | U.S. History | Part 1: Which U.S. president's Secret Service code name was Rawhide? // Part 2: Which U.S. president's Secret Service code name was Renegade? | Part 1: Ronald Reagan // Part 2: Barack Obama | I | .team said Teddy Roosevelt for Part 1
+T11 | Foreign Language | What is the French word for garden? | Jardin | 2.Alex:C | .answer garbled in captions ("Jungle"); team from "bonus now for Webb"
+B11 | Foreign Language | What commonly used Latin phrase beginning with B means in good faith or genuine? | Bona fide | Alexandra:C | .answer garbled in captions ("Theda", "Feta")
+T12 | Chemistry | What compound has the symbol NH3? | Ammonia | ?.Alex:C | .both teams have an Alex; team not identified
+B12 | Chemistry | Part 1: What is the name of the silvery radioactive transuranium element with atomic number 93 that was first isolated by Edwin McMillan and Philip Abelson in 1940? // Part 2: What is its symbol? | Part 1: Neptunium // Part 2: Np | C
+T13 | Math | What is the volume of a rectangular prism with height of three, length of five and width of six? | 90 | Skyler:C
+B13 | Math | If 5 pounds of hamburger cost $22, what is the cost for 4 pounds of hamburger? | $17.60 | Andy:I | .team said $18
+T14 | Religion | In what city is the Church of the Holy Sepulchre believed to be the place where Jesus was buried and rose? | Jerusalem | 2:C | .buzzer not named; the host finished the question after the answer; team from "bonus now for Webb"
+B14 | Religion | Part 1: In the book of Exodus, Moses received the Ten Commandments on which mountain? // Part 2: What significant sin did the Israelites commit at Mount Sinai while Moses was receiving the Ten Commandments? | Part 1: Mount Sinai // Part 2: Worshiping a golden calf | C
+T15 | Literature | What genre is Beowulf, one of the oldest works… | Epic poem | ?.Alex:C | .both teams have an Alex; team not identified; cut off by buzz
+B15 | Literature | Part 1: Which American poet wrote "I am the grass; I cover all"? // Part 2: Which poet wrote "Under a spreading chestnut tree, the village smithy stands"? | Part 1: Carl Sandburg // Part 2: Henry Wadsworth Longfellow | I | .team said Emily Dickinson and Walt Whitman
+T16 | Geography | What is the capital of Switzerland? | Bern | Nolan:I | 1:I | .first buzzer name garbled in captions ("Golan", probably Nolan); Maryville's steal answer unclear ("Swiss")
+T17 | Geology | Due to its color, the naturally occurring iron disulfide mineral pyrite is also commonly known as what? | Fool's gold | ?.Alex:C | .both teams have an Alex; team not identified
+B17 | Geology | Part 1: During which geologic period did the first fish appear? // Part 2: During which geologic period did modern humans develop? | Part 1: Cambrian // Part 2: Quaternary | C
+T18 | Sports | To the nearest tenth of a mile, what is the approximate mileage covered on a race course of 10,000 meters? | 6.2 miles | NB | | .nobody buzzed; the host gave the answer
+T19 | Music | Who composed the 1812 Overture? | Tchaikovsky | Alexandra:C | ."Alexander" in captions; bonus Part 2 was answered by "a different Alex"
+B19 | Music | Part 1: Which American musician composed Rhapsody in Blue? // Part 2: Which English composer is best known for the orchestral suite The Planets? | Part 1: George Gershwin // Part 2: Gustav Holst | 2/Alex:P10 | .team said Dolly Parton for Part 1
+T20 | English | What word is used to describe the meat of mature adult sheep? | Mutton | ?.Alex:C | .both teams have an Alex; team not identified
+B20 | English | Which prepositional phrase acts as an adverb in the following sentence? The bowling lane with bumpers is perfect for beginners. | For beginners | C | !answer unclear: the host said "With bumpers for beginners is right because it modifies the verb" (20 points)
+# ---- second half ----
+T21 | Government | How many justices are currently serving on the United States Supreme Court? | Nine | Skyler:C | .name garbled in captions ("Scholar")
+B21 | Government | Part 1: How many consecutive terms may the Tennessee governor serve? // Part 2: What is the minimum age to hold the office of Tennessee governor? | Part 1: Two // Part 2: 30 | I | .team said three terms and 25
+T22 | Health | What is the term for an inflammation of the protective membranes covering the brain and spinal cord? | Meningitis | ?:C | .player and team not identified in captions
+B22 | Health | Part 1: What childhood disease caused by the varicella zoster virus results in an itchy rash with small fluid filled blisters? // Part 2: What painful disease for adults is a reactivation of the chickenpox virus? | Part 1: Chickenpox // Part 2: Shingles | C
+T23 | Algebra | What is the value of four factorial plus four factorial? | 48 | Isaac:C | .answer read from garbled caption ("what do you write")
+B23 | Algebra | Given the trinomial x squared plus five x minus 36, give both of its binomial factors. | (x + 9)(x - 4) | I | .team said x + 6 and x - 1
+T24 | Foreign Language | In which country is Zulu an official language? | South Africa | Daisy:C
+B24 | Foreign Language | Name two of the four countries where Swahili is a national language. | Any two of: Kenya, Tanzania, Uganda, Democratic Republic of the Congo | P10 | .team named Kenya, Tanzania, Malawi and Rwanda; Kenya and Tanzania counted (10 points)
+T25 | Vocabulary | What seven letter word beginning with C means brief and to the point? | Concise | 2.Alex:I | Zoe:C | .Alex said circumspect; Zoe (Maryville) steals
+B25 | Vocabulary | Part 1: In Through the Looking-Glass, the author combined what two words to create the word "chortle"? // Part 2: Who wrote Through the Looking-Glass? | Part 1: Chuckle and snort // Part 2: Lewis Carroll | Tori:P5 | .Part 1 earned partial credit (chuckle); team said C.S. Lewis for Part 2; the word "chortle" inferred from the answer
+T26 | History | Who was the first wife of King Charles the Third? | Diana, Princess of Wales | Daisy:C | .host: "we'll take that"
+B26 | Visual | Which king of the old Babylon Empire represented on the left of the relief sculpture shown here issued one of the first law codes to emphasize the physical punishment of the perpetrator and to establish the presumption of innocence? | Hammurabi | C
+T27 | Astronomy | Who is the father of astronomy, known for first proposing that planets orbit the sun? | Copernicus | ?.Alex:C | .both teams have an Alex; team not identified
+B27 | Astronomy | Part 1: What was the name of the first chimpanzee that was launched into space by NASA and made a suborbital flight in 1961? // Part 2: What was the name of the second chimpanzee that was launched into space by NASA and made two Earth orbits in 1961? | Part 1: Ham // Part 2: Enos | I | .team said Dolly and Greg
+T28 | Geography | Which state is split by the Great Lakes? | Michigan | Zoe:C
+B28 | Geography | Which North Carolina county that is home to Asheville was one of the hardest hit by Hurricane Helene? | Buncombe County | I | .team said Ashe County
+T29 | Games | A single player matching game that was included in early versions of Microsoft Windows used images of tiles from what popular Chinese game that is similar to mahjong or rummy? | Mahjong | 1.Alex:C | !question text garbled and the answer is not stated in captions ("Alex Salter early versions ... similar to mahjong to rummy"); team from "games bonus for Maryville"
+B29 | Games | What board game comes with purple Play-Doh and has players complete activities in the color coded categories of Creative Cat, Data Head, Star Performer, and Word Worm? | Cranium | I | .team said Twister
+T30 | Mythology | What legendary monster is depicted as the large, hideous, man-like being who lives under a bridge in the children's story The Three Billy Goats Gruff? | Troll | Daisy:I | 1:C | .Daisy said ogre; Maryville's stealing player not named
+B30 | Mythology | What two word phrase is used to describe the wool of the winged ram [unclear], which is the symbol of authority and kingship in Greek mythology? | Golden Fleece | C | !question text partly garbled in captions ("the wall of the winged ram, or Solomon's"); the Maryville player who answered is not named
+T31 | U.S. History | The Battle of Cold Harbor in 1864 was part of General Grant's campaign to capture which city that was the Confederate capital? | Richmond | Daisy:C
+B31 | History | Part 1: Who was the lead counsel for the defense in the Scopes Monkey trial? // Part 2: Who was the lead counsel for the prosecution in the Scopes Monkey trial? | Part 1: Clarence Darrow // Part 2: William Jennings Bryan | Kaiser:U | !Part 1 missed (team said Dolly Parton); Part 2 deferred to Kaiser and the host's verdict is not captured
+T32 | Science | Which law mathematically describes the relationships between pressure and velocity in the horizontal flow of fluids? | Bernoulli's law | 1:I | Daisy:C | .Maryville's first buzzer not named; answer garbled in captions ("For inverse knowledge")
+B32 | Science | Part 1: What is the term for the change in direction of a wave as it passes from one medium to another? // Part 2: What is the term for the bouncing back of waves that strike a surface? | Part 1: Refraction // Part 2: Reflection | C
+T33 | Math | Find the simplified fraction value of one and three quarters divided by five eighths. | 14/5 | Tori:I | | .Tori said 8/15; steal offered to Webb, time ran out
+T34 | Art | What is the name of the oven used to dry and bake clay sculptures or ceramics? | Kiln | Daisy:C
+B34 | Visual | Part 1: Vincent van Gogh briefly lived in what city in the south of France, where he produced over 300 paintings and drawings, including the Self-Portrait with Bandaged Ear and Pipe, shown here? // Part 2: Van Gogh cut off part of which of his ears with a razor? | Part 1: Arles // Part 2: Left | 2/Alex:C
+T35 | Spelling | Spell "apprentice." | A-P-P-R-E-N-T-I-C-E | Skyler:C | .name garbled in captions ("Scholar")
+B35 | Spelling | Spell "novitiate." | N-O-V-I-T-I-A-T-E | Tori:I | .team spelled it N-O-V-I-C-I-A-N-T
+T36 | Government | What ten letter word beginning with PL is a form of government in which members of the wealthy are the rulers? | Plutocracy | 2:I | 1:C | .first buzzer blurted out autocracy before being recognized (name garbled, "Can"); Maryville steals
+B36 | Government | Name two of the three documents collectively known as the Charters of Freedom. | Any two of: Declaration of Independence, Constitution, Bill of Rights | C | .team said the Declaration of Independence and the Constitution
+T37 | Chemistry | What is the chemical symbol for magnesium? | Mg | 2.Alex:C | .team from "bonus now for Webb"
+B37 | Chemistry | What is the electron configuration of magnesium in exponential form? | 1s² 2s² 2p⁶ 3s² | C
+T38 | Technology | What photo sharing app notifies users at random times each day to share unfiltered snapshots? | BeReal | ?:C | .player and team not identified; answer garbled in captions ("Story bureau")
+B38 | Technology | Several authors who claim their books were used without permission to train artificial intelligence systems are suing ChatGPT and Meta, claiming an infringement of what? | Copyright | C
+T39 | Miscellaneous | Xeno the bear is the mascot for which Smoky Mountain city? | Gatlinburg | 1:I | Daisy:C | .Maryville's first buzzer not named, said Chattanooga
+B39 | Miscellaneous | Part 1: Identify the other member of the famous royal couple, Queen Victoria and who? // Part 2: Identify the other member of the couple, King Louis the 16th and who? | Part 1: Prince Albert // Part 2: Marie Antoinette | I | .team said King Albert; time ran out on Part 2

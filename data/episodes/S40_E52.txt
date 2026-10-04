@@ -1,0 +1,93 @@
+@EP S40 E52
+@ROUND Round of 16
+@TEAMS Maryville High School (Aaron's team) | Halls High School
+@R1 John, Matthew, Aaron, Thomas, Lauren
+@R2 Amanda, Ethan, Benjamin, Joe Nicholas, Ty
+# Maryville (captain Aaron) is the same team as E23 and E40; Halls (captain Benjamin) is the same team as E24 and E41. The captions render Aaron as "Arowyn/Erwin", Maryville as "Marvel/Marable", Joe Nicholas as "John Nicholas" once (the host also misaddressed Matthew as "John Nicholas") and Catamounts as "catamarans". Both teams keep their starters all game (Amanda Lane plays for Halls this time). Maryville led at halftime (240-165) and won; the captions give no score.
+# ---- first half ----
+T1 | Chemistry | In what technique is a known solution added dropwise to an unknown solution to determine its concentration? | Titration | Aaron:C
+B1 | Chemistry | What ingredient in many morning beverages has the chemical formula C8H10N4O2? | Caffeine | C
+T2 | Math | Solve for x in the proportion 60/80 = 9/x. | 12 | Aaron:C
+B2 | Math | What is the percent of decrease from 175 to 105? | 40 percent | I | .Aaron deferred to Thomas, who said 66.7 percent
+T3 | Religion | What relation is David to Solomon in the Bible? | Father | Thomas:I | Ethan:I | .Thomas said "son" and Ethan said "grandfather"
+T4 | Geography | Which hotspot in the United States has more active geysers than the rest of the world? | Yellowstone National Park | John:C | .the host reminded John to wait to be called on
+B4 | Visual | The delta on the Gulf of Mexico shown here is the mouth of which U.S. river system? | The Mississippi River | C
+T5 | English | Spell the word "rein" in the sentence "I asked them to rein in their enthusiasm." | R-E-I-N | Aaron:I | 2:I | .Aaron spelled it R-E-I-G-N; Halls's steal buzzer is not named and the spelling given was R-A-I-N
+T6 | Science | What is the term for a hurricane that occurs in the tropical waters of the western Pacific? | A typhoon | Benjamin:C
+B6 | Science | Name four of the seven steps in the hydrologic cycle. | Any four of: evaporation, condensation, sublimation, precipitation, transpiration, runoff, infiltration | P15 | .the team named evaporation, condensation and precipitation, and could not give a fourth; 15 points
+T7 | History | What ancient empire included the cities Tikal, Coba, Copan and Uxmal? | The Maya empire | John:I | Joe Nicholas:I | .John buzzed early and said "the Olmec"; Joe Nicholas said the Incan empire
+T8 | Music | Which one of Santa's helpers has a shiny nose? | Rudolph | Joe Nicholas:C
+B8 | Music | Part 1: What is the country of origin for the group ABBA? // Part 2: What is the country of origin for the group BTS? | Part 1: Sweden // Part 2: South Korea | C
+T9 | Government | What holiday in May was originally known as Decoration Day? | Memorial Day | Matthew:C
+B9 | Government | Name two of the four chief justices of the U.S. Supreme Court who were chosen from the associate justices. | Any two of: Edward White, Harlan Stone, William Rehnquist, John Roberts | P10 | .the team named Marshall and Roberts; only Roberts counted, for ten points
+T10 | Mythology | What was the Roman equivalent of the mythological Greek goddess Athena? | Minerva | John:I | Amanda:C | .John said Diana
+B10 | Mythology | The head of a marble statue found on an ancient shipwreck in 2022 is believed to be the missing part of a statue recovered in 1900 of which mythological figure who had to complete 12 heroic labors? | Hercules | C
+T11 | Astronomy | Which planet in our solar system takes longer to turn on its axis than it takes to orbit the Sun? | Venus | John:I | Joe Nicholas:I | .John said Mercury and Joe Nicholas said Neptune
+T12 | Pre-Calculus | Which trigonometric function is the reciprocal of the cosine? | Secant | Thomas:C
+B12 | Pre-Calculus | In the function y = x squared - 4x + 3, what is the range of the function? | y is greater than or equal to -1 | I | .the team's answer is garbled in the captions
+T13 | Arts | What is the name of the forgetful fish in Finding Nemo? | Dory | Thomas:C
+B13 | Visual | Which artist created Christina's World, shown here, an iconic American painting set in a stark landscape of coastal Maine? | Andrew Wyeth | I | .the team's answer is garbled in the captions (appears to be Mary Cassatt)
+T14 | Economics | What is the currency of Japan? | The yen | John:C
+B14 | Economics | Part 1: Whose picture is on the front of a U.S. $10 bill? // Part 2: What is pictured on the back of a $10 bill? | Part 1: Alexander Hamilton // Part 2: The U.S. Treasury building | C
+T15 | Foreign Language | What is the German word for the number three? | Drei | Aaron:C | | .the captions render the answer as "Dry"
+B15 | Foreign Language | What is the English translation of the French question "Quelle heure est-il?" | What time is it? | I | .the team's answer is garbled in the captions
+T16 | Biology | When one species moves to an unfamiliar location and takes over, what kind of species has it become? | An invasive species | Joe Nicholas:C
+B16 | Biology | The name of which poisonous plant means "beautiful woman" in Italian? | Belladonna | I | .the team said poison ivy
+T17 | Literature | One of Shakespeare's plays is titled Two Gentlemen of which city? | Verona | Thomas:I | | .Thomas said Venice; the host said Halls's steal buzzer had already sounded and no answer is captured
+T18 | Sports | What does it mean for golfers to have a coveted green jacket? | They won the Masters | Thomas:C
+B18 | Sports | Part 1: What is the team name for the athletic program at Western Carolina University? // Part 2: What is the team name for the athletic program at Grambling State University? | Part 1: The Catamounts // Part 2: The Tigers | Thomas:C | .Aaron deferred to Thomas for both parts
+T19 | Geography | What is the capital of Lebanon? | Beirut | Matthew:I | | .Matthew said Tripoli; no Halls steal answer captured
+T20 | Spelling | Something that is extremely funny is called hilarious. Spell "hilarious." | H-I-L-A-R-I-O-U-S | Aaron:C
+B20 | Spelling | Spell the 12 letter word beginning with A that names a person whom one knows but who is not a particularly close friend. | A-C-Q-U-A-I-N-T-A-N-C-E | C
+T21 | Health | Which of the following four words does not belong with the others: ulna, triceps, biceps, deltoid? | Ulna | Aaron:C
+B21 | Health | Part 1: Which came first, the discovery of insulin or X-rays? // Part 2: Which came first, Novocain or acetaminophen? | Part 1: X-rays // Part 2: Novocain | C
+T22 | Algebra | What is the fifth term of the sequence defined by 6 - 4n, if the first term is two? | -14 | NB | | .the buzzer sounded without an answer; the host gave -14
+T23 | Miscellaneous | What is the name of the main character in Tim Burton's The Nightmare Before Christmas? | Jack Skellington | Joe Nicholas:C
+B23 | Miscellaneous | Also known as the Christmas Star, what flower was named for the United States' first ambassador to Mexico? | The poinsettia | I | .the team said chrysanthemum
+T24 | Government | What is the power of a governor or president to forgive a person convicted of a crime? | A pardon | Ethan:C
+B24 | Government | Name four of the five permanent members of the U.N. Security Council. | Any four of: United States, Russia, United Kingdom, France, China | C
+T25 | English | Spell the word "their" as in the sentence "What is their school mascot?" | T-H-E-I-R | Joe Nicholas:C
+B25 | English | Spell the word "effect" in the sentence "Listening to beautiful music has a good effect on my mood." | E-F-F-E-C-T | C
+T26 | Health | How many bones are in a human foot? | 26 | Matthew:I | Ethan:I | .Matthew said ten and Ethan said eight; the first half ended
+# ---- second half ----
+T27 | Art | What famous painting by Salvador Dali features melting clocks? | The Persistence of Memory | Joe Nicholas:I | Thomas:C | .Joe Nicholas said "melting clocks"
+B27 | Art | The deputy director of the British Museum proposed a partnership with Greece that could see the Elgin Marbles returned to Athens after more than 200 years. Which 2,500 year old temple did the figures originally decorate? | The Parthenon | C
+T28 | Chemistry | If an atom contains 11 protons and 12 neutrons, what is its atomic number? | 11 | Thomas:I | Ethan:C | .Thomas said 23
+B28 | Visual | Elemental phosphorus exists in what two major forms? | White phosphorus and red phosphorus | I | .the team said "liquid and gas"
+T29 | Geography | Into which river does the Tennessee River flow? | The Ohio River | Benjamin:I | Matthew:C | .Benjamin said the Mississippi
+B29 | Geography | Part 1: In which state is the Arizona Memorial? // Part 2: In which state is the General Grant National Memorial? | Part 1: Hawaii // Part 2: New York | P10 | .the team said Ohio for Part 2 after deferring to Matthew
+T30 | Foreign Language | What is the French word for July? | Juillet | John:I | | .John's answer is garbled in the captions; no Halls steal answer captured
+T31 | Technology | What is the primary piece of circuitry in a computer into which the other components are connected? | The motherboard | Thomas:C
+B31 | Technology | What generic term is used to refer to applications, scripts and programs that run on a device? | Software | I | .the team said "code" and "apps"
+T32 | Music | Who composed the cantata Carmina Burana? | Carl Orff | Aaron:I | Joe Nicholas:I | .Aaron said Tchaikovsky and Joe Nicholas said Mozart
+T33 | U.S. History | The Battle of Cold Harbor in 1864 was part of General Grant's campaign to capture which city, the Confederate capital? | Richmond | Joe Nicholas:I | Thomas:C | .Joe Nicholas buzzed early and said Vicksburg
+B33 | U.S. History | Part 1: Who was U.S. president when Beethoven premiered his Ninth Symphony on May 7, 1824? // Part 2: Who was U.S. president when the movie Back to the Future premiered on July 3, 1985? | Part 1: James Monroe // Part 2: Ronald Reagan | P10 | .the team's Part 1 answer is garbled in the captions
+T34 | Math | Give the reduced fraction form of 0.7272 repeating. | 8/11 | Aaron:I | | .Aaron said 7/9; nobody answered the steal in time
+T35 | Literature | Of the eight people who hid with Anne Frank in Amsterdam, who was the sole survivor? | Her father, Otto Frank | Aaron:C
+B35 | Literature | Part 1: Who wrote the novel It, which features a clown as the main villain? // Part 2: What was the name of the clown? | Part 1: Stephen King // Part 2: Pennywise | C
+T36 | Science | What is the term for the parts of a machine that hold or guide moving parts to reduce friction and wear? | Bearings | John:I | Benjamin:C | .John buzzed early and said "servo"; the host finished the question for the steal
+B36 | Visual | Two angles are complementary. One angle is 24 degrees less than the other angle. Find both angle measures. | 57 degrees and 33 degrees | I | .nobody answered in time
+T37 | Geography | With over 12 million people, which is India's most populated city? | Mumbai | Matthew:C | .the host first said "John Nicholas" and then corrected to Matthew
+B37 | Geography | In August 2023, Russia's Northern Fleet conducted Navy exercises aimed at preventing the passage of unauthorized and foreign ships in what sea, part of the Arctic Ocean, located off the northern coasts of Norway and Russia? | The Barents Sea | I | .the team said the Baltic Sea
+T38 | Games | How many dots are there in total on a standard six sided die? | 21 | NB | | .nobody answered in time
+T39 | Government | Which amendment to the U.S. Constitution abolished slavery? | The Thirteenth Amendment | Matthew:C
+B39 | Government | Part 1: To whom did President Richard Nixon tender his resignation? // Part 2: What did President Gerald Ford grant to Richard Nixon a month after his resignation? | Part 1: Secretary of State Henry Kissinger // Part 2: A full pardon | P10 | !the team said Ford for Part 1 and "full pardon" for Part 2; the host's point value for the bonus is garbled in the captions ("is it points"), scored as 10 for Part 2
+T40 | Vocabulary | What nine letter word beginning with T is a synonym for "garrulous"? | Talkative | Joe Nicholas:I | Thomas:I | .Joe Nicholas said "tenacious" and Thomas said "tantalizing"
+T41 | Biology | What is the carbohydrate material in insect exoskeletons? | Chitin | John:C
+B41 | Biology | Little Diamond, born at the Knoxville Zoo in 1978, was the first of what species to be born in the Western Hemisphere? | The African elephant | I | .the team said red panda
+T42 | Geometry | A right triangle has a hypotenuse of 17 and a leg of 8. What is the length of the other leg? | 15 | Aaron:C
+B42 | Geometry | What is the midpoint, in fraction form, between negative four and positive seven on the number line? | 3/2 | I | .the team said 13/2
+T43 | Art | What famous painting by Gustav Klimt is a symbol of eternal love? | The Kiss | John:I | | .John said "The Creation of Venus"; no Halls steal answer captured
+T44 | U.S. History | What was the first and last name of the person after whom America was named? | Amerigo Vespucci | Benjamin:C
+B44 | U.S. History | Part 1: Who was the command module pilot for the historic Apollo 11 mission in July 1969? // Part 2: Which Apollo 11 astronaut was the first man to set foot on the moon? | Part 1: Michael Collins // Part 2: Neil Armstrong | C
+T45 | Literature | In what year was the first Harry Potter novel published? | 1997 | John:I | Joe Nicholas:C | .John said 1991
+B45 | Literature | Part 1: In "A Visit from Saint Nicholas," Saint Nick's cheeks were like what? // Part 2: His mouth was compared to what? | Part 1: Roses // Part 2: A bow | P10 | .the team said "a cookie" for Part 2
+T46 | Astronomy | Which moon is the largest in our solar system and orbits the largest planet? | Ganymede | John:I | Benjamin:C | .John buzzed early and said Titan
+B46 | Astronomy | With what missions is NASA promising to land the first woman and first person of color on the moon using innovative technologies to explore more of the lunar surface than ever before? | Artemis | C
+T47 | World History | Who was the famous nonviolent leader of India and the subject of a 1982 film? | Mahatma Gandhi | Joe Nicholas:C | .the captions give the answer partly garbled around the host's film remark
+B47 | World History | Part 1: In 2022, who became the first wartime leader since Churchill to address the U.S. Congress? // Part 2: What gift, signed by frontline soldiers, did he present to Congress? | Part 1: Volodymyr Zelenskyy // Part 2: A Ukrainian battle flag | P10 | .the team's Part 2 answer was "an American flag that was a Ukraine battle flag," which the host did not credit
+T48 | Music | Which Rolling Stones song begins "I was born in a cross-fire hurricane"? | "Jumpin' Jack Flash" | Joe Nicholas:I | Thomas:I | .Joe Nicholas said "thunder" and Thomas said "lightning"
+T49 | Geography | Vasco Nunez de Balboa discovered which body of water? | The Pacific Ocean | Joe Nicholas:C
+B49 | Geography | The Robert Frost Stone House Museum, where he wrote "Stopping by Woods on a Snowy Evening," is located in the town of Shaftsbury in what New England state? | Vermont | I | .the team said Connecticut
+T50 | Foreign Language | What is the English translation of the French word "bonbons"? | Candy (sweets) | Aaron:C | .the host accepted "sweets"
+B50 | Foreign Language | What is the English translation of the French question "Quand a lieu la fete?" | When is the party? | I | .the team said "what time is it"; the game ended after this bonus

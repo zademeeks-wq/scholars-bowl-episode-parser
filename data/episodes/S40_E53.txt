@@ -1,0 +1,94 @@
+@EP S40 E53
+@ROUND Round of 16
+@TEAMS Maryville High School (Mohammed's team) | Knoxville Catholic High School
+@R1 Alex, Patrick, Mohammed, Costin, Olivia, Anna, Ava
+@R2 Alvaro, Nate, James, Thomas
+# Maryville's team (captain Mohammed; the captions show "Mohib", meaning "Mo", as in E27 and E42) is the same team as in those episodes, with Alex replacing Olivia in the starting four. Knoxville Catholic (captain James) is the same team as in E29 and E43. Everyone wears Hawaiian shirts. The captions render Costin as "Coston" and "Maryville" as "Marvel". Ava Cash joins Maryville for the second half (the "French expert"); Catholic keeps its starters. Maryville ran far ahead (370-70 at halftime by the rulings recorded here) and won comfortably; the captions give no score.
+# ---- first half ----
+T1 | Architecture | What is a platform projecting from the wall of a building, supported by columns or console brackets and enclosed with a balustrade? | A balcony | Nate:C
+B1 | Architecture | What palace and fortress complex located in Granada, Andalusia, Spain is one of the most famous monuments of Islamic architecture and one of the best preserved palaces in the historic Islamic world? | The Alhambra | C
+T2 | Government | Nebraska has a one house only legislature. What is it called? | Unicameral | Patrick:C
+B2 | Government | Part 1: How old must someone be to serve in the United States Senate? // Part 2: How old must someone be to serve as a Supreme Court justice? | Part 1: 30 // Part 2: There is no age requirement | C | .the team first said 31 and then 30 for Part 1, and the host accepted 30
+T3 | Literature | What war is the setting for The Book Thief? | World War II | Costin:C
+B3 | Literature | Part 1: What series of books includes the characters Fleur, Tonks and Peeves? // Part 2: Who wrote the Ramona Quimby series of children's books? | Part 1: Harry Potter // Part 2: Beverly Cleary | I | .the team said To Kill a Mockingbird for Part 1 and J.K. Rowling for Part 2
+T4 | Chemistry | The catalytic Haber-Bosch process converts nitrogen and hydrogen into what agriculturally important chemical? | Ammonia | Patrick:C
+B4 | Chemistry | Which element has the symbol Sg and atomic number 106? | Seaborgium | Costin:C | .Patrick deferred to Costin
+T5 | Algebra | Solve for a in the equation 40 = 5 - 2a. | a = -17.5 | Patrick:I | 2:I | .Patrick's answer is garbled in the captions; Catholic looked at each other on the steal and the host reminded them not to
+T6 | Sports | What racket sport is played by hitting a shuttlecock across a net? | Badminton | Costin:C | | .the captions spell the answer "Badmitten"
+B6 | Sports | What men's basketball team was the last to have an undefeated season and win the NCAA national championship, with a 32-0 record? | The 1976 Indiana Hoosiers | I | .the team guessed Duke
+T7 | History | Who was the Aztec leader who grew the empire to its greatest size and was killed during the initial stages of the Spanish conquest? | Montezuma | Alex:C
+B7 | Visual | The Luxor Temple shown here was built in approximately 1400 BC in what ancient Egyptian city, the capital of Upper Egypt during the New Kingdom? | Thebes | I | .the team said Memphis
+T8 | Vocabulary | What six letter word beginning with J characterizes someone with good humored cheerfulness and conviviality? | Jovial | Costin:C
+B8 | Vocabulary | Part 1: What 11 letter word beginning with A means the act of gaining a skill or gaining possession of something? // Part 2: Spell that word. | Part 1: Acquisition // Part 2: A-C-Q-U-I-S-I-T-I-O-N | I | .the team said "acquire/acquiring" for Part 1; Costin misspelled it A-C-Q-U-A-S-I-T-I-O-N
+T9 | Geology | Blackboard chalk and many brands of chewable antacid contain calcium carbonate, which is mined from what rock? | Limestone | Costin:C | .Costin buzzed early
+B9 | Geology | The exterior of the East and West Buildings of the National Gallery of Art in Washington, D.C. is clad in what distinctive material, known by three words that identify our state, its color and the common term for the crystalline limestone in our area? | Tennessee pink marble | C
+T10 | Biology | What is the term for a person who studies birds? | An ornithologist | Mohammed:C
+B10 | Biology | In 2023, the remains of the Russian leader of the Wagner mercenary fighters, killed in a plane crash, were identified through what kind of testing? | DNA testing | C
+T11 | Music | Who was the Italian composer of some of the world's most frequently performed operas about women (La Boheme, Tosca, Madama Butterfly, Turandot)? | Giacomo Puccini | James:I | Mohammed:I | .James said Vivaldi and Mohammed said Verdi
+T12 | Geography | In which state does the Rio Grande River begin? | Colorado | Nate:I | Costin:C | .Nate said Texas
+B12 | Geography | Name four of the five U.S. states that border the Gulf of Mexico. | Any four of: Texas, Louisiana, Mississippi, Alabama, Florida | C | .the team named Florida, Louisiana, Texas and Alabama
+T13 | Foreign Language | What is the Spanish word for January? | Enero | Mohammed:C | | .the captions render the answer as "An error"
+B13 | Foreign Language | What is the English translation of the Spanish phrase "el partido de futbol"? | The football (soccer) game | C
+T14 | Health | Where is the frontalis muscle on the human body? | The forehead | Costin:C
+B14 | Health | Part 1: Which lobe of the brain controls thought, problem solving, intellect and abstract thinking? // Part 2: Which lobe of the brain controls vision? | Part 1: The frontal lobe // Part 2: The occipital lobe | C | .Mohammed deferred to Costin for Part 1
+T15 | Geometry | How many diagonals are in a convex octagon? | 20 | Nate:I | Mohammed:I | .Nate said 6 and Mohammed said 9
+T16 | Art | What is a printmaking process in which lines are cut into a metal plate made of copper or zinc in order to hold the ink? | Engraving | Costin:I | James:C | .Costin said "inkwell"
+B16 | Visual | Which famous Dutch painting shown here, created by Vilhelm Hammershoi, depicts an interior scene with a solitary, contemplative woman seen from behind? | Interior with a Woman at a Piano | I | .the team said "Woman at Piano," which the host said was only part of the title
+T17 | U.S. History | Thomas Jonathan Jackson was given what nickname at the First Battle of Bull Run? | Stonewall | Mohammed:C
+B17 | U.S. History | Part 1: In 1901, the youngest U.S. president was sworn in when his predecessor died from an anarchist's bullet. Who was he? // Part 2: Who was his assassinated predecessor? | Part 1: Theodore Roosevelt // Part 2: William McKinley | C
+T18 | English | What five letter word beginning with G is a synonym for "emaciated"? | Gaunt | Costin:C
+B18 | English | Part 1: What is the past simple of the verb "freeze"? // Part 2: What is the past participle of the verb "freeze"? | Part 1: Froze // Part 2: Frozen | C
+T19 | Science | What is conchology? | The study of shells | Mohammed:C | .the captions render the question as "What is oncology?" but the answer given and accepted was "the study of shells"
+B19 | Science | What is the mnemonic acronym that represents the six most important chemical elements whose covalent combinations make up most of the biological molecules on Earth, and what letters does it spell? | CHNOPS | C | .the team said "chomps" and spelled it C-H-N-O-P-S
+T20 | Economics | What is the currency of Brazil? | The real | Costin:C
+B20 | Economics | In 2023, some senators proposed raising the federal minimum wage to $11 per hour. From what current hourly wage? | $7.25 | C | !the team went through several numbers before settling on $7.25 and the host's verdict is not in the captions ("is it ..."); scored as correct, which fits the halftime picture
+T21 | Religion | According to the teachings of which church did Adam and Eve live in Adam-ondi-Ahman, a site in Daviess County, Missouri, after being driven from Eden? | The Church of Jesus Christ of Latter-day Saints | James:C
+B21 | Religion | Hagiography is the writing and critical study of the lives of people known as what? | Saints | I | .the team said monks
+T22 | Government | Which congressional officer is third in the presidential line of succession? | The president pro tempore of the Senate | Costin:I | James:C | .Costin buzzed early and said the Speaker of the House
+B22 | Government | Name four of the states that allowed women to vote before 1900. | Any four of: Wyoming, Utah, Colorado, Idaho | P10 | .the team named Wyoming, Idaho and the Dakotas; Wyoming and Idaho counted for 10 points
+T23 | Literature | Who is the main antagonist in Treasure Island? | Long John Silver | Costin:I | | .Costin's answer is garbled in the captions; nobody answered the steal and the first half ended
+# ---- second half ----
+T24 | Chemistry | What isotope of hydrogen, with one proton and one neutron, appears in heavy water? | Deuterium | Mohammed:I | Nate:I | .Mohammed said "protium" and Nate said "H-2"
+T25 | Pre-Calculus | Name two of the x-intercepts of the graph y = x cubed - 9x. | Any two of: 0, 3, -3 | Patrick:I | James:C | .Patrick said nine and zero
+B25 | Pre-Calculus | A right triangle has sides of 9, 12 and 15 meters. What is the cosine ratio, as a fraction, for the smallest angle? | 12/15 (4/5) | C
+T26 | Miscellaneous | A blue liquid called Barbicide is normally found in what type of establishment? | A barbershop (or hair salon) | Nate:C
+B26 | Miscellaneous | Part 1: Who was the legendary gambler who died holding aces and eights, which became known as the dead man's hand? // Part 2: In what Old West town was he shot and killed? | Part 1: Wild Bill Hickok // Part 2: Deadwood, South Dakota | I | .the team said Kenny Rogers for Part 1 and Tombstone for Part 2
+T27 | Geography | How many states border Missouri? | Eight | James:I | Costin:I | .James said nine and Costin said seven
+T28 | Spelling | Espresso is made by forcing very hot water through finely ground coffee. Spell "espresso." | E-S-P-R-E-S-S-O | Nate:C
+B28 | Spelling | A cappuccino is a classic espresso drink. Spell "cappuccino." | C-A-P-P-U-C-C-I-N-O | C
+T29 | Science | What is the freezing point of water on the Fahrenheit scale? | 32 degrees | Costin:C
+B29 | Visual | What principle states that it is impossible to simultaneously know a particle's exact position and momentum with absolute certainty? | The Heisenberg uncertainty principle | C
+T30 | Religion | Vesak is the day when Southeast Asian countries commemorate the birth, enlightenment and death of which figure? | The Buddha | Mohammed:C
+B30 | Religion | In 2023, France banned pupils in state run schools from wearing abayas, loose fitting full length robes worn by some women of what religion? | Islam | C | .the team said "Muslim," which the host accepted as Islam
+T31 | Music | The name of which Swedish pop supergroup is an acronym of the first letters of their names? | ABBA | Mohammed:C
+B31 | Music | In 1979, ABBA donated 50% of the royalties from their hit song "Chiquitita" to what agency of the United Nations in recognition of the International Year of the Child? | UNICEF | C
+T32 | U.S. History | Who was the English Quaker leader who oversaw the founding of Pennsylvania? | William Penn | James:C
+B32 | U.S. History | Part 1: In 1902, who became the first woman pictured on a U.S. postage stamp? // Part 2: What was the cost of that stamp? | Part 1: Martha Washington // Part 2: 8 cents | I | .the team said Susan B. Anthony and 2 cents
+T33 | Mythology | Which mythological Greek god was a messenger who wore winged sandals? | Hermes | Costin:C
+B33 | Mythology | What tire company's logo includes the winged foot of Hermes or Mercury in the middle of the company's name? | Goodyear | C
+T34 | Astronomy | The planet Mars was named after the mythological Roman god of what? | War | Patrick:C
+B34 | Astronomy | Which planets in our solar system are called the gas giants because they are mostly composed of hydrogen and helium? | Jupiter and Saturn (any two of Jupiter, Saturn, Uranus, Neptune) | C | .the team listed several planets and the host took the first two as correct
+T35 | Math | Evaluate x squared plus 3xy if x = -4 and y = -3. | 52 | Costin:I | Nate:I | .Costin said -20 and Nate said 48
+T36 | Arts | What actor is the voice of Lightning McQueen in the animated feature Cars? | Owen Wilson | Mohammed:C
+B36 | Arts | Name two of the five Marx Brothers. | Any two of: Chico, Harpo, Groucho, Gummo, Zeppo | I | .the team said "John Marx" and variants (a mention of Gummo was not accepted)
+T37 | Economics | What is Kazakhstan's biggest export? | Gold | James:I | Mohammed:I | .James said oil and Mohammed said wool
+T38 | Foreign Language | What is the Spanish word for "book"? | Libro | Mohammed:C
+B38 | Foreign Language | What is the national language of Tanzania, Kenya, Uganda and the Democratic Republic of the Congo? | Swahili | C
+T39 | Health | What is the location of the innominate bone in humans? | The pelvis | Costin:I | Thomas:I | .Costin said "the nose"; Thomas's steal answer is not captured
+T40 | Geography | The ports of Kanazawa, Akita and Vladivostok are all on what body of water? | The Sea of Japan | Patrick:I | James:I | .Patrick buzzed early and his answer is not captured; James said the Bering Strait
+T41 | Games | What popular playground game has players toss a small object called a lagger into numbered triangles or rectangles outlined on the ground and then jump through the spaces to retrieve it? | Hopscotch | Costin:I | Thomas:C | .Costin buzzed early and said "Frisbee golf"
+B41 | Games | Part 1: What dice game made by Milton Bradley has the objective of scoring points by rolling five dice up to three times per turn to make certain combinations? // Part 2: What is the highest Yahtzee score attainable under standard rules? | Part 1: Yahtzee // Part 2: 1,575 points | P10 | .the team's Part 2 answer is not captured
+T42 | Geometry | Point B is between points A and C. If AB = 14 and AC = 33, what is the length of BC? | 19 | Patrick:C
+B42 | Visual | Two chords intersect inside a circle. One chord is divided into four and six units. Name two possible integer combinations that the second chord could be divided into, other than four and six. | Any two of: 3 and 8, 2 and 12, 1 and 24 | C
+T43 | U.S. History | What state was organized between 1784 and 1788, with a constitution and governor, but was never allowed to become a state? | The State of Franklin | Costin:C
+B43 | U.S. History | Which two presidents received their law degrees from Harvard? | Barack Obama and Rutherford B. Hayes | P10 | .the team said Obama and Theodore Roosevelt; Obama counted for 10 points
+T44 | Literature | In what fictional work is Newspeak the official language? | 1984 | Mohammed:C
+B44 | Literature | Part 1: An unattractive child who grows up to become a successful and very handsome person is reminiscent of what Danish fairy tale? // Part 2: What Danish author wrote it? | Part 1: The Ugly Duckling // Part 2: Hans Christian Andersen | C
+T45 | Science | In which layer of the atmosphere is the ozone layer? | The stratosphere | Costin:C
+B45 | Science | What is the representation of the maximum quantity of water held in the soil against the force of gravity? | Field capacity | I | .the team said "soil retention"
+T46 | Music | What eight letter word beginning with L refers to the text of an opera or vocal work? | Libretto | James:C
+B46 | Music | What is the major key, for an instrument like a piano, when the key signature has five sharps? | B major | Thomas:C | .James deferred to Thomas
+T47 | History | Who was president of the U.S. when Apollo 11 landed on the moon? | Richard Nixon | James:C
+B47 | History | A felt cocked hat auctioned in 2021 once belonged to what man who died at age 51 in exile on the island of Saint Helena? | Napoleon Bonaparte | C
+T48 | Vocabulary | What eight letter word beginning with R is a synonym for "germane"? | Relevant | Mohammed:I | James:C | .Mohammed said "rudimentary"
+B48 | Vocabulary | Part 1: What is a hemmed square of thin fabric that can be carried in a pocket or handbag for personal hygiene purposes, such as wiping one's face or hands? // Part 2: Spell that word. | Part 1: Handkerchief // Part 2: H-A-N-D-K-E-R-C-H-I-E-F (not asked) | P10 | .the game ended before the spelling could be asked

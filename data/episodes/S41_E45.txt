@@ -1,0 +1,94 @@
+@EP S41 E45
+@ROUND Round of 16
+@TEAMS Corbin High School (KY) | Farragut High School
+@R1 Sam, Jasper, Will, Hudson, Eli
+@R2 Leighton, Armin, Russian, Nisha, Evan, Uday, Aiden
+# "Russian" is how the captions spell Farragut's captain (Ramanan); first names are as heard in the captions.
+# ---- first half ----
+T1 | Literature | Which Shakespearean play is about the assassination of a Roman emperor? | Julius Caesar | Armin:C
+B1 | Literature | Part 1: In Hamlet, which two characters escort Hamlet on the voyage to England? // Part 2: What is the name of the dead court jester whose skull is exhumed in Act 5, Scene 1? | Part 1: Rosencrantz and Guildenstern // Part 2: Yorick | Leighton:I | .team said Gertrude for Part 1
+T2 | Economics | Which country is the world's largest producer of corn? | United States | ?:C | .player and team not identified in captions
+B2 | Economics | Part 1: Who is pictured on the front of a $2 U.S. bill? // Part 2: What event is depicted on the back of the $2 bill? | Part 1: Thomas Jefferson // Part 2: The signing of the Declaration of Independence | C
+T3 | Biology | What is the genus and species for a human being? | Homo sapiens | Hudson:C
+B3 | Biology | Part 1: What is the branch of zoology concerned with the study of insects? // Part 2: What is the branch of zoology concerned with the study of reptiles and amphibians? | Part 1: Entomology // Part 2: Herpetology | I | .team said anthropology twice
+T4 | Math | What is the next number in the geometric sequence 3, 15, 75? | 375 | Russian:I | Hudson:I | .Russian said 225; Hudson's answer garbled in captions
+T5 | Architecture | What brick building in Nashville that was originally built as a church was home to the Grand Ole Opry from 1943 to 1974 and still hosts concerts and performances today? | Ryman Auditorium | Sam:I | Leighton:I | .Sam said the Gaylord Building
+T6 | Vocabulary | What is the meaning of the psychological term ergophobia? | Fear of work | Russian:C
+B6 | Visual | Two chords intersect inside a circle. One chord is divided into four and six units. Name two possible integer combinations that the second chord could be divided into other than four and six. | 3 and 8, 2 and 12, or 1 and 24 | C
+T7 | Geography | Which African country was formerly known as Rhodesia? | Zimbabwe | Sam:C
+B7 | Geography | As of 2024, the Organization of the Petroleum Exporting Countries has 12 members. Name four of the six OPEC nations that are in Africa. | Any four of: Algeria, Equatorial Guinea, Gabon, Libya, Nigeria, Republic of the Congo | P10 | .team named Libya and Nigeria correctly
+T8 | Chemistry | In which group on the periodic table are the alkali metals? | Group 1 | Armin:I | 1:I | .captions confusing ("It's Armen won ... puts in two and it's won"); both teams answered wrong, host gave group 1
+T9 | Technology | What video conferencing app that allows users on any major desktop or mobile operating system to participate in virtual meetings became a household name during the Covid lockdown? | Zoom | ?:C | .player and team not identified in captions
+B9 | Technology | What is the term for a form of cyberbullying in which someone's personal information, such as their real name, home address or physical location, is revealed online? | Doxing | C
+T10 | Foreign Language | What Latin phrase is shortened to "MO" when analyzing a criminal's pattern of behavior? | Modus operandi | Russian:C
+B10 | Foreign Language | What is the Latin phrase meaning "let the buyer beware"? | Caveat emptor | I | .team said "let the buyer act"
+T11 | English | What four letter word completes the following antonym analogy: Keen is to blunt as sharp is to what? | Dull | Will:C | .name read from "will"
+B11 | English | Part 1: What is the past simple for the verb drive? // Part 2: What is the past participle for the verb drive? | Part 1: Drove // Part 2: Driven | P10 | !which part was missed is unclear (host: "just drove on that"; "driven is right"; ten points)
+T12 | U.S. History | What is the name of the plane that dropped the first atomic bomb? | Enola Gay | Sam:I | Armin:C | .Sam's answer garbled in captions
+B12 | U.S. History | Which two U.S. presidents were born in Texas? | Dwight Eisenhower and Lyndon Johnson | I | .team said George W. Bush and George H.W. Bush
+T13 | Science | To the nearest hour, how long is it between low tide and high tide? | Six hours | 2:C | .buzzer not named; team from "visual bonus for Farragut"
+B13 | Visual | What is the chemical compound represented by the diagram shown here that is used in fertilizer manufacturing, drain cleaners and lead acid batteries? | Sulfuric acid | I | .team said sodium and sulfur hydroxide
+T14 | Geometry | Point T bisects line segment AB. What is the length of AB if AT equals 23.8 centimeters? | 47.6 cm | Hudson:I | Nisha:C | .Hudson said 47; Nisha's name read from "Nation"
+B14 | Geometry | The width of a rectangle is twice its length and the area is 72. What is the length of the rectangle? | 6 | C
+T15 | Music | The modern version of what instrument has 47 strings and seven pedals which raise or lower each pitch class of strings? | Harp | Nisha:C
+B15 | Music | Part 1: What is the major key for an instrument like a piano when the key signature has two flats? // Part 2: What is the major key when the key signature has three sharps? | Part 1: B-flat // Part 2: A | C
+T16 | Foreign Language | Translate the French words "le poisson." | The fish | Hudson:I | 2:I | .Hudson's answer garbled in captions ("Lacrosse"); Farragut's stealing player not named
+T17 | Government | Who was U.S. president on January 2nd, 1890, when Alice Sanger became the first woman to join the White House staff? | Benjamin Harrison | Leighton:I | Sam:I | .Sam said Hayes
+T18 | Physics | What force acts on an object perpendicular to the surface? | Normal force | Leighton:C
+B18 | Physics | Who were the two physicists who isolated the radioactive compound radium chloride in 1902? | Marie Curie and Pierre Curie | C
+T19 | Chemistry | What is the chemical symbol for barium? | Ba | Russian:C
+B19 | Chemistry | Part 1: Although steps taken since 1986 have reduced exposures, certain pipes that carry drinking water from the main water source to homes may contain which element with the symbol Pb? // Part 2: The symbol for lead comes from what Latin word? | Part 1: Lead // Part 2: Plumbum | U | !points not stated: captions show "No, no answers" before the host gave plumbum
+T20 | Religion | Which religion is represented by a star and crescent? | Islam | Will:I | Nisha:C | .Will said Judaism
+B20 | Religion | In 1604, which King of England convened a group of scholars to translate the scriptures from Hebrew and Greek into English? | King James I | C
+T21 | Spelling | To be experiencing worry, unease or nervousness is to be anxious. Spell "anxious." | A-N-X-I-O-U-S | Leighton:C
+B21 | Spelling | Part 1: Spell "altar" as in a place for a religious rite. // Part 2: Spell "alter" as in to change something. | Part 1: A-L-T-A-R // Part 2: A-L-T-E-R | C
+T22 | World History | On what date and at what hour was the armistice to end World War I? | November 11th, 1918 at the 11th hour | Russian:C
+B22 | History | What explorer who established the lost colony of Roanoke was beheaded for treason by James the First in 1618? | Sir Walter Raleigh | C
+T23 | Health | Medic Regional Blood Center allows donors as young as what age if they meet the health requirements? | 16 | Sam:C
+B23 | Health | What separates the left and right airways of the nasal cavity, dividing the two nostrils? | The septum | I | .team said sinus
+# ---- second half ----
+T24 | Pre-Calculus | What is the sine of 90 degrees times the sine of 180 degrees? | 0 | Russian:C
+B24 | Pre-Calculus | In which two quadrants are the solutions to the equation sine x equals cosine x? | First and third quadrants | C
+T25 | Sports | The Kentucky Wildcats of the SEC play their home games in what city? | Lexington | Sam:C
+B25 | Sports | Part 1: Which two countries hosted the women's FIFA World Cup in 2023? // Part 2: Name two of the three countries that will host the men's FIFA World Cup in 2026. | Part 1: Australia and New Zealand // Part 2: Any two of: Canada, Mexico, United States | P10 | .team said UK and Spain for Part 1
+T26 | Literature | Who wrote "The Cask of Amontillado"? | Edgar Allan Poe | ?:C | .player and team not identified in captions
+B26 | Literature | Part 1: Who created the character referred to in the title of Bruce Springsteen's 1995 album The Ghost of Tom Joad? // Part 2: What was the book? | Part 1: John Steinbeck // Part 2: The Grapes of Wrath | P10 | .team said Mark Twain for Part 1
+T27 | Geography | What is the world's largest river by discharge volume? | The Amazon | 1:C | .buzzer not named; team from "visual bonus ... Corbin"
+B27 | Visual | The delta shown here covers over 150 miles of Mediterranean coastline and is the mouth of what river that flows south to north? | The Nile | C
+T28 | Chemistry | What is the process that is used to separate components of a liquid mixture by their boiling points? | Distillation | Hudson:I | Russian:C | .Hudson said chromatography
+B28 | Chemistry | An estimated 12 million tons of electric car batteries that will stop working in the next ten years will end up in landfills unless experts are able to find better ways to recycle the batteries' raw materials, including which one that is the lightest solid metal? | Lithium | C
+T29 | Science | What is the simple machine consisting of a rod free at both ends and a steady object on which the rod rests? | Lever | ?:C | .player and team not identified in captions
+B29 | Science | According to a 2022 study, almost half of the bald eagles and golden eagles in the U.S. showed signs of chronic lead poisoning from eating carcasses of animals killed by hunters. What manmade items were the birds ingesting? | Bullets | C
+T30 | Foreign Language | What is the French word for yellow? | Jaune | Nisha:I | 1:I | .Nisha said "amarillo"; Corbin's stealing player not named, answer garbled in captions
+T31 | Vocabulary | What seven letter word beginning with P means swearing under oath to something that is not true? | Perjury | Sam:C
+B31 | Vocabulary | Part 1: What bird can be used to describe the personal characteristics of a vain, self-conscious, strutting person? // Part 2: What small furry mammal can be used to describe the personal characteristics of a sneaky and sly person or a cheat? | Part 1: Peacock // Part 2: Weasel | P10 | .Part 2 missed
+T32 | Economics | What country is the world's largest producer of gold, platinum and chromium? | South Africa | Armin:C | .name read from "Ahmed"
+B32 | Economics | Which Scottish philosopher, who is considered the father of modern economics, is the author of The Wealth of Nations? | Adam Smith | C
+T33 | Geology | What activity forms cirques, arêtes and hanging valleys? | Glaciers moving | Russian:C | .features reconstructed from garbled captions ("gremlins, whiskers")
+B33 | Geology | The exterior of the East and West Buildings of the National Gallery of Art in Washington, D.C. are clad in what distinctive material known by three words that identify our state, its color, and the common term for the crystalline limestone in our area? | Tennessee pink marble | C
+T34 | Algebra | Give both solutions to the equation x squared equals 25x. | x = 0 and x = 25 | Will:I | Leighton:C | .Will said 5 and -5
+B34 | Algebra | Give two solutions for x in the equation x squared plus 15 equals 8x. | x = 3 and x = 5 | I | .team gave other values
+T35 | Architecture | What is the name of Thomas Jefferson's home in Virginia? | Monticello | Will:C
+B35 | Architecture | What style of architecture that included gargoyles, vaulted ceilings and pointed arches was prevalent in Europe from the late 12th to the 16th century? | Gothic | C
+T36 | Spelling | Something that is extremely funny is called hilarious. Spell "hilarious." | H-I-L-A-R-I-O-U-S | Armin:C
+B36 | Spelling | Spell the seven letter word beginning with A that refers to one who engages in a pursuit of something on an unpaid level. | A-M-A-T-E-U-R | C | .word read from the host's spelling; captions show "immature"
+T37 | Geography | In which world capital is Westminster Abbey located? | London | Sam:C
+B37 | Geography | Name four of the eight U.S. states that have a panhandle. | Any four of: Alaska, Florida, Idaho, Maryland, Nebraska, Oklahoma, Texas, West Virginia | P15 | .team named Oklahoma, Tennessee, West Virginia, Florida, Kentucky; three counted (15 points)
+T38 | Health | One of the translations of what pledge contains the phrase "I will abstain from all intentional wrongdoing and harm"? | Hippocratic Oath | Russian:C | .cut off by buzz
+B38 | Health | What large muscle that lies on the front of the upper arm, between the shoulder and the elbow, is used when lifting dumbbells? | Biceps | C
+T39 | Astronomy | What area of the moon was the landing site for Apollo 11? | Sea of Tranquility | Hudson:C
+B39 | Astronomy | Part 1: What is the name of the spacecraft that experienced malfunctioning thrusters and leaking helium on its journey into orbit in June 2024, forcing two NASA astronauts to remain on the International Space Station until February 2025? // Part 2: What company sent a spacecraft with two crew members and two empty seats to the International Space Station to rescue the stranded astronauts? | Part 1: Boeing Starliner // Part 2: SpaceX | P10 | .team said Artemis for Part 1
+T40 | Literature | Who was the author of War and Peace? | Leo Tolstoy | Sam:C
+B40 | Literature | Part 1: Which book in the Lord of the Rings trilogy begins when Mr. Bilbo Baggins of Bag End announced that he would be shortly celebrating his 71st birthday? // Part 2: Who is the author of the trilogy? | Part 1: The Fellowship of the Ring // Part 2: J.R.R. Tolkien | C
+T41 | U.S. History | Where did the Wright brothers fly their first powered airplane? | Kitty Hawk, North Carolina | Sam:C
+B41 | U.S. History | Part 1: In 1861, which colonel and West Point graduate turned down the offer to command the Union Army? // Part 2: Which state's secession from the Union on April 17th, 1861, caused Lee to resign from the Union Army? | Part 1: Robert E. Lee // Part 2: Virginia | C
+T42 | Science | What is the property of fluids that causes them to resist flowing? | Viscosity | Russian:C
+B42 | Science | What temperature in Celsius is equal to a normal human body temperature of 98.6 degrees Fahrenheit? | 37 degrees | C
+T43 | Math | What is the difference when $12.43 is subtracted from $20? | $7.57 | Hudson:C
+B43 | Math | Emily purchased a skirt on sale for $16. The regular price was $20. What was the discount rate on the skirt? | 20% | C
+T44 | Games | What video game character enjoys eating power pellets while evading ghosts? | Pac-Man | Will:C
+B44 | Games | In what video game series by Rovio Entertainment does a flock of colorful creatures try to save their eggs from green colored pigs? | Angry Birds | C
+T45 | Vocabulary | How many issues per year does a bimonthly magazine publish? | Six | Sam:I | Armin:C | .Sam said 24; Armin's name read from "Harmony"
+B45 | Vocabulary | What ten letter word beginning with L is a description of someone who is full of trivial conversation? | Loquacious | I | .team had no answer
+T46 | Government | Which cabinet position is fourth in the presidential line of succession after the vice president, speaker of the House and president pro tempore? | Secretary of State | Will:C | .the host noted Will answered before being recognized, then called on him
+B46 | Government | What words are represented by the letters ICC, which is an intergovernmental organization? | International Criminal Court | I | .team said International Circuit Court; game over after this bonus

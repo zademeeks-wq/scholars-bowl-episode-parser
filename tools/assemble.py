@@ -2,7 +2,8 @@
 """Merge the per-episode CSVs in data/csv into the combined sheet files.
 
 Writes, in data/:
-  Questions.csv       every row: the 19 columns of the S42 Questions tab, plus Needs Review and Review Notes
+  Questions.csv       every row: the 19 columns of the S42 Questions tab, plus Needs Review, Review Notes and
+                      Transcript Excerpt (the supporting caption lines, filled only for flagged rows)
   review_queue.csv    only the rows with Needs Review = Yes, with the caption excerpt that supports each one
   Questions.xlsx      the same two tables as tabs ("Questions", "Review Queue") plus a "Notes" tab,
                       formatted like the S42 workbook (Arial 10, dark blue header row, frozen header, filter)
@@ -23,7 +24,7 @@ OUT_DIR = os.path.join(ROOT, 'data')
 S42_COLUMNS = ['Episode', 'Round', 'Question Type', 'Question #', 'Question Text', 'Correct Answer',
                'Category', 'Subject Area', 'Matchup', 'Answered By', 'Team', 'Result', 'Steal By',
                'Steal Team', 'Steal Result', 'Outcome', 'Points', 'Points To', 'Parts']
-QUESTION_COLUMNS = S42_COLUMNS + ['Needs Review', 'Review Notes']
+QUESTION_COLUMNS = S42_COLUMNS + ['Needs Review', 'Review Notes', 'Transcript Excerpt']
 REVIEW_COLUMNS = ['Questions Row', 'Episode', 'Round', 'Question Type', 'Question #', 'Question Text',
                   'Correct Answer', 'Matchup', 'Answered By', 'Team', 'Result', 'Steal By', 'Steal Team',
                   'Steal Result', 'Outcome', 'Points', 'Points To', 'Review Notes', 'Transcript Excerpt']
@@ -31,7 +32,7 @@ REVIEW_COLUMNS = ['Questions Row', 'Episode', 'Round', 'Question Type', 'Questio
 # Column widths copied from the S42 Questions tab (characters); the two added columns follow.
 S42_WIDTHS = [11.57, 12.0, 12.29, 12.43, 72.86, 32.0, 17.0, 20.0, 34.0, 13.0, 30.0, 10.0, 12.0, 30.0,
               12.0, 10.0, 8.0, 30.0, 7.0]
-QUESTION_WIDTHS = S42_WIDTHS + [12.0, 70.0]
+QUESTION_WIDTHS = S42_WIDTHS + [12.0, 70.0, 60.0]
 REVIEW_WIDTHS = [11.0, 11.57, 12.0, 12.29, 10.0, 60.0, 28.0, 34.0, 13.0, 30.0, 10.0, 12.0, 30.0, 12.0,
                  10.0, 8.0, 30.0, 70.0, 90.0]
 
@@ -166,7 +167,7 @@ def write_xlsx(path, questions, review):
           {'Question Text', 'Correct Answer', 'Matchup', 'Team', 'Steal Team', 'Points To', 'Review Notes'})
     last = ws.max_row
     ws.conditional_formatting.add(
-        'A2:U%d' % last,
+        'A2:V%d' % last,
         FormulaRule(formula=['$T2="Yes"'], fill=PatternFill('solid', bgColor='FFF2CC', fgColor='FFF2CC')))
 
     ws2 = wb.create_sheet('Review Queue')

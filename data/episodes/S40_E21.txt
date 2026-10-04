@@ -1,0 +1,78 @@
+@EP S40 E21
+@ROUND Round 1
+@TEAMS Sweetwater High School | Happy Valley High School (Levi's team)
+@R1 Hannah, Jude, Titus, Jason, Andrew, Gray
+@R2 Nick, Ella, Levi, Elijah, Marcita
+# Happy Valley has two teams in the tournament; this one is captained by Levi. Titus is Sweetwater's captain. The captions render Ella as "L.A." / "Elba" / "Yella", Jude as "dude" and Nick as "Neck". Andrew (Sweetwater) enters at halftime. Happy Valley won.
+# ---- first half ----
+T1 | History | Which ruler of England and Ireland was referred to as the Virgin Queen? | Elizabeth I | Ella:C | .the host warned the player for not waiting to be called on
+B1 | History | Part 1: Who was Henry VIII's first wife? // Part 2: Who was the daughter of Catherine of Aragon and Henry VIII who reigned as queen from 1553 to 1558? | Part 1: Catherine of Aragon // Part 2: Mary I (Mary Tudor) | Ella:C | .Levi deferred both parts to Ella
+T2 | Music | Give the musical term for the notes of a chord that are not the melody. | Harmony | Ella:C
+B2 | Music | Part 1: What does the musical tempo term "allegro" mean? // Part 2: What does the musical term "adagio" mean? | Part 1: Fast // Part 2: Slow | Ella:P10 | .the team said "moderately fast" for allegro; the host said at least ten points were earned and he would check the rest with the judges; the closing 130-point margin fits ten
+T3 | Vocabulary | What animal would you associate with the character description "sly and cunning"? | A fox | 1:C | .buzzer not named; Sweetwater is inferred from the host's closing remark that Happy Valley led by 130 (that margin only works if all five unattributed scoring items are Sweetwater's)
+B3 | Vocabulary | Part 1: What nine letter word beginning with E means extremely or shockingly bad and is from the Latin meaning "out of the flock"? // Part 2: Spell that word. | Part 1: Egregious // Part 2: E-G-R-E-G-I-O-U-S | P10 | .the team's spelling was wrong (apparently missing a letter)
+T4 | Math | What is the product of 0.008 and 0.084? | 0.000672 | NB | | .nobody rang in in time; the host gave the answer
+T5 | Biology | What is the term for the broad flat part of a plant leaf, also called the blade? | The lamina | NB | | .nobody answered; the captions never read the answer, so "lamina" is supplied from the question
+T6 | Geography | Which state's name comes from the French words meaning "green" and "mountain"? | Vermont | Ella:C | .buzzer name read from "L.A."
+B6 | Geography | Listed alphabetically, what are the first four state capitals? | Albany, Annapolis, Atlanta, Augusta | P5 | .team said Philadelphia and Albany; only Albany counted (5 points)
+T7 | Religion | What is the main religion of Pakistan? | Islam | Elijah:C
+B7 | Religion | Part 1: Upon Japan's surrender at the end of World War II, allied powers believed a constitutional government could not be put in place as long as the Japanese people looked to an emperor as their ultimate authority. General MacArthur signed the order ending what national religion? // Part 2: Which emperor was forced to renounce his divine status? | Part 1: Shintoism // Part 2: Hirohito | P10 | .team said "spiritualism" for Part 1; who answered is not clear (the deferral is garbled as "Asia")
+T8 | Foreign Language | In which country is Zulu an official language? | South Africa | Levi:I | | .Levi said Ethiopia; steal offered to Sweetwater, no answer captured
+T9 | Literature | Which character created by Washington Irving was pursued by the Headless Horseman? | Ichabod Crane | Ella:C
+B9 | Literature | Part 1: A third edition book printed in 1608 of what well-known story by Miguel de Cervantes was sold in 2022 for $504,000? // Part 2: What Broadway musical was loosely based on it? | Part 1: Don Quixote // Part 2: Man of La Mancha | Ella:C | .Levi deferred to Ella (garbled in captions); Ella is assumed for both parts
+T10 | U.S. History | What former First Lady founded a rehab facility for what she called addictive diseases? | Betty Ford | NB | | .nobody answered in the captions; the host gave the answer
+T11 | Architecture | What is the term for a building or structure that is designed to keep birds confined? | An aviary | 1:C | .buzzer not named; Sweetwater is inferred from the host's closing remark that Happy Valley led by 130 (that margin only works if all five unattributed scoring items are Sweetwater's)
+B11 | Visual | In the equation 6x − 5y = −15, identify both the x and y intercepts in coordinate form. | (-2.5, 0) and (0, 3) | I | .team's answer was wrong
+T12 | English | In a footnote, for what word is "anon." an abbreviation? | Anonymous | 2:C | .buzzer not named; team from the bonus deferral to Ella
+B12 | English | Correct the following sentence if necessary: "You leave me and my sister went to our favorite pizza place." | My sister and I went to our favorite pizza place. | Ella:C
+T13 | Geology | What is the name of the 97.5 ton hunk of Knox dolomite on the UT campus that students use as their open forum? | The Rock | NB | | .nobody answered; the host gave the answer
+T14 | Technology | What was the name of the first computer language for business? | COBOL | Levi:I | Titus:I | .Levi said Java; Sweetwater then answered "C++" and, with Titus recognized, "Python"; both wrong
+T15 | Algebra | Solve for x: 3x + 7 = 15 − x. | x = 2 | Jude:C | .buzzer name read from "dude"
+B15 | Algebra | What are the real solutions of the quadratic equation (x − 2)(x + 3) = 0? | x = 2 and x = -3 | I | .the team did not answer in time after deferring
+T16 | Geography | In which national park is Old Faithful? | Yellowstone National Park | Nick:C
+B16 | Visual | What is the term for a circular concave depression, often formed by the collapse of a volcanic crater or subsurface cavity? | A caldera | I | .team said sinkhole
+T17 | Sports | How many periods are in a typical hockey game? | Three | Titus:C
+B17 | Sports | Part 1: What is the team name for the athletic program at the University of Texas? // Part 2: What is the team name for the athletic program at the University of Michigan? | Part 1: The Longhorns // Part 2: The Wolverines | C
+T18 | Mythology | Who was the mythological Greek god of sleep? | Hypnos | Ella:I | | .Ella said Morpheus; steal offered to Sweetwater, no answer captured; time ran out
+T19 | Chemistry | What molecules are the building blocks of proteins? | Amino acids | Levi:C
+B19 | Chemistry | Native fishermen in Indonesia have been affected by waters turning murky from sediment and polluted by cyanide and diesel fuel flowing from open pit mining for what element with atomic number 28, used in batteries for electric vehicles and mobile phones? | Nickel | I | .team said lithium
+T20 | Astronomy | During which phase of the moon do solar eclipses occur? | The new moon | 1:C | .buzzer not named; Sweetwater is inferred from the host's closing remark that Happy Valley led by 130 (that margin only works if all five unattributed scoring items are Sweetwater's)
+B20 | Astronomy | Part 1: Cassini's Division is the obvious large gap between which objects in space? // Part 2: What is the largest moon of Saturn? | Part 1: The rings of Saturn // Part 2: Titan | I | .team said Mars and Jupiter for Part 1 and had no answer for Part 2
+T21 | Economics | What is the term that means a fall in the value of a nation's currency against other currencies for any reason? | Devaluation | Levi:I | Jude:I | .Levi said depreciation; Jude said depression
+# ---- second half ----
+T22 | Art | What type of artwork is made up of bits and fragments of stone, glass, tile and other durable material? | A mosaic | 2:C | .buzzer not named; team from "art bonus now for Happy Valley"
+B22 | Art | Knoxville-born artist Beauford Delaney was part of what intellectual and cultural revival of African-American music, dance, art, fashion, literature, theater, politics and scholarship in New York City during the 1920s and 1930s? | The Harlem Renaissance | Ella:C
+T23 | Literature | Who wrote Charlie and the Chocolate Factory? | Roald Dahl | Ella:C
+B23 | Literature | Part 1: Who accompanied Charlie on the tour of the chocolate factory? // Part 2: What is the sequel to Charlie and the Chocolate Factory? | Part 1: Grandpa Joe // Part 2: Charlie and the Great Glass Elevator | P10 | .team said "Charlie and the Chocolate Factory 2" for Part 2
+T24 | Geometry | What is the sum of the degree measures of the exterior angles (one per vertex) of a pentagon? | 360 degrees | Levi:I | | .Levi's answer is garbled in captions ("769 eight") and was wrong; steal offered to Sweetwater, no answer captured
+T25 | Health | What are the microscopic hair-like structures or organelles that extend from the surface of nearly all mammalian cells, like flagella? | Cilia | 2:I | | .Happy Valley's first buzzer not named and the answer not captured; steal offered to Sweetwater, no usable answer captured
+T26 | Government | The U.S. government possesses only powers granted to it by which document? | The Constitution | Jude:C
+B26 | Visual | Part 1: Who was confirmed as the second female justice on the U.S. Supreme Court, shown here at her 1993 Senate confirmation hearing? // Part 2: Which president nominated her? | Part 1: Ruth Bader Ginsburg // Part 2: Bill Clinton | P10 | .team said John F. Kennedy for Part 2
+T27 | Religion | What is the philosophy based on the writings of Lao Tzu that advocates humility and religious piety? | Taoism | Ella:C
+B27 | Religion | Name four of the five books of the Torah. | Any four of: Genesis, Exodus, Leviticus, Numbers, Deuteronomy | Levi:P15 | .team named Deuteronomy, Exodus, Genesis and Isaiah; three counted (15 points)
+T28 | Spelling | Someone famous is said to be renowned. Spell "renowned." | R-E-N-O-W-N-E-D | Ella:C
+B28 | Spelling | Part 1: Spell "Brandeis," as in Brandeis University in Waltham, Massachusetts. // Part 2: Spell "Gallaudet," as in Gallaudet University in Washington, D.C. | Part 1: B-R-A-N-D-E-I-S // Part 2: G-A-L-L-A-U-D-E-T | Ella:I | .Levi deferred to Ella on both parts; the team spelled B-R-A-N-D-Y-S-E and G-A-L-L-A-D-E-T-T-E
+T29 | Vocabulary | Cardiologist is to heart as neurologist is to what? | Brain | Hannah:C
+B29 | Vocabulary | What was Merriam-Webster's word of the year for 2022, which comes from the title of a 1944 movie and is defined as psychological manipulation causing the victim to question their perception of reality? | Gaslighting | Titus:C | .captions: "Titus, to answer or defer?" then "is the definition gaslighting"; Titus is assumed to be the responder
+T30 | Physics | What property of matter tends to keep any motionless body at rest? | Inertia | Titus:I | Nick:I | .Titus's answer was wrong; the host threw out the steal because the Happy Valley players talked to each other
+T31 | U.S. History | In 1861, South Carolina blocked a federal ship from resupplying what fort in Charleston Harbor? | Fort Sumter | Nick:C | .buzzer name read from "Neck"
+B31 | U.S. History | Who was vice president under and presidential successor to Andrew Jackson? | Martin Van Buren | I | .team said Garfield
+T32 | Music | What is Scotland's national instrument? | The bagpipes | 1:C | .buzzer not named; team from "visual bonus for Sweetwater"
+B32 | Visual | What is the term for the notes of a chord played in succession, either ascending or descending? | An arpeggio | Jude:C
+T33 | Foreign Language | What is the Spanish phrase for "I'm sorry"? | Lo siento | Hannah:C | .the answer is garbled as "Lucy" in the captions (lo siento)
+B33 | Foreign Language | In 2021, thousands in Barcelona protested in defense of the Catalan language. The Catalan language had been prohibited by what military dictator who controlled Spain from 1936 until his death in 1975? | Francisco Franco | I | .team said Castro
+T34 | Pre-Calculus | In radical form, what is the sum of the cosine of 45 degrees plus the sine of 45 degrees? | √2 | 2:I | | .Happy Valley's buzzer not named (answer garbled in captions); steal offered to Sweetwater, no answer captured
+T35 | Astronomy | What is the galaxy closest to the Milky Way? | The Andromeda galaxy | 1:C | .buzzer not named; Sweetwater is inferred from the host's closing remark that Happy Valley led by 130 (that margin only works if all five unattributed scoring items are Sweetwater's)
+B35 | Astronomy | Part 1: What is the term for a point on the celestial sphere directly above an observer on Earth? // Part 2: What is the term for the point on the celestial sphere directly opposite the zenith? | Part 1: Zenith // Part 2: Nadir | I | .the team's answers were wrong (it said "axis" and "bottom")
+T36 | Geography | What world capital is called "the City of Lights"? | Paris | Ella:C
+B36 | Geography | Name the two landlocked countries in South America. | Paraguay and Bolivia | C
+T37 | Arts | In 2018, a movie was produced about the boy to whom Winnie the Pooh belonged. What was his name? | Christopher Robin | Titus:C
+B37 | Arts | Which famous film director had enormous success with Avatar and Titanic? | James Cameron | C
+T38 | Literature | How does Santiago finally kill the marlin in The Old Man and the Sea? | With a harpoon | Levi:C | .the captions do not give the official answer; the host accepted "with a knife after he harpoons it"
+B38 | Literature | Part 1: In what Charles Dickens novel does a cynical drunk named Sydney Carton sacrifice himself to the guillotine by assuming the identity of another? // Part 2: Whose identity did Carton assume? | Part 1: A Tale of Two Cities // Part 2: Charles Darnay | Ella:P10 | .no answer for Part 1
+T39 | Music | Who was dubbed the "King of Ragtime" for composing many classics including "Maple Leaf Rag" and "The Entertainer"? | Scott Joplin | 2:C | .buzzer not named; team from "music bonus for Happy Valley"
+B39 | Music | In 2023, a California man donated to the Medical University of Vienna skull fragments that are believed to be from which composer whose symphonies include the Choral, the Pastoral and the Eroica? | Ludwig van Beethoven | I | .the team's answer (apparently "Norman Rockwell") was wrong
+T40 | Chemistry | What is the chemical formula for ozone? | O3 | Nick:C
+B40 | Chemistry | Which two elements make up the mineral quartz? | Silicon and oxygen | P10 | .team said silicon and carbon; silicon counted
+T41 | Government | Which was the first state to ratify the U.S. Constitution? | Delaware | 1:I | Nick:I | .Sweetwater's first buzzer not named (said Virginia); Nick said Massachusetts
+T42 | Sports | As head coach of the Lady Vols basketball team, how many NCAA women's championships did Pat Summitt win? | Eight | ?:I | | .the captions show only "No, that's not it. You can steal at the buzzer" after the question, so the first team and the answer are not identified and no steal answer is captured; the game ended on the buzzer and the host then said Happy Valley led by 130

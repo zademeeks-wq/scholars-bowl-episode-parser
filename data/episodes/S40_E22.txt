@@ -1,0 +1,90 @@
+@EP S40 E22
+@ROUND Round 1
+@TEAMS Karns High School | Webb School of Knoxville (Steven's team)
+@R1 Amelia, Elizabeth, Avery, Cole, David, Haley, Kristin, Ellery
+@R2 Nicholas, Andrea, Steven, Daisy, Anna, Nolan
+# Webb put two teams in the tournament; this one is captained by Steven. Avery is Karns's captain. The captions spell Haley as "Hailey/Haley/Hillary", Ellery as "Larry/Ellery", Karns as "Kerns/Kearns/Kahn's/coins", and Avery as "every" on steals. In the second half Karns brings in David, Haley and Ellery and Webb brings in Anna. The captions give no score, so unattributed tossups stay Unknown.
+# ---- first half ----
+T1 | Astronomy | The Big Dipper is part of what constellation? | Ursa Major | Andrea:C
+B1 | Astronomy | Most of the asteroids in our solar system are between the orbits of which two planets? | Mars and Jupiter | C
+T2 | Algebra | Reduce the square root of 48 to its simplest radical form. | 4√3 | Nicholas:C | .the captions show "for three is it?"
+B2 | Algebra | Solve for z in the equation (3/4)z = z − 4. | z = 16 | Steven:I | .Steven's answer is garbled in captions ("16/7"); the host gave z = 16
+T3 | Sports | In which water activity would you use a rebreather? | Scuba diving | Elizabeth:C
+B3 | Sports | Part 1: What is the team name for the athletic program at East Tennessee State University? // Part 2: What is the team name for the athletic program at Tennessee Tech? | Part 1: The Buccaneers // Part 2: The Golden Eagles | C
+T4 | Geography | What is the capital of Alaska? | Juneau | Nicholas:I | Cole:C | .Nicholas said Anchorage; the steal name is read from "Paul" (probably Cole)
+B4 | Geography | The Mason-Dixon line separates which two states? | Maryland and Pennsylvania | C
+T5 | Vocabulary | What seven letter word beginning with B is a synonym for breakable, crumbling and fragile? | Brittle | Andrea:C
+B5 | Vocabulary | Part 1: Spell the word that means the top of a hill or mountain. // Part 2: Now spell the homonym that means a quick look or a sneaky look. | Part 1: P-E-A-K // Part 2: P-E-E-K | C | .the question wording is reconstructed from the captions ("spelled a homonym that means the top of a hill or mountain peak"); the host said both were right
+T6 | Geology | In what state is the volcano Kilauea? | Hawaii | Andrea:C
+B6 | Visual | What is the name of the tourist attraction shown here? Located in Craighead Caverns in East Tennessee, it is the largest underground lake in the United States. | The Lost Sea | C | .the captions show "Lost Lassie"
+T7 | History | Who founded the Girl Scouts of America in 1912? | Juliette Gordon Low | ?:C | .buzzer and team not identified in captions
+B7 | History | In 2023, an investigation was conducted into the only Nazi concentration camp to exist on British soil, located on Alderney. In what archipelago off the coast of Normandy is Alderney? | The Channel Islands | I | .no answer was given; the host read the answer
+T8 | Art | In the painting American Gothic, what is the man holding in his hand? | A pitchfork | Steven:C
+B8 | Art | Charlotte Bartholdi modeled for what famous statue that was sculpted by her son, Frédéric Auguste Bartholdi? | The Statue of Liberty | C
+T9 | Economics | What currency is used in Mexico? | The peso | Nicholas:C
+B9 | Economics | Name two of the four main ingredients in pumpkin pie spice. | Any two of: cinnamon, nutmeg, ginger, cloves | C | .the team said cinnamon and nutmeg; the host added that allspice is sometimes used
+T10 | Mythology | Who is the mythological Roman figure that carried the world on his shoulders? | Atlas | Andrea:C
+B10 | Mythology | What item did Jason and the Argonauts seek and capture? | The Golden Fleece | C
+T11 | Biology | Name the large water mammal sometimes called a sea cow. | Manatee | Daisy:C | .Daisy answered just before time ran out
+B11 | Biology | Part 1: Give the standard scientific adjective for the type of symmetry exemplified by starfish and sand dollars. // Part 2: Give the standard scientific adjective for the type of symmetry exemplified by [text garbled in captions]. | Part 1: Radial // Part 2: Bilateral | Andrea:P10 | .Andrea said "pentangle" for Part 1; Part 2 was answered correctly after the host repeated it
+T12 | Pre-Calculus | In the function y = x² − 4x + 3, what is the range of the function? | y ≥ −1 | Steven:I | | .Steven said "three to infinity"; steal offered to Karns, the captions show only "-32" and the host reminding them to ring in and confer; the host gave the answer
+T13 | Music | Which Ashman and Menken musical includes the songs "Les Poissons," "Under the Sea" and "Part of Your World"? | The Little Mermaid | 1:C | .the buzzer name is garbled as "me"
+B13 | Music | Part 1: Who was the Tennessee Volunteers' opponent when the Pride of the Southland Band first played "Rocky Top" in a game on the third Saturday in October 1972? // Part 2: Complete this lyric: "Wild as a mink, but sweet as ..." | Part 1: Alabama // Part 2: Soda pop | Amelia:C | .Avery deferred to Amelia for Part 1
+T14 | History | In 1867, Russia sold what parcel of land to the U.S.? | Alaska | 1:C | .buzzer not named; Karns from "a visual bonus for Karns"
+B14 | Visual | What ambitious infrastructure project shown here connected the Atlantic and Pacific Oceans in the early 20th century? | The Panama Canal | I | .team said the Transcontinental Railroad
+T15 | Spelling | In French, "mademoiselle" is a title of courtesy for an unmarried woman. Spell "mademoiselle." | M-A-D-E-M-O-I-S-E-L-L-E | Andrea:I | | .Andrea's spelling was wrong (the host said it sounded like "madam"); the captions around the steal ("Ely, That's. That's not.") are garbled and no Karns answer is clear
+T16 | Technology | In relation to data transfer and charging technology, what do the letters USB represent? | Universal Serial Bus | Nicholas:I | Elizabeth:I | .Nicholas gave no usable answer; Elizabeth said "universal service bus"
+T17 | Chemistry | Gases with a subscript of two, as in H2 or O2, are called what? | Diatomic | Andrea:C
+B17 | Chemistry | In 2023, a science magazine reported that archaeologists in China fear that opening the 2,200-year-old tomb of China's first emperor could damage it and could trigger booby traps, including a river-like flow of what metallic element, formerly known as quicksilver? | Mercury | C
+T18 | Religion | In which city is the nine-domed Saint Basil's Cathedral? | Moscow | 2:I | Avery:I | .Webb's buzzer is not named (said St. Petersburg); the steal name is read from "every" (Avery) and the answer was Rome
+T19 | Geography | What is the name of the line that divides the earth into eastern and western hemispheres? | The Prime Meridian (zero longitude) | Nicholas:C
+B19 | Geography | Part 1: What is the capital of South Korea? // Part 2: What is the capital of North Korea? | Part 1: Seoul // Part 2: Pyongyang | C | .the captions show "So. So." for Seoul
+T20 | Literature | What is the William Golding book about a group of boys stranded on an island? | Lord of the Flies | 2:I | 1:C | .Webb's buzzer is not named (answer begins "The king of the ..."); the Karns steal is inferred from the bonus going to Karns
+B20 | Literature | Part 1: Which character debuted in the novel A Study in Scarlet in 1887 and appeared in 60 more works? // Part 2: Who created Sherlock Holmes? | Part 1: Sherlock Holmes // Part 2: Sir Arthur Conan Doyle | C | .Avery deferred Part 2 to Elizabeth
+T21 | Science | Which light has the longest wavelength in the visible spectrum? | Red | Daisy:C | .the captions run the end of the question into the answer ("and reflects ... red reflects the least")
+B21 | Science | Part 1: What chemical element is named after the Greek goddess of the rainbow, the female messenger of the gods in the Iliad? // Part 2: What was the name of that mythological Greek goddess? | Part 1: Iridium // Part 2: Iris | C
+T22 | Geometry | Given the conditional sentence "if A, then B," what is its converse? | If B, then A | ?:C | .buzzer and team not identified in captions
+B22 | Geometry | How many degrees are in one exterior angle of a regular dodecagon? | 30 degrees | I | .the team answered with 1800 divided by 12; the captions say "dodecahedron"
+T23 | Miscellaneous | What type of military knife is the best-known survival multitool? | A Swiss Army knife | Nicholas:C
+B23 | Miscellaneous | Part 1: In what city and state is the U.S. Naval Academy located? // Part 2: In what city and state is the Coast Guard Academy located? | Part 1: Annapolis, Maryland // Part 2: New London, Connecticut | P5 | .the team said Maryland (five points) and California
+# ---- second half ----
+T24 | Government | As of 2022, how many amendments to the Constitution have been ratified? | 27 | Nicholas:C
+B24 | Government | Name the case, considered by many legal scholars to be one of the worst ever rendered by the Supreme Court, that ruled slaves were not citizens and that Congress lacked power to ban slavery in the U.S. territories. | Dred Scott v. Sandford | C
+T25 | English | "She is a shining star" is an example of what type of figure of speech? | A metaphor | ?:C | .buzzer and team not identified in captions
+B25 | English | Part 1: What is the past participle form of the verb "to take"? // Part 2: What is the past participle form of the verb "to sing"? | Part 1: Taken // Part 2: Sung | P10 | .the team said "took" for Part 1
+T26 | Health | Which system of the body collects, processes and acts on information? | The nervous system | 2:C | .buzzer not named; Webb from the bonus going to Steven
+B26 | Health | The middle ear fills with air that comes from the mouth or nose through what passage? | The Eustachian tube | I | .the question is only partly captured ("the what passage?"); Steven asked whether to answer or defer and the team said "sinus" and "cochlear passage"
+T27 | Math | Give the next term in the sequence: 1, 4, 9, 16, ... | 25 | Nicholas:C
+B27 | Visual | One number is 15 less than another number. If the sum of the two numbers is 79, name both numbers. | 32 and 47 | I | .the team said 94 and another number
+T28 | Architecture | What is the glass part of a window called? | The pane | Andrea:C | .the captions show "The pain?" for the answer
+B28 | Architecture | What is the term for a reproduction of a technical drawing, using a contact print process on light-sensitive sheets, which allows rapid and accurate production of an unlimited number of copies? | A blueprint | I | .team said "tracing"
+T29 | U.S. History | Which famous American politician was killed in a duel by the vice president? | Alexander Hamilton | Steven:C
+B29 | U.S. History | Part 1: What was the first major land battle of the Civil War? // Part 2: In what state was it fought? | Part 1: First Battle of Bull Run (Manassas) // Part 2: Virginia | P10 | .the team said Tennessee for Part 2
+T30 | Foreign Language | Translate the Spanish word "pescado" into English. | Fish | Nicholas:C
+B30 | Foreign Language | Part 1: What is the English translation of the Spanish word "fuego"? // Part 2: What is the English translation of the Spanish word "nieve"? | Part 1: Fire // Part 2: Snow | C | .the captions show "near the snow" for nieve
+T31 | Physics | What determines the color of light? | Wavelength | Andrea:C
+B31 | Physics | Part 1: Of what nationality is the physicist Georg Ohm? // Part 2: Of what nationality is the physicist Niels Bohr? | Part 1: German // Part 2: Danish | I | .the team said Dutch for Ohm and the captions show "East German, German or Dutch" for Bohr
+T32 | Art | Man with a Guitar by Picasso is a classic example of a painting from which movement? | Cubism | Andrea:C
+B32 | Art | In 2023, climate activists in Sweden smeared red paint on the glass that protects a painting by which French impressionist painter known for his waterlily paintings? | Claude Monet | C
+T33 | Music | What six letter word starting with U describes singing or playing with two or more voices or instruments playing the same pitch? | Unison | ?:C | .buzzer and team not identified in captions
+B33 | Music | Part 1: What movie musical includes the songs "Hopelessly Devoted to You" and "You're the One That I Want"? // Part 2: What movie musical includes the songs "All That Jazz" and "Cell Block Tango"? | Part 1: Grease // Part 2: Chicago | C
+T34 | Geography | Which island is the largest of the Hawaiian Islands? | Hawaii (the Big Island) | Steven:I | Avery:C | .Steven said Maui; the steal name is read from "every" (Avery)
+B34 | Visual | The flag shown here belongs to which nation that is the only landlocked country in Southeast Asia? | Laos | Ellery:I | .Avery deferred to Ellery, who said Mongolia
+T35 | Vocabulary | What eight letter word beginning with F means to struggle awkwardly and also means a flatfish cut for food? | Flounder | Nicholas:C
+B35 | Vocabulary | Part 1: Doe is to deer as mare is to what? // Part 2: Mare is to stallion as hen is to what? | Part 1: Horse // Part 2: Rooster | P10 | !the captions are badly garbled ("Doh is too dear as mayor is two ... Jenny's horse is to stallion as chicken is to what"); the question wording and which part was missed are reconstructed from the answer "rooster" and the host's "for ten points"
+T36 | Chemistry | What disaccharide is formed by chemically combining one molecule each of glucose and fructose? | Sucrose | ?:C | .buzzer and team not identified in captions
+B36 | Chemistry | Part 1: New research revealed that a lack of nitrogen, instead of an excess of mercury, is to blame for the stunted regrowth of the Amazon rainforest after mining for what chemical element with atomic number 79? // Part 2: What is the symbol for gold? | Part 1: Gold // Part 2: Au | P10 | .the team said cobalt for Part 1
+T37 | Science | What is the term for the scientific study of earthquakes and related phenomena? | Seismology | Haley:C | .buzzer name read from "Hillary"
+B37 | Science | Part 1: The Titan submersible that imploded near the wreckage of the Titanic in 2023 had a hull made of carbon fiber and end caps made of what element with atomic number 22? // Part 2: The Titan was controlled by a modified Logitech F710, a wireless device normally used to control what? | Part 1: Titanium // Part 2: A video game (console) | C | .the host said a video game was an acceptable answer for Part 2
+T38 | Sports | Which NBA team is located in Dallas, Texas? | The Dallas Mavericks | Haley:I | 2:I | .Haley said the Houston Astros (not an NBA team); Webb's steal was "the Spurs"
+T39 | Government | Which continent has the most countries represented in the U.N.? | Africa | Steven:C
+B39 | Government | Part 1: How many votes are in the Electoral College? // Part 2: How many votes must a candidate have to win the presidency? | Part 1: 538 // Part 2: 270 | I | .the team said 436 and about 219-220
+T40 | Literature | Who wrote The Divine Comedy? | Dante Alighieri | Andrea:C
+B40 | Literature | Part 1: What did the soothsayer tell Julius Caesar to beware? // Part 2: Who did Cassius convince to join in the plot by sending him forged letters, encouraging him to take action? | Part 1: The Ides of March // Part 2: Brutus | C
+T41 | Biology | What class of animals has the characteristics of being cold blooded with no larval forms and dry skin with scales, but no feathers? | Reptiles | David:C | .buzzer name read from "David's make ..."
+B41 | Biology | Photosynthesis is the process by which plants use sunlight and what two substances to create oxygen and energy in the form of sugar? | Water and carbon dioxide | Haley:P10 | .Haley said "water and sunlight"; water earned ten points
+T42 | Math | What is the quotient of −72 divided by 0.09? | −800 | Nicholas:I | Haley:I | .Nicholas said 80; Haley said 0.8
+T43 | Music | Max Yasgur's farm in New York was the site of what famous 1969 three-day rock music festival? | Woodstock | Nicholas:C
+B43 | Music | Who composed the opera Carmen? | Georges Bizet | Steven:I | .Steven said Verdi
+T44 | History | Who was the first vice president of the United States? | John Adams | Steven:C
+B44 | History | Part 1: What was Dwight Eisenhower's highest military rank prior to serving as president? // Part 2: What was John F. Kennedy's highest military rank prior to serving as president? | Part 1: General (five-star General of the Army) // Part 2: Lieutenant (U.S. Navy) | P10 | .the team said general (accepted) and major; the game ended after this bonus

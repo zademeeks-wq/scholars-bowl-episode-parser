@@ -1,6 +1,6 @@
 @EP S40 E48
 @ROUND Round of 16
-@TEAMS Jefferson County High School | Farragut High School
+@TEAMS Jefferson County High School (Evan's team) | Farragut High School
 @R1 Max, Reagan, Evan, Zach, Katy, Eli, Noah
 @R2 Evan, Tom, Leo, Alex, Roshan, Federica, Sophie
 # Jefferson County has two teams in the tournament; this one (captain Evan Roberts) is the same team as E35. Farragut (captain Leo) is the same team as E32. Both teams have a player named Evan (Jefferson County's Evan Roberts and Farragut's Evan Conger), so tokens use 1.Evan / 2.Evan. The captions render Roshan as "Russian", Zach as "Zachary/Zack", Katy as "Katie" and Evan as "11". Katy joins Jefferson County and Roshan joins Farragut for the second half. At halftime a challenge disallowed answers where a student began to give a wrong answer and then corrected it ("we always have to take the first answer out of their mouths"), and the host announced the score as Farragut 200, Jefferson County 175; those totals are reached here only if Jefferson County's B6 Part 2 and Farragut's B11 and B17 (all self-corrections) count as missed, so they are scored that way. The captions give no final score.

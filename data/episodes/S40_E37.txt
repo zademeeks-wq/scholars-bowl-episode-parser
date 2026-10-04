@@ -1,6 +1,6 @@
 @EP S40 E37
 @ROUND Round of 32
-@TEAMS Hardin Valley Academy (Zoe's team) | Greeneville High School
+@TEAMS Hardin Valley Academy (Zoe's team) | Greeneville High School (Angus's team)
 @R1 Austin, Jake, Zoe, Arturo, Ellie, Jessica
 @R2 Skyler, Emma, Angus, Trey
 # Hardin Valley has two teams in the tournament; this one is captained by Zoe (the other, David's team, played in E36). Angus is Greeneville's captain. The captions often render Greeneville as "Hardin/Hudson Valley" or "our valley", so some team names on steals and bonuses are inferred from the players named. The halftime remark ("the score is tied") and the closing remark (Greeneville "pulled away by just under 100 points") both check out with the totals here. Ellie and Jessica are alternates who appear to join Hardin Valley for the second half but do not buzz in the captions.

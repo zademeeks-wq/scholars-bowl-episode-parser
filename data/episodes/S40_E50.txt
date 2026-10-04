@@ -1,6 +1,6 @@
 @EP S40 E50
 @ROUND Round of 16
-@TEAMS Hardin Valley Academy (David's team) | Greeneville High School
+@TEAMS Hardin Valley Academy (David's team) | Greeneville High School (Angus's team)
 @R1 Brock, Zach, David, Zainab, Ryan, Julian, Samir
 @R2 Skyler, Emma, Angus, Trey, Adam, Jack
 # Hardin Valley has two teams in the tournament; this one (captain David) is the same team as E36. Greeneville (captain Angus) is the same team as E37. The captions render Hardin Valley as "Harden/Hudson Valley", Greeneville as "Greenville", Zach as "Zachary/Zack", Skyler as "senior" on one answer and "Trey" as "Bray" once. Julian and Samir join Hardin Valley for the second half; Greeneville keeps its starters. Hardin Valley ran up a large first-half lead ("trying to run up a lead") and held it; the host said Greeneville "doubled your points since last we spoke" (a rough remark, since he had not looked at the score). The captions give no score; the last tossup was not read before the game ended.

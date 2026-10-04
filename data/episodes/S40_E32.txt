@@ -1,6 +1,6 @@
 @EP S40 E32
 @ROUND Round of 32
-@TEAMS Farragut High School | Knoxville Central High School
+@TEAMS Farragut High School | Central High School (Knoxville)
 @R1 Sophie, Roshan, Leo, Tom, Federica, Alex
 @R2 Julia, Oliver, Jessica, Kylie, Dax, Quill
 # Leo is Farragut's captain and Jessica is Central's captain. The captions render Roshan as "Russian", Kylie as "Kelly" and "steal" as "still/steel". Farragut brings in Alex and Federica for the second half and Central brings in Dax and Quill. Farragut led throughout; the game ended while the host was starting T47 (a miscellaneous tossup), so it is not recorded.

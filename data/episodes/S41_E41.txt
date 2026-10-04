@@ -1,7 +1,7 @@
 @EP S41 E41
 @ROUND Round of 32
 @TEAMS Science Hill High School | Temple Baptist Academy
-@R1 Lilly, Elena, Hafsa, Sean, Isabella, Sini, Ghazi, Penelope
+@R1 Lily, Elena, Hafsa, Sean, Isabella, Sini, Ghazi, Penelope
 @R2 Emily, Micah, Parker, E.J., Canyon, Evan
 # ---- first half ----
 T1 | Literature | The Lion King has similarities to which Shakespeare play, including a character who orchestrated the death of his brother, the king, in order to take over the throne himself? | Hamlet | 1:I | 2:I | .both answers garbled in captions
@@ -22,7 +22,7 @@ T9 | Architecture | What is the glass part of a window called? | Pane | ?:C
 B9 | Architecture | Which famous architect designed the Rock and Roll Hall of Fame in Cleveland, the East Building of the National Gallery of Art in Washington, DC, and the Louvre Pyramid in Paris? | I. M. Pei | I | .no answer given
 T10 | Vocabulary | What is the term for an introduction to a poem, play, or novel, such as The Canterbury Tales? | Prologue | ?:C
 B10 | Vocabulary | Part 1: What eight letter word beginning with D means hardworking and persevering? // Part 2: Now spell "diligent." | Part 1: Diligent // Part 2: D-I-L-I-G-E-N-T | C
-T11 | Geography | In which state is Mount Rushmore located? | South Dakota | Lilly:C
+T11 | Geography | In which state is Mount Rushmore located? | South Dakota | Lily:C
 B11 | Visual | Which national park in Wyoming shown here is continuing a multi-year project to replace 4,500 acres of hayfields that were planted by homesteaders with native sagebrush habitat and in 2024 converted a 110 acre site near the Jackson Hole Airport? | Grand Teton National Park | Elena:I | .team said Buffalo National Park; Elena's name read from "Alana"
 T12 | Health | What is the term that refers to any substance that can cause a fluid to clot or thicken? | Coagulant | NB | | .the host gave the answer; no buzz captured
 T13 | Geometry | A triangle has a side of six and an area of 24. What is the length of the altitude to that base? | 8 | Micah:I | | .Micah said 12; steal offered to Science Hill, no answer captured

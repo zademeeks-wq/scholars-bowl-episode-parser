@@ -1,8 +1,8 @@
 @EP S40 E03
 @ROUND Round 1
-@TEAMS Grace Christian Academy | Knox Central High School
+@TEAMS Grace Christian Academy | Central High School (Knoxville)
 @R1 Christian, Daniel, Kate, Lauren, Addie, Emma, Jackson, Trinity
-@R2 Dax, Oliver, Jessica, Kaylee, Julia, Quil, Dagon
+@R2 Dax, Oliver, Jessica, Kylie, Julia, Quil, Dagon
 # Kate is Grace Christian's captain and Jessica is Central's. Jackson (GCA) and Dagon and Quil (Central) enter at halftime. The captions render "Grace Christian" as "GK" / "GCA" and Lauren as "Lawrence".
 # ---- first half ----
 T1 | Health | What part of the human body is affected by myopia? | The eye | Oliver:I | 1:I | .Oliver said the liver; Grace Christian's stealing player not named (said the kidney)
@@ -18,7 +18,7 @@ B6 | Visual | What feature shown here is unique to marsupials to help them care 
 T7 | Literature | What is the pattern of stressed and unstressed syllables in poetry? | Meter | Lauren:I | Oliver:I | .Lauren said iambic; Oliver said rhyme scheme
 T8 | Geology | What metal is found in bauxite? | Aluminum | Oliver:C
 B8 | Geology | A huge phosphate deposit discovered in Norway in 2023 also contains titanium and other minerals, including what chemical element with the symbol V? | Vanadium | Oliver:C
-T9 | Art | What water soluble synthetic paint allows an artist to combine the techniques of oil and watercolor paintings? | Acrylic | Kaylee:I | | .Kaylee's answer garbled in captions ("Carwash"); steal offered to Grace Christian, no answer captured
+T9 | Art | What water soluble synthetic paint allows an artist to combine the techniques of oil and watercolor paintings? | Acrylic | Kylie:I | | .Kaylee's answer garbled in captions ("Carwash"); steal offered to Grace Christian, no answer captured
 T10 | Government | What is the term for fair treatment through the normal judicial system, especially as a citizen's entitlement? | Due process | Oliver:I | | .Oliver's answer not captured; steal offered to Grace Christian, no answer captured
 T11 | Astronomy | What entities have gravitational fields so strong that even light cannot escape? | Black holes | Oliver:C
 B11 | Astronomy | Part 1: Which was the first planet discovered on the basis of theoretical calculations? // Part 2: Which was the first planet discovered with the aid of a telescope? | Part 1: Neptune // Part 2: Uranus | P10 | .team said Mercury for Part 2
@@ -63,7 +63,7 @@ T33 | Math | What is the sum of the square root of 289 added to the square root 
 T34 | Religion | What city do Jews, Christians and Muslims consider holy? | Jerusalem | Oliver:C
 B34 | Religion | Name four of the five books of the Pentateuch, the first five books of the Old Testament. | Any four of: Genesis, Exodus, Leviticus, Numbers, Deuteronomy | C | .team named four (Deuteronomy was the one it did not give)
 T35 | Geography | Which of the Great Lakes of North America is the largest? | Lake Superior | Lauren:I | Jessica:I | .Lauren said Lake Michigan; Jessica said Lake Ontario
-T36 | Chemistry | What is the element with the symbol K? | Potassium | Kaylee:C | .buzzer name read from "K"; team inferred
+T36 | Chemistry | What is the element with the symbol K? | Potassium | Kylie:C | .buzzer name read from "K"; team inferred
 B36 | Chemistry | Part 1: What is the common name of ferric oxide? // Part 2: What is the common name of ethylene glycol used in car radiators? | Part 1: Rust // Part 2: Antifreeze | I | .team said "salt" (rust) and "oil" for the two parts
 T37 | Literature | What mythical lumberjack supposedly carved out the Grand Canyon with his ax? | Paul Bunyan | Oliver:I | Jackson:C | .time was called on Oliver; the host re-read the question for the steal
 B37 | Literature | What Knoxville Catholic High School alumnus, who died in 2023, wrote No Country for Old Men and All the Pretty Horses and won the Pulitzer Prize for The Road? | Cormac McCarthy | I | .team had no answer

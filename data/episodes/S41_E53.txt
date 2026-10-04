@@ -1,9 +1,9 @@
 @EP S41 E53
 @ROUND Round of 8
 @TEAMS Farragut High School | Roane County High School
-@R1 Leighton, Armin, Russian, Nisha, Evan, Uday, Aiden
+@R1 Leighton, Armin, Roshan, Nisha, Evan, Uday, Aiden
 @R2 James, Lucas, Ethan, Maddox, Brylee, John, Emerson, Bailey
-# Name garbles in these captions: Leighton = "Late" / "Layton" / "Lightning" / "Latent"; Armin = "Almond" / "Amen" / "Ahmed" / "Harmon"; Russian = Farragut's captain (Ramanan); Maddox = "Matic's" / "Mannix"; Evan = "Even" / "Seven".
+# Name garbles in these captions: Leighton = "Late" / "Layton" / "Lightning" / "Latent"; Armin = "Almond" / "Amen" / "Ahmed" / "Harmon"; Roshan = "Russian" (Farragut's captain, Ramanan); Maddox = "Matic's" / "Mannix"; Evan = "Even" / "Seven".
 # ---- first half ----
 T1 | Geography | The city of Cincinnati is on which river? | The Ohio River | Lucas:C
 B1 | Geography | Part 1: In which time zone is Las Vegas, Nevada? // Part 2: In which time zone is Indianapolis, Indiana? | Part 1: Pacific // Part 2: Eastern | P10 | .team said Central for Part 2
@@ -28,20 +28,20 @@ B10 | Astronomy | What celestial event occurred on April 8th, 2024, in parts of 
 T11 | Government | What is the term for trying to get someone to do wrong by offering him or her special favors, bribery or money? | [unclear] | ?:C | !the buzzer and the answer are not in the captions (they jump from the question to the visual bonus); the answer is probably "corruption"
 B11 | Visual | On its 1976 bicentennial series of state flags, the U.S. Postal Service made what error on the Tennessee stamp seen here? | The flag is upside down | I | .team said the banner or bar was on the wrong side
 T12 | Geography | The sources of the Tigris and Euphrates rivers are in what country? | Turkey | Armin:I | Maddox:I | .Armin said Iraq; Maddox's answer garbled in captions ("It makes your iron"), probably Iran; the host gave Turkey
-T13 | English | What is the term for a verb that requires a direct object to complete its meaning? | Transitive verb | Russian:C
+T13 | English | What is the term for a verb that requires a direct object to complete its meaning? | Transitive verb | Roshan:C
 B13 | English | Which four words need to be capitalized in the following sentence? "William the Conqueror was the first Norman king of England." | William, Conqueror, Norman, England | C
 T14 | Music | A platinum award from the Recording Industry Association of America represents sales of how many units? | 1 million | Lucas:I | Leighton:C | .Lucas said 10 million; Leighton's name read from "Late"
 B14 | Music | Part 1: If the time signature is six eight, how many beats would a half note get? // Part 2: How many beats would a dotted quarter note get? | Part 1: 4 // Part 2: 3 | C | .the host's reaction to Part 1 is garbled in captions; he ruled both parts correct for 20 points
-T15 | Science | What prefix means things or activities connected with air or movement through the air? | Aero- | Russian:C | .answer garbled in captions ("arrow")
+T15 | Science | What prefix means things or activities connected with air or movement through the air? | Aero- | Roshan:C | .answer garbled in captions ("arrow")
 B15 | Science | Part 1: What chemical element is named after the mythological Greek goddess of the rainbow, who in the Iliad is the female messenger of the gods? // Part 2: What is the name of that mythological Greek goddess? | Part 1: Iridium // Part 2: Iris | C
-T16 | U.S. History | Who said, "I know not what course others may take, but as for me, give me liberty or give me death"? | Patrick Henry | Russian:I | Lucas:I | .Russian's answer not captured; Lucas said Thomas Paine
+T16 | U.S. History | Who said, "I know not what course others may take, but as for me, give me liberty or give me death"? | Patrick Henry | Roshan:I | Lucas:I | .Roshan's answer not captured; Lucas said Thomas Paine
 T17 | Pre-Calculus | What is the value of the base five logarithm of 125? | 3 | Lucas:C
 B17 | Pre-Calculus | What is the value of the tangent of 135 degrees in the unit circle? | -1 | Lucas:C
 T18 | Spelling | According to Reader's Digest, the most misspelled word in Tennessee is "Parliament." Spell "Parliament." | P-A-R-L-I-A-M-E-N-T | Armin:C | .buzzer name read from "Ahmed"
 B18 | Spelling | Spell "Brandeis," as in Brandeis University in Waltham, Massachusetts. | B-R-A-N-D-E-I-S | I | .team spelled it B-R-A-N-D-I-C-E
-T19 | Foreign Language | What is the English translation of the Spanish question "¿Qué hora es?" | What time is it? | Russian:C | .Spanish phrase reconstructed from the translation (captions: "K to S")
+T19 | Foreign Language | What is the English translation of the Spanish question "¿Qué hora es?" | What time is it? | Roshan:C | .Spanish phrase reconstructed from the translation (captions: "K to S")
 B19 | Foreign Language | Part 1: What is the English translation for the Spanish word "fuego"? // Part 2: What is the English translation for the Spanish word "nieve"? | Part 1: Fire // Part 2: Snow | C | .Spanish words reconstructed from the answers (captions: "naive" for nieve)
-T20 | Biology | A honeybee getting nectar or pollen from a flower is an example of which type of symbiotic relationship? | Mutualism | Russian:I | Maddox:C | .Russian said symbiosis; Maddox's name read from "Matic's"
+T20 | Biology | A honeybee getting nectar or pollen from a flower is an example of which type of symbiotic relationship? | Mutualism | Roshan:I | Maddox:C | .Roshan said symbiosis; Maddox's name read from "Matic's"
 B20 | Biology | List four of the eight levels of classification in the Linnaean taxonomy system. | Any four of: domain, kingdom, phylum, class, order, family, genus, species | Lucas:P15 | .team named order, family and genus plus one wrong item; three counted (15 points)
 T21 | History | In 30 BC, Cleopatra killed herself following the defeat of her forces by what future first emperor of Rome? | Octavian (Augustus Caesar) | ?:C | .buzzer and team not identified in captions
 B21 | History | Which Native American leader, known as the last Apache war chief, fought against both Mexican and American forces in the second half of the 19th century? | Geronimo | I | .team said Sitting Bull
@@ -77,7 +77,7 @@ T38 | Mythology | Which mythological Greek god was a messenger who wore winged s
 B38 | Mythology | What Broadway and movie musical, with a plot similar to a 19th century German short story, is about a mythical Scottish town that appears for one day every 100 years? | Brigadoon | I | .team had no answer
 T39 | Foreign Language | What is the German word for the color black? | Schwarz | 1:C | .buzzer name garbled in captions ("Look at spots"), probably Leighton; team inferred
 B39 | Foreign Language | What is the literal English translation of the French phrase "mon chou," a term of endearment for someone much loved? | My cabbage | I | .team said "my little something" and "my little baby"
-T40 | Science | What temperature in Celsius is equal to 95 degrees Fahrenheit? | 35 degrees Celsius | Russian:I | Lucas:C | .Russian's answer not captured; no bonus appears in the captions after this steal
+T40 | Science | What temperature in Celsius is equal to 95 degrees Fahrenheit? | 35 degrees Celsius | Roshan:I | Lucas:C | .Roshan's answer not captured; no bonus appears in the captions after this steal
 T41 | History | Who was the Prime Minister of Japan responsible for the bombing of Pearl Harbor in 1941? | Hideki Tojo | Armin:C | .buzzer name read from "Arman"
 B41 | History | Which two wives of Henry VIII were cousins and were beheaded five years apart at the Tower of London? | Anne Boleyn and Catherine Howard | C | .team first offered Catherine of Aragon and Anne of Cleves before settling on the right pair
 T42 | Government | In the U.S., what distinguishes a bench trial? | There is no jury | Lucas:C | .answer read from "No. Jury correct"

@@ -2,7 +2,7 @@
 @ROUND Round 1
 @TEAMS Dobyns-Bennett High School (Abby's team) | Somerset High School (KY)
 @R1 Anton, Justin, Abby, Mulan, Eleanor, Derek, E.J.
-@R2 Quinton, Blake, John, Caroline, Kate
+@R2 Quentin, Blake, John, Caroline, Kate
 # Dobyns-Bennett has two teams in the tournament; this one is captained by Abby. John is Somerset's captain. The captions render Mulan as "Milan". Derek, E.J. and Eleanor (DB) enter at halftime. Somerset won.
 # ---- first half ----
 T1 | U.S. History | The American Revolutionary War began with which battle in 1775? | The Battles of Lexington and Concord | Justin:C
@@ -20,7 +20,7 @@ B6 | Visual | Which country is highlighted on the map shown here? | Mongolia | C
 T7 | Foreign Language | "Mardi Gras" is a French phrase that translates to what? | Fat Tuesday | Mulan:I | Caroline:I | .Mulan's answer was not clear in captions; Caroline said "overindulgence"
 T8 | Technology | What is another term for the base two system? | Binary | Mulan:C
 B8 | Technology | In terms of internet connections, what do the letters VPN represent? | Virtual private network | C
-T9 | Religion | Who is credited with originating the Protestant Reformation? | Martin Luther | Quinton:C
+T9 | Religion | Who is credited with originating the Protestant Reformation? | Martin Luther | Quentin:C
 B9 | Religion | In 1847, after 17 months of travel, which man led 148 Mormon pioneers from Illinois into Utah's Valley of the Great Salt Lake? | Brigham Young | I | .team said Joseph Smith (and Bessie Smith)
 T10 | Geometry | The ratio of the angles of a triangle is 3 to 4 to 5. What is the measure of the smallest angle? | 45 degrees | John:C
 B10 | Geometry | What diameter of tablecloth is needed to completely cover a round top table that is 20 inches across and 25 inches high? | 70 inches | I | .team said 25
@@ -33,7 +33,7 @@ B13 | Science | The 10,000 year old burial of a female infant discovered in Euro
 T14 | Mythology | Of what material is the mythological Trojan horse made? | Wood | Caroline:C
 B14 | Mythology | What were the names of the mythical twin sons of Mars who, according to legend, founded Rome in 753 BC? | Romulus and Remus | C
 T15 | Chemistry | A majority of the world's aluminum comes from which ore? | Bauxite | Mulan:I | 2:I | .Mulan said aluminum oxide; Somerset's stealing player not named (said iron)
-T16 | Tennessee History | When Tennessee joined the Union, how many states were already part of the United States? | 15 | Quinton:I | Mulan:C | .Quinton said 14
+T16 | Tennessee History | When Tennessee joined the Union, how many states were already part of the United States? | 15 | Quentin:I | Mulan:C | .Quinton said 14
 B16 | Visual | Who is this businessman and politician, shown here, who served as the 48th governor of Tennessee after serving as the 66th mayor of Nashville? | Phil Bredesen | I | .team (via Justin) said Mike Pence
 T17 | Art | What is the title of the artwork by Charles M. Schulz that appeared in seven different newspapers starting in 1950? | Peanuts | Caroline:C
 B17 | Art | What famous photographer, born in 1902, is known for the photo "Moonrise, Hernandez, New Mexico"? | Ansel Adams | C
@@ -60,7 +60,7 @@ B27 | Religion | What religion's followers believe in one God but not the Trinit
 T28 | Biology | What is the Japanese art of growing and training miniature trees? | Bonsai | Eleanor:C
 B28 | Biology | Part 1: An estimated 16,000 to 20,000 species of what animal are the top pollinators? // Part 2: What is the scientific study of honeybees? | Part 1: Bees // Part 2: Apiology | P10 | .team had no answer for Part 2
 T29 | Vocabulary | "Indices" is the plural form of what word? | Index | NB | | .nobody answered; the host gave the answer
-T30 | Algebra | Evaluate 2x − 3y − 5z if x = 3, y = 2 and z = 4. | -20 | Quinton:I | Derek:C | .Quinton said zero (name read from "Clinton")
+T30 | Algebra | Evaluate 2x − 3y − 5z if x = 3, y = 2 and z = 4. | -20 | Quentin:I | Derek:C | .Quinton said zero (name read from "Clinton")
 B30 | Algebra | Given the equation 7x − 20y = 3x − 13y, find the ratio of x to y. | 7 to 4 | I | .team said 4 to 7
 T31 | Economics | What is the term for a period of increased business activity, rising stock prices and prosperity? | A boom | Eleanor:C | .buzzer name read from "Airline"
 B31 | Economics | Part 1: What fashion doll was launched at the New York Toy Fair on March 9th, 1959? // Part 2: What company manufactures the Barbie doll? | Part 1: Barbie // Part 2: Mattel | C
@@ -72,7 +72,7 @@ T34 | Foreign Language | What is the Spanish word for book? | Libro | ?:C | .buz
 B34 | Foreign Language | Part 1: What is the national language of the Netherlands? // Part 2: What is the national language of Denmark? | Part 1: Dutch // Part 2: Danish | C
 T35 | Technology | Which technology allows wireless communication between devices such as phones and earbuds? | Bluetooth | Caroline:C
 B35 | Technology | Part 1: One 2023 survey listed what country that borders Spain on the Iberian Peninsula as the best location for digital nomads? // Part 2: A separate survey listed what state capital, home to the college football Buckeyes, as the best U.S. location for digital nomads? | Part 1: Portugal // Part 2: Columbus, Ohio | C
-T36 | Geography | What is the capital of India? | New Delhi | Quinton:I | Eleanor:I | .Quinton's answer is garbled in captions; Eleanor said Mumbai
+T36 | Geography | What is the capital of India? | New Delhi | Quentin:I | Eleanor:I | .Quinton's answer is garbled in captions; Eleanor said Mumbai
 T37 | Music | What is the minimum number of notes needed to form a chord? | Three | John:C
 B37 | Music | Part 1: What is the major key for an instrument like a piano when the key signature has three sharps? // Part 2: What is the major key when the key signature has two flats? | Part 1: A major // Part 2: B-flat major | C
 T38 | Science | What is the branch of engineering that deals with the motion and behavior of projectiles such as bullets, bombs and missiles? | Ballistics | Caroline:C
@@ -83,4 +83,4 @@ T41 | Government | What word besides USA has appeared on all first class postage
 B41 | Government | Which two East Tennessee counties were named for the state's first two U.S. senators? | Blount County and Cocke County | C | .the host's confirmation is cut off in the captions
 T42 | Architecture | What fortress was built by William the Conqueror to protect the capital of England? | The Tower of London | Eleanor:C
 B42 | Architecture | Name two of the three types of Greek columns. | Any two of: Doric, Ionic, Corinthian | Eleanor:P10 | .team said Corinthian, "Classic" and "Obelisk"; the host took the first two answers
-T43 | Health | What is the disease caused by a deficiency of vitamin C? | Scurvy | Quinton:C | .time ran out before the bonus
+T43 | Health | What is the disease caused by a deficiency of vitamin C? | Scurvy | Quentin:C | .time ran out before the bonus

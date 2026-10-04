@@ -1,6 +1,6 @@
 @EP S40 E33
 @ROUND Round of 32
-@TEAMS Temple Baptist Academy | Somerset High School
+@TEAMS Temple Baptist Academy | Somerset High School (KY)
 @R1 Parker, Easton, Will, Micah, Kayla
 @R2 Quentin, Blake, John, Caroline, Kate
 # Will is Temple Baptist's captain and John is Somerset's captain. The captions render Will as "Well", Micah as "My/Mica/Michael Vick sama", and Quentin as "Clinton/Quenton". Temple Baptist is from Powell, Tennessee; Somerset is from Somerset, Kentucky. Kayla joins Temple Baptist and Kate joins Somerset for the second half.

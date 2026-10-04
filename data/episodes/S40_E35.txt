@@ -1,13 +1,13 @@
 @EP S40 E35
 @ROUND Round of 32
-@TEAMS Jefferson County High School | Unicoi County High School
-@R1 Eli, Katie, Evan, Zach, Reagan, Noah
+@TEAMS Jefferson County High School (Evan's team) | Unicoi County High School
+@R1 Eli, Katy, Evan, Zach, Reagan, Noah
 @R2 Leah, Emily, Brian, Galen
 # Evan is Jefferson County's captain and Brian is Unicoi County's captain. The captions render Leah as "Leia", Zach as "Zachary", Brian as "Bryan/Bryant", Evan as "11" (twice) and Unicoi as "Unicorn". Jefferson County brings in Reagan and Noah for the second half; Unicoi keeps its lineup.
 # ---- first half ----
 T1 | Sports | In what sport do teams compete for the Stanley Cup? | Hockey | Evan:C
 B1 | Sports | As of the start of the 2024 season, which Major League Baseball team has never been in a World Series? | The Seattle Mariners | I | .the team passed
-T2 | History | On what day each year does Mexico celebrate its declaration of independence from Spain? | September 16 | Brian:I | Katie:I | .Brian said Cinco de Mayo; Katie said October 3rd
+T2 | History | On what day each year does Mexico celebrate its declaration of independence from Spain? | September 16 | Brian:I | Katy:I | .Brian said Cinco de Mayo; Katie said October 3rd
 T3 | Vocabulary | What word describes a work or type of writing that ridicules human vice and folly? | Satire | Eli:C
 B3 | Vocabulary | Part 1: In Through the Looking-Glass, the author combined what two words to coin the new word "chortle"? // Part 2: Who wrote Through the Looking-Glass? | Part 1: Chuckle and snort // Part 2: Lewis Carroll | P10 | .the team passed on Part 2
 T4 | Biology | What are the breathing organs of fish? | Gills | Evan:C
@@ -23,7 +23,7 @@ T9 | Physics | Which form of energy is possessed by an object that is currently 
 B9 | Physics | Name four of the six simple machines. | Any four of: inclined plane, lever, pulley, screw, wedge, wheel and axle | P5 | .the team named lever, fulcrum and load; the host counted lever (five points) and said the judges might add more
 T10 | Foreign Language | Which English word is actually a German word for a school that prepares children for first grade? | Kindergarten | Emily:C
 B10 | Foreign Language | Editorial articles throughout the world asked why many social media posts about the 2023 Titan submersible disaster seem to derive pleasure from the misfortune of others, which is known as what 13 letter German word? | Schadenfreude | C
-T11 | Music | Which singer who was eliminated from The X Factor and put into a band mentored by Simon Cowell recently topped the charts as a solo artist? | Harry Styles | Leah:I | Katie:C | .Leah said One Direction; Katie's steal name is read from "Katy's Ring"
+T11 | Music | Which singer who was eliminated from The X Factor and put into a band mentored by Simon Cowell recently topped the charts as a solo artist? | Harry Styles | Leah:I | Katy:C | .Leah said One Direction; Katie's steal name is read from "Katy's Ring"
 B11 | Visual | Who is the iconic trumpet player shown here, one of the most influential figures in jazz, for whom the New Orleans International Airport was named in 2001? | Louis Armstrong | C
 T12 | History | What was the name of the tax passed by Parliament in 1765, placed on playing cards, publications and legal documents? | The Stamp Act | Brian:C | .the host said he answered before being called on but accepted it
 B12 | History | Which U.S. president is credited with lobbying Congress to lower tariffs while instituting a federal income tax in 1913 and asking Congress to declare war on Germany in 1917? | Woodrow Wilson | I | .team said Teddy Roosevelt

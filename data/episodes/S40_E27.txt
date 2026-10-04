@@ -1,0 +1,86 @@
+@EP S40 E27
+@ROUND Round 1
+@TEAMS Maryville High School (Mohammed's team) | Sevier County High School
+@R1 Patrick, Olivia, Mohammed, Costin, Anna
+@R2 John, Sidney, Addison, Kaden
+# Maryville has several teams in the tournament; this one is captained by Mohammed. The captions render Olivia as "Livia", Costin as "Constant/Custom/Huston/Kostin", Addison as "Edison/Allison/Harrison", Sevier as "Severe/Seviere", and Maryville as "Marvel". Maryville brings in Anna for the second half. Sevier finished above 100 points ("at least you broke the century mark"); the captions give no other score.
+# ---- first half ----
+T1 | Government | Which amendment to the U.S. Constitution voided a previous amendment? | The 21st Amendment (repealing Prohibition) | Olivia:C
+B1 | Government | Part 1: What country took over the rotating presidency of the EU in 2023 (the captions say August)? // Part 2: What country will hold the presidency of the EU in February 2024? | Part 1: Spain // Part 2: Belgium | I | .the team said Germany and then France; the host gave both answers
+T2 | Literature | What Walt Whitman collection of poems represents the celebration of his philosophy of life? | Leaves of Grass | 1:I | Addison:I | .Maryville's buzzer is not named (said Walden Pond); Addison was recognized on the steal but his answer is not captured
+T3 | Religion | What is the title of the crowdfunded television series created by Dallas Jenkins that focuses on the apostles and their interactions with Jesus? | The Chosen | John:C
+B3 | Religion | Part 1: What is the last book of the New Testament of the Bible? // Part 2: Who is believed to have written the Book of Revelation? | Part 1: Revelation // Part 2: The Apostle John | C
+T4 | Health | In humans, what is the group of four large muscles located on the front of the thigh? | The quadriceps | 1:C | .buzzer not named; Maryville from the bonus (answered by Costin)
+B4 | Health | What are the two types of photoreceptors found in the retina? | Cones and rods | Costin:C
+T5 | Algebra | Solve for y in the equation 3y − 9 = −21. | y = −4 | Costin:I | Sidney:C | .Costin's answer was garbled in the captions
+B5 | Algebra | Solve for x if x² = 2x + 3. I need both solutions. | x = −1 and x = 3 | I | .the team's answer was garbled and not in the required form
+T6 | Economics | According to a grocery delivery and pickup service, what was the most popular Halloween candy for 2023 in 11 states, including Tennessee? | Reese's Peanut Butter Cups | Patrick:I | Addison:I | .Patrick said candy corn; Addison said Snickers
+T7 | Foreign Language | What is the phrase for "good day" in German? | Guten Tag | 1:C | .buzzer not named; Maryville from the bonus (Mohammed deferred to Olivia)
+B7 | Foreign Language | Part 1: What is the phrase for "I love you" in Spanish? // Part 2: What is the phrase for "I love you" in German? | Part 1: Te amo // Part 2: Ich liebe dich | Olivia:P10 | .Olivia answered Part 1; the captions garble the Part 2 attempt, which was wrong
+T8 | Art | What is the term for a painter representing objects on a flat surface as they appear to the eye from a distance? | Linear perspective | Costin:C
+B8 | Visual | Part 1: Known in English as the Mona Lisa, what is the Italian name for the famous painting shown here? // Part 2: Who ordered the Mona Lisa to be removed from the Louvre in 1800 and hung on the wall of his bedroom until 1804, when he crowned himself Emperor of France? | Part 1: La Gioconda // Part 2: Napoleon Bonaparte | P10 | .the team said "the Mona Lisa" for Part 1
+T9 | Astronomy | Which planet in our solar system is known for its Great Dark Spot? | Neptune | Costin:I | Addison:I | .Costin said Uranus; Addison said Mars
+T10 | History | The election that triggered secession is remembered as a race between mostly two candidates, Abraham Lincoln and who? | Stephen Douglas | ?:C | .buzzer and team not identified in captions
+B10 | History | Part 1: In 2022, President Biden's first White House state dinner welcomed the president of which country? // Part 2: The very first state dinner ever welcomed the King of Hawaii and was hosted by which president in 1874? | Part 1: France // Part 2: Ulysses S. Grant | I | .the team said Morocco, then Rutherford B. Hayes and "Ford"
+T11 | Geography | What city was previously known as Peking? | Beijing | Patrick:C
+B11 | Geography | Illegal gold mining, in which mercury is mixed with river sediment to extract gold, is cited as the cause of illnesses in children along the Beni River in Bolivia. The river rises near which city that is the seat of government in Bolivia? | La Paz | I | .the team said Sucre (captions: "So gray")
+T12 | Vocabulary | Complete the proverb: People in glass houses shouldn't throw ... | Stones | 1:C | .buzzer not named (the host reminded the player to wait to be called on); Maryville from the bonus (Mohammed deferred to Costin)
+B12 | Vocabulary | Part 1: What phrase that includes the word "hand" means caught in the act of doing something wrong? // Part 2: What phrase that includes the word "hand" describes winning a race easily? | Part 1: Caught red-handed // Part 2: Hands down | Costin:P10 | .the team said "upper hand" for Part 2
+T13 | Miscellaneous | In what country did Parmesan cheese have its origin? | Italy | Costin:C | .buzzer name read from "Custom"
+B13 | Miscellaneous | What Ohio private liberal arts college's athletic teams are nicknamed the Yeomen and Yeowomen and is known for being the first co-educational college in the U.S.? | Oberlin College | Patrick:I | .the team said Akron; the captions call it "Oberlin University"
+T14 | Chemistry | 18 karat gold contains what percentage of pure gold? | 75 percent | 1:C | .buzzer not named; Maryville from the bonus
+B14 | Chemistry | Part 1: What is the chemical name of Epsom salt? // Part 2: What is the chemical formula for magnesium sulfate? | Part 1: Magnesium sulfate // Part 2: MgSO4 | Costin:P10 | .the team said potassium chloride for Part 1
+T15 | Math | What type of lines form right angles? | Perpendicular lines | 1:C | .buzzer not named; Maryville from the bonus
+B15 | Visual | Find the area of a trapezoid with a height of six feet and bases of 13.6 feet and 10.4 feet. | 72 square feet | I | .the team's answer was garbled (about "69 square inches")
+T16 | History | What Middle Eastern group has a military wing known as the Izz ad-Din al-Qassam Brigades that has conducted many anti-Israel attacks in both Israel and Palestine since the 1990s? | Hamas | Patrick:C
+B16 | History | Part 1: In August 1858, which Queen of England // Part 2: and which President of the United States exchanged congratulatory messages via the first trans-Atlantic telegraph cable? | Part 1: Queen Victoria // Part 2: James Buchanan | P10 | .the team said Rutherford B. Hayes for Part 2
+T17 | Literature | With a plot similar to a 19th century German short story, what Broadway and movie musical is about a mythical Scottish town that appears for only one day every hundred years? | Brigadoon | Olivia:C | .buzzer name read from "Livia"
+B17 | Mythology | Part 1: Name the city of the gods built by Odin, chief god of the Norse pantheon. // Part 2: Name the great city in ancient Greece that was the site of a celebrated oracle of Apollo. | Part 1: Asgard // Part 2: Delphi | C
+T18 | Architecture | Which style of architecture often features red tiled roofs and stucco walls? | Spanish Revival | Costin:I | John:I | .Costin said adobe; John said Roman
+T19 | Biology | Oceanographers use what term to describe the amount of dissolved salts in ocean water? | Salinity | Olivia:C
+B19 | Biology | Nearly one fourth of the world's cacti species live in the Chihuahuan Desert. Name two of the three U.S. states that are in the Chihuahuan Desert. | Any two of: New Mexico, Arizona, Texas | C | .the team said New Mexico and Arizona
+T20 | Music | What kind of portable instrument, sometimes called the squeezebox, uses hand-pumped bellows? | Accordion | Olivia:C
+B20 | Music | What is the main reason that the K-pop group BTS went on hiatus? | Mandatory military service in South Korea | C | .the captions garble the year and wording; the host moved on after confirming military service (taken as 20 points)
+T21 | U.S. History | In 1837, which U.S. state created the first Board of Education after establishing the first free public schools? | Massachusetts | Costin:I | Addison:I | .Costin said Ohio (read from "coast in Ohio"); Addison said a Carolina; the first half ended after this question
+# ---- second half ----
+T22 | Literature | In The Hobbit, what item has the power to make someone become invisible? | The One Ring | 1:C | .the captions show "In the habit"; buzzer not named; Maryville from the bonus
+B22 | Literature | Part 1: What literary term is a figure of speech in which something non-human is given human characteristics? // Part 2: What literary term is a statement that reveals a kind of truth although it seems at first to be self-contradictory? | Part 1: Personification // Part 2: Paradox | C
+T23 | Games | A single-player matching game that was introduced in early versions of Microsoft Windows used images of tiles from what popular Chinese game, similar to rummy? | Mahjong | John:C
+B23 | Games | What is an evasion-type trick-taking card game for four players who try to avoid picking up tricks with hearts or the queen of spades? | Hearts | I | .the team said "old maid"
+T24 | Geology | Geologists study [wording garbled in captions]. What do you call someone who studies caves, as when you go spelunking? | Speleologist | Costin:I | 2:I | !the question is badly garbled in the captions ("what do you spill? Geologists study constant earthquakes ... strong oil spills, caves when you go spelunking, smelly-ologist or philologist"); the answer "speleologist" is inferred; both buzzers' answers were wrong and Sevier's stealer is not named
+T25 | Geometry | In a right triangle, the legs measure 0.5 inches and 1.2 inches. What is the measure of the hypotenuse? | 1.3 inches | John:C
+B25 | Geometry | What is the sum of the measures, in degrees, of the exterior angles, one per vertex, of a rectangle? | 360 degrees | C
+T26 | Geography | The city of Cincinnati is on what river? | The Ohio River | Costin:I | John:I | .Costin said Columbus; John said the Mississippi
+T27 | Architecture | In what city is the Golden Gate Bridge located? | San Francisco | Olivia:C
+B27 | Visual | What is the name of this long bridge in the Florida Keys shown here that connects Knight's Key to Little Duck Key and was seen in the movie 2 Fast 2 Furious? | The Seven Mile Bridge | C
+T28 | Religion | The Hindu deities Brahma, Vishnu and Lakshmi are commonly depicted as sitting or standing on what flower? | The lotus | 1:C | .buzzer not named; Maryville from the bonus (answered by Olivia)
+B28 | Religion | In June 2023, contestants on an episode of Jeopardy! were unable to name what missing word in the following line of the Lord's Prayer: "Our Father, who art in heaven, ___ be thy name"? | Hallowed | Olivia:C
+T29 | Science | What term refers to the temperature at which the vapor pressures of the solid and liquid phases of a substance are equal? | Melting point | 1:I | Sidney:C | .Maryville's buzzer is not named (the captions show "boiling point")
+B29 | Science | Name four of the ten greatest scientists of all time as chosen by Discover magazine in 2017. | Any four of: Einstein, Darwin, Newton, Tesla, Rosalind Franklin, Ada Lovelace, Carl Linnaeus, Galileo, Marie Curie, Pythagoras | P15 | .the team named Newton, Einstein, Darwin and Churchill; three counted (15 points)
+T30 | Government | What book is the standard reference for parliamentary procedure? | Robert's Rules of Order | ?:C | .buzzer and team not identified in captions
+B30 | Government | Bosnia and Herzegovina has been recognized by the EU as a candidate country for accession and is on the agenda for future enlargement of the EU. Bosnia and Herzegovina was formed following the collapse of which country? | Yugoslavia | C
+T31 | Economics | In American publishing, which genre accounts for the largest amount? | Romance | ?:C | .buzzer and team not identified in captions; the answer is garbled in the captions ("romantic ... of paperbacks")
+B31 | Economics | Who are the first two American billionaires? | Henry Ford and John D. Rockefeller | C
+T32 | Grammar | When two singular subjects are connected by the word "or" or "nor," what type of verb should be used? | A singular verb | Addison:I | Olivia:I | .Addison said "conjunctive"; Olivia said "transitive"
+T33 | Sports | Which sport features sculls, strokes and slides? | Rowing | Olivia:C
+B33 | Visual | Part 1: Quarterback Y. A. Tittle, shown here, led what Big Apple team to the NFL's championship game in three of the final four seasons of his career? // Part 2: The Giants played in what Bronx baseball stadium from 1956 to 1973? | Part 1: The New York Giants // Part 2: Yankee Stadium | P10 | .the team said MetLife Stadium for Part 2
+T34 | Chemistry | What is the name of the compound represented by the formula K2CO3? | Potassium carbonate | ?:C | .buzzer and team not identified in captions
+B34 | Chemistry | Who is credited with the discovery of hydrogen? | Henry Cavendish | I | .team said Lavoisier
+T35 | Math | What is the square root of three raised to the fourth power? | 9 | Olivia:C
+B35 | Math | Solve for x: (−5 − x) / 3 = 1. | x = −8 | C
+T36 | U.S. History | What was the journey of the Cherokee Indians to lands west of the Mississippi called? | The Trail of Tears | Olivia:C
+B36 | U.S. History | Part 1: Which president signed the act that created the Tennessee Valley Authority in 1933? // Part 2: Which president met Joseph Stalin at the Potsdam Conference in Germany in July 1945? | Part 1: Franklin D. Roosevelt // Part 2: Harry S. Truman | C
+T37 | Foreign Language | How many different tones are involved in Mandarin Chinese? | Four | Sidney:I | 1:C | .Sidney said six; Maryville's stealer is not named
+B37 | Foreign Language | What is the Latin term that is used in English to mean "in exactly the same words"? | Verbatim | Anna:C | .Mohammed deferred to Anna
+T38 | Music | What kind of musical note is made up of a blackened circle attached to a vertical stem? | A quarter note | Addison:I | Olivia:C | .Addison buzzed early and said "an eighth note"
+B38 | Music | Part 1: Who composed the opera Fidelio? // Part 2: Who composed the opera Tristan and Isolde? | Part 1: Ludwig van Beethoven // Part 2: Richard Wagner | I | .the team said Verdi and then Strauss
+T39 | Health | What is the name for the relatively rare sleep disorder that causes overwhelming daytime drowsiness? | Narcolepsy | 2:I | Costin:C | .Sevier's buzzer is not named (said sleep apnea); Costin's steal name is read from "constant"
+B39 | Health | Part 1: What is the medical term for an extreme fear of fire? // Part 2: What is the medical term for an intense, sometimes irrational fear of the sun, sunlight or any bright light? | Part 1: Pyrophobia // Part 2: Heliophobia | C
+T40 | Technology | Google Sheets is compatible with spreadsheet files from what Microsoft program? | Excel | ?:C | .buzzer and team not identified in captions
+B40 | Technology | Which Western state became the first to ban TikTok, citing fears that the app's Chinese-owned parent company could be providing Americans' data to the Chinese government? | Montana | C
+T41 | Geography | Which canal is the most used waterway for shipping? | The Suez Canal | Sidney:I | Olivia:C | .Sidney said Panama
+B41 | Geography | Name four of the nine TVA dams on the Tennessee River. | Any four of: Kentucky, Pickwick Landing, Wilson, Wheeler, Guntersville, Nickajack, Chickamauga, Watts Bar, Fort Loudoun | I | .the team named Tellico, "Fort Lauderdale," Loudon and "Maryville" dams; the host said none counted
+T42 | Literature | John Bunyan wrote what book about a man named Christian and his journey toward heaven? | The Pilgrim's Progress | Costin:I | Addison:I | .Costin said Paradise Lost (name read from "Huston"); Addison said "Journey to Heaven" (name read from "Harrison")
+T43 | Art | What is the term for artwork that is applied directly to a wall or ceiling, using techniques including painting, fresco, mosaic and graffiti? | A mural | Costin:I | Sidney:C | .Costin buzzed early and said fresco
+B43 | Art | What Dutch pioneer of 20th century abstract art is best known for using simple geometric elements like squares and rectangles and the three primary colors? | Piet Mondrian | Sidney:I | .Sidney said Salvador Dalí
+T44 | Physics | What is the term for the process by which rainbows are formed? | Refraction | ?:I | | .buzzer not identified; the player said diffraction and the time ran out, ending the game

@@ -1,0 +1,84 @@
+@EP S40 E28
+@ROUND Round 1
+@TEAMS Scott County High School (Brylan's team) | Oneida High School
+@R1 Connor, Joslin, Brylan, Cameron
+@R2 Michaelan, Tina, Philip, Alexa
+# Scott County has more than one team in the tournament; this one is captained by Brylan (captions: "Brolin/Brown"). The captions render Connor as "Counter/Corner/Conner", Cameron as "Camera/Cameron", Joslin as "Jocelyn/Joslyn/Josh", Oneida as "an item/an idea/another/neither", and "I defer to Connor" as "and doesn't that corner / isn't it cleaner". Both lineups stay the same all game.
+# ---- first half ----
+T1 | Science | What U.S. inventor was the first to patent the incandescent electric lamp? | Thomas Edison | Brylan:C
+B1 | Science | Part 1: What branch of medicine is concerned with the uses, effects and modes of action of drugs? // Part 2: Which branch of physics is concerned with the properties of sound? | Part 1: Pharmacology // Part 2: Acoustics | Connor:I | .captions: "And isn't it cleaner?" (Brylan deferring to Connor); the team said "pharmaceutical science" and "frequency"
+T2 | Sports | Which former UT football player who wore number 92 is the only NFL player to have his number officially retired by two different NFL franchises? | Reggie White | Brylan:C | .the buzzer's answer is not in the captions (the host only joked "No asterisk like Peyton's got"); the name is supplied from the question
+B2 | Sports | Part 1: What is the team name for the athletic program at the University of Washington? // Part 2: What is the team name for the athletic program at the University of Miami? | Part 1: Huskies // Part 2: Hurricanes | C
+T3 | Foreign Language | What is the commonly used Latin phrase that means solid ground? | Terra firma | Connor:C
+B3 | Foreign Language | What is the French phrase for complete freedom to do something that literally translates to "blank document"? | Carte blanche | I | .team said "à la carte"; the host said they were on the right track
+T4 | Geometry | The area of an isosceles right triangle is 98 square feet. What is the length of one leg? | 14 feet | NB | | .nobody got it in time; the host gave the answer
+T5 | U.S. History | Which famous American said, "Tranquility Base here, the Eagle has landed"? | Neil Armstrong | 1:I | | .Scott's buzzer is not named (said Franklin); the steal went unanswered and the host gave the answer
+T6 | Physics | What force acts on an object perpendicular to the surface? | The normal force | Connor:I | Tina:I | .Connor said friction; Tina said gravity
+T7 | Architecture | What is the nickname for the great bell of the Great Clock of Westminster at the north end of the Palace of Westminster in London, England? | Big Ben | Michaelan:C
+B7 | Architecture | What New York City skyscraper, previously called Freedom Tower, is the tallest building in the United States? | One World Trade Center | I | .team said the Empire State Building
+T8 | Mythology | What legendary monster is depicted as the large, hideous man-like being that lives under a bridge in the children's story The Three Billy Goats Gruff? | A troll | Connor:C
+B8 | Visual | Who was the mythological king who cheated death twice and was sentenced by Hades to perform the futile task illustrated here? | Sisyphus | C | .the captions garble the team's answer ("A Disney Corner office"), which the host accepted for 20 points
+T9 | Economics | What is the term for a tax on imported goods? | A tariff | Cameron:C
+B9 | Economics | India's highest value banknotes were withdrawn from circulation in 2023. What is the name of India's currency? | The rupee | I | .team said "ruby"
+T10 | Geography | In what U.S. city is the Space Needle, built for the 1962 World's Fair, located? | Seattle | Brylan:C
+B10 | Geography | Part 1: In which state is Fort Belvoir located? // Part 2: In which state is Fort Knox located? | Part 1: Virginia // Part 2: Kentucky | I | .team said South Carolina for Part 1; its Part 2 answer is not captured
+T11 | Health | What feature of the face might have a deviated septum? | The nose | 1:C | .buzzer not named; Scott from the bonus (Brylan deferred to Connor)
+B11 | Health | Part 1: What are the fibrous connective tissues that attach muscle to bone? // Part 2: What are the fibrous connective tissues that attach bone to bone? | Part 1: Tendons // Part 2: Ligaments | Connor:P10 | .the team said "sinew" for Part 1
+T12 | Art | In the famous photograph of the flag raising at Iwo Jima, how many men are shown participating? | Six | 2:I | Cameron:C | .Oneida's buzzer is not named and the player answered before being called on (warning); Cameron stole with six
+B12 | Art | Part 1: Who painted The Scream? // Part 2: The Scream is displayed in the National Museum in what city? | Part 1: Edvard Munch // Part 2: Oslo, Norway | P10 | .the team said Philadelphia for Part 2
+T13 | Vocabulary | What is the sudden movement of ice, snow and other debris down a mountainside? | An avalanche | Joslin:C
+B13 | Vocabulary | What five letter word beginning with A means a proverb or short statement expressing a general truth? | Adage | I | .the team gave no answer
+T14 | Algebra | Solve for x: if x² = 121/169, give both solutions. | x = 11/13 and x = −11/13 | NB | | .nobody rang in before the buzzer; the host gave the answer
+T15 | Geography | What color is most frequently used on national flags? | Red | 1:C | .buzzer not named; the captions garble the question ("bright red national flags"); Scott from the bonus (answered by Brylan)
+B15 | Visual | When the Olympic flag shown here was first displayed in 1914, what was the significance of the colors of the five rings and the white background? | They were the colors found on the national flags of all nations at the time | Brylan:I | .the team's answer is garbled ("the sports"); the host explained the real answer
+T16 | Technology | Google Docs is compatible with document files from what Microsoft program? | Word | Cameron:C
+B16 | Technology | Part 1: Who won the 1952 presidential election, which was the first time a computer predicted the outcome? // Part 2: What was the name of the computer that correctly predicted that outcome? | Part 1: Dwight D. Eisenhower // Part 2: UNIVAC | P10 | !the captions are ambiguous: for Part 1 they show "Truman and Sir Truman Eisenhower" with no clear ruling; Part 2 had no answer; treated as ten points
+T17 | Music | Which of the Beatles wrote the song "Here Comes the Sun"? | George Harrison | Brylan:I | Michaelan:I | .Brylan said Paul McCartney; the steal name is read from "McCallum" (Michaelan) and the answer was John Lennon
+T18 | Literature | At what time did Poe's Raven gently rap on the chamber door? | Midnight | Brylan:C
+B18 | Literature | Who are the two close friends who each wrote about fantasy worlds, one creating Middle-earth and the other Narnia? | J.R.R. Tolkien and C.S. Lewis | Connor:C | .Brylan deferred to Connor
+T19 | Miscellaneous | In the fourth millennium BCE, the invention of what device marked the beginning of agricultural civilization? | The plow | Joslin:C
+B19 | Miscellaneous | According to the Economist's annual index, what city in Austria is the world's most livable for 2023, based on health care, education, culture and infrastructure? | Vienna | I | .the team's answer is not captured; the host gave Vienna and no points
+T20 | U.S. History | Who was the woman whose refusal to give up her seat on a Montgomery city bus ... [cut off by the buzzer]? | Rosa Parks | Tina:C
+B20 | U.S. History | When Douglas Dam was under construction in 1941, downtown Dandridge was scheduled to be flooded. Instead, a levee was built because of the intervention of citizens and civic leaders and which First Lady? | Eleanor Roosevelt | C
+T21 | Biology | What type of ecosystem is characterized by poorly drained mineral soils and waterlogged ground? | A marsh (a swamp was also accepted) | Joslin:C
+B21 | Biology | Part 1: Of the world's five oceans, which is the largest? // Part 2: Geologically, which is the youngest ocean? | Part 1: The Pacific // Part 2: The Atlantic | P10 | .the team said the Arctic for Part 2
+T22 | Religion | Who is the king of the gods in Hinduism? | Indra | Tina:I | | .Tina said Buddha; no Scott answer captured; the first half ended after this question
+# ---- second half ----
+T23 | Spelling | A buffet is a food spread. Spell "buffet." | B-U-F-F-E-T | Brylan:C
+B23 | Spelling | Broccoli is a green vegetable and a good source of calcium. Spell "broccoli." | B-R-O-C-C-O-L-I | C
+T24 | Geometry | What is the perimeter of a square with an area of 169? | 52 | 1:I | | .Scott's buzzer is not named (said 13); the host reminded Oneida it could steal and no answer was captured
+T25 | Government | What is the term for a court order that forbids or halts a certain action? | An injunction | Tina:I | | .Tina said "restraint"; no Scott answer captured
+T26 | Art | Using a single block of marble that two other sculptors had started to use but rejected, who was hired in 1501 to complete a statue? | Michelangelo (David) | Joslin:C
+B26 | Art | The reign of which leader, from 336 B.C. to 323 B.C., is taken as the separation of the classical from the Hellenistic periods of ancient Greek art? | Alexander the Great | C
+T27 | Chemistry | Which element gets its symbol from its Latin name? | Lead (Pb, from plumbum) | Joslin:C | .the host accepted lead; the captions show only this question wording
+B27 | Visual | Part 1: What is the chemical symbol for tin, a silvery colored metal that is soft enough to cut with little effort? // Part 2: What is its atomic number? | Part 1: Sn // Part 2: 50 | P10 | .the team said 36 for Part 2
+T28 | Foreign Language | Translate the Spanish question "¿Quién sabe?" into English. | Who knows? | Philip:I | Brylan:I | .Philip said "How are you doing?" and Brylan said "What's up?"
+T29 | Geology | Which fault line runs along the borders of West Tennessee, Arkansas and Missouri? | The New Madrid fault | NB | | .nobody answered; the host gave the answer
+T30 | Economics | Who invented the modern steam engine in 1775? | James Watt | ?:C | .buzzer and team not identified in captions
+B30 | Economics | What 12 letter term means the action of gradually writing off the initial cost of an asset or paying off a debt over time? | Amortization | I | .team said "financing"
+T31 | Health | What is the object placed in a blood vessel to open a closed blood vessel and keep it open afterwards? | A stent | Joslin:C
+B31 | Health | Part 1: What blood vessel carries blood from the heart? // Part 2: What blood vessel supplies blood to the thigh and leg? | Part 1: The aorta // Part 2: The femoral artery | P10 | .Part 1 was answered by Brylan ("Aruba" in the captions, ruled the aorta); Connor said vena cava for Part 2
+T32 | Miscellaneous | Which letter of the alphabet is not used to spell any of the names of the 50 United States? | Q | 1:I | Tina:C | .Scott's buzzer and answer are not captured
+B32 | Miscellaneous | Part 1: What is the geometric shape of the traffic signs for yield? // Part 2: What is the geometric shape of the traffic signs for stop? | Part 1: Triangle // Part 2: Octagon | C
+T33 | Literature | Which Knoxville-born author won a posthumous Pulitzer Prize in 1958 for his novel A Death in the Family? | James Agee | Joslin:I | | .Joslin said Alan Gratz; no Oneida answer captured
+T34 | Math | What is 15% of 120? | 18 | Connor:I | | .Connor said 20; time ran out before a steal
+T35 | World History | During the Fourth Crusade, which Orthodox city was pillaged by the crusading armies? | Constantinople | Brylan:I | | .Brylan said Rome; no Oneida answer captured
+T36 | Astronomy | What is the name of the single point of light that we see as the North Star? | Polaris | Connor:C | .the answer is not spoken in the captions (the host commented that it is a triple star system); the name is supplied from the question
+B36 | Astronomy | Part 1: What is the name for the Northern Lights? // Part 2: What is the name for the southern lights? | Part 1: Aurora Borealis // Part 2: Aurora Australis | Cameron:P10 | .no answer for Part 2
+T37 | Music | For what holiday occasion is the tune "Auld Lang Syne" traditionally sung? | New Year's Eve (and New Year's Day) | Joslin:I | | .Joslin said Christmas; no Oneida answer captured
+T38 | Vocabulary | What five letter word beginning with G is a stew that is Louisiana's official state cuisine? | Gumbo | Philip:C
+B38 | Vocabulary | Part 1: Spell the seven letter word that begins with S that means the action or process of fastening or closing something securely. // Part 2: Spell its homonym that means the surface above your head when indoors. | Part 1: S-E-A-L-I-N-G // Part 2: C-E-I-L-I-N-G | I | .the captions garble the team's attempts ("stapling"); the host said the homonyms were sealing and ceiling
+T39 | History | In which African country is the Aswan High Dam? | Egypt | Brylan:C
+B39 | History | Marie Antoinette's secret apartment was reopened to the public in 2023 as part of what palace's 400th anniversary? | The Palace of Versailles | I | .team said Buckingham Palace
+T40 | Geography | Which state's highest elevation is the lowest of all the states' highest elevations? | Florida | Joslin:I | | .Joslin said Louisiana; the host would not allow an Oneida steal because the Oneida players talked to or looked at each other
+T41 | Chemistry | Which alkaline earth metal has the largest atomic radius? | Radium | Connor:I | Tina:I | .Connor said francium; Tina said uranium on the steal at the buzzer
+T42 | Games | In what tabletop game for 2 to 4 players does each player try to collect as many marbles as possible using a hippo's mouth? | Hungry Hungry Hippos | Connor:C
+B42 | Games | What Nintendo game franchise features intergalactic bounty hunter Samus Aran taking on missions against space pirates, parasitic alien species and rogue A.I., while collecting power-ups like the Ice Beam and Morph Ball? | Metroid | C
+T43 | Foreign Language | Polish, Russian and Czech are examples of which language group? | Slavic | Connor:C
+B43 | Foreign Language | Part 1: What is the French word for a bakery that sells everyday items like bread and croissants? // Part 2: What is the French word for a pastry shop, which is more specialized than a bakery? | Part 1: Boulangerie // Part 2: Pâtisserie | C | !the captions give no clear ruling ("Like something that's a bit larger? ... Yes, that is a particularly for pastries"); treated as both parts right (20 points)
+T44 | Math | Simplify 3 divided by the square root of 3. | √3 | 1:I | Philip:I | .Scott's buzzer is not named (said one third); Philip's steal answer was also wrong
+T45 | Economics | Whose face is on a U.S. 50 cent coin? | John F. Kennedy | Philip:C
+B45 | Economics | Part 1: Maya Angelou, Dr. Sally Ride, Wilma Mankiller, Nina Otero-Warren and Anna May Wong were honored in 2022 when the U.S. Mint placed their pictures on what coin? // Part 2: A Union shield is on the reverse of which U.S. coin? | Part 1: Quarters // Part 2: The penny (one-cent coin) | P10 | .the team said a nickel for Part 2
+T46 | Science | In which month is the vernal equinox? | March | Philip:I | Cameron:I | .Philip said December; Cameron said November
+T47 | Religion | What are the next four words in this quote from Psalm 23, which are also used as a lyric in "Gangsta's Paradise": "As I walk through the valley of ..."? | The shadow of death | Cameron:C
+B47 | Religion | Name two of the seven sacraments of Catholicism. | Any two of: baptism, confirmation, Eucharist, reconciliation, anointing of the sick, holy orders, matrimony | I | .time ran out and the host read the sacraments; the game ended after this bonus

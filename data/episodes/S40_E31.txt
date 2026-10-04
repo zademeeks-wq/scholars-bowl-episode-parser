@@ -1,0 +1,86 @@
+@EP S40 E31
+@ROUND Round 1
+@TEAMS Roane County High School | Science Hill High School (Emily's team)
+@R1 Lucas, Ethan, Nathan, Maddox
+@R2 Isabella, Hafsah, Emily, Eric
+# Science Hill has three teams in the tournament; this one is captained by Emily. Nathan is Roane County's captain. The captions render Hafsah as "Has/after/Half", Roane as "Ron/run", Science Hill as "signs hell/say", and "steal" as "still". Both lineups stay the same all game. The host said at the second-half start that Roane County led by "three questions" (90 points), which matches the first-half totals here (220 to 130).
+# ---- first half ----
+T1 | Government | What is the term limit for the vice president of the United States? | There is no term limit | Lucas:I | Emily:I | .Lucas said four years; Emily said two terms
+T2 | Games | What is the eight letter word beginning with C for a long game in which players take turns throwing fabric beanbags at a raised, angled board? | Cornhole | Nathan:C
+B2 | Games | What childhood game is similar to hide and seek, but all players can be freed if someone knocks over an item with their foot? | Kick the Can | I | .the team gave no answer
+T3 | Biology | What is the term that refers to a certain place in which a species normally lives and grows? | Habitat | Isabella:C | .the host reminded Isabella to wait to be called on
+B3 | Biology | Part 1: What is the branch of zoology concerned with the study of insects? // Part 2: What is the branch of zoology concerned with the study of reptiles and amphibians? | Part 1: Entomology // Part 2: Herpetology | I | .the team said "etymology" for Part 1 and gave no answer for Part 2
+T4 | Literature | What is the term for a comparison in literature beginning with the words "like" or "as"? | A simile | Lucas:C
+B4 | Literature | Who at age 16 made satirical comments on Boston society, politics and religion using the name Silence Dogood? | Benjamin Franklin | C
+T5 | Algebra | Simplify the expression (3 + 2i)(3 − 2i), where i is the imaginary unit. | 13 | Lucas:C
+B5 | Algebra | Simplify the expression (2x + 7)(2x − 7). | 4x² − 49 | C
+T6 | U.S. History | What document served as the United States' first Constitution from March 1781 to 1789? | The Articles of Confederation | Ethan:C
+B6 | U.S. History | What famous journalist and orator argued for black suffrage in a speech delivered at the Massachusetts Anti-Slavery Society in Boston in August of 1841? | Frederick Douglass | C
+T7 | Religion | During an October 2023 trip to Latin America, New York Mayor Eric Adams was given a private tour of what Catholic basilica in Mexico City that houses a cloak with an image of Mary? | The Basilica of Our Lady of Guadalupe | NB | | .nobody answered; the host gave the answer
+T8 | Science | How many milligrams are in one gram? | 1,000 | Lucas:C
+B8 | Visual | Part 1: Who is the renowned theoretical physicist seen here, known for developing the theory of relativity and making important contributions to quantum mechanics? // Part 2: What is his mass-energy equivalence formula, which has been called the world's most famous equation? | Part 1: Albert Einstein // Part 2: E = mc² | C
+T9 | Vocabulary | What is the 11 letter sociological term for the action of two or more individuals working together to achieve a common goal? | Cooperation | 2:C | .buzzer not named (the host reminded the player to wait to be called on); Science Hill from the bonus ("for Emily to answer or defer")
+B9 | Vocabulary | Part 1: What word is used when a person's reputation is damaged by word of mouth? // Part 2: What word is used when a person's reputation is damaged in print? | Part 1: Slander // Part 2: Libel | I | .the team gave no answers and ran out of time
+T10 | Sports | What U.S. city has hosted the Winter Olympics twice? | Lake Placid, New York | Emily:I | Nathan:I | .Emily said Beijing; Nathan said Nevada
+T11 | Geography | What is the common name of the demarcation that is roughly based on the meridian of 180 degrees longitude in the Pacific Ocean? | The International Date Line | Maddox:C | .the captions write "International Dateline" as one word
+B11 | Geography | Name the four U.S. states that begin with the letter I. | Idaho, Illinois, Indiana and Iowa | Maddox:C
+T12 | Miscellaneous | What style of humor involves exaggerated physical activity that exceeds the boundaries of normal physical comedy? | Slapstick | Ethan:C | .buzzer name read from "Even" (probably Ethan); Roane County from the order of play
+B12 | Miscellaneous | In 2022, as part of a 150th anniversary celebration, the nonprofit partner of America's first national park sold an "Inheritance Pass" for $1,500, valid for a year, at which park in the year 2172? | Yellowstone | C
+T13 | Geology | What is the term for the gigantic pieces of the Earth's crust and uppermost mantle, made up of oceanic crust and continental crust, whose slight movement might cause earthquakes? | Tectonic plates | Lucas:I | Emily:C | .Lucas said continental plates (name read from "Look")
+B13 | Geology | Part 1: What five letter geological term that begins with the letter F is a fracture in a rock body along which one side has been displaced relative to the other? // Part 2: What four letter geological term that begins with the letter F is a drifting section of Arctic ice? | Part 1: Fault // Part 2: Floe | P10 | .the team said "a fiord" for Part 2
+T14 | Foreign Language | What is the official language in Tunisia, Morocco and Egypt? | Arabic | Hafsah:C | .the captions show "after Arabic" for "Hafsah: Arabic"
+B14 | Foreign Language | Part 1: What commonly used German phrase means "bless you"? // Part 2: What commonly used French phrase means "that's life"? | Part 1: Gesundheit // Part 2: C'est la vie | C
+T15 | Math | What is the quotient of 1.2 divided by 0.06? | 20 | Lucas:C
+B15 | Visual | If 5 pounds of hamburger cost $18, what is the cost for 6 pounds of hamburger? | $21.60 | C
+T16 | Economics | Which Native American is pictured on a gold dollar coin? | Sacagawea | Hafsah:C | .buzzer name read from "Has the suckered you"
+B16 | Economics | Name the four C's of diamond quality. | Cut, clarity, carat and color | I | .the team named things like "compression" and "cinch" and ran out of time
+T17 | Art | Grisaille is a method of painting, often on glass, using only shades of what color? | Gray | Nathan:I | Hafsah:I | .Nathan said blue; Hafsah said red
+T18 | Health | What pale fluid bathes tissues, maintains fluid balance and removes bacteria in the human body? | Lymph | 1:I | | .Roane County's buzzer is not named (said bile); no Science Hill answer captured
+T19 | Mythology | Who was the mythological Roman god of fire, including the fire of volcanoes, deserts, metalworking and the forge? | Vulcan | Lucas:I | Emily:I | .Lucas said Saturn; Emily said Hades
+T20 | Government | In what year was the 19th Amendment, giving women the right to vote, passed? | 1920 | Emily:C
+B20 | Government | In 2023, Panama announced a new effort to control migrants trying to reach the U.S. by way of the treacherous Darién Gap that interrupts which 19,000 mile system of roads? | The Pan-American Highway | I | .team said "the Transcontinental Road"
+T21 | U.S. History | In February 1870, who became the first African American to serve in the U.S. Congress? | Hiram Rhodes Revels | NB | | .nobody answered; the host gave the answer
+T22 | Music | What is a person's ability to identify and reproduce a musical note without reference to a tuned instrument? | Perfect pitch | Emily:C
+B22 | Music | Part 1: Which of the famous three B-named composers earned his living by playing the piano in dance halls? // Part 2: Which of the famous three B-named composers had fewer than a dozen of his compositions printed during his lifetime? | Part 1: Brahms // Part 2: Bach | I | .the team said Beethoven for both
+T23 | Chemistry | What chemical compound is a gas that smells of rotten eggs? | Hydrogen sulfide (H2S) | Ethan:I | Emily:C | .Ethan's answer is garbled in the captions ("silver"); the host mentioned the formula H2S
+B23 | Chemistry | Part 1: What is the name of the test to determine if a substance is an acid or a base? // Part 2: What color does litmus paper turn if the substance is an acid? | Part 1: The litmus test // Part 2: Red | C
+T24 | Spelling | A noncommissioned officer in the armed forces is a sergeant. Spell "sergeant." | S-E-R-G-E-A-N-T | Ethan:I | | .Ethan spelled it S-E-A-R-G-E-A-N-T; time ran out before a steal and the first half ended
+# ---- second half ----
+T25 | Geometry | In the equation (x + 4)² + (y − 6)² = 49, what is the diameter of the circle? | 14 | Lucas:C
+B25 | Geometry | Two angles are complementary with degree measures of 2x and 3x. What is the measure of the larger angle? | 54 degrees | C
+T26 | Geography | Which of the 50 U.S. states has more inland water than any other state? | Alaska | Hafsah:I | Lucas:C | .Hafsah said Michigan
+B26 | Geography | Part 1: What fort is located on Locust Point in Baltimore Harbor? // Part 2: In what war did Fort McHenry successfully defend against the British Navy? | Part 1: Fort McHenry // Part 2: The War of 1812 | C
+T27 | Religion | Which religious tradition is most closely associated with Kabbalah? | Judaism | Emily:I | 1:I | .Emily said Ramadan; Roane County's stealer is not named and said Hanukkah
+T28 | Physics | What simple machine is represented by a chisel? | A wedge | ?:C | .buzzer and team not identified in captions
+B28 | Physics | Which component is used to convert one AC source into another AC source of different voltage and current? | A transformer | I | .team said a converter
+T29 | Literature | Who is the only American poet to have been memorialized by a bust in the Poets' Corner of Westminster Abbey? | Henry Wadsworth Longfellow | Lucas:I | Isabella:I | .Lucas said Edgar Allan Poe; Isabella said Robert Frost
+T30 | Technology | On a Windows computer, what is the function of the keyboard shortcut Control+Y? | Redo | Nathan:C
+B30 | Technology | In 2023, a Moscow court tried to silence criticism of the Russian invasion online and restrict public access to information by fining the nonprofit foundation that runs which free, publicly edited online encyclopedia? | Wikipedia | C
+T31 | History | In what year was the Magna Carta signed? | 1215 | NB | | .the buzzer sounded before anyone answered; the host gave the year
+T32 | Architecture | Which architect designed the Solomon R. Guggenheim Museum's building on Fifth Avenue in New York City? | Frank Lloyd Wright | NB | | .nobody answered; the host gave the answer
+T33 | Vocabulary | Topaz is to yellow as amethyst is to what? | Purple | Emily:I | Nathan:C | .Emily said green
+B33 | Visual | Part 1: The carved limestone image shown here is of Pharaoh Akhenaten and what queen, whose name translates to "the beautiful woman has come"? // Part 2: Akhenaten changed his name from Amenhotep when he shifted away from Egypt's traditional religious belief system to what type of religion? | Part 1: Nefertiti // Part 2: Monotheism | I | .the team said Cleopatra and Islam; the captions say "Imhotep" for Amenhotep
+T34 | Math | The sum of twice a number and 14 is 32. What is the number? | 9 | Lucas:C
+B34 | Math | What is the next number in this sequence: 4, 16, 8, 32, 24, 96, ...? | 88 | I | .the team ran out of time
+T35 | Economics | Paper money was invented in the seventh century. In what country? | China | Nathan:I | Emily:I | .Nathan said Egypt; Emily said Rome
+T36 | Science | Which national park is known as the salamander capital of the world? | Great Smoky Mountains National Park | Maddox:C
+B36 | Visual | The polymerase chain reaction machine shown here is used to amplify certain nucleotide chains through a process involving temperature cycling, producing results commonly known as what phrase, used in fields such as forensics and genealogy? | DNA testing (genetic testing) | I | .the team said "DNA fingerprint"
+T37 | Music | What instrument gets its name from the Italian word for small, little or young and is pitched one octave above a flute? | The piccolo | Nathan:C
+B37 | Music | Part 1: In which state is Elvis Presley's birthplace? // Part 2: In which state is Elvis's mansion, Graceland? | Part 1: Mississippi // Part 2: Tennessee | C
+T38 | Biology | What is the term for plants that have seeds which develop within structures called ovaries? | Angiosperms | NB | | .nobody answered; the host gave the answer
+T39 | Foreign Language | What does the Spanish expression "Tengo dolor de cabeza" translate to? | I have a headache | Emily:C
+B39 | Foreign Language | China passed laws in 2000 to standardize spoken and written language at the expense of regional dialects. Which language is now spoken by 80% of China's population? | Mandarin | C | .the captions garble the example dialects ("Mongolian and Han")
+T40 | Literature | In Shakespeare's play, who was the wife of Othello? | Desdemona | NB | | .nobody answered; the host gave the answer
+T41 | Geography | What country is located between Nicaragua and Panama? | Costa Rica | 2:I | Nathan:C | .Science Hill's buzzer is not named (said Honduras)
+B41 | Geography | Name four of the eight countries that contain land within the Arctic Circle. | Any four of: Canada, Russia, Norway, Sweden, Finland, the United States, Greenland (Denmark), Iceland | C | .the team named Canada, Russia, Norway and Sweden
+T42 | Art | What Louisiana-born comedian and host of the "This Past Weekend" podcast got his start on MTV's Road Rules and also won the title of fan favorite on Last Comic Standing? | Theo Von | NB | | .nobody answered; the host gave the answer
+T43 | Astronomy | Who discovered three laws that describe planetary motion? | Johannes Kepler | Lucas:C
+B43 | Astronomy | A treasured manuscript at the University of Michigan that was exposed as counterfeit had been attributed to which Italian astronomer, who was born in 1564 and was known for heliocentrism and analytical dynamics? | Galileo | I | .team said Copernicus
+T44 | English | What eight letter word beginning with A is the antonym of dismantle? | Assemble | Ethan:C | .the captions show "a symbol" for the answer
+B44 | English | How many of the verbs in the following sentence are irregular? "Our athletes ran, swam, jumped, thought, rode bikes and played team sports." | Four | I | .team said three
+T45 | Algebra | To complete the square for x² − 10x, what number must be added to the expression? | 25 | Lucas:C
+B45 | Algebra | How many real roots does the quadratic equation x² + 25 = 0 have? | Zero | I | .the team's answer was wrong (garbled in the captions)
+T46 | U.S. History | Which president's autobiography is entitled Dreams from My Father? | Barack Obama | Eric:C
+B46 | U.S. History | Part 1: What is the name of the practice of drawing political boundaries for partisan gain? // Part 2: The word comes from the name of politician Elbridge Gerry and what animal? | Part 1: Gerrymandering // Part 2: The salamander | C
+T47 | Sports | To the nearest tenth of a mile, what is the approximate mileage covered on a race course of 10,000 meters? | 6.2 miles | Lucas:I | | .Lucas said 26.2; no Science Hill answer captured
+T48 | Chemistry | What is the term for a compound that can be both an acid and a base? | An amphoteric compound | Emily:I | | .Emily said buffer; Roane County let the clock run out and the game ended

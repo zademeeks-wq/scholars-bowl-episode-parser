@@ -1,0 +1,87 @@
+@EP S40 E32
+@ROUND Round of 32
+@TEAMS Farragut High School | Knoxville Central High School
+@R1 Sophie, Roshan, Leo, Tom, Federica, Alex
+@R2 Julia, Oliver, Jessica, Kylie, Dax, Quill
+# Leo is Farragut's captain and Jessica is Central's captain. The captions render Roshan as "Russian", Kylie as "Kelly" and "steal" as "still/steel". Farragut brings in Alex and Federica for the second half and Central brings in Dax and Quill. Farragut led throughout; the game ended while the host was starting T47 (a miscellaneous tossup), so it is not recorded.
+# ---- first half ----
+T1 | History | Who was the first governor of the state of Tennessee? | John Sevier | Oliver:I | Roshan:C | .Oliver said Andrew Jackson
+B1 | History | Part 1: Who was president of the United States when the movie It's a Wonderful Life premiered on December 20, 1946? // Part 2: Who was president of the United States when the movie A Christmas Story was released on November 18, 1983? | Part 1: Harry S. Truman // Part 2: Ronald Reagan | C
+T2 | Religion | Who was the first pope of the Roman Catholic Church? | Saint Peter | Leo:I | Oliver:I | .Leo's answer is garbled in the captions ("Virgil"); Oliver said John
+T3 | Technology | Which company developed the PlayStation video game console? | Sony | Tom:C
+B3 | Technology | YouTube was founded by three former PayPal employees in 2005 and purchased for $1.65 billion in 2006 by what company? | Google | C
+T4 | Foreign Language | One of the drink sizes at Starbucks is Venti, which is the Italian word for what? | Twenty | Oliver:I | Roshan:C | .Oliver said large; Roshan said twenty (20 ounces)
+B4 | Foreign Language | Part 1: What is the French word for welcome? // Part 2: What is the German word for welcome? | Part 1: Bienvenue // Part 2: Willkommen | Sophie:C | .Leo deferred Part 1 to Sophie
+T5 | Art | What is a strong woven cloth traditionally used by artists as a surface on which to paint? | Canvas | Tom:C
+B5 | Art | Algeria, Kuwait, Lebanon, the Philippines and Vietnam banned what 2023 movie starring Margot Robbie? | Barbie | Leo:C | .the host joked that Sophie wanted to answer "Taylor Swift"
+T6 | Geography | What is the only U.S. state that begins with the letter H? | Hawaii | 2:C | .buzzer not named; Central from the bonus
+B6 | Geography | Name the four state capitals that begin with the letter H. | Honolulu, Harrisburg, Hartford and Helena | P5 | .the team named Honolulu only
+T7 | Sports | Former Vols quarterback Tee Martin is currently the quarterbacks coach for what NFL team? | The Baltimore Ravens | Roshan:I | Jessica:I | .Farragut's buzzer is read from "brushing" (probably Roshan; said the Titans); Jessica said the Cowboys
+T8 | Health | What happens to a person when the diaphragm has muscle spasms? | Hiccups | Oliver:C
+B8 | Visual | A DNA molecule has two linked strands resembling a twisted ladder. By what term is this structure commonly known? | A double helix | C
+T9 | Literature | Who was the author of the narrative poem "The Road Not Taken"? | Robert Frost | 2:C | .buzzer not named; Central from the bonus
+B9 | Literature | What New England city and state serve as the setting for Nathaniel Hawthorne's The House of the Seven Gables? | Salem, Massachusetts | I | .team said Boston
+T10 | Algebra | What is the y-intercept of the line 2x − 3y = 12, in coordinate form? | (0, −4) | Roshan:C
+B10 | Algebra | What value for c will make the expression x² − 26x + c a perfect square trinomial? | 169 | C
+T11 | Government | How many justices are on the Tennessee Supreme Court? | Five | Leo:I | Jessica:I | .Leo said nine; Jessica said twelve
+T12 | Music | Which band reunited in 1994 to make the album Hell Freezes Over? | The Eagles | Oliver:I | 1:I | .Oliver said Nirvana; a Farragut player (not named) then said the Beatles
+T13 | Physics | Galileo discovered that the trajectories of projectiles are in what shape? | A parabola | Tom:C
+B13 | Physics | If the volume of an enclosed gas at constant pressure is increased by a factor of three, the pressure on the gas must be changed by a factor of what value? | One third | C | .wording as captured (the host's question mentions constant pressure)
+T14 | English | What punctuation symbol is used to express ratios, time, or chapter and verse of the Bible? | The colon | Tom:C
+B14 | English | Part 1: What part of speech is the word "fast" in the sentence "Leo was driving so fast that he lost control of the car"? // Part 2: What part of speech is "fast" in the sentence "Their family planned a fast while trying to lose weight"? | Part 1: An adverb // Part 2: A noun | P10 | .the team said "adjective" for Part 1
+T15 | Economics | Which animal is the symbol of a rising stock market? | The bull | Tom:C
+B15 | Economics | In Chile's Atacama Desert, a huge pile of what type of unsold merchandise from various retailers, including Shein, can be seen in satellite images? | Clothes | C
+T16 | Geography | What is the capital of Iowa? | Des Moines | Roshan:C
+B16 | Visual | Part 1: The Grand Canyon shown here is located in which state? // Part 2: At 1,904 square miles, Grand Canyon National Park is actually larger than what state? | Part 1: Arizona // Part 2: Rhode Island | C
+T17 | Architecture | What is the stone at the top of an arch that holds the other stones in place called? | The keystone | Oliver:I | Tom:I | .Oliver said cornerstone; Tom's answer is garbled in the captions
+T18 | Astronomy | What celestial bodies were known in ancient times as "hairy stars"? | Comets | Oliver:C
+B18 | Astronomy | Who was the first person to go to outer space and orbit the Earth? | Yuri Gagarin | Kylie:C | .Jessica deferred to Kylie (captions: "Kelly")
+T19 | Spelling | A supplement to a will is a codicil. Spell "codicil." | C-O-D-I-C-I-L | Tom:I | | .Tom's spelling was wrong; the buzzer sounded before a Central steal
+T20 | Pre-Calculus | What is the value of the secant function of 60 degrees? | 2 | Tom:I | Jessica:I | .Tom said three over two; Jessica said one over three
+T21 | History | Who was Lord Protector of England from 1653 to 1658 after the defeat of King Charles I? | Oliver Cromwell | 1:I | Oliver:I | .Farragut's buzzer is not named (said Raleigh); Oliver said Charles the Second
+T22 | Miscellaneous | Smokey the Bear is the mascot for which Smoky Mountain city? | Gatlinburg | Roshan:C
+B22 | Miscellaneous | Part 1: What is the Tennessee state flower? // Part 2: What is the Tennessee state fruit? | Part 1: The iris // Part 2: The tomato | P10 | .the team said iris (accepted) and mango
+T23 | Chemistry | Which element has the symbol Xe? | Xenon | Tom:C
+B23 | Chemistry | Sulfur's atomic number is 16. What is the electron configuration of sulfur in exponential form? | 1s² 2s² 2p⁶ 3s² 3p⁴ | C
+T24 | Mythology | Which day of the week is named for the Norse god Odin? | Wednesday | Oliver:C | .the first half ended after this bonus
+B24 | Mythology | Which day is named for Frigga, the Norse goddess of marital love and the hearth? | Friday | C
+# ---- second half ----
+T25 | Geology | Obsidian is formed by what type of geologic event? | A volcanic eruption | Oliver:C
+B25 | Geology | People in Hawaii were urged to cut back on activities when Mauna Loa erupted in 2022 to avoid inhaling volcanic gases, including what chemical compound? | Sulfur dioxide (SO2) | Oliver:I | .the captions give the formula as CO2 (a garble); Jessica deferred to Oliver, who said silicon dioxide
+T26 | Government | Which amendment to the U.S. Constitution states a person cannot be forced to testify against themselves? | The Fifth Amendment | Alex:C
+B26 | Government | Which amendment to the U.S. Constitution establishes procedures for an orderly transition of presidential power? | The 25th Amendment | I | .team said the 21st
+T27 | Art | What do we call the art of creating music, comedy or drama spontaneously? | Improvisation | Alex:C
+B27 | Art | What singer and actress, one of the most followed people worldwide on Instagram, began her career as a child on Barney and Friends and went on to star in movies and TV series including Wizards of Waverly Place and Only Murders in the Building? | Selena Gomez | I | .team said Taylor Swift
+T28 | Biology | How many pairs of chromosomes are in the nucleus of each human cell? | 23 | Tom:I | Oliver:I | .Tom said 46; Oliver said 32
+T29 | Literature | "To thine own self be true" is a famous quote from which Shakespearean play? | Hamlet | Tom:C
+B29 | Literature | Part 1: In Shakespeare's Romeo and Juliet, which character is a kinsman to the prince and a close friend of Romeo? // Part 2: Which character is Juliet's cousin who was killed by Romeo? | Part 1: Mercutio // Part 2: Tybalt | C
+T30 | Geometry | What is the two word expression that describes a pair of adjacent supplementary angles? | A linear pair | 1:I | | .Farragut's buzzer is not named (said "supplements"); the host teased Central about the steal and no answer was captured
+T31 | Geography | Which large Midwest city is also known as the Windy City? | Chicago | Leo:C
+B31 | Geography | Part 1: What U.S. city is nicknamed the Motor City? // Part 2: What U.S. city is nicknamed the Gateway to the West? | Part 1: Detroit // Part 2: St. Louis | P10 | .the team said Indianapolis and then St. Paul for Part 2
+T32 | Religion | What does the title Buddha mean? | Enlightened one | Oliver:C
+B32 | Religion | Justin Welby tweeted that it was the honor of a lifetime and among its saddest moments to preach at the state funeral of Her Majesty Queen Elizabeth II. What is Justin Welby's title? | Archbishop of Canterbury | I | .team said "high priest"
+T33 | Science | Who discovered the law of universal gravitation? | Isaac Newton | Tom:C
+B33 | Visual | What species shown here is the only living relative of the giraffe and zebra? | The okapi | I | .the team's answer is garbled in the captions; no points
+T34 | Foreign Language | What common Latin phrase means "something for something"? | Quid pro quo | Oliver:C
+B34 | Foreign Language | What alphabet is used for Russian, Bulgarian, Serbian, Ukrainian and some other Slavic languages? | Cyrillic | C
+T35 | Music | What famous country singer was inducted into the Rock and Roll Hall of Fame in 2022? | Dolly Parton | Jessica:C
+B35 | Music | Dolly Parton's cover version of "Let It Be" has piano and drums played by which two musicians who were also on the original 1970 recording of the song? | Paul McCartney and Ringo Starr | Quill:C | .Jessica deferred to Quill
+T36 | U.S. History | In 1986, the third Monday in January was first observed as a federal holiday in honor of what historical figure? | Martin Luther King Jr. | Jessica:C
+B36 | Visual | Part 1: Which president shown here became the youngest president elected at the time? // Part 2: What was his actual first name? | Part 1: Ulysses S. Grant // Part 2: Hiram | P10 | .the team said George for Part 2
+T37 | Art | What term is used to describe a hue that has a high level of intensity? | Saturated | Alex:C
+B37 | Art | Which of the founders of the Impressionist movement, known for Luncheon of the Boating Party and Two Sisters on the Terrace, suffered from rheumatoid arthritis starting in 1892 but continued to paint for the last 20 years of his life? | Pierre-Auguste Renoir | I | .team said Monet
+T38 | Health | What is the condition in which the temperature of the human body is below normal due to cold? | Hypothermia | Oliver:C
+B38 | Health | Part 1: Give the specific name of vitamin B3. // Part 2: Give the specific name of vitamin B7. | Part 1: Niacin // Part 2: Biotin | P10 | .no answer for Part 2
+T39 | Vocabulary | Cardiologist is to heart as neurologist is to what? | Brain | Oliver:C
+B39 | Vocabulary | Spell the comparative and superlative forms of the adjective "dry." | D-R-I-E-R and D-R-I-E-S-T | I | .the team spelled D-R-Y-E-R and D-R-Y-E-S-T
+T40 | Math | 90 is what percent of 200? | 45 percent | Alex:C
+B40 | Math | Alex's average on four tests was 85. If the first three scores were 81, 89 and 79, what was Alex's score on the fourth test? | 91 | I | .the team said 90
+T41 | World History | Who was born Princess Sophie of Anhalt-Zerbst and was Empress of Russia from 1762 until 1796? | Catherine the Great | Leo:I | Oliver:I | .Leo's answer is not captured; Oliver said Queen Alexandra
+T42 | Sports | Which sport is called the sport of kings? | Horse racing | Oliver:I | Tom:I | .Oliver said chess; Tom said golf
+T43 | Chemistry | What is the process used to extract a gas from a liquid or a solid? | Distillation | Oliver:I | Tom:C | .Oliver said evaporation
+B43 | Chemistry | What are the four lightest gases? | Hydrogen, helium, nitrogen and oxygen | Alex:C | .Tom deferred to Alex
+T44 | English | Give the comparative form of the adjective "handsome." | More handsome | Alex:I | Jessica:C | .Alex said "handsomer"
+B44 | English | Name the two classes of nouns. | Abstract and concrete | I | .team said proper and common
+T45 | Science | What is the better known term for −273.15 degrees Celsius? | Absolute zero | Alex:C
+B45 | Science | In a 2023 study, scientists said they measured a world record of solar irradiance on the Altiplano high plateau in Chile that is comparable to the solar radiation on what planet, which is 28% closer than Earth to the sun? | Venus | C
+T46 | Government | What is the name of the daily account that publishes the proceedings of both the U.S. Senate and House of Representatives? | The Congressional Record | Oliver:I | | .Oliver's answer is garbled in the captions; Leo blurted out "Congressional Journal" on the steal before being called on, so it was not accepted

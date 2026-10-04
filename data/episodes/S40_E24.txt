@@ -1,0 +1,88 @@
+@EP S40 E24
+@ROUND Round 1
+@TEAMS Seymour High School (Sophia's team) | Halls High School
+@R1 Sophie, Eleanor, Sophia, Savannah
+@R2 Sophia, Ethan, Benjamin, Joe Nicholas, Amanda, Ty
+# Seymour put at least two teams in the tournament; this one is captained by Sophia (captain Sophia answers Seymour's bonuses). Halls's Sophia is Sophia Elkins; Halls's captain is Benjamin. Both teams have a Sophia, so 1.Sophia is Seymour's and 2.Sophia is Halls's. The captions render Seymour as "see more/see something", Joe Nicholas as "John (Nicholas/Nicklaus)" and Halls as "Charles/hauls" on some bonuses. The game ended while the host was starting T48 (U.S. history, "What document serves as the United States' longest ..."), so that question is not recorded.
+# ---- first half ----
+T1 | Literature | A haiku contains three lines of poetry with a total of how many syllables? | 17 | 2.Sophia:I | 1:C | .Halls's Sophia said "seven" and the steal went to Seymour; the Seymour stealer is not named (the host reminded her to wait to be called on but accepted 17); inferred from the host offering the steal to "see more" and the bonus going to Seymour
+B1 | Literature | Part 1: What are the names of the characters involved in a love triangle in the Twilight Saga? // Part 2: Who is the author of the Twilight Saga? | Part 1: Bella, Edward and Jacob // Part 2: Stephenie Meyer | P15 | .three correct names counted (15 points); the captions show "John ..." for the author, which was wrong
+T2 | Music | What rapper has had hits with the songs "God's Plan" and "Search & Rescue"? | Drake | ?:C | .buzzer read as "Sophia" but both teams have a Sophia and the bonus team is not named
+B2 | Music | What is the musical term defined as the degree of highness or lowness of sound according to the frequency of vibration of the sound waves producing it? | Pitch | C
+T3 | U.S. History | Who was president of the United States between Benjamin Harrison and Theodore Roosevelt? | William McKinley | Joe Nicholas:I | Savannah:I | .Joe Nicholas said Grover Cleveland; Savannah said Taft
+T4 | Math | What is the name of a line which intersects a circle at exactly one point? | A tangent line | Benjamin:C
+B4 | Visual | Given an isosceles right triangle with hypotenuse 12, find the perimeter in simplified radical form. | 12 + 12√2 | I | .the team's answer is garbled in the captions ("Moore 42"); the host said they were looking for 12 + 12√2
+T5 | Health | Which type of glands produce hormones? | Endocrine glands | Savannah:I | 2.Sophia:I | .Savannah said adrenal glands; Halls's Sophia rang in on the steal but ran out of time; the attribution of these two buzzes is read from garbled captions ("Hannah should know ... You're ringing, Sophia, too")
+T6 | Foreign Language | Translate "good journey" into a common French phrase often used in English. | Bon voyage | 2.Sophia:C | .Halls from the bonus going to Benjamin
+B6 | Foreign Language | Borrowed from French, what 12 letter word beginning with E means someone who organizes and manages an enterprise that usually involves some risk? | Entrepreneur | Benjamin:C
+T7 | Art | Which American painter trademarked the phrase "Painter of Light" in 1996 for the mass marketing of his paintings of cottages and other peaceful scenes? | Thomas Kinkade | Savannah:C
+B7 | Art | Who was the American painter from the Rhode Island Colony whose best known works are unfinished portraits of George and Martha Washington that he began in 1796? | Gilbert Stuart | I | .team said Michelangelo
+T8 | Economics | How many sheets of paper are in a case containing ten reams of regular copy paper? | 5,000 | Benjamin:I | | .Benjamin said 100 (garbled); Savannah blurted out the answer without being called on and the host did not accept it
+T9 | Literature | Down which river do Huck and Jim travel in Adventures of Huckleberry Finn? | The Mississippi River | Joe Nicholas:C
+B9 | Literature | England's University of Greenwich was criticized in 2023 for coddling when it issued a trigger warning to students about the toxic relationships in an 1817 classic novel, Northanger Abbey. Which author wrote it? | Jane Austen | C
+T10 | Geology | Geologists divide eras into periods and divide periods into what time frames [wording garbled in captions]? | Epochs | 2:I | | .Halls's buzzer is not named and the answer is garbled; the steal went unanswered and the host gave the answer
+T11 | Vocabulary | What part of speech are the words "and," "but," "or" and "nor"? | Conjunctions | Savannah:I | 2:C | .Savannah said prepositions; Halls's stealer is not named
+B11 | Vocabulary | Part 1: What five letter word beginning with C means great disorder or confusion? // Part 2: Now spell that word. | Part 1: Chaos // Part 2: C-H-A-O-S | C | .the team began the spelling "C-H-A", was stopped, and was allowed to restart with C-H-A-O-S
+T12 | Miscellaneous | In what state is the University of Notre Dame located? | Indiana | Savannah:I | | .Savannah said Massachusetts; the buzzer sounded as the steal began
+T13 | Geography | What Tennessee city earned the nickname the Marble City because of its pink marble quarries? | Knoxville | Joe Nicholas:C
+B13 | Visual | Part 1: In the school crest shown here, what is the translation of the word "Veritas"? // Part 2: The crest you saw is the emblem of which university in Cambridge? | Part 1: Truth // Part 2: Harvard University | P10 | .no answer for Part 1
+T14 | Math | What is the least common multiple of three, four and 16? | 48 | ?:U | | !an answer seems to have been blurted out without being called on and was not accepted ("So that one not so ... let me call on you first"); the buzzer and team are not identified; the host gave 48
+T15 | Biology | What protein forms when hair cells move away from the root and are cut off from their nourishment supply? | Keratin | Joe Nicholas:C | .the captions show "Carrington"
+B15 | Biology | What is a thread-like structure of nucleic acids and protein found in the nucleus of most living cells, carrying genetic information in the form of genes? | A chromosome | I | .team said DNA
+T16 | English | "Sam set sideways" is an example of what type of figure of speech? | Alliteration | Benjamin:C
+B16 | Grammar | Convert the following sentence into indirect speech: "Maria said, 'It is my car.'" | Maria said that it was her car. | I | .the team said "She said it's my car"
+T17 | Religion | Who was the Albanian nun who won a Nobel Peace Prize in 1979 for her work in India and was canonized a Catholic saint 19 years later? | Mother Teresa (Saint Teresa of Calcutta) | Joe Nicholas:C
+B17 | Religion | Christian churches of many denominations offer a blessing of the animals on a date close to October 4th, the feast day of which Catholic friar, the namesake for a major city in Northern California and the patron saint of animals? | Saint Francis of Assisi | I | .the team said "Francis ... Cisco"; the host wanted Francis of Assisi
+T18 | World History | Rome was spared further destruction in 452 when Pope Leo the Great held a meeting with what leader of an invading barbarian group? | Attila the Hun | Savannah:C | .the answer is garbled in the captions ("uttered them")
+B18 | World History | Who invented the vulcanization process that made possible the commercial use of rubber? | Charles Goodyear | Savannah:I | .Sophia deferred to Savannah, who said Henry Ford
+T19 | Government | What is the provision in the U.S. Constitution that allows each branch of government to share powers with the other branches? | Checks and balances | 2:C | .buzzer not named; Halls from "a government bonus for Halls"
+B19 | Government | In 2023, the mayor of which city, Alaska's largest, offered to buy the homeless one-way plane tickets to warmer locations or to other cities in Alaska? | Anchorage | C
+T20 | Astronomy | Which is the only planet inhabited solely by robots? | Mars | Benjamin:C
+B20 | Astronomy | An astronomical unit is a unit of length roughly equal to the distance between what two bodies? | The Earth and the Sun | C
+T21 | Spelling | Students follow a curriculum in school. Spell "curriculum." | C-U-R-R-I-C-U-L-U-M | Savannah:C
+B21 | Spelling | Part 1: Spell the five letter word beginning with F for a deceptive or pretended blow, thrust or other movement, especially in boxing or fencing. // Part 2: Spell its homonym that means weak and dizzy, close to losing consciousness. | Part 1: F-E-I-N-T // Part 2: F-A-I-N-T | P10 | .the team spelled "faint" for Part 1 and correctly spelled faint for Part 2
+T22 | Architecture | What is the device made to be raised up or let down so as to permit or hinder passage, typically at the entrance to a castle or tower surrounded by a moat? | A drawbridge | Ethan:C
+B22 | Architecture | What is the name of the building mentioned in the Bible that was supposed to reach heaven? | The Tower of Babel | C
+T23 | Geography | What city is the easternmost state capital in the U.S.? | Augusta, Maine | Joe Nicholas:I | | .Joe Nicholas said Honolulu (read from "Joining was"); no steal answer captured; the first half ended after this question
+# ---- second half ----
+T24 | Algebra | 3x² − 12y² = 48 is the equation of which conic section? | A hyperbola | NB | | .nobody answered in time; the host gave the answer
+T25 | Physics | What type of force is needed to make an object move in a circular path? | Centripetal force | Savannah:C
+B25 | Physics | Pierre and Marie Curie won the Nobel Prize for isolating what two elements? | Radium and polonium | I | .the team named curium (the host noted it was named after them); no points awarded
+T26 | Literature | What is the name of the fictional character who was the main protagonist of the novel The Hunchback of Notre Dame? | Quasimodo | Savannah:C
+B26 | Literature | Part 1: Who wrote Death of a Salesman? // Part 2: What is the name of the protagonist in Death of a Salesman? | Part 1: Arthur Miller // Part 2: Willy Loman | 1.Sophia:P10 | .the team said James for Part 2
+T27 | Chemistry | What is the chemical symbol for arsenic? | As | Savannah:C
+B27 | Visual | What is the name and symbol for the rare metal, identified as a new element in 1783, represented on the periodic table as shown here? | Tungsten, W | C
+T28 | U.S. History | Where did the first skirmishes of the American Revolution take place? | Lexington and Concord | Joe Nicholas:C
+B28 | U.S. History | Name two of the three men who wrote essays for The Federalist under the name Publius. | Any two of: Alexander Hamilton, James Madison, John Jay | C | .the team named John Jay and Alexander Hamilton
+T29 | Science | What meteorological phenomenon, formed by electrostatic discharges, strikes about 3 million times a day? | Lightning | Benjamin:C
+B29 | Science | In 2023, wildfires destroyed the historic town of Lahaina on which Hawaiian island? | Maui | C
+T30 | Sports | Who was the first woman to win an IndyCar Series event and now hosts a pretty intense podcast? | Danica Patrick | 2.Sophia:C | .answered at the buzzer; Halls from the bonus
+B30 | Sports | Which sport is governed by the Marquess of Queensberry rules? | Boxing | I | .team said rugby
+T31 | Foreign Language | What is the official language of Taiwan? | Mandarin | Savannah:C
+B31 | Foreign Language | Part 1: Translate the Latin phrase "Lux aeterna." // Part 2: Translate the Latin phrase "Dies irae." | Part 1: Eternal light // Part 2: Day of wrath | I | .the team gave no answer; the captions show the host reading "eternal light" right after the first phrase
+T32 | Religion | Hanukkah commemorates a miracle that took place in an uprising by the Hebrews, led by which rebel group? | The Maccabees | Savannah:C | .the captions say "uprising against the Hebrews", probably a garble
+B32 | Religion | What is the religious meal served in Jewish homes on the eve of the 15th day of the month of Nisan to begin the Festival of Passover? | The seder | Savannah:C | .the captions show Sophia deferring to Savannah
+T33 | Geography | Nairobi is the capital of which African country? | Kenya | Joe Nicholas:I | Savannah:I | .Joe Nicholas said Niger; Savannah said Libya
+T34 | Geometry | In an isosceles triangle, one of the base angles measures 30 degrees. What is the measure of the vertex angle? | 120 degrees | Ethan:I | | .Ethan said 60; a Seymour player blurted 120 without ringing in, so the steal was not allowed (the host said this "throws out the question")
+T35 | Health | What does a hematologist study? | Blood | 1.Sophia:C
+B35 | Health | In which country is Himalayan rock salt mined? | Pakistan | I | .team said Nepal; the host called it a trick question
+T36 | Vocabulary | What type of sentence gives directions or commands while addressing someone directly? | An imperative sentence | NB | | .nobody answered; the host gave the answer
+T37 | Games | How many balls are on a pool table at the start of the game? | 16 (15 plus the cue ball) | Ethan:I | Savannah:I | .Ethan said nine; Savannah said ten
+T38 | Government | In which language was the Magna Carta written? | Latin | Savannah:C
+B38 | Visual | Which country is highlighted on the map of Africa shown here? | Morocco | C
+T39 | Mythology | In Norse mythology, who are the female figures who served Odin and guided the souls of dead warriors to Valhalla? | The Valkyries | Ethan:C
+B39 | Mythology | A prototype floating solar farm in the Netherlands that can turn to follow the sun's rays is named for what mythological Greek sea god who predicts the future? | Proteus | I | .team said Poseidon
+T40 | Chemistry | What is the chemical formula for methane? | CH4 | NB | | .nobody answered; the host gave the answer
+T41 | Literature | In Homer's Iliad, what nationality of soldiers were hidden inside the Trojan horse? | Greek | Joe Nicholas:C
+B41 | Literature | Which two of Shakespeare's plays have seasons in the title? | A Midsummer Night's Dream and The Winter's Tale | I | .the team gave no answer
+T42 | Music | In 4/4 time, how many beats of silence should there be with a half rest symbol? | Two | Joe Nicholas:C
+B42 | Music | Part 1: Identify the other half of the famous duo "Brooks and ...". // Part 2: Identify the other half of the famous duo "Sonny and ...". | Part 1: Dunn // Part 2: Cher | I | .the captions show the team saying "Barley" for Part 1 and giving no answer for Part 2
+T43 | Economics | What is the financial term for cash on hand, cash on bank deposit and things like stocks and bonds that can be quickly and easily converted to cash? | Liquid assets | 2:I | Savannah:C | .Halls's first buzzer is not named and the answer is not captured; the host accepted Savannah's "liquid wealth"
+B43 | Economics | Part 1: What does the abbreviation IPO stand for? // Part 2: What does the abbreviation NFT stand for? | Part 1: Initial public offering // Part 2: Non-fungible token | 1.Sophia:I | !Savannah said "inventory processing office" for Part 1; Sophia said "nonfungible token" for Part 2 but stressed "fun-gible", the host said he would ask the judges and the captions then show "Can't take it", read here as a ruling against
+T44 | Algebra | Find the value of x if 4x + 5 + 6x − 5 = 100. | x = 10 | Savannah:C
+B44 | Algebra | What is the reduced slope of the line connecting the points (−4, 6) and (6, −2)? | −4/5 | I | !the captions are unclear: the second point is inferred from the answer, Sophia asked whether she had to defer to Savannah, the host repeated "negative four over five" and reminded the captain to answer or defer by name, and no ruling is stated; treated as missed
+T45 | Science | What principle is expressed in Newton's first law of motion? | Inertia | Ethan:C
+B45 | Science | A compound pulley and a hydraulic screw are among the inventions credited to which Greek scientist, who has been called the father of theoretical mechanics? | Archimedes | C
+T46 | Foreign Language | What French word means a nightclub or restaurant where entertainment is performed, and was the title of a Broadway musical and film? | Cabaret | NB | | .nobody answered; the host gave the answer
+T47 | Art | What Pixar animated film follows a 12 year old boy named Miguel, who accidentally ends up in the land of the dead? | Coco | 2.Sophia:C
+B47 | Art | Part 1: What Broadway musical has a song that begins with the number 525,600? // Part 2: What is the title of that song? | Part 1: Rent // Part 2: Seasons of Love | C

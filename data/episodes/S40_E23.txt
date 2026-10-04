@@ -1,0 +1,78 @@
+@EP S40 E23
+@ROUND Round 1
+@TEAMS Sequoyah High School | Maryville High School (Aaron's team)
+@R1 Quinton, Priscilla, Abby, Bryan, Annabel
+@R2 John, Matthew, Aaron, Thomas, Lauren
+# Maryville has three teams in the tournament; this one is captained by Aaron (captions: "Erwin/Irwin/Arrow"). Abby is Sequoyah's captain. Maryville appears as "Marvel/Marable/Arable/Arrival". In the second half Sequoyah brings in Annabel and Maryville brings in Lauren. Sequoyah's closing remark ("breaking the century mark") matches the 100 points recorded here.
+# ---- first half ----
+T1 | Chemistry | In 1894, Sir William Ramsay and Baron Rayleigh discovered which gas with the atomic number 18? | Argon | Aaron:C | .buzzer name read from "Erwin"
+B1 | Chemistry | An estimated 12 million tons of electric car batteries that will stop working in the next ten years will end up in landfills unless experts are able to find better ways to recycle the batteries' raw materials, including which one, the lightest solid element? | Lithium | C
+T2 | Spelling | Good spirit among comrades is camaraderie. Spell "camaraderie." | C-A-M-A-R-A-D-E-R-I-E | Aaron:I | | .buzzer name read from "Ireland"; the spelling began C-O-M-R-A-D-E; steal offered to Sequoyah and no Sequoyah answer is captured (the host spelled the word)
+T3 | Algebra | Solve for y in the equation −3x − 4y = 0. | y = −(3/4)x | Aaron:I | 1:I | .Aaron said "negative three over four"; the Sequoyah steal answer is not captured, but the host told them they were on the right track before giving the answer
+T4 | Art | What famous painting is known to art experts as "Arrangement in Gray and Black, Number One"? | Whistler's Mother | NB | | .nobody answered; the host gave the answer
+T5 | History | Which Civil War naval leader, the first to reach the military level of admiral, captured New Orleans in 1862 from the Confederates? | David Farragut | 2:C | .buzzer not named (the captions show "I'm fair"; probably Aaron answering "Farragut"); Maryville from the bonus going to Maryville
+B5 | History | In 1877, federal troops were withdrawn from the three states in which they remained, marking the end of Reconstruction. Name the three states and the president who removed the troops. | Louisiana, Florida and South Carolina; President Rutherford B. Hayes | Matthew:P10 | .Matthew said Rutherford B. Hayes, Mississippi, Alabama and South Carolina; Hayes and South Carolina counted (five points each)
+T6 | Health | What do the letters EKG or ECG mean? | Electrocardiogram | Bryan:C
+B6 | Health | Part 1: What words do the letters in the food additive MSG represent? // Part 2: What words do the letters GMO represent? | Part 1: Monosodium glutamate // Part 2: Genetically modified organism | P10 | .the team ran out of time on Part 1 and answered Part 2 correctly
+T7 | Mythology | What mythical creature has the head, arms and torso of a human and the body and legs of a horse? | A centaur | Aaron:C | .the captions show "Center" for the answer
+B7 | Visual | Who is the African folklore character shown here, known as a trickster with the ability to outsmart and triumph over more powerful opponents through his use of cunning, creativity and wit? | Anansi (the spider) | I | .team said Loki
+T8 | Music | In what present-day country was Johann Sebastian Bach born? | Germany | Matthew:C
+B8 | Music | Part 1: According to Spotify's Sizzling 2023 Songs of Summer, what track whose title roughly translates to "She dances alone" had the most downloads globally? // Part 2: What song by Gibbs High School alumnus Morgan Wallen was on Spotify's Sizzling 2023 Songs of Summer for having the most downloads in the United States? | Part 1: "Ella Baila Sola" // Part 2: "Last Night" | I | .the answers are garbled in the captions; the team's Part 1 answer is not clear and Thomas apparently said "Don't Start Now" for Part 2; the host gave both titles
+T9 | Religion | What plant's leaf is associated with Saint Patrick and can be used to explain the Holy Trinity? | The shamrock | Thomas:I | | .Thomas said clover (the host wanted a specific form of clover); steal offered to Sequoyah and no answer captured
+T10 | Government | What type of jury decides if there is enough evidence to hold a trial? | A grand jury | John:C | .the host reminded John to wait to be called on
+B10 | Government | What is the two word expression for an individual who refuses to serve in the military based on religious or moral beliefs? | Conscientious objector | C
+T11 | Science | What is the simple machine consisting of a rod free at both ends and a steady object on which the rod rests? | A lever | John:C | .the captions show "A weaver"
+B11 | Science | Who published his major classic work, Systema Naturae, in 1735 at the age of 28, providing a classification of the then three kingdoms of nature (mineral, vegetable and animal) and becoming the first naturalist to include man within the animal kingdom? | Carl Linnaeus | John:C | .the work title is garbled in the captions ("factory work system and nature"); Aaron deferred to John
+T12 | Foreign Language | What is the official language of the Netherlands? | Dutch | Thomas:C
+B12 | Foreign Language | Part 1: Give the English translation of the French phrase "s'il vous plaît." // Part 2: Give the English translation of the French phrase "bonne nuit." | Part 1: Please // Part 2: Good night | C | .the second phrase is garbled in the captions ("bonhomie"); "good night" is taken from the answer
+T13 | Math | What fractional part of 201 is 67? | 1/3 | Aaron:I | | .Aaron said 67 over 201 (not reduced); no steal captured
+T14 | Sports | In which state is the Daytona International Speedway? | Florida | Thomas:C
+B14 | Sports | The Iditarod sled dog race crosses two mountain ranges, the frozen Yukon River and the Bering Sea ice on its way to the finish line in what famous Gold Rush town? | Nome | John:C | .the captions show "Anchorage?" before Aaron deferred to John, who said Nome
+T15 | Geography | Which U.S. state was the 50th to be admitted to the union? | Hawaii | Matthew:C
+B15 | Visual | Which country is highlighted on the European map shown here? | Croatia | C
+T16 | Technology | In ChatGPT, what words do the letters GPT represent? | Generative Pre-trained Transformer | John:I | 1:I | .the first answer was "generative prompt technology" (name read from "job"); the Sequoyah steal answer is not captured, but the host said they were on the right track
+T17 | Grammar | Correct the error in this sentence, if necessary: "My friend and myself went to a movie last night." | My friend and I went to a movie last night. | Abby:C
+B17 | English | What is the nine letter psychology term, beginning with the letter I, for quick impulsive thought that does not make use of formal logic or clear reasoning? | Intuition | Quinton:I | .Abby deferred to Quinton, who said "instinct"
+T18 | Biology | By what method do most bacteria multiply? | Binary fission (cell division) | Aaron:C | .the captions show "vision" for fission
+B18 | Biology | In 2022, the United States pledged to increase its LNG exports to the United Kingdom under a new bilateral energy partnership. What does LNG stand for? | Liquefied natural gas | I | !the team's answer is garbled in the captions ("something I heard of ... Thomas Lowe") and the host then said "Never mind ... liquefied natural gas" without awarding points; treated as missed
+T19 | Architecture | What city's Oak Park suburb is the location of the Beachy House, the Frank Thomas House, the Hills-DeCaro House and the Nathan G. Moore House, all designed by Frank Lloyd Wright? | Chicago | Thomas:C
+B19 | Architecture | What structure on the Columbia River near Spokane, Washington, is the largest power station in the U.S.? | Grand Coulee Dam | John:I | .Aaron deferred to John, who said Norris Dam
+T20 | History | Who coined the term fascism and created the first one-party fascist state? | Benito Mussolini | Matthew:C
+B20 | History | Which two of the wives of Henry VIII were beheaded? | Anne Boleyn and Catherine Howard | P10 | .the team named Anne Boleyn and Catherine of Aragon; only Anne Boleyn counted
+T21 | Chemistry | A uranium-238 atom differs from a uranium-235 atom due to three additional what? | Neutrons | Thomas:C
+B21 | Chemistry | What is the chemical formula for nitric acid? | HNO3 | C
+T22 | Literature | What children's picture book by Chris Van Allsburg tells of a boy's ... [question cut off at halftime] | The Polar Express | NB | | .time ran out in the middle of this question at the end of the first half; the host named the book
+# ---- second half ----
+T23 | Math | A student body has a ratio of 3 to 5 males to females. If there are 1000 students, how many are females? | 625 | Thomas:I | | .Thomas said 600; Sequoyah's captain deferred to Bryan, who did not answer in time on the steal
+T24 | Games | The word "checkmate" in chess comes from the Persian phrase "shah mat." What English phrase does that translate to? | The king is dead | Thomas:I | Bryan:I | .Thomas said "the king can't move"; Bryan said "the king is trapped"
+T25 | Economics | What is the term for a person who makes and repairs things in iron by hand? | A blacksmith | John:C
+B25 | Economics | Part 1: What company was founded on September 4, 1998, by Larry Page and Sergey Brin while they were Ph.D. students at Stanford University? // Part 2: What is the name of Google's web browser? | Part 1: Google // Part 2: Chrome | P10 | .the team said "MySpace" for Part 1
+T26 | Geology | Dinosaurs existed in what era of geologic time? | The Mesozoic era | Thomas:I | Annabel:C | .Thomas said Jurassic
+B26 | Geology | Part 1: What is the metal found in the mineral hematite? // Part 2: What is the metal found in the mineral cinnabar? | Part 1: Iron // Part 2: Mercury | I | .the team said carbon for Part 1 and gave no answer for Part 2
+T27 | Mythology | What series of fantasy novels spans five books, was written by award-winning author Rick Riordan and follows Percy Jackson? | Percy Jackson and the Olympians | John:C
+B27 | Visual | What is the name of the mythological three-headed dog shown here that guards the entrance to the underworld in Greek mythology? | Cerberus | C
+T28 | History | What was the nickname of King Richard I of England? | The Lionheart | John:C
+B28 | History | In 2023, researchers published their analysis of a skeleton that showed a failed attempted brain surgery 3,500 years ago and belonged to one of two brothers in a shared grave excavated in 2016 in Megiddo, Israel, a city prophesied as the site of the final battle before end times and also known by what Greek name? | Armageddon | I | .team said apocalypse
+T29 | Religion | In 1865, William and Catherine Booth founded the Christian Mission that was later renamed to what familiar bell-ringing organization? | The Salvation Army | John:C
+B29 | Religion | An eighth-century mosaic with more than 5 million pieces was unveiled in 2021 in which city, described in the Book of Joshua as the location where the walls fell after the Israelites marched and blew trumpets? | Jericho | John:C | .Aaron deferred to John
+T30 | Geography | What is the capital city of West Virginia? | Charleston | Thomas:C
+B30 | Geography | Part 1: In which state is Biscayne Bay? // Part 2: In which state is Lake Winnipesaukee? | Part 1: Florida // Part 2: New Hampshire | I | .the captions show the team guessing Wyoming/Washington and then Wisconsin; the host gave both answers
+T31 | Health | What part of the brain controls balance, movement and coordination? | The cerebellum | Bryan:C
+B31 | Health | Part 1: What part of the human body is a sac that stores and concentrates bile? // Part 2: What part of the human body is a flap of cartilage that closes the upper end of the trachea when swallowing? | Part 1: The gallbladder // Part 2: The epiglottis | C
+T32 | Vocabulary | Spell "stationary" as it is used in reference to writing supplies. | S-T-A-T-I-O-N-E-R-Y | Aaron:I | | .Aaron spelled it with A-R-Y; the host did not allow a Sequoyah steal because the teams had conferred
+T33 | Math | What shape of graph is represented by the equation y = x + 4? | A line (linear) | Bryan:C
+B33 | Visual | Given that i is the imaginary unit, simplify (3 + 5i)(3 + 5i). | −16 + 30i | I | .Bryan was asked to answer after Abby deferred and did not answer in time
+T34 | Music | During which musical period was the piano invented? | The Classical period (host's answer) | John:I | | .the buzzer name is read from "Done" (probably John); Baroque was ruled wrong, and a Sequoyah player's "Classical" was not accepted because they did not ring in
+T35 | Government | A fundamental principle of what political theory is that people should work according to their capacity and receive [text cut off in captions]? | Communism | 1:I | John:C | .Sequoyah's buzzer is not named (said "Marxism"); John's "communism" was accepted on the steal
+B35 | Government | After South Carolina disputed certain tariffs, which president issued a nullification proclamation in 1832, saying it would be incompatible with the existence of the union for one state to assume the power to annul a law of the U.S.? | Andrew Jackson | C
+T36 | Astronomy | What is the only planet in our solar system that is not named after a Greco-Roman god? | Earth | Bryan:C
+B36 | Astronomy | What are the names of the two bright stars that mark the shoulders of the constellation Orion? | Betelgeuse and Bellatrix | I | .the team did not answer in time; the host read both names
+T37 | Foreign Language | What is the German word for "please"? | Bitte | Aaron:I | | .Aaron said "danke"; no Sequoyah answer captured
+T38 | Literature | Fagin is the greedy villain in which Dickens novel? | Oliver Twist | John:C
+B38 | Literature | Part 1: A member of Congress wore a T-shirt with a red letter A on it to symbolize being demonized for her 2023 vote to oust Kevin McCarthy as House Speaker. It was a reference to what 1850 novel? // Part 2: Who was the author? | Part 1: The Scarlet Letter // Part 2: Nathaniel Hawthorne | C
+T39 | Miscellaneous | Which animal is featured on the Ferrari logo? | A prancing horse | Thomas:C
+B39 | Miscellaneous | Name four of the Ivy League schools. | Any four of: Brown, Columbia, Cornell, Dartmouth, Harvard, Penn, Princeton, Yale | C | .the team named Harvard, Princeton, Yale and Brown after an early wrong guess aloud ("Cambridge"); the host said all four were on the list
+T40 | U.S. History | In 1860, which political party nominated Abraham Lincoln? | The Republican Party | Bryan:C
+B40 | U.S. History | In 1832, John C. Calhoun became the first U.S. vice president to resign, after a disagreement with which president? | Andrew Jackson | I | .team said Van Buren
+T41 | Biology | Name the genus and species for a human being. | Homo sapiens | John:C
+B41 | Biology | Part 1: What type of fruit has varieties called Bing and Rainier? // Part 2: What type of fruit has varieties called Belle of Georgia and Donut? | Part 1: Cherries // Part 2: Peaches | P10 | .the team said apple for Part 1; the game ended after this bonus

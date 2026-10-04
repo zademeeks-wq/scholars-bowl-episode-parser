@@ -1,0 +1,91 @@
+@EP S41 E44
+@ROUND Round of 32
+@TEAMS Dobyns-Bennett High School (Claire's team) | Scott County High School
+@R1 Abdul, Rishabh, Claire, Michael, Anton, Eli
+@R2 Jocelyn, Rylan, Brian, Haley, Naomi, Anna
+# ---- first half ----
+T1 | Foreign Language | Translate the question "¿Cómo te llamas?" from Spanish to English. | What is your name? | Michael:C | .Spanish phrase reconstructed from captions ("Como Toyama")
+B1 | Foreign Language | Translate the Spanish phrase "feliz cumpleaños" into French. | Bon anniversaire | Rishabh:C | .Spanish phrase reconstructed from captions ("lease compliance")
+T2 | Literature | Which type of poem has 14 lines and a formal rhyming scheme? | Sonnet | Jocelyn:C
+B2 | Literature | Part 1: Who wrote the poem "Mending Wall"? // Part 2: Who wrote the poem "Because I Could Not Stop for Death"? | Part 1: Robert Frost // Part 2: Emily Dickinson | C
+T3 | Geometry | A triangle's perimeter is 120. If its sides are in a four to five to six ratio, what is the length of the shortest side? | 32 | Rishabh:I | | .Rishabh said 24 (name read from "For sharp"); Scott was offered the steal, nobody answered in time
+T4 | Biology | What carnivorous black and white mammal is in the genus Orcinus? | Orca | ?:C | .buzzer name garbled in captions ("Bartlett"); player and team not identified
+B4 | Biology | Part 1: What is the common name of Ambystoma mexicanum, a salamander named after the Aztec god of fire and lightning that is a popular exotic pet? // Part 2: Spell the name. | Part 1: Axolotl // Part 2: A-X-O-L-O-T-L | P10 | .team said Gila monster and gecko for Part 1; spelling earned 10 points
+T5 | Geography | Which African country is closest to Antarctica? | South Africa | 1:C | .buzzer name garbled in captions; team from "visual bonus for D-B"
+B5 | Visual | The territorial flag shown here, representing what archipelago, is the only one in the world that features a sinking ship? | Bermuda | Abdul:C
+T6 | Art | What American painter, who began her painting career at age 78, produced primitives of rural New England life and whose painting titled Fourth of July was reproduced on a postage stamp in 1969? | Grandma Moses | Brian:I | Claire:I | .Brian said Georgia O'Keeffe; Claire's answer garbled in captions ("Williams")
+T7 | Vocabulary | In the sentence "You will rue the day you met me," what six letter word is a synonym of rue? | Regret | Claire:C
+B7 | Vocabulary | Part 1: What 11 letter word beginning with C means a person with expert knowledge or discriminating taste? // Part 2: Spell that word. | Part 1: Connoisseur // Part 2: C-O-N-N-O-I-S-S-E-U-R | Abdul:P10 | .Part 2 misspelled
+T8 | Sports | What racket sport is played by hitting a shuttlecock across a net? | Badminton | Michael:C
+B8 | Sports | Part 1: In 2024, who became the first player in Major League Baseball history to hit 50 home runs and steal 50 bases in a single season? // Part 2: For what team does Ohtani play? | Part 1: Shohei Ohtani // Part 2: Los Angeles Dodgers | Rishabh:C
+T9 | Health | What is the innate and typically fixed pattern of behavior in animals in response to certain stimuli? | Instinct | Abdul:C
+B9 | Health | Known as the Black Death, what type of plague wreaked havoc across Europe, Asia and North Africa in the 1300s? | Bubonic plague | C
+T10 | Economics | What is the currency of Japan? | Yen | Haley:C
+B10 | Economics | Part 1: What is the official currency of South Korea? // Part 2: What is the official currency of the South African Common Monetary Area? | Part 1: Won // Part 2: Rand | I | .team said pound and rupee
+T11 | Sports | How much does a regulation NCAA football weigh? | 14 to 15 ounces | Rylan:I | Rishabh:C | .Rylan's answer garbled in captions
+B11 | Sports | Part 1: What was the original name of the National Football League? // Part 2: Who was its first president? | Part 1: American Professional Football Association // Part 2: Jim Thorpe | Rishabh:P10 | .team said the American Football League for Part 1
+T12 | English | What word is the antonym of divide? | Unite | Abdul:I | | .Abdul said multiply; Scott was offered the steal, no answer captured
+T13 | Math | Walter rents a space for $250 a month. How much is a year's rent? | $3,000 | Michael:C | .captions read "30,000"
+B13 | Visual | Two angles are complementary. One is 48 degrees less than the other angle. Find both angle measures. | 21 degrees and 69 degrees | C | .host verdict not captured; final answer matches
+T14 | Chemistry | What is the particle that possesses only a fraction of the charge of an electron and seems to be a constituent of baryons and mesons? | Quark | Jocelyn:I | 1:I | .Jocelyn said neutron; D-B's stealing player not named (said neutrino)
+T15 | U.S. History | In which city did Martin Luther King deliver his "I Have a Dream" speech? | Washington, D.C. | Michael:C
+B15 | History | The Enron scandal, Hurricane Katrina, and the terrorist attack on September 11th were major events during the administration of which 21st century U.S. president and vice president? | George W. Bush and Dick Cheney | C
+T16 | Arts | What actor plays Doctor Strange in the Avengers movies? | Benedict Cumberbatch | Rishabh:I | Jocelyn:C | .Rishabh said Benedict Arnold
+B16 | Arts | Part 1: Character actor Stanley Tucci is married to the sister of which actress who has played Mary Poppins and appeared in A Quiet Place and The Devil Wears Prada? // Part 2: The movie A Quiet Place was directed by and also starred which actor, Emily Blunt's husband? | Part 1: Emily Blunt // Part 2: John Krasinski | P10 | .team said Meryl Streep for Part 1
+T17 | Literature | What was the primary language of ancient Indian literature? | Sanskrit | ?:C | .player and team not identified in captions
+B17 | Literature | Part 1: What novel by Ray Bradbury takes place in a dystopian future where books have been outlawed and any that are found are burned by firemen? // Part 2: Bradbury meant for the title to refer to what? | Part 1: Fahrenheit 451 // Part 2: The temperature at which book paper burns | C | !question structure unclear in captions ("high for 51 ... which paper burns"); host: "I will take it, 20 points"
+T18 | Biology | What is the only bird that swims but does not fly? | Penguin | Claire:C
+B18 | Biology | In 2024, a nonprofit organization in Tanzania began training giant pouched rats to sniff out smuggled wildlife products, including the tusks and horns of which two species of large African pachyderms? | Elephants and rhinos | C
+T19 | Astronomy | Which is the dimmest of the zodiac constellations and has a name that is Latin for crab? | Cancer | Haley:C
+B19 | Astronomy | Part 1: In which constellation is the Lagoon Nebula? // Part 2: In which constellation is the Ring Nebula? | Part 1: Sagittarius // Part 2: Lyra | I | !result unclear: captions show "Yes. Try queries that Sagittarius" for Part 1 but the host said "no points there"
+T20 | Geography | What is the name of the chain of barrier islands that make up most of the North Carolina coastline? | The Outer Banks | ?:C | .player and team not identified in captions; answer garbled ("for island ranks")
+B20 | Geography | Name four of the six states that comprise the region of New England. | Any four of: Connecticut, Maine, Massachusetts, New Hampshire, Rhode Island, Vermont | C | .host counted the first four answers given
+T21 | Music | What kind of musical note is made up of a blackened circle attached to a vertical stem? | Quarter note | Abdul:I | Jocelyn:C | .Abdul said half note
+B21 | Music | Who composed the tone poem Also sprach Zarathustra, which was made famous as the opening theme music of 2001: A Space Odyssey? | Richard Strauss | I | .team said Holst and Bach
+T22 | Foreign Language | What is the official language in Niger? | French | Abdul:I | Brian:I | .Abdul said Arabic; Brian's name read from "Brown", said Spanish
+T23 | Pre-Calculus | In the unit circle, what is the sine of pi over six radians? | One half | Rylan:C | .name read from "Random"
+B23 | Pre-Calculus | Determine the equation for a circle in standard form with a radius of three and centered at the point negative three, four. | (x + 3)² + (y - 4)² = 9 | C
+# ---- second half ----
+T24 | Science | Who invented the reflecting telescope? | Isaac Newton | Rishabh:I | Rylan:C | .Rishabh said Galileo (name read from "Bishop")
+B24 | Science | Part 1: In which geologic era did forests appear and dominate the land? // Part 2: In which geologic era did flying reptiles appear? | Part 1: Paleozoic // Part 2: Mesozoic | P10 | .team said Jurassic for both; Jurassic accepted for Part 2
+T25 | History | Which investigative journalist is renowned for her undercover work exposing the conditions of mental institutions in New York in 1887? | Nellie Bly | Rishabh:I | Rylan:I | .Rishabh said Dorothea Dix; Rylan said Ida Tarbell
+T26 | Sports | If a contestant in a race overtakes the person in second place, what place are they in? | Second place | Claire:C
+B26 | Sports | Which men's soccer player shown here has won the most Ballon d'Or awards, given each year to the best overall player? | Lionel Messi | C
+T27 | Vocabulary | Spell the word that can be a vessel for water or a baseball player who throws the ball to the batter. | P-I-T-C-H-E-R | Rylan:C | .spelling garbled in captions
+B27 | Vocabulary | Part 1: Sesquipedalophobia is the fear of what? // Part 2: What is the literal translation of the Latin word sesquipedalian? | Part 1: Long words // Part 2: A foot and a half | U | !result not stated: team said bicycle for Part 1 and Part 2 is not clear in captions
+T28 | Literature | Who wrote Charlie and the Chocolate Factory? | Roald Dahl | Michael:C | .answer garbled in captions ("Rudolph")
+B28 | Literature | Two mathematicians in Australia rejected as misleading the theorem that, given an infinite amount of time, a monkey pressing random keys on a typewriter might eventually reproduce the works of which Elizabethan playwright? | William Shakespeare | C
+T29 | Physics | What is the term for the number that compares the anti-knock properties of a gasoline with that of a standard? | Octane rating | ?:C | .player and team not identified in captions
+B29 | Physics | What simple machine is represented by a doorknob? | Wheel and axle | I | .team said pivot and ball and socket
+T30 | Geography | Which state's nickname is the Old Dominion State? | Virginia | Michael:I | Rylan:C | .Michael said Oklahoma; Rylan's name read from "Island"
+B30 | Geography | Which four state capitals were named after U.S. presidents? | Lincoln, Jefferson City, Jackson, Madison | P15 | .team named Lincoln, Washington, Jefferson City and Jackson; Washington is not a state capital (15 points)
+T31 | Miscellaneous | What Southeastern Conference school in Tennessee is included in Greene's Guides' Hidden Ivies? | Vanderbilt | Brian:C | .name read from "Bryant"
+B31 | Miscellaneous | Part 1: What is the middle name of President William J. Clinton? // Part 2: What was the middle name of President John F. Kennedy? | Part 1: Jefferson // Part 2: Fitzgerald | I | .team said Joseph and Frederick
+T32 | Spelling | The aardvark is a burrowing, nocturnal mammal. Spell "aardvark." | A-A-R-D-V-A-R-K | Jocelyn:I | Michael:C | .Jocelyn left out an A
+B32 | Spelling | Defined as deviating from the ordinary or unusual, spell "aberrant." | A-B-E-R-R-A-N-T | I | .team's spelling was wrong; no points stated
+T33 | Math | What is the value of three eighths times two and two thirds? | 1 | 2:I | Michael:C | .Scott's first buzzer not named, said 2
+B33 | Math | Part 1: How long is a furlong? // Part 2: How long is a rod? | Part 1: 660 feet // Part 2: 16.5 feet | I | .team said 12 feet and 1,000 feet
+T34 | Biology | What breed of dog is the fastest, capable of speeds up to 45 miles an hour? | Greyhound | Claire:C
+B34 | Biology | What type of fish uses a disk on its head to attach itself by suction to sharks, other large marine animals and oceangoing ships? | Remora | Eli:I | .Eli said minnow
+T35 | Economics | What became an official federal holiday in 1894 and is observed on the first Monday in September? | Labor Day | Michael:C
+B35 | Economics | Part 1: What is pictured on the back of a U.S. $10 bill? // Part 2: Whose picture is on the front of a U.S. $10 bill? | Part 1: The U.S. Treasury building // Part 2: Alexander Hamilton | C
+T36 | Art | What is the resulting color when mixing red and blue? | Purple | 2:I | Rishabh:C | .Scott's first buzzer not named, said brown
+B36 | Visual | Which Baroque painter was known for his dramatic use of light and shadow, as shown here in his famous work The Calling of Saint Matthew? | Caravaggio | I | .team said Rembrandt
+T37 | Foreign Language | What is the English translation of the German word "wunderbar"? | Wonderful | ?:C | .player and team not identified in captions
+B37 | Foreign Language | The German word for tomorrow is "morgen." What is the German word for the day after tomorrow? | Übermorgen | I | .team said "tag"
+T38 | Geology | What type of rocks formed from molten magma? | Igneous | ?:C | .player and team not identified; cut off by buzz
+B38 | Geology | The seabed of the Cook Islands could become a source of critical strategic metals, although ocean experts warn of enormous damage to the marine ecosystem from deep sea mining of copper, nickel, manganese and which chemical element with the symbol Co? | Cobalt | C
+T39 | Chemistry | When amino acids are joined together to make proteins, what type of bond joins them? | Peptide bonds | 1:I | Jocelyn:C | .D-B's first buzzer not named, said polypeptides
+B39 | Chemistry | Part 1: How many atoms are indicated by the prefix penta? // Part 2: How many atoms are indicated by the prefix hepta? | Part 1: Five // Part 2: Seven | C | .Part 1 answer not captured
+T40 | U.S. History | What is the subject of the silent eight millimeter Zapruder film, considered one of the most viewed films in history? | The assassination of John F. Kennedy | ?:C | .player and team not identified in captions
+B40 | U.S. History | Which U.S. president was sworn into office by his father by the light of a kerosene lamp at 2:47 a.m. on August 3rd, 1923, in Plymouth Notch, Vermont? | Calvin Coolidge | C
+T41 | Religion | The Seder plate is the centerpiece of what Jewish holiday feast? | Passover | Michael:C
+B41 | Religion | What is the seven branched candelabrum depicted on the Israeli national emblem? | Menorah | C
+T42 | Literature | What children's book by E.B. White is about one small mouse on a very big adventure? | Stuart Little | Rylan:C | .name read from "Ryan"
+B42 | Literature | Part 1: Who wrote the novel It, which features a clown as the main villain? // Part 2: What is the name of the clown? | Part 1: Stephen King // Part 2: Pennywise | C | .Part 2 answer not captured; host said "also right"
+T43 | Math | What is 25% of 25? | 6.25 | Michael:C
+B43 | Math | What four consecutive odd integers add up to 88? | 19, 21, 23, 25 | C
+T44 | Health | Name the group of peptide hormones produced in the pituitary gland and central nervous system that act on the opiate receptors of the brain. | Endorphins | Jocelyn:I | Michael:C | .Jocelyn said growth hormone
+B44 | Health | What part of the body has the metacarpal bones? | The hand | I | .team said "carpal medical feet"
+T45 | History | Who led the Bolsheviks' seizure of power in the Russian Revolution, was chief lieutenant to Lenin, was exiled to Mexico and was assassinated in 1940? | Leon Trotsky | Rishabh:I | Jocelyn:C | .Rishabh buzzed early; the host read the rest of the question for Scott
+B45 | World History | Which naval battle between a British fleet of 27 ships under Admiral Horatio Nelson and the combined fleets of the French and Spanish navies took place on October 21st, 1805? | Battle of Trafalgar | I | .team said the Spanish Armada; game over after this bonus

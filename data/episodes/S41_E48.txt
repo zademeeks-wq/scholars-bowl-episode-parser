@@ -1,0 +1,86 @@
+@EP S41 E48
+@ROUND Round of 16
+@TEAMS Morristown-Hamblen East High School | Jefferson County High School
+@R1 Caleb, Kingston, Hayden, Boyd, Emery
+@R2 Zach, Evan, Max, Amy, Elaine, Isabella, Eli, Laurel
+# The captions often render Hayden as "Hidden"; Jefferson County is "Jeffco" / "Jack" in the captions.
+# ---- first half ----
+T1 | Technology | What is the eight letter word beginning with F used to describe a system designed to protect and secure a computer network from external security risks? | Firewall | 1:C | .buzzer not named; team from "technology bonus from Morristown"
+B1 | Technology | What software was originally called Sky Peer to Peer and is known for VoIP based video telephony and video conferencing? | Skype | C
+T2 | English | What auxiliary verb should be used to complete the following sentence in the present perfect tense? She blank never been to France. | Has | Hayden:C | .name garbled in captions ("Hidden")
+B2 | English | What 11 letter word completes the following antonym analogy: Hopeful is to despairing as optimistic is to what? | Pessimistic | C
+T3 | Religion | According to the Bible, in what city did Jesus live during much of his childhood and young adulthood? | Nazareth | Max:C
+B3 | Religion | In 2023, Israel evacuated over 200 Jews, first to Addis Ababa, then on to Israel, in order for them to escape the violence in the Amhara region. Of what country? | Ethiopia | I | .team said Palestine
+T4 | Health | What field of medicine deals with children's diseases? | Pediatrics | Boyd:C
+B4 | Health | What is the disorder in which the blood has a reduced ability to carry oxygen due to a lower than normal number of red blood cells, or a reduction in the amount of hemoglobin? | Anemia | C
+T5 | Government | Which amendment to the U.S. Constitution abolished slavery? | 13th Amendment | Caleb:C
+B5 | Government | Part 1: What fraction of members' votes in both the House and Senate is required to overturn a vetoed bill? // Part 2: What percentage of the states is necessary to ratify an amendment to the Constitution? | Part 1: Two thirds // Part 2: 75% | C
+T6 | Literature | What war is the setting for The Book Thief? | World War II | 1:I | 2:C | .Morristown's first buzzer said World War I; Jefferson County's stealing player not named (host said "steal Jeffco")
+B6 | Literature | Who is the Nobel Prize winning Colombian author shown here, known as the father of magical realism and for novels like Love in the Time of Cholera and One Hundred Years of Solitude? | Gabriel García Márquez | Zach:C
+T7 | Math | What is the next term in the geometric progression 2, 6, 18, 54? | 162 | Hayden:I | Max:C | .Hayden first said 160 and the host held him to that answer
+B7 | Math | If someone is traveling at 80 miles an hour, how long will it take them to go 180 miles? | 2 hours 15 minutes | C | .team first said 2 hours 20 minutes
+T8 | World History | Which landlocked European country remained neutral in both World War I and World War II? | Switzerland | Hayden:C
+B8 | History | During ancient and medieval times, religious texts, literature and other documents were written on parchment, which is made from what type of material? | Animal skin (sheepskin) | C
+T9 | Foreign Language | What is the English translation for the Latin phrase "prima facie"? | At first sight | Hayden:I | Zach:C | .Hayden said "first place"
+B9 | Foreign Language | Part 1: What is the English translation of the French phrase "s'il vous plaît"? // Part 2: What is the English translation of the French phrase "bonne nuit"? | Part 1: Please // Part 2: Good night | C | .French phrases reconstructed from garbled captions ("civil play", "Bonnie")
+T10 | Vocabulary | Complete the proverb: People in glass houses shouldn't throw what? | Stones | ?:C | .player and team not identified in captions
+B10 | Vocabulary | Part 1: What vital organ of the body can be spelled by rearranging the letters A, R, E, T, H? // Part 2: Which planet in our solar system can be arranged by spelling the same letters? | Part 1: Heart // Part 2: Earth | C
+T11 | Government | What is the standard six letter term for a tax on imports? | Tariff | Zach:C
+B11 | Government | Which country that joined NATO in 2023 shares a long border with Russia and also borders Sweden and Norway? | Finland | C
+T12 | Geography | The statue of Christ the Redeemer stands on Corcovado mountain overlooking Rio de Janeiro. In what country? | Brazil | 2:C | !end of the question and the answer are not captured (Brazil inferred); buzzer not named and answered before being recognized; team from "visual bonus now for Jefferson County"
+B12 | Visual | El Castillo, also known as the Temple of Kukulcán, shown here, is a Mesoamerican step pyramid that dominates the center of what archaeological site in the Mexican state of Yucatán? | Chichén Itzá | Zach:I | .Zach said Tenochtitlan
+T13 | Architecture | What is the term for a building or structure that is designed to keep birds confined? | Aviary | Max:I | Boyd:C | .Max said birdhouse
+B13 | Architecture | What structure on the Columbia River near Spokane, Washington is the largest power station in the U.S.? | Grand Coulee Dam | I | .team said "Washington power station"
+T14 | Spelling | To annihilate is to completely destroy. Spell "annihilate." | A-N-N-I-H-I-L-A-T-E | 2:I | Kingston:C | .Jefferson County's first buzzer (not named) misspelled it with an A
+B14 | Spelling | Spell "Gallaudet," as in Gallaudet University in Washington, D.C. | G-A-L-L-A-U-D-E-T | Boyd:I | .the host noted it does not sound the way it is spelled
+T15 | Geometry | The area of a triangle is 48 square feet. If the base is 16 feet, what is the height to that base? | 6 feet | Hayden:C
+B15 | Geometry | What is the area of a right triangle with a hypotenuse of five feet and a leg of three feet? | 6 square feet | U | !result not stated: captions only show "Yes or no? It's six square feet"
+T16 | Science | What law states that pressure increases as the volume of a gas decreases? | Boyle's law | Zach:C
+B16 | Science | In the name of the product WD-40, what words do the letters WD represent? | Water displacement | I | .team guessed tungsten, "whether destroyer"
+T17 | U.S. History | Who was president when the U.S. made the Gadsden Purchase in 1853, securing present day Arizona and New Mexico? | Franklin Pierce | Caleb:I | Zach:C | .Caleb said Zachary Taylor
+B17 | History | After no candidate won the necessary majority, the House of Representatives decided the 1824 presidential election by choosing which man to be the sixth president of the United States? | John Quincy Adams | C
+T18 | Religion | The holy month of Ramadan commemorates the month when what was revealed to the Prophet Muhammad? | The Quran | 1:C | .buzzer not named; team from the bonus deferral to Boyd
+B18 | Religion | Part 1: Each year, millions of people travel to what town in France to visit the grotto where Saint Bernadette saw visions of the Virgin Mary in 1858? // Part 2: In what mountain range is Lourdes located? | Part 1: Lourdes // Part 2: The Pyrenees | Boyd:I | .Boyd said "Switzerland" and "Alps"
+T19 | Literature | What TV series, now in its fifth season on PBS, is based on books by a veterinarian in the Yorkshire Dales whose pen name is James Herriot? | All Creatures Great and Small | 2:I | Boyd:I | .Jefferson County's first buzzer not named (said Doctor Doolittle); Boyd said Doc McStuffins
+T20 | Music | How many flats are in the key of A-flat major? | Four | Amy:C | .name read from "Any"
+B20 | Music | During the 2024 MTV Video Music Awards, Taylor Swift referred to which rapper by his real name, Austin, when they won Best Collaboration? | Post Malone | Max:I | .Max said Drake
+# ---- second half ----
+T21 | Physics | What simple machine consists of two inclined planes back to back? | A wedge | Boyd:I | Max:I | .Boyd (name read from "void") said a lever; Max said ramp
+T22 | Economics | What is the currency of Switzerland? | The Swiss franc | Kingston:C
+B22 | Economics | Part 1: Maya Angelou, Dr. Sally Ride, Wilma Mankiller, Nina Otero-Warren and Anna May Wong were honored in 2022 when the U.S. Mint placed their pictures where? // Part 2: A union shield is on the reverse of which U.S. coin? | Part 1: On quarters // Part 2: The penny | U | !result unclear: team guessed dollar bill, $20 bill and quarters for Part 1 and ran out of time on Part 2; points not stated
+T23 | Art | What is the name of the divine proportion often represented by the Greek letter phi? | The golden ratio | ?:C | .player and team not identified in captions
+B23 | Art | Who was the American painter from the Rhode Island colony whose best known works are unfinished portraits of George and Martha Washington that he began in 1796? | Gilbert Stuart | I | .team said Frida Kahlo
+T24 | Foreign Language | What is the national language of Pakistan? | Urdu | Zach:C
+B24 | Foreign Language | The Basque language is spoken on the border of which two European countries? | Spain and France | C
+T25 | Math | What is 75% of 120? | 90 | Hayden:C
+B25 | Visual | Given the geometric series [unclear], 50, 25, name the next three members of the sequence. | 12.5, 6.25, 3.125 | C | !start of the series garbled in captions ("150 25")
+T26 | Biology | What 11 letter term beginning with E is used to describe an animal with a constant body temperature? | Endothermic | 2:C | .cut off by buzz; buzzer not named; team from the bonus deferral to Eli
+B26 | Biology | Part 1: What is the process of change that takes place before animals such as butterflies and frogs become adults? // Part 2: Now spell "metamorphosis." | Part 1: Metamorphosis // Part 2: M-E-T-A-M-O-R-P-H-O-S-I-S | Eli:C
+T27 | Geography | What is the capital of Lebanon? | Beirut | Kingston:C
+B27 | Geography | Part 1: What part of Egypt has shores on the Mediterranean Sea, the Gulf of Suez and the Gulf of Aqaba? // Part 2: With what other Middle Eastern country does the Sinai Peninsula share a land border? | Part 1: The Sinai Peninsula // Part 2: Israel | C
+T28 | Miscellaneous | What recent fad toy consists of a ball bearing in the center of a multi-lobed structure? | Fidget spinner | Max:C
+B28 | Miscellaneous | What mythical creature is the official national animal of Scotland? | Unicorn | C
+T29 | Mythology | Who is the mythological Roman goddess of the hearth, home and family, who was often represented by the fire of her temple? | Vesta | Elaine:C
+B29 | Mythology | In the creation myth of which Native American people did a great buzzard fly over the land while it was still soft and wet, and when he grew tired his wings brushed the mud, forming valleys and mountains? | Cherokee | C
+T30 | Arts | Which Disney Pixar feature was about a rodent who liked to cook? | Ratatouille | Elaine:C
+B30 | Arts | What was the name of the British actress known for playing Lady Violet Crawley and Professor Minerva McGonagall, who died in September 2024 at age 89? | Dame Maggie Smith | Elaine:I | .Elaine said "Mary"
+T31 | Chemistry | What isotope of hydrogen has one proton and one neutron and appears in heavy water? | Deuterium | ?:C | .player and team not identified in captions
+B31 | Chemistry | Give the electron configuration in exponential form for sodium. | 1s² 2s² 2p⁶ 3s¹ | C
+T32 | Government | Which amendment to the U.S. Constitution voided a previous amendment? | 21st Amendment | Hayden:I | Zach:I | .Hayden said 19th; Zach said 23rd
+T33 | Games | What is the device included in some board games that looks like a miniature hourglass timer? | Sand timer | 2:C | !answer not captured (sand timer inferred); buzzer not named; team from "visual bonus for Jefferson County"
+B33 | Visual | What game pictured here, released for the Philips CD-i, was the first of its series to feature the titular princess as the playable character? | Zelda: The Wand of Gamelon | I | .team said The Legend of Zelda and Ocarina of Time; answer as read in captions
+T34 | Vocabulary | What does a pluviometer measure? | Rainfall | Zach:C | .instrument name garbled in captions ("movie ometer")
+B34 | Vocabulary | Part 1: What nine letter word beginning with L means acting slow or sluggish? // Part 2: Now spell "lethargic." | Part 1: Lethargic // Part 2: L-E-T-H-A-R-G-I-C | Eli:C
+T35 | Geology | In which of the U.S. states have the most Tyrannosaurus rex fossils been discovered? | Montana | Zach:I | 1:C | .Zach said Arizona; Morristown's stealing player not named
+B35 | Geology | In which geologic era did mammals first appear? | Cenozoic (Tertiary period) | I | !question wording unclear (the host asked about a period, then an era); team said Mesozoic
+T36 | History | In 1867, Russia sold what parcel of land to the U.S.? | Alaska | Hayden:C
+B36 | History | As told in her autobiography, which First Lady functionally ran the executive branch after her husband's debilitating, near-fatal stroke in October 1919 until the end of his term in March 1921? | Edith Wilson | I | .team said Eleanor Roosevelt
+T37 | Foreign Language | Translate the Spanish question "¿Quién sabe?" into English. | Who knows? | Zach:C
+B37 | Foreign Language | Part 1: What is the word for juice in Latin? // Part 2: What is the word for juice in German? | Part 1: Succus // Part 2: Saft | Zach:P10 | .answers read from garbled captions ("sucrose", "Zoloft"); Part 1 missed
+T38 | Literature | In what year was the first Harry Potter novel published? | 1997 | Zach:C
+B38 | Literature | Idylls of the King, which retells the legend of King Arthur, was written by which poet laureate who was a favorite of Queen Victoria? | Alfred, Lord Tennyson | I | .team said Poe and William Blake
+T39 | Sports | When a surfer hangs ten on a wave, to what does the ten refer? | Ten toes | Max:I | 1:C | .Max said fingers; Morristown's stealing player not named
+B39 | Sports | What is the name of the radio announcer known as the voice of the Vols, who will retire in 2025 at the end of the college basketball season after 26 years of calling the play by play for the University of Tennessee football and basketball games? | Bob Kesling | I | .team did not know
+T40 | Health | How many bones are in a human foot? | 26 | Boyd:I | Max:I | .Boyd said 52; Max said 43
+T41 | Geography | Bhutan is part of what ancient network of trade routes connecting east and west? | The Silk Road | Elaine:C | .name read from "Ellen"
+B41 | Geography | Part 1: What city was formerly known as Bombay? // Part 2: What city was formerly known as Saigon? | Part 1: Mumbai // Part 2: Ho Chi Minh City | I | .team said Beijing and New Delhi

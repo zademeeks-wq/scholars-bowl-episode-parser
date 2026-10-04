@@ -1,0 +1,75 @@
+@EP S41 E47
+@ROUND Round of 16
+@TEAMS L&N STEM Academy (Cameron's team) | L&N STEM Academy (Jordan's team)
+@R1 Harshita, Manaf, Cameron, Timothy, Stuart, Isabella, Tiger
+@R2 Chloe, Charles, Jordan, Blake, Tony, Dominic, Matty
+# Two teams from the same school. The captions spell the school "Elon" / "Ellen" Stem Academy.
+# ---- first half ----
+T1 | Literature | In which literary anthology did Rudyard Kipling introduce the mongoose character Rikki-Tikki-Tavi? | The Jungle Book | Jordan:C
+B1 | Literature | What are the four styles of writing for essays? | Narrative, descriptive, persuasive, expository | P5 | .team gave rhetorical analysis, argumentative, informative and narrative; only narrative counted (5 points)
+T2 | Geography | The Erie Canal runs from Lake Erie to what? | The Hudson River | Jordan:C
+B2 | Geography | Part 1: Which Great Lake is the smallest by surface area? // Part 2: Which Great Lake is the smallest by volume? | Part 1: Lake Ontario // Part 2: Lake Erie | P10 | .team said Erie for Part 1
+T3 | Geology | What nine letter word beginning with P means the study of rocks? | Petrology | NB | | .nobody buzzed; the host gave the answer
+T4 | Math | What is the probability of tossing tails three consecutive times with a fair coin? | 1/8 | Jordan:C
+B4 | Visual | Part 1: What is the measure in degrees of each interior angle of a convex regular hexagon? // Part 2: What is the measure in degrees of each exterior angle of a convex regular hexagon? | Part 1: 120 degrees // Part 2: 60 degrees | P10 | .team said 240 for the exterior angle
+T5 | Music | Who composed the ballet The Nutcracker? | Tchaikovsky | Timothy:C
+B5 | Music | Part 1: What is the musical term for a difference in pitch between two tones? // Part 2: What is the interval in the key of C major between D and G? | Part 1: Interval // Part 2: Perfect fourth | I | .team said diminuendo and major fourth
+T6 | Spelling | Destruction or slaughter on a mass scale is a Holocaust. Spell "Holocaust." | H-O-L-O-C-A-U-S-T | 1:I | Charles:C | .Cameron's team's buzzer (name garbled) spelled "destruction" instead of the word; the host reread the question for the steal
+B6 | Spelling | Part 1: Spell a seven letter word that means very strange or unusual, especially so as to cause interest or amusement. // Part 2: Spell a six letter word for a marketplace consisting of multiple small stalls or shops, especially in the Middle East. | Part 1: B-I-Z-A-R-R-E // Part 2: B-A-Z-A-A-R | P10 | .team spelled "peculiar" for Part 1
+T7 | Government | What is an early release of a prisoner before the completion of a sentence on the promise of good behavior? | Parole | ?:C | .player and team not identified in captions
+B7 | Government | What are the four officer ranks between first lieutenant and brigadier general in the U.S. Army? | Captain, major, lieutenant colonel, colonel | P10 | .team named captain and colonel (10 points)
+T8 | Biology | Where in a tree does photosynthesis occur? | The leaf | Timothy:C
+B8 | Biology | Part 1: What popular ornamental tree that blooms early in the spring with white flowers, followed by bad smelling berries, is included on the Invasive Plants of Tennessee list, which recommends removing the tree and its roots? // Part 2: Name one of the five native species of trees suggested by the Nashville Tree Conservation Corps as a replacement for the Bradford pear tree. | Part 1: Bradford pear // Part 2: Any one of: dogwood, serviceberry, redbud, American plum, cherry | I | .team said blossom and pine
+T9 | Architecture | What is a facade in architecture? | The front of a building | ?:C | .player and team not identified in captions
+B9 | Architecture | In 2024, tension arose between France and Italy about who owns and should maintain a staircase located in Rome but built with French funds in 1726. That is the longest and widest staircase in Europe and is known by what name? | The Spanish Steps | I | .team said the grand staircase
+T10 | Foreign Language | What is the French word for April? | Avril | ?:C | .player and team not identified in captions
+B10 | Foreign Language | What is the English translation of the Spanish phrase "cinturón de seguridad"? | Seatbelt | I | .Spanish phrase reconstructed from captions ("seem to run de seguridad"); team said "see you tomorrow"
+T11 | English | Correct the following sentence if necessary: Megan and him went to the park. | He and Megan went to the park. | Cameron:C | .host said they would accept the answer
+B11 | English | What is the verb tense in the following sentence? It had been snowing all week. | Past perfect continuous | I | .team said past participle
+T12 | U.S. History | In September 1975, which U.S. president survived two assassination attempts by women? | Gerald Ford | Cameron:C
+B12 | U.S. History | Which two expansion trails of the 1800s led west out of St. Louis, Missouri? | The Oregon Trail and the Santa Fe Trail | C
+T13 | Astronomy | What is the name of the single point of light that we see as the North Star? | Polaris | Jordan:C
+B13 | Astronomy | Which constellation represents a winged horse? | Pegasus | C
+T14 | Art | Who painted the mural The Last Supper? | Leonardo da Vinci | Jordan:C
+B14 | Visual | What is the title of the famous French painting shown here, in which Jacques-Louis David used the neoclassical style to depict a scene from a contemporary event, the 1793 assassination of a revolutionary leader? | The Death of Marat | C
+T15 | Literature | What children's picture book by Chris Van Allsburg tells of a boy's travels to Santa's workshop on Christmas Eve? | The Polar Express | Chloe:C
+B15 | Literature | Part 1: What is the title of the musical theater adaptation of Pygmalion? // Part 2: In Greek mythology, Pygmalion falls in love with what? | Part 1: My Fair Lady // Part 2: A statue he sculpted, named Galatea | I | .team gave no answer for Part 1 and said "his reflection" for Part 2
+T16 | Economics | What is the unit of currency used in Australia and New Zealand? | Dollar | Jordan:C
+B16 | Economics | Part 1: What is an economic system based on supply and demand with little or no government control? // Part 2: What is the term for money that can be invested in business? | Part 1: Free market (free enterprise) // Part 2: Capital | C
+T17 | Science | What is the term for the parts of a machine that hold or guide moving parts to reduce friction and allow the rotating and sliding parts to move more smoothly? | Ball bearings | Jordan:I | 1:I | .Jordan said gears; Cameron's team said lubricant
+# ---- second half ----
+T18 | Chemistry | What chemical element has the symbol Hg? | Mercury | ?:C | .player and team not identified in captions
+B18 | Chemistry | Recent studies show that Americans are exposed to toxic BPA levels 5000 times higher than what the European Union considers safe. BPA is produced by the condensation of phenol and what organic compound with the formula C3H6O? | Acetone | C
+T19 | Religion | What eight letter term beginning with O is used to describe a person who accepts and closely follows the traditional beliefs and customs of a religion? | Orthodox | NB | | .nobody buzzed; the host gave the answer
+T20 | Vocabulary | What nine letter word beginning with F means courage in pain or adversity? | Fortitude | 2:I | | .Jordan's team said fearless; steal offered to Cameron's team, no answer captured
+T21 | History | Which Mexican general and his army were defeated at San Jacinto on April 21st, 1836? | Santa Anna | ?:C | .player and team not identified in captions
+B21 | World History | Who was the Russian mystic who was killed in 1916 by Russian nobles eager to end his influence over the royal family? | Rasputin | C | .answer garbled in captions ("ESPN")
+T22 | Chemistry | What is the name of the odorless gas with the formula C2H6? | Ethane | Stuart:C | .answer garbled in captions ("Fine")
+B22 | Chemistry | What is calcium's electron configuration in exponential form? | 1s² 2s² 2p⁶ 3s² 3p⁶ 4s² | I | .team's answer stopped before the 3p and 4s terms
+T23 | Math | In the number 345,102, what place value does the digit four hold? | Ten thousands | Jordan:C
+B23 | Math | Raise the expression (x + 2) to the third power. | x³ + 6x² + 12x + 8 | Dominic:I | .team gave 8x instead of 12x
+T24 | Mythology | What was the Roman equivalent of the mythological Greek goddess Aphrodite? | Venus | Dominic:C
+B24 | Mythology | In Greek mythology, which king of Thebes unwittingly killed his father and married his mother? | Oedipus | C
+T25 | Geography | Which state capital is westernmost? | Honolulu | Jordan:I | Cameron:C | .Jordan said Juneau
+B25 | Visual | What mountain range shown here separates the Iberian Peninsula from the rest of Europe? | The Pyrenees | C
+T26 | Physics | On average, how many minutes and seconds does it take for light to travel from the sun to the Earth? | About 8 minutes 20 seconds | 1:I | Dominic:I | .Cameron's team's buzzer not named (said 8:36); Dominic said 8:24
+T27 | Sports | Which sport features sculls, strokes and slides? | Rowing | Jordan:C
+B27 | Sports | What University of Iowa basketball player became the NCAA Division I all-time leading scorer in 2024 before being drafted by the Indiana Fever? | Caitlin Clark | C
+T28 | Arts | What Louisiana-born comedian and host of the This Past Weekend podcast got his start on MTV's Road Rules and also won the title of Fan Favorite on Last Comic Standing? | Theo Von | 1:I | | .Cameron's team's buzzer said Matt Rife; steal offered to Jordan's team, nobody got it in time
+T29 | Vocabulary | What eight letter noun starting with M means wearisome uniformity or lack of variety, tedious repetition and routine? | Monotony | Dominic:I | Isabella:C | .Dominic said monotonous
+B29 | Vocabulary | Part 1: What ten letter word beginning with L is a commissioned naval officer and could also mean a deputy or substitute acting for a superior? // Part 2: Spell that word. | Part 1: Lieutenant // Part 2: L-I-E-U-T-E-N-A-N-T | Isabella:P10 | .Isabella misspelled it, missing an E
+T30 | Government | Which amendment to the U.S. Constitution guarantees the rights of criminal defendants, including the right to a public trial? | Sixth Amendment | Cameron:C
+B30 | Government | Name four of the six states that gained one or more congressional seats after the 2020 census. | Any four of: Colorado, Florida, Montana, North Carolina, Oregon, Texas | P5 | .team named Nebraska, Texas, Arizona and Minnesota; only Texas counted (5 points)
+T31 | Health | Which of the following four words doesn't belong with the others? Ulna, triceps, biceps, deltoid. | Ulna | Dominic:C
+B31 | Health | Which branch of medicine deals with tumors and cancers? | Oncology | C
+T32 | Geometry | Find the perimeter of a triangle with sides 24, 35 and 45 meters. | 104 meters | Stuart:C
+B32 | Geometry | How many total degrees are in the interior angles of a convex dodecagon? | 1,800 degrees | I | .captions read "dodecahedron"; team said 1,040
+T33 | Miscellaneous | What was the first toy to be advertised on television, with an ad aimed at children that showed consumers using their own root vegetables as part of the toy? | Mr. Potato Head | Jordan:I | 1:I | .Jordan said Slinky; Cameron's team said Barbie
+T34 | Foreign Language | What is the Spanish word for shoes? | Zapatos | Dominic:C
+B34 | Foreign Language | According to French law, a store like the one shown here must make what on the premises in order to carry the title of [unclear]? | Bread | I | !title garbled in captions ("woolen jelly"; probably boulangerie); team said champagne
+T35 | Geography | Halifax is the capital of which Canadian province? | Nova Scotia | Jordan:I | Cameron:I | .Jordan said British Columbia; Cameron said Alberta
+T36 | Chemistry | What is the symbol for the element platinum? | Pt | Stuart:C
+B36 | Chemistry | What type of chemical bond is formed when electrons are completely transferred from one element to another? | Ionic bond | I | .team said covalent
+T37 | Technology | What device that forwards data packets between computer networks is used to connect a personal computer to the internet service provider? | Router | Dominic:C
+B37 | Technology | Heretic, a movie starring Hugh Grant that was released in November 2024, included a message in the closing credits declaring that what type of technology was not used in the making of the film? | Generative AI | I | .team said CGI
+T38 | Sports | Who is the current commissioner of the National Football League? | Roger Goodell | Cameron:I | | .Cameron said "Robert"; time ran out so Jordan's team had no chance to steal; game over

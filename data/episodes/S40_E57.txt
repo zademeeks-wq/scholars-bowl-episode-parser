@@ -1,0 +1,97 @@
+@EP S40 E57
+@ROUND Round of 8
+@TEAMS Hardin Valley Academy (David's team) | Webb School of Knoxville (Penny's team)
+@R1 Brock, Zach, David, Zainab, Ryan, Julian, Samir
+@R2 Sam, James, Penny, Jackson, Henry, Alex
+# Hardin Valley has two teams in the tournament; this one (captain David) is the same team as E36 and E50. Webb has more than one team; this one (captain Penny) is the same team as E38 and E51. The captions render Hardin Valley as "Harden Valley", Zach as "Zack/Zachary", Brock as "Brok" and Anne with an E as "Anthony". Ryan joins Hardin Valley and Henry joins Webb for the second half. By the rulings recorded here Hardin Valley led 310-180 at halftime (Webb's 20 points from the successful B8 challenge are included) and won 750-290; the host's "closer than the score looks" remark at the half is loose. The game ended during the last bonus. The captions give no score.
+# ---- first half ----
+T1 | Foreign Language | What is the English translation of the Spanish phrase "Hasta mañana"? | See you tomorrow | Zach:C
+B1 | Foreign Language | Translate "requiescat in pace" from Latin to English. | Rest in peace | I | .the captions render the phrase as "requiescot empache"; the team guessed "recipes"
+T2 | Chemistry | Which element's electron configuration is helium 2s2 2p4? | Oxygen | Zach:C | | .Zach buzzed before the end of the question; the host said "2p4 is where I was going"
+B2 | Chemistry | What type of chemical bond is formed when electrons are completely transferred from one element to another? | Ionic bond | C | .the host said "electrovalent" would also be taken
+T3 | Health | The bite from what insect causes human African trypanosomiasis, commonly called sleeping sickness? | The tsetse fly | James:I | Zach:I | .James said mosquito and Zach said the kissing bug
+T4 | Music | Which musical includes the songs "Heaven on Their Minds" and "I Don't Know How to Love Him"? | Jesus Christ Superstar | Zach:C
+B4 | Music | Peter Tchaikovsky was the composer of three well-known ballets. Name two. | Any two of: Swan Lake, The Nutcracker, Sleeping Beauty | C | .the team named all three
+T5 | Geography | Bhutan is part of what ancient network of trade routes connecting the East and West? | The Silk Road | Zach:C | | .Zach buzzed before the end of the question
+B5 | Visual | The delta shown here covers over 150 miles of Mediterranean coastline and is the mouth of what river that flows south to north? | The Nile River | C
+T6 | Literature | In the novel Fahrenheit 451, how many times can the phoenix be reborn from the ashes? | Infinitely many | Zach:C
+B6 | Literature | Part 1: What book begins with, "Mr. and Mrs. Dursley, of number four, Privet Drive, were proud to say that they were perfectly normal, thank you very much"? // Part 2: What is the title of the British version? | Part 1: Harry Potter and the Sorcerer's Stone // Part 2: Harry Potter and the Philosopher's Stone | C
+T7 | Geology | Which precious gem is named after the color of seawater and is the blue green member of the beryl family? | Aquamarine | Zach:I | James:C | .Zach buzzed early and said sapphire; the captions render "beryl" as "Barrel"
+B7 | Geology | Part 1: During which geologic period did the first fish appear? // Part 2: During which geologic period did modern humans develop? | Part 1: The Cambrian period // Part 2: The Quaternary period | I | .Part 1's answer is garbled in the captions and the host gave "Cambrian" as the correction; Part 2 was "Paleolithic"; no points were awarded
+T8 | Geometry | The area of a triangle is 70 square inches. Give the length of the altitude to a ten inch base in this triangle. | 14 inches | Sam:C
+B8 | Geometry | A line segment has a midpoint located at (4, 2) and an endpoint at (-4, 5). Name both the x and y coordinates of the other endpoint. | (12, -1) | C | .the team (Penny deferred to Sam) said "positive 12, negative one"; the host first ruled no points because he had misread the question, but Webb successfully challenged during halftime and 20 points were added
+T9 | Miscellaneous | In what city is the Air Force Academy located? | Colorado Springs, Colorado | Penny:C
+B9 | Miscellaneous | In what city and state is Brown University located? | Providence, Rhode Island | C
+T10 | U.S. History | Which U.S. president coined the name "United Nations"? | Franklin D. Roosevelt | Zach:C | | .Zach answered "FDR"
+B10 | U.S. History | Part 1: In which state was the Battle of Little Bighorn fought? // Part 2: What did the Lakota and other Plains Indians call that battle? | Part 1: Montana // Part 2: The Battle of the Greasy Grass | P10 | .Part 1 was Montana; for Part 2 David deferred to Brock, who said "the Battle of Tears"
+T11 | Science | What is the science that deals with the study, design and application of machines to perform repetitive or dangerous tasks? | Robotics | Zach:C | | .Zach buzzed before the end of the question
+B11 | Visual | What scientific principle explains why objects in a fluid experience a buoyant force equal to the weight of the displaced fluid? | Archimedes' principle | I | .the team said "buoyancy" after rejecting Bernoulli's principle
+T12 | Art | What is the common color name for "or," the heraldry color of generosity? | Gold | Zach:C | | .Zach buzzed after "or" and the host finished reading the question
+B12 | Art | In 2023, scientists discovered that the material used by African metalsmiths to sculpt thousands of artworks between the 16th and 19th centuries was, before being melted down by the artists in Benin, made into rings and bracelets used as currency during the slave trade and made from what metal alloy, traditionally consisting of copper and tin, that had been mined in Germany? | Bronze | C
+T13 | Sports | Which horse race is the first in the Triple Crown? | The Kentucky Derby | Jackson:C
+B13 | Sports | Part 1: In what sport did Shaun White win three Olympic gold medals? // Part 2: In what sport did Katie Ledecky win seven Olympic gold medals and 21 world championships? | Part 1: Snowboarding // Part 2: Swimming | C
+T14 | Economics | What is Taiwan's biggest export? | Electronics | Zach:I | Jackson:I | .Zach said gold and Jackson said fish
+T15 | English | What six letter word beginning with T-H is a synonym for "exhilarate"? | Thrill | Zach:I | James:C | .Zach said "thrilling" (seven letters); James's "thrill" was accepted
+B15 | English | Part 1: What is the past simple for the verb "bite"? // Part 2: What is the past participle for the verb "bite"? | Part 1: Bit // Part 2: Bitten | C
+T16 | Biology | What is the name for a group of platypuses? | A paddle | Jackson:I | Zach:I | .Jackson said troop and Zach said "a splash"
+T17 | Pre-Calculus | What is the value of the secant function of 60 degrees? | 2 | Sam:C
+B17 | Pre-Calculus | In which two quadrants would you find the solutions to the equation tangent x equals negative three? | Quadrants II and IV | C | .the team talked it over ("three, four" and then "two and four") before answering "two and four"
+T18 | Religion | In the Book of Genesis, who received instructions from the Lord to build a ship that would save him and his family? | Noah | Zach:C | | .Zach buzzed before the end of the question
+B18 | Religion | In the Bible, who is the wife of Jacob and the mother of his two youngest sons, Joseph and Benjamin? | Rachel | C
+T19 | Geography | Shenandoah National Park is in what state? | Virginia | Penny:I | Zach:C | .Penny said West Virginia
+B19 | Geography | Part 1: In what state is Grand Teton National Park? // Part 2: In which state is Yosemite National Park? | Part 1: Wyoming // Part 2: California | C
+T20 | Literature | Which long-eared character in ... [cut off by the buzzer] | Rabbit | Zach:C | | .Zach buzzed in early; the captions keep only "which long eared character in" and, after his answer, "the house at Pooh Corner and so on", so the full question is not captured
+B20 | Literature | Part 1: What novel published in 1908 and set in late 19th century Prince Edward Island, Canada, is a sentimental but charming coming of age story about a spirited and unconventional orphaned girl who finds a home with elderly siblings? // Part 2: What Netflix series that ran for three seasons was a reimagining of Anne of Green Gables? | Part 1: Anne of Green Gables // Part 2: Anne with an E | Zainab:C | .David deferred to Zainab; the captions render Part 2 as "Anthony"
+T21 | Astronomy | Which zodiac constellation, one of the prominent features of the summer skies in the Northern Hemisphere, has a name that is Latin for "archer"? | Sagittarius | James:I | Zach:I | .James said Orion and Zach said Aries
+T22 | Foreign Language | What is the Spanish word for the number seven? | Siete | Zach:C | | .Zach buzzed before the number was read and the host then said it was seven
+B22 | Foreign Language | What is the Spanish translation of "more coffee, please"? | Más café, por favor | Brock:C | .David deferred to Brock; the captions render the answer as "Mustafi, por favor"
+T23 | Arts | Which actor provides the voice for Woody in the Toy Story films? | Tom Hanks | Jackson:C
+B23 | Arts | Which two actors won the Academy Award for best actor in consecutive years, one in 1937 and 1938, the other in 1993 and 1994? | Spencer Tracy and Tom Hanks | I | .the team said Charlie Chaplin and Tom Cruise
+T24 | Government | What branch can deny the U.S. president the use of executive privilege? | The judicial branch | 1:I | Jackson:C | .a Hardin Valley player (not named in the captions) buzzed early and said "legislative"
+B24 | Government | Who considered a career as a concert pianist before becoming a professor of political science at Stanford, then national security adviser in 2001 and Secretary of State in 2005? | Condoleezza Rice | I | .the team said "Oppenheimer"; the half ended after this bonus
+# ---- halftime: Hardin Valley 310, Webb 160; after Webb's successful challenge on B8 the score was Hardin Valley 310, Webb 180 ----
+# ---- second half ----
+T25 | Spelling | Genealogy is an account ... [cut off by the buzzer]. Spell "genealogy." | G-E-N-E-A-L-O-G-Y | Zach:C | | .Zach buzzed before the end of the question
+B25 | Spelling | The practice of claiming to have moral standards or beliefs to which one's own behavior does not conform is "hypocrisy." Spell "hypocrisy." | H-Y-P-O-C-R-I-S-Y | Zach:C | .David deferred to Zach
+T26 | Science | What is the term for the act of aquatic animals laying eggs? | Spawning | Zach:C
+B26 | Science | What law states that under equal conditions of temperature and pressure, equal volumes of all gases contain equal numbers of molecules? | Avogadro's law | C
+T27 | Math | What is 12.5% of 96? | 12 | Zach:C
+B27 | Visual | Two numbers add up to 91. One number is three more than twice the other number. Give both numbers. | 29 and 61 | P10 | !the host read the sum as 91 but said 61 goes with 29 for a sum of 90, so the card or the reading looks inconsistent; the team answered "29 and 53" (as captioned) and the host gave half credit (10 points) because 29 was right
+T28 | Games | What is the device included with some board games that looks like a miniature hourglass and keeps the player from taking too long on their turn? | A timer | Zach:I | Penny:C | .Zach buzzed early and said "dice"
+B28 | Games | In the 1972 World Chess Championship in Reykjavik, Iceland, known as the Match of the Century and which inspired movies and a musical, defending champion Boris Spassky of the Soviet Union was defeated by what American grandmaster? | Bobby Fischer | Sam:C | .Penny deferred to Sam
+T29 | History | The capital of ancient Rome's Britannia is the current day location of the capital of which country? | England | 1:C | | .the captions do not name the buzzer; Hardin Valley took the bonus
+B29 | History | Part 1: What was the fortified region that overlooked ancient Athens? // Part 2: What was the most famous of the temples there? | Part 1: The Acropolis // Part 2: The Parthenon | Zach:C | .David deferred to Zach for both parts; the captions garble the wording of Part 2
+T30 | Literature | In the Shakespeare play "Julius Caesar," who tells Julius Caesar to beware the Ides of March? | The soothsayer | Zach:C
+B30 | Literature | Part 1: In "Hamlet," which two characters escort Hamlet on the voyage to England? // Part 2: What was the name of a dead court jester whose skull is exhumed in Act Five, Scene One? | Part 1: Rosencrantz and Guildenstern // Part 2: Yorick | P10 | .Zach answered Part 1; for Part 2 the team said "Horatio"
+T31 | Chemistry | An ion with a charge of negative one that contains ten electrons has what atomic number? | 9 | Zach:C | | .Zach buzzed before the end of the question
+B31 | Chemistry | Name four of the seven diatomic molecules. | Any four of: hydrogen, oxygen, nitrogen, fluorine, chlorine, bromine, iodine | C | .the team named hydrogen, oxygen, nitrogen and fluorine
+T32 | Government | What do the letters in NASA stand for? | National Aeronautics and Space Administration | Zach:C
+B32 | Government | In 2023, school libraries were converted into what they're calling hubs of differentiated learning in what Texas city that was named for a man who taught in a one room schoolhouse in Maryville, Tennessee, in the early 1800s? | Houston | I | !the captions are muddled ("Austin ... Houston"); the host named Sam Houston and no points were announced, so this is scored as missed
+T33 | Music | What artist's songs include "You Belong with Me" and "Anti-Hero"? | Taylor Swift | Zach:C | | .Zach buzzed before the end of the question
+B33 | Music | What is the term for one of the most basic patterns in drumming and percussion, consisting of two single strokes followed by a double stroke, for example right, left, right, right? | A paradiddle | I | .the team guessed "a jingle or strum"
+T34 | Geography | What is the administrative capital of the Netherlands? | The Hague | Zach:I | Sam:C | .Zach said Amsterdam
+B34 | Geography | In 1993, the "Velvet Divorce" split Czechoslovakia into which two independent states? | The Czech Republic and Slovakia | C
+T35 | Foreign Language | In 2022, the British Museum celebrated 200 years since the deciphering of Egyptian hieroglyphs using which black granite slab? | The Rosetta Stone | Penny:C | | .Penny buzzed before the end of the question
+B35 | Visual | Speaking of the Rosetta Stone, shown here, it played a pivotal role in deciphering ancient Egyptian hieroglyphs because the same text is inscribed in hieroglyphs, Egyptian demotic and what other language? | Greek | C
+T36 | Health | What artery brings blood from the celiac artery to the liver? | The hepatic artery | Zach:C
+B36 | Health | Part 1: Which human gland secretes cortisol? // Part 2: Which human gland secretes melatonin? | Part 1: The adrenal gland // Part 2: The pineal gland | Ryan:C | .David deferred to Ryan
+T37 | Algebra | What is the vertex of the equation y equals the absolute value of the quantity x plus six, minus five? | (-6, -5) | Zainab:C
+B37 | Algebra | Solve for x in the equation 3x - 14 = -2x + 6. | x = 4 | C
+T38 | Sports | How many points are given to a football team that sacks the opposing team's quarterback in the end zone? | Two (a safety) | Zach:C | | .Zach buzzed before the end of the question; the host then added "in the end zone"
+B38 | Sports | Part 1: What is the frequency of the Kentucky Derby? // Part 2: What is the frequency of the Ryder Cup? | Part 1: Annual (once a year) // Part 2: Biennial (once every two years) | Zach:C | .David deferred to Zach for Part 2
+T39 | Economics | What is the official currency in Lebanon? | The Lebanese pound | Zach:I | Henry:I | .Zach said peso and Henry said the U.S. dollar
+T40 | Vocabulary | What nine letter word beginning with F means courage in pain or adversity? | Fortitude | Zach:C
+B40 | Vocabulary | Part 1: What is a nine letter word imported from French that begins with C-H and means a female singer, especially one performing in a nightclub? // Part 2: Spell that word. | Part 1: Chanteuse // Part 2: C-H-A-N-T-E-U-S-E | Zach:C | .David deferred to Zach
+T41 | Physics | Who published the first study of magnetism in 1600? | William Gilbert | Zach:I | Penny:I | .Zach said Newton and Penny said Galileo
+T42 | Chemistry | In 1904, which English physicist proposed the plum pudding model of the atom? | J. J. Thomson | Zach:C | | .Zach buzzed early and said "Thomson"
+B42 | Chemistry | Nearby water treatment facilities were shut down when a rail bridge collapsed in 2023, plunging a train into the Yellowstone River that was carrying asphalt and ... which chemical element with the atomic number 16? | Sulfur | C | .the captions lose a few words in the middle of the question
+T43 | Art | Chicago's Millennium Park is the location of Cloud ... [cut off by the buzzer] | The Bean (Cloud Gate) | David:C | | .David buzzed early; the host then described "a large mirrored sculpture called the Bean"
+B43 | Art | Part 1: The Apotheosis of Washington, a fresco depicting George Washington rising to the heavens in glory, is located in what building? // Part 2: Where specifically in that building is it located? | Part 1: The U.S. Capitol // Part 2: The Rotunda | P10 | !the bonus structure is unclear: the team first said the National Archives Building, then the host asked where in the Capitol it is, accepted "Rotunda" and gave 10 points
+T44 | History | Who uttered the famous words "I have not yet begun to fight" to the British when asked to surrender? | John Paul Jones | Zach:C | | .Zach buzzed before the end of the question
+B44 | History | Aretha Franklin, Pat Summitt, Justin Timberlake and Morgan Freeman were all born in what state? | Tennessee | Ryan:C | .David deferred to Ryan
+T45 | Literature | Which of Shakespeare's title characters orders the murder of his two nephews? | Richard III | Zach:C
+B45 | Literature | Part 1: What poem by Alfred, Lord Tennyson commemorates the heroism of a brigade of British soldiers at the Battle of Balaclava in 1854 in the Crimean War and includes "all in the valley of Death rode the six hundred"? // Part 2: Who were the British fighting against? | Part 1: The Charge of the Light Brigade // Part 2: The Russians | Zainab:C | .David deferred to Zainab; for Part 2 one teammate said "the French" while conferring, and the team's answer "the Russians" was accepted for 20 total
+T46 | Biology | What is the vascular tissue in plants that carries food downward from the leaves to the roots? | Phloem | Zach:C | | .Zach buzzed before the end of the question; the captions render the answer as "Floam"
+B46 | Biology | Part 1: Name the type of fruit from the following variety: Pink Lady. // Part 2: Name the type of fruit from the variety d'Anjou. | Part 1: Apple // Part 2: Pear | C | .the captions render "d'Anjou" as "daju"
+T47 | Math | Express the fraction eight over five as a percent. | 160% | David:I | Henry:C | .David said 1.6 (not a percent); the captions give no answer for Henry's steal but the host confirmed "160% is right"
+B47 | Math | Part 1: Name the property that states A plus B equals B plus A. // Part 2: (not read; time ran out) | Part 1: The commutative property // Part 2: (not read) | P10 | .the game ended before Part 2 was read; the host gave 10 points for Part 1

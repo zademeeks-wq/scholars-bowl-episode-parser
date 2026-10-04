@@ -1,0 +1,94 @@
+@EP S40 E56
+@ROUND Round of 8
+@TEAMS Farragut High School | Dobyns-Bennett High School (Sachin's team)
+@R1 Roshan, Tom, Leo, Alex, Federica, Evan, Sophie
+@R2 Adam, Michael, Sachin, Claire, Allison, Aisha
+# Farragut (captain Leo) is the same team as E32 and E48; Dobyns-Bennett (captain Sachin) is the same team as E34 and E49 and, as the host notes, the only one of its school's teams to go this deep. The captions render Roshan as "Rochen", Claire as "Clair" and a stolen "Dobyns-Bennett" prompt as "DB". Both teams keep their starters all game. By the rulings recorded here Dobyns-Bennett led 250-145 at halftime, Farragut then outscored them to trail only 350-360 after the bioluminescence tossup, and Dobyns-Bennett pulled away in the last seven tossups to win 500-390 (the host: "DB managed to extend and pull ahead ... Farragut was very close there until the end"). The host's halftime remark that only "a few points" separated the teams does not match the 105-point first-half gap read from the captions (every first-half buzz is named in the captions). The captions give no score.
+# ---- first half ----
+T1 | Health | To avoid the bends, divers breathe pressurized air made up mostly of what gas? | Nitrogen | Sachin:I | Tom:I | .Sachin buzzed early and said "SCUBA"; Tom said hydrogen
+T2 | Religion | By what name was the disciple Paul of Tarsus known prior to his conversion to Christianity and missionary life? | Saul | Leo:I | | .Leo said Andrew; no Dobyns-Bennett steal answer captured
+T3 | Sports | Which NFL team is the only team ever to finish the regular season with a perfect undefeated record and win the Super Bowl? | The 1972 Miami Dolphins | Sachin:I | Tom:I | .Sachin said the Patriots and Tom said the Steelers
+T4 | Vocabulary | What 11 letter word beginning with Q is a name sometimes given to the element mercury? | Quicksilver | Tom:C
+B4 | Vocabulary | What does the root word "nether," as in the Netherlands, mean? | Below | I | .the team guessed "above"
+T5 | Geography | What is the most active port in Alabama? | Mobile | Roshan:C
+B5 | Geography | Name four of the five states along the Mississippi River's western shore. | Any four of: Minnesota, Iowa, Missouri, Arkansas, Louisiana | P15 | .Leo deferred to Roshan, who named Louisiana, Arkansas, Missouri and Nebraska; three counted for 15 points
+T6 | Astronomy | What is the name for the visible surfaces of the sun and stars? | The photosphere | Roshan:C
+B6 | Astronomy | The James Webb Space Telescope is an international collaboration between NASA, the ESA and the CSA. What do ESA and CSA stand for? | European Space Agency and Canadian Space Agency | P10 | .the team said "European Space Agency" (correct) and "Chinese Space Agency"
+T7 | Math | How much change is left over after paying an expense of $14.68 with a $20 bill? | $5.32 | Michael:C
+B7 | Visual | If a person can earn $45 in 12 minutes, how much money can be earned in half an hour? | $112.50 | Claire:C | .Sachin deferred to Claire
+T8 | Architecture | Which monument alongside the Tidal Basin in Washington, D.C., honoring a founding father, has a design partially inspired by the honoree's own design for the Rotunda at the University of Virginia? | The Jefferson Memorial | Sachin:I | 1:I | .Sachin buzzed early and said "Space Needle"; Farragut's steal buzzer is not named (the answer was "Washington Monument")
+T9 | Foreign Language | What is the Spanish phrase for "see you later"? | Hasta luego | Michael:C
+B9 | Foreign Language | What is the Spanish word for "grandfather"? | Abuela | C | !the captions have the host reading "grandfather", but the team answered "abuela" and the host ruled it correct for 20 points; the card probably said "grandmother" and was misread, or the wrong-gender answer was accepted
+T10 | Economics | In what type of bank account does the investor agree to keep money in an account for a specified length of time without taking a withdrawal, or pay a penalty? | A certificate of deposit (CD) | Sachin:I | Leo:C | .Sachin buzzed early and said "mutual fund"
+B10 | Economics | Part 1: What type of metal is the traditional gift for a 25th wedding anniversary? // Part 2: What type of metal is the traditional gift for a 50th wedding anniversary? | Part 1: Silver // Part 2: Gold | P10 | .the team said "gold, platinum" for Part 2 and the host said it is gold
+T11 | Biology | Brown Turkey, Chicago Hardy and Sylvester are varieties of what fruit? | The fig | Sachin:C
+B11 | Biology | Name the only two types of eagles that breed in the United States. | The golden eagle and the bald eagle | C
+T12 | U.S. History | In which year did Abraham Lincoln officially issue the Emancipation Proclamation? | 1863 | Michael:C
+B12 | U.S. History | In 2023, Sirhan Sirhan was again denied parole at his 17th parole hearing since his conviction for killing which senator and presidential candidate in 1968? | Robert F. Kennedy | I | .the team said Lyndon Johnson
+T13 | Music | Whose Symphony No. 6 in F major, Opus 68, is also known as the Pastoral Symphony? | Ludwig van Beethoven | Alex:I | Michael:I | .Alex said Tchaikovsky and Michael said Mozart
+T14 | Mythology | What was the Roman equivalent of the mythological Greek goddess Aphrodite? | Venus | Sachin:C
+B14 | Visual | What was the name of one of the Seven Wonders of the Ancient World, a statue of the mythological Greek sun god Helios, depicted here, whose remains people continued to visit for 800 years after its collapse in an earthquake? | The Colossus of Rhodes | C
+T15 | History | What is the term for ancient Egyptian writings, made up of symbols? | Hieroglyphics | Sachin:C
+B15 | History | Name the two beaches where U.S. troops were assigned to land at Normandy on June 6, 1944. | Omaha Beach and Utah Beach | P10 | .the team said Omaha and "Bravo"
+T16 | Geology | Within two degrees, what is the angle of tilt of the Earth's axis? | About 23.4 degrees | Roshan:C | .Roshan said 23.5 and the host accepted it
+B16 | Geology | A volcano that had been dormant for 6,000 years erupted in 2021 and again in 2022 near what city, the capital of Iceland? | Reykjavik | C
+T17 | Algebra | What is the simplified form of the product of four square root of five times two square root of five? | 40 | Alex:I | Adam:C | .Alex said 30
+B17 | Algebra | Give the two solutions for the variable x in the equation x squared + 63 = 16x. | x = 7 and x = 9 | C
+T18 | Miscellaneous | Which state has six times more airplane pilots per capita than anywhere else in the United States? | Alaska | Claire:I | Roshan:I | .Claire said Colorado and Roshan said Illinois (out of time)
+T19 | Vocabulary | An entomologist studies insects. Spell "entomologist." | E-N-T-O-M-O-L-O-G-I-S-T | Roshan:I | Claire:I | .Roshan had no answer; Claire spelled it E-N-T-Y-M-O-L-O-G-I-S-T
+T20 | Government | What is the term for a legal procedure in which a person's earnings are required by court order to be withheld by an employer for the payment of a debt such as child support? | Garnishment | Michael:I | 1:I | .Michael buzzed early and said "affidavit"; Farragut looked at each other on the steal and was disqualified
+T21 | Science | What is the SI unit for all energy, including heat? | The joule | Roshan:C | | .the captions render the answer as "Jules"
+B21 | Science | Part 1: What is the SI unit of measurement for temperature? // Part 2: What is the SI unit of amount of substance? | Part 1: The kelvin // Part 2: The mole | C
+T22 | Chemistry | In 1911, which British physicist proposed a nuclear model of the atom that says the central part of the atom carries a positive charge? | Ernest Rutherford | Roshan:I | Michael:C | .Roshan said Niels Bohr
+B22 | Chemistry | By 2022, a growing demand for electric vehicle batteries spurred more than 17,000 prospecting claims in Nevada, the location of the only major mine in the U.S. for which chemical element, with atomic number three and symbol Li? | Lithium | C
+T23 | Religion | What volcanic mountain is sacred to followers of Shinto? | Mount Fuji | Alex:I | Sachin:I | .Alex said Mount Sinai and Sachin said "Fiji"
+T24 | Literature | What epic poem ends with Hector's funeral? | The Iliad | Sachin:C
+B24 | Literature | When speaking to a climate conference in Glasgow, Barack Obama quoted Shakespeare and referred to him as the Bard, which disappointed Scots because Shakespeare is the Bard of England. Who is considered the Bard of Scotland? | Robert Burns | I | .the team said "Joseph Smith"
+T25 | U.S. History | Both Adamses, both Roosevelts and John F. Kennedy received their bachelor's degrees from what college? | Harvard | Sachin:C
+B25 | U.S. History | Name two of the five living former vice presidents of the U.S. | Any two of: Dan Quayle, Al Gore, Dick Cheney, Joe Biden, Mike Pence | C | .the team named Pence, Gore and Biden
+T26 | Health | Name the group of peptide hormones produced in the pituitary gland and central nervous system that act on the opiate receptors of the brain. | Endorphins | Sachin:I | Roshan:C | .Sachin buzzed early and said "antibodies"; the half ended before the bonus
+# ---- second half ----
+T27 | Pre-Calculus | Find the limit of 4x over 2x as x approaches three. | 2 | Claire:C
+B27 | Pre-Calculus | What numerical method of determining the definite integral of a function involves finding the average of the left and right Riemann sums, resulting in a trapezoid shape for each strip? | The trapezoidal rule | C
+T28 | Art | A famous sculpture in New York City, located in Rockefeller Center across the street from Saint Patrick's Cathedral, depicts what mythological Greek titan holding the universe on his shoulders? | Atlas | Claire:C
+B28 | Visual | Part 1: Which French sculptor designed the statue originally known as "Liberty Enlightening the World," seen here? // Part 2: Who wrote "The New Colossus," the sonnet on a plaque inside the pedestal that begins "Give me your tired, your poor"? | Part 1: Frederic Auguste Bartholdi // Part 2: Emma Lazarus | I | .the team guessed a garbled name for Part 1 and Plato/Robert Frost for Part 2
+T29 | English | What eight letter word beginning with A is a synonym for "proponent"? | Advocate | Tom:I | | .Tom said "assistant"; no Dobyns-Bennett steal answer captured
+T30 | Geography | 55% of the population of Indonesia lives on which island? | Java | Sachin:C
+B30 | Geography | Part 1: What South American country has Asuncion as its capital? // Part 2: What South American country has Quito as its capital? | Part 1: Paraguay // Part 2: Ecuador | C
+T31 | Technology | The keyboard shortcut Control+R is commonly used in web browsers to do what? | Refresh the page | Alex:C
+B31 | Technology | In home technology, what do the letters in the abbreviation HVAC represent? | Heating, ventilation and air conditioning | P15 | .the team gave "ventilation and air conditioning" and left out heating; the host gave 15 points
+T32 | Architecture | Louis Henry Sullivan used the credo "form follows function," and he has been called the father of what type of buildings? | Skyscrapers | Roshan:I | Michael:C | .Roshan's answer ("buildings known for their height") was not accepted
+B32 | Architecture | In 2023, Greece began limiting the number of visitors per day at which Athens landmark, the most complete ancient Greek monumental complex? | The Acropolis | C
+T33 | Music | What is a musical work in which a solo instrument like a piano or violin is featured, alternately contrasting and blending with an orchestra? | A concerto | Tom:C
+B33 | Music | What is the interval in the key of C major between D and G? | A perfect fourth | C | .the team debated "fourth" and "perfect fourth" and the host accepted it
+T34 | Spelling | Spell the word "reconnaissance," which means a military observation of a region. | R-E-C-O-N-N-A-I-S-S-A-N-C-E | Sachin:C
+B34 | Spelling | Part 1: Spell "Taurus," as in the constellation and the zodiac sign. // Part 2: Spell "torus," as in a donut shaped object. | Part 1: T-A-U-R-U-S // Part 2: T-O-R-U-S | U | !the team's first spelling of Taurus was garbled in the captions and the host said he did not know if the judges would give it since the first answer must be taken; Part 2 was misspelled "T-O-R-I-S"; the ruling is not stated
+T35 | Economics | What word beginning with the letter K means an illegal payment to someone for approving a purchase, contract or job security? | Kickback | Sachin:I | Roshan:C | .Sachin said "kickout"
+B35 | Economics | Part 1: Who was the first woman to be featured as a solo subject on U.S. federal currency, on the $1 silver certificate in 1886? // Part 2: The baptism of what Native American woman, featured in a painting by John Gadsby Chapman, was reproduced on the back of a $20 First Charter Period National Bank Note? | Part 1: Martha Washington // Part 2: Pocahontas | I | .the team said Harriet Tubman and Sacagawea
+T36 | Chemistry | What is the symbol for bismuth? | Bi | Roshan:C
+B36 | Chemistry | Which element's electron configuration is argon 3d6 4s2? | Iron | I | .the team said nickel
+T37 | Geometry | The measure of a base angle of an isosceles triangle is 32 degrees. Give the measure of its vertex angle. | 116 degrees | Alex:C
+B37 | Geometry | What is the midpoint, in fraction form, between three quarters and one half on the number line? | 5/8 | C
+T38 | Art | What term applied to art comes from the French military term meaning "advance guard"? | Avant-garde | Tom:C | | .the captions render the answer as "Avantgard"
+B38 | Visual | Which French post-impressionist painted the self-portrait with halo and snake shown here? | Paul Gauguin | I | .the team said Monet
+T39 | Vocabulary | Fish is to fin as bird is to what? | Wing | Roshan:C
+B39 | Vocabulary | Part 1: What eight letter word beginning with D means hardworking and persevering? // Part 2: Spell that word. | Part 1: Diligent // Part 2: D-I-L-I-G-E-N-T | C | .Roshan deferred to Tom for the spelling
+T40 | U.S. History | In 1835, for the first and only time in U.S. history, the national debt was paid off by which president, who thought debt could destroy the liberty of our country? | Andrew Jackson | Roshan:C
+B40 | U.S. History | Which four vice presidents became president because of the assassination of their predecessors? | Andrew Johnson, Lyndon Johnson, Theodore Roosevelt and Chester Arthur | Roshan:C | .Leo deferred to Roshan
+T41 | Biology | What term describes the emission of light by a living organism? | Bioluminescence | Alex:C
+B41 | Biology | Part 1: What type of skeleton do earthworms and jellyfish have? // Part 2: What type of skeleton do lobsters and crabs have? | Part 1: A hydrostatic skeleton // Part 2: An exoskeleton | C
+T42 | Government | Which U.S. president granted a full, free and absolute pardon to Richard Nixon? | Gerald Ford | Claire:C
+B42 | Government | Serbia was among the few countries that did not require entry visas for Cubans, but in 2023 it revoked the open travel arrangement used for decades by Cubans seeking asylum in Europe. Serbia was part of what former communist-run federation of six republics? | Yugoslavia | C
+T43 | Arts | What famous Norwegian painting inspired Halloween masks and a series of horror movies? | The Scream | Sachin:C
+B43 | Arts | The over-commercialization of a seven city tour of Egyptian artifacts, including the gold burial mask of a well-known 18th dynasty pharaoh, was parodied in what 1978 Steve Martin song? | "King Tut" | C
+T44 | Foreign Language | What is the English translation of the French phrase "Ou est le musee?" | Where is the museum? | Leo:C
+B44 | Foreign Language | Part 1: What is the word for "juice" in Latin? // Part 2: What is the word for "juice" in German? | Part 1: Succus // Part 2: Saft | I | .the team answered "juice" for both parts
+T45 | History | Which explorer is credited as the first European to reach Hawaii? | James Cook | 1:I | Sachin:C | .a Farragut player blurted "Marco Polo" and the host noted he had not been called on
+B45 | World History | Who was the Russian holy man killed in 1916 by Russian nobles eager to end his influence over the royal family? | Rasputin | C
+T46 | Health | What mental illness that causes unusual shifts in mood and ability to function was formerly called manic depression? | Bipolar disorder | Roshan:C
+B46 | Health | Part 1: What insect is responsible for transmitting yellow fever? // Part 2: What insect is responsible for transmitting Lyme disease? | Part 1: The mosquito // Part 2: The tick | C
+T47 | Algebra | What conic section graph is represented by 9x squared + 9y squared = 81? | A circle | Michael:C
+B47 | Algebra | What is the value of four raised to the one half power added to the value of 27 raised to the one third power? | 5 | C
+T48 | Music | Who composed the comic opera The Marriage of Figaro? | Wolfgang Amadeus Mozart | Claire:C | | .Claire said "Mozart" and it was accepted
+B48 | Music | What is the style of accompanied solo that imitates the rhythm and tones of speech? | Recitative | I | .the team said "soliloquy"
+T49 | Literature | What was the name of Dr. Seuss's egg hatching elephant? | Horton | Michael:C | .the game ended before the bonus could be read

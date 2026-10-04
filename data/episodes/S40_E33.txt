@@ -1,0 +1,84 @@
+@EP S40 E33
+@ROUND Round of 32
+@TEAMS Temple Baptist Academy | Somerset High School
+@R1 Parker, Easton, Will, Micah, Kayla
+@R2 Quentin, Blake, John, Caroline, Kate
+# Will is Temple Baptist's captain and John is Somerset's captain. The captions render Will as "Well", Micah as "My/Mica/Michael Vick sama", and Quentin as "Clinton/Quenton". Temple Baptist is from Powell, Tennessee; Somerset is from Somerset, Kentucky. Kayla joins Temple Baptist and Kate joins Somerset for the second half.
+# ---- first half ----
+T1 | Health | What is the branch of medicine devoted to the care of the muscular and skeletal systems? | Orthopedics | Quentin:I | Will:C | .Quentin said osteopathic
+B1 | Health | Name four bones in a human leg. | Any four of: femur, tibia, fibula, patella | P10 | .the team named tibia and femur (accepted, ten points) and hip
+T2 | Literature | What children's novel by Katherine Paterson is a story about two children named Leslie and Jess who create a magical forest kingdom in their imaginations? | Bridge to Terabithia | Caroline:C
+B2 | Literature | Part 1: What book has the characters of Mr. and Mrs. Wormwood? // Part 2: Who is the main antagonist and headmistress at Crunchem Hall in Roald Dahl's 1988 novel? | Part 1: Matilda // Part 2: Miss (Agatha) Trunchbull | Caroline:C | .Caroline answered Part 2
+T3 | Geometry | What is the sum of the interior angle measures of a dodecagon in degrees? | 1,800 degrees | John:I | Easton:I | .John said 1,080; Easton said 1,280
+T4 | Music | What is the professional title of the person who creates the dances for a musical production? | Choreographer | 1:C | .buzzer not named (the host reminded the player to wait to be called on); Temple Baptist from the bonus
+B4 | Music | Part 1: Name the Broadway musical with the songs "Grizabella" and "Memory." // Part 2: Name the Broadway musical with the songs "Castle on a Cloud" and "Bring Him Home." | Part 1: Cats // Part 2: Les Misérables | I | .team said Wicked and then The Lion King (Easton answered Part 2)
+T5 | History | Who succeeded Julius Caesar as Emperor of Rome? | Augustus Caesar | Will:C
+B5 | History | Part 1: Julius Caesar was stabbed to death in what year? // Part 2: On what day of the year? | Part 1: 44 B.C. // Part 2: March 15 (the Ides of March) | Micah:P10 | .Micah said 325 B.C. for Part 1
+T6 | Chemistry | All proteins contain carbon, hydrogen, oxygen and what other element? | Nitrogen | John:C
+B6 | Chemistry | Name four of the seven elements classified as noble gases. | Any four of: helium, neon, argon, krypton, xenon, radon, oganesson | P15 | .the team named argon, neon and xenon (three counted, 15 points)
+T7 | Mythology | What is the giant one-eyed creature of Greek mythology? | A Cyclops | Will:C | .buzzer name read from "Well"
+B7 | Visual | Part 1: What is the name of the temple shown here, the largest structure at the Acropolis in Athens? // Part 2: To which mythological god was it built to worship? | Part 1: The Parthenon // Part 2: Athena | C
+T8 | Biology | In 1831, Charles Darwin started his five year research expedition as the ship's naturalist aboard what ship? | HMS Beagle | Will:I | Caroline:C | .Will said the Galapagos Islands (name read from "Well")
+B8 | Biology | Since 2020, hundreds of boats have been attacked by pods of orca whales in what narrow strait that connects the Atlantic Ocean to the Mediterranean Sea? | The Strait of Gibraltar | John:I | .John said something like "Iberian"
+T9 | Religion | Which English king embraced the Protestant Reformation and made himself head of the Church of England? | Henry VIII | Parker:I | Caroline:C | .Parker said Edward VIII
+B9 | Religion | Which English brothers were ordained in the Anglican Church but became known as Methodists owing to their conspicuously pious ways, methodical approach to Bible study and daily prayer? | John and Charles Wesley | C
+T10 | Government | Airports in the USA have TSA checkpoints. What does TSA stand for? | Transportation Security Administration | Micah:I | Quentin:I | .Micah said "terminal security agents" (name read from "My"); Quentin said "Terminal Security Administration"
+T11 | Astronomy | According to folklore, the second full moon in a calendar month is known as what? | A blue moon | Will:C
+B11 | Astronomy | In 1983, who became the first American woman and third woman of all time to go into space when she rode aboard the space shuttle Challenger? | Sally Ride | Micah:C | .Will deferred to Micah
+T12 | Foreign Language | What five letter Spanish word is commonly used in English to mean manly or masculine in a noticeable or exaggerated way? | Macho | 2:C | .buzzer not named; Somerset from the bonus
+B12 | Foreign Language | What Swedish word that can mean a wide range of something is actually a type of Swedish meal served buffet style with multiple hot and cold dishes? | Smörgåsbord | I | .the team gave no answer
+T13 | Algebra | What is the value of x if −(3/4)x + 20 = 8? | x = 16 | John:I | | .John said -16; no Temple Baptist answer captured
+T14 | Art | Which museum houses the Mona Lisa and the Venus de Milo among other treasures? | The Louvre | Easton:C
+B14 | Visual | Part 1: The National Gallery of Art says this impressionist painting is one of the most popular works in their collection. Who was the artist? // Part 2: What is the title of the painting? | Part 1: Pierre-Auguste Renoir // Part 2: A Girl with a Watering Can | I | .the team said Vermeer and "Girl in the Dress"
+T15 | Geography | Which river runs through Nashville, Tennessee? | The Cumberland River | Will:C
+B15 | Geography | The Colorado River traverses seven states before reaching Mexico. Other than Colorado, name four of those seven states. | Any four of: Wyoming, Utah, New Mexico, Arizona, Nevada, California | Easton:P15 | .the team said New Mexico, Nevada, Montana and Wyoming; three counted (15 points)
+T16 | Geology | What layer of the earth just outside the core is made up mostly of silicates? | The mantle | Will:C
+B16 | Geology | In which geological era did mammals first appear? | The Cenozoic era (Tertiary period), per the host | I | .the captions are confusing: the host mentions the Tertiary period and the Cenozoic era; the team said the Mesozoic
+T17 | Literature | In Greek mythology, which king of Thebes unwittingly killed his father and married his mother? | Oedipus | Caroline:C
+B17 | Literature | Part 1: What is the name of Homer's epic poem that tells of a king's perilous ten year journey home from war? // Part 2: From which war was he returning? | Part 1: The Odyssey // Part 2: The Trojan War | C
+T18 | Government | What is the title for the U.S. representative who presides over the House and is elected by the majority party? | Speaker of the House | Micah:C
+B18 | Government | In 2022, the UN and the G7 condemned a Russian attack on Ukraine's energy infrastructure as a possible war crime. Other than the European Union, name four of the G7 countries. | Any four of: United States, United Kingdom, Canada, France, Germany, Italy, Japan | P15 | .the team named the U.S., Great Britain, Canada and Russia; three counted (15 points)
+T19 | Sports | In the year 2000, who became the youngest golfer to complete a career grand slam? | Tiger Woods | Will:C | .buzzer name read from "Well"
+B19 | Sports | Part 1: In what sport is the Ryder Cup awarded? // Part 2: How often is the Ryder Cup played? | Part 1: Golf // Part 2: Every two years | C | .the first half ended after this bonus
+# ---- second half ----
+T20 | World History | The Good Friday Agreement is a pair of agreements signed in April 1998 that ended most of the violence. In what country? | Northern Ireland | Quentin:I | Easton:I | .Quentin said the United Kingdom (name read from "Clinton"); Easton said Afghanistan
+T21 | Chemistry | What is a mixture of chemical elements, of which at least one is a metal, that retains all the properties of a metal in the resulting material, such as conductivity? | An alloy | John:C | .the captions show "such as John Elway"
+B21 | Chemistry | Aluminum's atomic number is 13. What is the electron configuration of aluminum in exponential form? | 1s² 2s² 2p⁶ 3s² 3p¹ | C
+T22 | Geography | In what country is the Great Sphinx of Giza located? | Egypt | Easton:C
+B22 | Visual | Part 1: Which Southeast Asian country is highlighted on the map? // Part 2: What is its capital? | Part 1: Vietnam // Part 2: Hanoi | P10 | .the team said "Ho Chi Minh" for Part 2
+T23 | Vocabulary | Spell the word that can mean a vessel for water or a player who throws the ball to the batter. | P-I-T-C-H-E-R | Will:C
+B23 | Vocabulary | What ten letter word beginning with U means seeming to be found everywhere at the same time? | Ubiquitous | Micah:C | .the host did not state the points; treated as 20
+T24 | Architecture | What is the name of our nation's tallest monument? | The Gateway Arch | Easton:I | Caroline:I | .Easton said the Washington Monument; Caroline said "St. Louis Arch"
+T25 | Economics | What is the organization of two or more firms into one firm? | A merger | Easton:C
+B25 | Economics | What term means to decrease in value because of wear and tear? | Depreciation | C
+T26 | Science | What are horizontal movements of water called? | Currents | Will:I | | .Will said tides; no Somerset answer captured
+T27 | Foreign Language | English and what other language are the official languages of India? | Hindi | Quentin:I | Will:C | .Quentin said "Hindu and Sanskrit"
+B27 | Foreign Language | What are the two official languages of Iraq? | Arabic and Kurdish | P10 | .the team said Urdu and Arabic
+T28 | Math | What is 10 minus 6 5/9 as a mixed number? | 3 4/9 | John:C
+B28 | Visual | In a circle, the measure of a major arc is four times the measure of its minor arc. Find the measures of both arcs. | 288 degrees (major) and 72 degrees (minor) | C
+T29 | Religion | What is the city that no one but Muslims are allowed to enter and was the birthplace of Muhammad? | Mecca | Will:C
+B29 | Religion | In spring 2023, Iran's chief justice threatened that women appearing in public without their veils would be prosecuted without mercy, by authority of which set of religious laws that obliged women to cover their hair and wear loose clothes to disguise their figures? | Sharia law | I | .team said the Koran
+T30 | Art | Which art movement lasted from 1600 to 1750 and included artists such as Bernini and Rembrandt? | Baroque | John:C
+B30 | Art | Of Claude Monet and Edvard Munch, which was the Expressionist and which was the Impressionist? | Munch was the Expressionist and Monet the Impressionist | C
+T31 | Health | What is the term to describe tumors or growths that are not malignant or cancerous? | Benign | Easton:C
+B31 | Health | Part 1: What common disease is an infection that causes an itchy rash with small fluid-filled blisters and might be prevented by the varicella vaccine? // Part 2: What typically adult virus is a reactivation of the chickenpox virus in the body, causing a painful rash? | Part 1: Chickenpox // Part 2: Shingles | C
+T32 | Spelling | First in order of importance, or the head of a school, is the meaning of "principal." Spell "principal." | P-R-I-N-C-I-P-A-L | Caroline:C
+B32 | Spelling | Dilate means to make or become wider, larger or more open, as in "the doctor will dilate my eyes." Spell "dilate." | D-I-L-A-T-E | Caroline:I | .Caroline spelled D-I-A-L-A-T-E; the captions show the captain designating Caroline
+T33 | Literature | With which war is Ernest Hemingway's A Farewell to Arms associated? | World War I | Caroline:C
+B33 | Literature | In 2023, Gabriel García Márquez became the most translated Spanish language writer of the century, surpassing which author known for writing Don Quixote? | Miguel de Cervantes | Caroline:C | .John deferred to Caroline
+T34 | Music | What is a cappella music? | Music sung without instrumental accompaniment | Will:C
+B34 | Music | Who composed the oratorio Elijah and a concert overture for Shakespeare's A Midsummer Night's Dream? | Felix Mendelssohn | I | .Will deferred to Micah, who said Handel
+T35 | U.S. History | Davy Crockett and many others died while defending what? | The Alamo | Quentin:C | .the captions run Quentin's name into the question
+B35 | U.S. History | Part 1: In which U.S. city was John F. Kennedy assassinated? // Part 2: What was the name of the first lady who was in the car with him? | Part 1: Dallas // Part 2: Jacqueline Kennedy | C
+T36 | Physics | What is the term for the tendency of a solvent like water to diffuse through a membrane until the concentrations of the solutions are equal on either side? | Osmosis | 1:I | | .Temple Baptist's buzzer is not named (the answer was garbled, "instant and permeable"); no Somerset answer captured
+T37 | Vocabulary | What are words that have different meanings but are spelled and pronounced the same? | Homonyms | Easton:I | | .Easton said onomatopoeia and then homophones; no Somerset answer captured
+T38 | Pre-Calculus | For what values of x is the fraction 20/(x² + 5x − 14) undefined? | x = −7 and x = 2 | John:I | Will:I | .John said -2 and 7; Will said -2
+T39 | Miscellaneous | In what state is Old Dominion University located? | Virginia | Will:C
+B39 | Miscellaneous | Part 1: In what state is the University of Miami located? // Part 2: In what state is Miami University located? | Part 1: Florida // Part 2: Ohio | C
+T40 | Government | What is the legal process by which a person becomes a citizen of another country at some time after birth? | Naturalization | Quentin:C
+B40 | Government | Name two of the three documents collectively known as the Charters of Freedom. | Any two of: the Constitution, the Declaration of Independence, the Bill of Rights | C
+T41 | Science | What is the process by which a gas changes to a liquid? | Condensation | Kate:I | Micah:C | .Kate ran out of time
+B41 | Science | Which material in each of the two pairs has more mass for the same volume? Part 1: Brick or glass? // Part 2: Water or gasoline? | Part 1: Glass // Part 2: Water | C
+T42 | Literature | Who is the author of The Catcher in the Rye? | J.D. Salinger | Caroline:C
+B42 | Literature | Part 1: Name the novel written by Ray Bradbury that presents an American society where books have been banned. // Part 2: Bradbury meant for the title to refer to what? | Part 1: Fahrenheit 451 // Part 2: The temperature at which paper burns | C
+T43 | Pre-Calculus | Which famous mathematician's name ... [question cut off by the buzzer]? | [unclear] | Will:I | | !the question was cut off by the buzzer and the end of the game; Will said "Sir Isaac Newton" and was ruled wrong; the question wording and answer are not captured

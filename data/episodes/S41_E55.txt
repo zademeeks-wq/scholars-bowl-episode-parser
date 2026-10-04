@@ -1,0 +1,81 @@
+@EP S41 E55
+@ROUND Round of 8
+@TEAMS L&N STEM Academy (Jordan's team) | Jefferson County High School
+@R1 Tony, Dominic, Jordan, Matty, Chloe, Charles, Blake
+@R2 Zach, Eli, Max, Elaine, Evan, Isabella, Laurel, Amy
+# The captions spell the school "Ellen" / "Elon" Stem Academy. Charles and Chloe (L&N alternates) enter at halftime; Max is Jefferson County's captain.
+# ---- first half ----
+T1 | Religion | Which group of religious followers did Bloody Mary Tudor persecute because she feared they would revolt? | Protestants | Elaine:I | Jordan:C | .Elaine said Puritans; Jordan's name read from "Gordon"; the host accepted "Protestants" in general
+B1 | Religion | Part 1: In the book of Judges, who was called by the Lord to help free the Israelites from the Philistines and had long hair that gave him strength as a sign of his covenant with the Lord? // Part 2: Who had Samson's hair shaved while he slept in order to make him weak so the Philistines could attack and capture him? | Part 1: Samson // Part 2: Delilah | C
+T2 | Literature | Who is one of the greatest Roman poets and author of Rome's national epic poem, The Aeneid? | Virgil | Jordan:C
+B2 | Literature | Part 1: What book has the characters Hester Prynne, Arthur Dimmesdale and Roger Chillingworth? // Part 2: Who wrote The Scarlet Letter? | Part 1: The Scarlet Letter // Part 2: Nathaniel Hawthorne | P10 | .team said The Great Gatsby for Part 1
+T3 | Science | What is the term for a hurricane that occurs in the tropical waters of the Western Pacific? | Typhoon | Zach:C
+B3 | Science | A study published in 2024 revealed the lasting effects of a team of gophers that, for only one day in 1983, burrowed into the ash and unearthed bacteria and fungi essential for soil health in the area around what volcano that had erupted in Washington in 1980? | Mount St. Helens | Zach:C
+T4 | Biology | What is the location of the plantar arch? | The foot | Zach:C | .answer not spoken in captions (the host just said correct)
+B4 | Biology | What is the two word common name for an Acer saccharum tree, the sap of which is used to produce pancake syrup? | Sugar maple | I | .team said "maple tree"
+T5 | Geography | What circle of stones in England is 97 feet in diameter? | Stonehenge | ?:C | .buzzer and team not identified in captions
+B5 | Geography | Part 1: What is the capital of Kansas? // Part 2: What is the capital of Massachusetts? | Part 1: Topeka // Part 2: Boston | P10 | .team said Kansas City for Part 1
+T6 | Art | What is the most distinctive characteristic of the statue of Venus de Milo? | She has no arms | Elaine:C
+B6 | Visual | Part 1: Who was the artist shown here in his 1845 self-portrait? // Part 2: What was the title of that famous self-portrait? | Part 1: Gustave Courbet // Part 2: The Desperate Man | I | .team said Frida Kahlo and "Insanity"
+T7 | Vocabulary | Finish this expression by Nietzsche: "What doesn't kill you ..." | Makes you stronger | 2:C | .buzzer not named; team from the bonus deferral to Eli
+B7 | Vocabulary | Part 1: What nine letter word starting with "ne" means very wicked or evil? // Part 2: Spell that word. | Part 1: Nefarious // Part 2: N-E-F-A-R-I-O-U-S | Eli:C
+T8 | Geometry | The perimeter of a square is 48 inches. What is its area? | 144 square inches | Jordan:C
+B8 | Geometry | The measures of three angles of a quadrilateral in degrees are 105, 95 and 80. Find the fourth angle measure. | 80 degrees | C
+T9 | Astronomy | Which planet in our solar system takes longer to rotate on its axis than it takes to orbit the sun? | Venus | Zach:C
+B9 | Astronomy | Part 1: Which was the first planet in our solar system discovered on the basis of theoretical calculations? // Part 2: Which was the first planet in our solar system discovered with the aid of a telescope? | Part 1: Neptune // Part 2: Uranus | P10 | .team said Uranus for Part 1
+T10 | Government | What is the word for a one house only legislature, like that in Nebraska? | Unicameral | Zach:C | .question cut off by the buzz; ending inferred from the host's "we'll take it in Nebraska"
+B10 | Government | What 14 letter word is used to describe the basic physical systems of a region or nation, which might include transportation and sewage systems or communications networks? | Infrastructure | C
+T11 | Miscellaneous | What toy that caught on as a fad in the 1950s and is still sold today consists of a plastic ring that is twirled around the waist, limbs or neck? | Hula hoop | Zach:I | Jordan:C | .Zach said Rubik's Cube; the host re-read the question for the steal
+B11 | Miscellaneous | What is the name of the prehistoric Native American statue, made of sandstone and depicting a kneeling male figure, that was designated the official state artifact of Tennessee in 2014? | Sandy | I | !the team said "the kneeling Indian" and the host replied "They call him Sandy" and moved on without saying points (probably not accepted)
+T12 | Spelling | Spell "pharynx." | P-H-A-R-Y-N-X | Dominic:I | Zach:C | .Dominic's spelling was wrong (captions: "P-H-A-R-A-Y"); the definition read with the word is not in the captions
+B12 | Spelling | An event causing great and often sudden damage or distress is a calamity. Spell "calamity." | C-A-L-A-M-I-T-Y | Eli:C
+T13 | Economics | What is the term for the influx of more affluent residents and businesses that change the character of a neighborhood? | Gentrification | Dominic:C
+B13 | Economics | In October 2024, the FDA sent out a recall notice due to an undeclared allergen in 79,200 pounds of Kirkland Signature butter, because the packaging did not include a warning that the butter contains what? | Milk | C
+T14 | Science | What does the Kelvin scale measure? | Temperature | Jordan:I | Max:C | .Jordan's answer garbled in captions ("eat temperature"), apparently "heat"
+B14 | Visual | Who was the scientist shown here who jotted down the symbols for the chemical elements in an order according to their atomic weights, in such a way that they ended up grouped on the page according to known regularities of behavior? | Dmitri Mendeleev | C | .the host supplied the first name
+T15 | U.S. History | Which British commander surrendered to General George Washington at Yorktown? | Cornwallis | ?:C | .buzzer and team not identified in captions, which also swap the question ending and the answer
+B15 | U.S. History | Part 1: Who was the author of the pamphlet that opens with the sentence "These are the times that try men's souls"? // Part 2: The pamphlet is the first of 13 in a series. With what title? | Part 1: Thomas Paine // Part 2: The American Crisis | P10 | .team said Common Sense for Part 2
+T16 | Music | What is the major key for an instrument like a piano when the key signature has no sharps or flats? | C major | 1:I | Max:C | .first buzzer not named (said G); Max's name read from "marks"; no bonus appears in the captions after this steal
+T17 | English | What type of verb doesn't require a direct object to function correctly? | Intransitive verb | Zach:I | Dominic:I | .Zach said auxiliary; Dominic said gerund
+T18 | Pre-Calculus | What is the absolute value of the complex expression 12 + 5i? | 13 | Zach:C
+B18 | Pre-Calculus | If the cosine ratio of an acute angle is 15/17, what is its tangent ratio? | 8/15 | C
+T19 | Health | What is the process of freezing bodies at the moment of death with the aim of resuscitation? | Cryonics (cryopreservation) | 1:I | Eli:C | .first buzzer not named (said cryogenics); Eli said cryopreservation
+B19 | Health | What 11 letter word beginning with M is an inflammation of the heart muscle, usually as a result of infection or inflammatory disease? | Myocarditis | Zach:C | .answer garbled in captions ("Macro"); the host said "Right" and gave myocarditis
+T20 | Geography | What watershed runs north and south through the peaks of the Rocky Mountains? | The Continental Divide | Zach:C
+B20 | Geography | Part 1: What is the capital of the state that also contains the major city of Chicago, Illinois? // Part 2: What is the capital of the state that also contains the major city of Buffalo? | Part 1: Springfield // Part 2: Albany | C
+# ---- second half ----
+T21 | Foreign Language | What French phrase that literally means "outside the work" is also used in English to describe a small dish served before a meal? | Hors d'oeuvre | Dominic:I | Elaine:I | .Dominic's answer garbled in captions ("Andre"); Elaine said appetizer
+T22 | Vocabulary | What six letter word beginning with T means showy but tacky? | Tawdry | Dominic:I | Max:I | .Dominic's answer read from "torney on it" (probably "tawny, not it"); Max said tacky; the captions before it ("Tasteless. Guardian cheap.") are unexplained
+T23 | Arts | From which Broadway musical is the song "Defying Gravity"? | Wicked | Elaine:C
+B23 | Arts | What was the name of the actor known for his roles in The Great White Hope and Field of Dreams and as the voice of Darth Vader in Star Wars, who died in September 2024 at age 93? | James Earl Jones | I | .team said Morgan Freeman
+T24 | Chemistry | What organic chemical with the formula HCHO is commonly used to preserve biological specimens? | Formaldehyde | Zach:C | .buzzer name read from "jack"; team from "chemistry bonus for Jeffco"
+B24 | Chemistry | The atomic number of chromium is 24. What is chromium's electron configuration? | 1s² 2s² 2p⁶ 3s² 3p⁶ 4s¹ 3d⁵ | I | .team's answer was right until the last two terms (the 4s1 3d5 anomaly)
+T25 | History | Whose 37 year reign was characterized by Russia's transformation from a medieval state to an empire? | Ivan the Terrible | 2:C | .buzzer not named; team from the bonus deferral to Zach
+B25 | History | Part 1: What was the fortified region that overlooked ancient Athens? // Part 2: What was the most famous of the temples overlooking Athens? | Part 1: The Acropolis // Part 2: The Parthenon | Zach:P10 | .team said Parthenon for Part 1
+T26 | Sports | When keeping score in baseball, which letter represents a strikeout? | K | Zach:C
+B26 | Sports | In gymnastics, every gymnast starts their routine with what score from which the judges deduct points as the routine progresses? | 10 | C
+T27 | Music | Whose first documented composition, a minuet and trio in G major, was composed when he was just five? | Mozart | Zach:C
+B27 | Music | What is the genre of popular music that originated with blues, southern gospel and spirituals, old-time and American folk music forms, including Appalachian, Cajun, Creole and the cowboy western music styles of New Mexico and Texas? | Country music | I | .team said soul
+T28 | Math | What is 600 divided by 25? | 24 | Max:C
+B28 | Visual | Given the function shown here, evaluate f(3). | 39 | C | .the function was shown on screen and is not in the captions
+T29 | Geology | What is the geological term for a flat, elevated land form? | Plateau | Zach:C
+B29 | Geology | Name four of the ten mountains that could be classified as the Seven Summits, the highest mountains on each of the seven continents. | Any four of the Seven Summits candidates (host credited Mount Everest only) | P5 | .the team's list is garbled in captions; the host gave five points for Mount Everest
+T30 | Government | Which military institution is referred to as the Long Gray Line? | West Point | Jordan:C
+B30 | Government | Part 1: What do the letters in the abbreviation POTUS represent? // Part 2: What do the letters in the abbreviation FLOTUS represent? | Part 1: President of the United States // Part 2: First Lady of the United States | C
+T31 | Religion | Which pillar of Islam is described as sincerely reciting the Muslim profession of faith? | Shahada | Dominic:C | .answer garbled in captions ("Shehata")
+B31 | Religion | Which pillar of Islam is described as paying alms or charity tax to benefit the needy? | Zakat | C
+T32 | Literature | Who was the American coauthor of Mastering the Art of French Cooking and host of a TV show called The French Chef? | Julia Child | Dominic:C
+B32 | Literature | Part 1: What play, subtitled "A Trivial Comedy for Serious People," revolves around the characters Algernon Moncrieff, Gwendolen Fairfax, Lady Bracknell, Miss Prism and Canon Chasuble? // Part 2: Who wrote it? | Part 1: The Importance of Being Earnest // Part 2: Oscar Wilde | I | !the captions suggest Part 1 may have been answered correctly (the host says "Yes, yes ... The Importance of Being Earnest") but he then says no points on the bonus; Part 2 was answered "Noel Coward" after deferring to Dominic
+T33 | Technology | What are the two numbers used in a binary system? | Zero and one | ?:C | .buzzer and team not identified in captions
+B33 | Technology | Which former NASA engineer, known for his YouTube videos and CrunchLabs subscription boxes, offered a $10,000 prize in 2024 to anyone who could defeat his rock, paper, scissors robot? | Mark Rober | C | .bonus team not identified; it discussed whether to speed up or slow down and chose to slow down (probably the leading team, Jefferson County)
+T34 | Biology | Which blood type is the universal donor? | O negative | Zach:C
+B34 | Biology | What is the term for the part of the cell cycle in which replicated chromosomes are separated into two new nuclei, which give rise to genetically identical cells in which the total number of chromosomes is maintained? | Mitosis | I | .team said prophase
+T35 | U.S. History | Which U.S. president coined the name "United Nations"? | Franklin D. Roosevelt (FDR) | Dominic:I | Zach:C | .time was called on Dominic before he gave a usable answer (his name read from "Dynamic"); Zach said FDR
+B35 | Visual | In the 1851 painting shown here, which two future presidents are depicted? | George Washington and James Monroe | P10 | .team said George Washington and Jefferson
+T36 | Art | What earthenware substance has a name that means "cooked earth"? | Terracotta | Zach:C
+B36 | Art | Which four great artists were considered the masters of the Renaissance and were the inspiration for the Teenage Mutant Ninja Turtles? | Leonardo, Donatello, Raphael and Michelangelo | Zach:C
+T37 | Spelling | The practice of claiming to have moral standards or beliefs to which one's own behavior does not conform is hypocrisy. Spell "hypocrisy." | H-Y-P-O-C-R-I-S-Y | Dominic:I | 2:C | .Dominic misspelled it; Jefferson County's stealing player garbled in captions
+B37 | Spelling | To give one's good wishes when something special or pleasant has happened is to congratulate. Spell "congratulate." | C-O-N-G-R-A-T-U-L-A-T-E | Eli:C
+T38 | Algebra | What is the value of three over two raised to the negative two power? | 4/9 | Jordan:C
+B38 | Algebra | What is the ninth term of the sequence with a first term of ten and a common difference of four? | 42 | I | .team said -26
+T39 | Physics | A figure skater who tucks in his or her arms and legs during a spin will begin to spin faster due to the conservation of what form of momentum? | Angular (rotational) momentum | Jordan:I | Zach:C | .Jordan said centrifugal; Zach answered "rotational" at the buzzer; the game ended after this question

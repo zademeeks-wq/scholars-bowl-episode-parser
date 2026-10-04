@@ -1,0 +1,84 @@
+@EP S40 E04
+@ROUND Round 1
+@TEAMS Seymour High School (Timothy's team) | Career Magnet Academy
+@R1 Dhruv, Eli, Timothy, Ty
+@R2 Cooper, D.J., Atticus, Clotilda, Marcia, Ella
+# Seymour has two teams in the tournament; this one is captained by Timothy and has no alternates. Atticus is Career Magnet's captain. In these captions "see more" means Seymour, and Marcia (CMA) enters at halftime. Seymour won by five points.
+# ---- first half ----
+T1 | Religion | The most famous example of preaching of terror was the 1741 sermon "Sinners in the Hands of an Angry God" by which Puritan theologian? | Jonathan Edwards | Atticus:I | Timothy:I | .Atticus said Martin Luther; Timothy's answer was incomplete ("John ...")
+T2 | Geography | In which state is Mount Rushmore located? | South Dakota | Eli:C
+B2 | Geography | Name four of the eight U.S. states that have a panhandle. | Any four of: Alaska, Florida, Idaho, Maryland, Nebraska, Oklahoma, Texas, West Virginia | Eli:P15 | .team said Florida, Oklahoma, Alaska and Massachusetts; three counted (15 points)
+T3 | Literature | Who is the author of the Harry Potter series? | J. K. Rowling | Atticus:C
+B3 | Literature | Part 1: What book by E. B. White takes place on a farm and concerns a pig and his devoted friend, a spider who manages to save his life by spinning words about him? // Part 2: What is the name of the rat who goes searching for words at night? | Part 1: Charlotte's Web // Part 2: Templeton | P10 | .team missed Part 2 (said "Jonathan")
+T4 | Math | Name the only one digit number that is not a factor of 720. | 7 | Atticus:I | Timothy:C | .Atticus said 3
+B4 | Math | What are the only two perfect cubes between 200 and 400? | 216 and 343 | C
+T5 | Geology | What event created Reelfoot Lake in upper West Tennessee? | An earthquake | Atticus:I | 1:I | .Atticus said sinkhole; a Seymour player said "I know" but the buzzer had already sounded
+T6 | Music | In a chorus, what is the lowest male vocal part? | Bass | Timothy:C
+B6 | Visual | Part 1: What does the top number in any time signature indicate? // Part 2: What does the bottom number in any time signature indicate? | Part 1: The number of beats per measure // Part 2: Which note value gets one beat | I | .team said "beats per second" and "the number of measures"
+T7 | Economics | What car company makes the Grand Cherokee, Renegade and Wrangler Rubicon? | Jeep | Atticus:C
+B7 | Economics | What is the term for the supply on hand of a product, such as raw materials or goods for sale? | Inventory | I | .team said "stock", which the host said has multiple meanings
+T8 | Vocabulary | What nine letter word beginning with F, meaning witty or jocular especially at inappropriate times, has all the vowels in alphabetical order? | Facetious | Atticus:C
+B8 | Vocabulary | Part 1: Rearrange the letters shown to spell a word meaning a vital organ of the body. // Part 2: Now rearrange those same letters to spell the name of a planet in our solar system. | Part 1: Heart // Part 2: Earth | C | .the letters were shown on screen and are not in the captions
+T9 | History | What age was between the Stone Age and the Iron Age? | The Bronze Age | Timothy:C
+B9 | World History | In 2022, Egyptologists discovered hieroglyphics inside King Tut's tomb indicating that his burial chamber could contain a hidden door to his stepmother's secret tomb. Who was King Tut's stepmother? | Nefertiti | I | .the team's answer and the host's correction are garbled in captions
+T10 | Chemistry | What is the most common element in the Earth's atmosphere? | Nitrogen | Timothy:C
+B10 | Chemistry | Part 1: What is the formula for sodium hydroxide? // Part 2: What is the formula for phosphorous acid? | Part 1: NaOH // Part 2: H3PO3 | P10 | .team said H2PO3 for Part 2
+T11 | Sports | Which NFL team's stadium is about 33 miles south of Boston? | The New England Patriots | 1:C | .buzzer not named; team from the bonus deferral to Eli
+B11 | Sports | The Missouri Tigers of the SEC play their home games in what city? | Columbia, Missouri | Eli:C
+T12 | Government | What procedure is the use of obstructionist tactics, like prolonged speechmaking, especially in the Senate? | Filibuster | Atticus:C
+B12 | Government | Part 1: What does OSHA stand for? // Part 2: Under which federal department is OSHA? | Part 1: Occupational Safety and Health Administration // Part 2: The Department of Labor | P10 | .team said "Organizational Safety Hazards Association" for Part 1
+T13 | Foreign Language | What is the English translation of the French phrase "à pied"? | On foot | 1:I | | .Seymour's buzzer not named and the answer garbled in captions; steal offered to Career Magnet, no answer captured
+T14 | Math | What place value does the three have in the number 24.563 (digits partly garbled in captions)? | Thousandths | Cooper:I | Eli:I | .Cooper said ten-thousandths; Eli said he knew it but the host gave thousandths
+T15 | Health | What is the name of the upper arm bone? | Humerus | 2:C | .buzzer not named; team from "health bonus for Career Magnet"
+B15 | Health | Which joint is formed by the articulation of the tibia, the malleolus of the fibula and the convex surface of the talus? | The ankle | D.J.:C
+T16 | Games | Which chess piece makes an L shaped move? | The knight | Atticus:C | .the host noted the player had not been called on but accepted it
+B16 | Visual | Give the equation of a parabola in standard form with x-intercepts at (3, 0) and (-2, 0) and a quadratic coefficient of -2. | y = -2x² + 2x + 12 | I | .team gave the factored form, which the host did not accept
+T17 | U.S. History | What name was given to the fortune seekers who rushed to California after the discovery of gold? | The forty-niners | Eli:I | Cooper:I | .Eli said "miners"; Cooper said "beggars"
+T18 | Literature | Who is the devoted friend and associate of Sherlock Holmes who was also the narrator of the novels? | Dr. John Watson | Eli:C
+B18 | Literature | Part 1: In the comic strip Garfield, what is the name of Garfield's owner? // Part 2: What is the name of the pet dog? | Part 1: Jon // Part 2: Odie | C
+T19 | Geography | The Parthenon is in Athens, but in which European city is the Pantheon? | Rome | Timothy:I | 2:I | .Timothy's answer was wrong (garbled in captions); Career Magnet conferred on the steal, so the host could not accept "Rome"
+T20 | Physics | Radio waves, light waves, microwaves and X-rays are classified as what kind of waves? | Electromagnetic waves | Atticus:I | 1:I | .Atticus said radiation; a Seymour player answered without ringing in, so no points
+T21 | Music | Antonio Stradivari is well known for perfecting the design of what instrument? | The violin | Atticus:C
+B21 | Music | Part 1: Vivaldi is associated with which musical period? // Part 2: Mozart is associated with which musical period? | Part 1: Baroque // Part 2: Classical | C
+T22 | Government | Which federal agency is the regulator that can penalize networks for indecency shown on television? | The FCC | Eli:C
+B22 | Government | Which two rights are provided for by Miranda v. Arizona? | The right to an attorney and the right to remain silent | C
+# ---- second half ----
+T23 | Foreign Language | If you cooked spaghetti "al dente," how would you want it prepared? | Slightly chewy (firm to the bite) | Atticus:I | 1:I | .Atticus said "firm"; Seymour's steal was not accepted either
+T24 | Algebra | In which direction does the graph of the equation x = y² open? | To the right | Eli:I | D.J.:I | .Eli said up; D.J. said down
+T25 | Biology | What is a major component of plant cell walls that provides flexibility and stability? | Cellulose | Timothy:C
+B25 | Biology | Part 1: What is the term for the green pigment in plants? // Part 2: Spell that word. | Part 1: Chlorophyll // Part 2: C-H-L-O-R-O-P-H-Y-L-L | C
+T26 | Geography | What is the capital of Australia? | Canberra | Atticus:I | Eli:I | .Atticus said Brisbane; Eli said Sydney
+T27 | Religion | In what U.S. city is the headquarters of the Church of Jesus Christ of Latter-day Saints located? | Salt Lake City | 1:C | .buzzer not named; team from "visual bonus ... Seymour"
+B27 | Visual | Who was the Lord High Chancellor of England, shown here, who was beheaded in 1535 for refusing to approve Henry VIII's divorce, remarriage and the establishment of the Church of England, was canonized as a Catholic saint in 1935 and was the subject of the Oscar-winning film A Man for All Seasons? | Thomas More | I | .the team's answer is garbled in captions
+T28 | Art | Claude Monet, Edgar Degas and Pierre-Auguste Renoir were what style of painters? | Impressionists | Ty:C | .buzzer name read from "type"; the host said he would take it
+B28 | Art | A cryptocurrency entrepreneur claimed in 2022 that he burned a drawing worth $10 million, saying he wanted to permanently transition it to the metaverse, by which famous Mexican artist known for self-portraits and works inspired by nature? | Frida Kahlo | C | .the team said only "Frida"; the host said he would check with the judges, and the final five-point margin implies it was accepted
+T29 | Astronomy | The first American satellite was placed in orbit from what launch site? | Cape Canaveral | Atticus:C
+B29 | Astronomy | Part 1: What is the chemical formula for calcium sulfate? // Part 2: Which planet did the Curiosity rover explore? | Part 1: CaSO4 // Part 2: Mars | P10 | .the team's formula for Part 1 was wrong or garbled in captions
+T30 | Music | Which drums are the only drums that can be tuned to a definite pitch? | Timpani (kettle drums) | 2:I | 1:I | .Career Magnet's first buzzer (name garbled) said steel drums; Seymour's steal said snare drums
+T31 | Economics | What is a signed authorization for someone else to vote a stockholder's shares? | A proxy | Atticus:I | | .Atticus said affidavit; steal offered to Seymour, no answer captured
+T32 | Vocabulary | What seven letter word starting with O means a view or judgment formed about something, not necessarily based on fact or knowledge? | Opinion | Timothy:C
+B32 | Vocabulary | The name of what dog breed can also be used to describe a person who is a sleuth or who pursues something keenly or relentlessly? | Bloodhound | I | .team said "hound", and the host needed "bloodhound"
+T33 | Geometry | What is the longest chord in any circle called? | The diameter | Cooper:C | .buzzer name read from "capacitor"; the host noted the player had not been called on but accepted it
+B33 | Visual | This theorem is a fundamental relation in Euclidean geometry between the three sides of a right triangle. Name the theorem. | The Pythagorean theorem | C
+T34 | Chemistry | What is the formula for dinitrogen monoxide? | N2O | Atticus:C | .the host noted it was formerly called nitrous oxide
+B34 | Chemistry | Name two elements that compose the alloy brass. | Copper and zinc | C
+T35 | Sports | In which sport do players win the Cy Young Award? | Baseball | 1:C | .buzzer not named; team from "sports bonus for Seymour"
+B35 | Sports | Who was born as Edson Arantes do Nascimento but was known by what one word name that is the most recognized name in soccer history? | Pelé | Eli:C
+T36 | Geography | Which small island sits just to the south of Cuba in the Caribbean and has Kingston as its capital? | Jamaica | Atticus:C
+B36 | Geography | What river is the boundary between Washington and Oregon and is the largest North American river that empties into the Pacific Ocean? | The Columbia River | I | .team said the Snake River
+T37 | Mythology | What hybrid mythological being is half human female and half fish? | A mermaid | Atticus:C
+B37 | Mythology | What Greek mythological creature is half human and half bull? | The Minotaur | C
+T38 | Foreign Language | What is the French word for shirt? | Chemise | 2:I | | .Career Magnet's buzzer not named (said blouse); steal offered to Seymour, no answer captured
+T39 | Chemistry | What is the term for a solution with the ability to maintain a constant pH? | A buffer | Cooper:I | Ty:C | .Cooper said neutral; Ty's name read from "type"
+B39 | Chemistry | Part 1: What kind of luminescence causes materials to glow as they absorb radiation? // Part 2: What kind of luminescence causes materials to glow for minutes or even days longer? | Part 1: Fluorescence // Part 2: Phosphorescence | I | .team said iridescence for both
+T40 | Art | What ten letter word beginning with C means a drawing which exaggerates the physical features of a person? | Caricature | Ty:I | 2:C | .Ty said "character"; Career Magnet's stealing player ("she") said caricature and the host accepted the pronunciation
+B40 | Art | Which influential artist of the Flemish Baroque tradition painted Massacre of the Innocents, in which the Biblical massacre of Bethlehem is depicted? | Peter Paul Rubens | I | .the team's answer (a first name) was not accepted
+T41 | U.S. History | Which political party included U.S. presidents Washington and Adams? | The Federalists | Timothy:C
+B41 | U.S. History | Part 1: Who was the commander of the victorious Union forces at the Battle of Gettysburg? // Part 2: Who was the commander of the Confederate forces at Gettysburg? | Part 1: George Meade // Part 2: Robert E. Lee | I | .team said Grant (via Ty) and Andrew Jackson
+T42 | Foreign Language | In Spanish, what does "más" mean? | More | Atticus:C | .the Spanish word is garbled in captions ("Kurtulmus"); inferred from the answer ("more")
+B42 | Foreign Language | Part 1: How do you say "I speak Spanish" in Spanish? // Part 2: How do you say "I read a lot" in Spanish? | Part 1: Yo hablo español // Part 2: Leo mucho | P10 | .team said "Mi Ramos" for Part 2
+T43 | Geometry | What is the name of a non-square equilateral quadrilateral? | A rhombus | Eli:C
+B43 | Geometry | A triangle has angle measures of 2x, 3x and 115 degrees. What are the measures of the two missing angles? | 26 and 39 degrees | I | .team said 46 and 69
+T44 | Health | What is the standard six letter term for the removal and examination of body cells? | Biopsy | 2:C | .buzzer not named; Career Magnet is inferred from the final five-point margin
+B44 | Health | Part 1: Who is credited with developing the earliest effective vaccine against rabies? // Part 2: What is the process called by which Louis Pasteur showed that abnormal fermentation of wine and beer could be prevented by heating the beverages? | Part 1: Louis Pasteur // Part 2: Pasteurization | P10 | .team said "Williams" for Part 1
+T45 | Miscellaneous | According to the proverb, which does the early bird catch? | The worm | NB | | .time ran out before anyone answered; the game ended

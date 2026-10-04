@@ -1,0 +1,87 @@
+@EP S40 E05
+@ROUND Round 1
+@TEAMS Farragut High School | Rockwood High School
+@R1 Sophie, Roshan, Leo, Tom, Federica, Aubrey, Evan, Alex
+@R2 Chloe, Molly, Grace, Madison, Caitlin, Kaylee, Avery, Ireland
+# Leo is Farragut's captain and Grace is Rockwood's. The captions spell Farragut's ninth grader Ramanan's first name as "Roche" / "Rush" / "Russian" (written here as Roshan, the same player the S41 episodes call "Russian"). Alex and Evan (Farragut) and Caitlin and Kaylee (Rockwood) enter at halftime.
+# ---- first half ----
+T1 | Art | What is the line in an artwork where water or land seem to end and the sky begins? | The horizon | Leo:C
+B1 | Art | Part 1: Name two of the three secondary colors. // Part 2: What is the complementary color of green? | Part 1: Any two of: green, orange, purple // Part 2: Red | P10 | .team said orange for Part 2
+T2 | Geography | Which mountain system stretches from Alabama to Newfoundland, Canada? | The Appalachian Mountains | Roshan:C | .buzzer name read from "Russian"
+B2 | Geography | Name the capital city of each of the following states. Part 1: Wyoming. Part 2: West Virginia. | Part 1: Cheyenne // Part 2: Charleston | P10 | .team knew Cheyenne but not Charleston
+T3 | Literature | The hare and the tortoise and the fox and the crow are fables by which famous writer? | Aesop | Tom:C | .answer garbled in captions ("Izzo")
+B3 | Literature | Who wrote The Vampire Chronicles, which include the novels The Vampire Lestat, Blood and Gold and Interview with the Vampire? | Anne Rice | I | .team said Hemingway
+T4 | Chemistry | What name is given to the solid form of carbon dioxide? | Dry ice | Tom:C
+B4 | Visual | What element with an atomic number of one is represented on the periodic table with this symbol? | Hydrogen | C
+T5 | Math | What is the sum of one half, one third and one fourth? | 13/12 | 1:C | .buzzer not named; team from "math bonus for Farragut"; the host would also accept 1 1/12
+B5 | Math | Part 1: Given the numbers 10, 20, 30 and 50, find the mean of the data set. // Part 2: Find the median of the same data set. | Part 1: 27.5 // Part 2: 25 | P10 | .team said 30 for the mean
+T6 | Sports | In which sport is the ball always in the possession of the team on defense while the team on offense can score without touching the ball? | Baseball | 1:I | Chloe:C | .Farragut's first buzzer not named (said football)
+B6 | Sports | Part 1: How many Major League Baseball teams are in the National League? // Part 2: What former National League team switched to the American League in 2013? | Part 1: 15 // Part 2: The Houston Astros | I | .team said 50 and "Canadians"
+T7 | Government | What is the term for trying to get someone to do wrong by offering him or her special favors, bribery or money? | [unclear] | 1:C | !the buzzer's answer is merged into the question in the captions ("special favors Some bribery or money is right"); probably "corruption"; the same question appears in S41 E53 T11; team from "bonus in government for Farragut"
+B7 | Government | What is the term for the constitutional division of power between the U.S. state governments and the national government? | Federalism | C
+T8 | English | Both a present participle and a gerund end with which three letters? | I-N-G | Roshan:C | .buzzer name read from "Russian"
+B8 | English | Part 1: Is the verb active or passive in the following sentence? "The war on terror is being fought daily." // Part 2: Is the verb active or passive in the sentence "The marathon runners worked diligently"? | Part 1: Passive // Part 2: Active | C | .the team first said passive for Part 2 and then corrected itself to active
+T9 | Astronomy | What is the six letter scientific term for a shooting star? | Meteor | Tom:C
+B9 | Astronomy | Part 1: Unlike the other planets in our solar system, Venus spins in which direction on its axis? // Part 2: Venus is the second brightest natural object in the night sky after what? | Part 1: Clockwise (backwards) // Part 2: The moon | C
+T10 | Economics | Which fruit is used to produce the most common cider? | Apple | Leo:C
+B10 | Economics | Candidates for the 2024 elections are seeking the endorsement of what federation of 60 labor unions, representing 12.5 million workers in the United States? | The AFL-CIO | I | .team said "Auto Workers Union"
+T11 | Music | On what continent is the Sydney Opera House located? | Australia | Molly:C
+B11 | Visual | Part 1: What early type of musical instrument shown here is similar to a piano, but with strings that are plucked instead of being hit? // Part 2: The harpsichord was often used in what dominant style of Western classical music, composed from about 1600 to 1750? | Part 1: Harpsichord // Part 2: Baroque | Chloe:P10 | .team said harp for Part 1
+T12 | History | Who invented the movable type printing press? | Johannes Gutenberg | Leo:C
+B12 | History | Name two of the three Allied leaders who represented their countries at the Yalta Conference in February 1945. | Any two of: Roosevelt, Stalin, Churchill | C
+T13 | Foreign Language | What is the main language spoken in Egypt? | Arabic | Leo:C
+B13 | Foreign Language | In what languages was the Old Testament of the Bible originally written? | Hebrew and Aramaic | P10 | .team said Latin and Hebrew; Hebrew counted
+T14 | Health | What organ of the body is enclosed in a sac called the pericardium? | The heart | Roshan:C | .buzzer name read from "Rush"
+B14 | Health | Part 1: What is the term for chemicals used to kill microbes upon contact, thus deterring the spread of disease? // Part 2: What is the easiest and least expensive method to slow the spread of germs and disease? | Part 1: Disinfectants // Part 2: Handwashing | I | .team said antibiotics and sterilization
+T15 | Algebra | Solve the equation 3x − 12 = 33. | x = 15 | Tom:C
+B15 | Algebra | Name the axis of symmetry for the graph of the quadratic equation y = -2x² + 8x - 6. | x = 2 | Sophie:C | .the team first said negative two, then deferred to Sophie
+T16 | Games | What live streaming service was introduced in 2011 as a spinoff of Justin.tv and is now a subsidiary of Amazon? | Twitch | Molly:C
+B16 | Games | In 2022, the FTC fined Epic Games $520 million over allegations that the company violated the Children's Online Privacy Protection Act and tricked millions of players into making unintentional purchases in which game that combines looting, crafting, shootouts and chaos? | Fortnite | C
+T17 | U.S. History | What is the name of the series of laws passed after the Boston Tea Party? | The Intolerable Acts | ?:C | .buzzer and team not identified in captions
+B17 | U.S. History | Part 1: Who surrendered his army of some 8,000 British soldiers to General George Washington, giving up any chance of the British winning the Revolutionary War? // Part 2: Where did the surrender take place? | Part 1: Cornwallis // Part 2: Yorktown | C
+T18 | Vocabulary | If a magazine is published bimonthly, how many issues are there in a year? | Six | Leo:C
+B18 | Vocabulary | Part 1: What is the unit of measurement for nautical miles per hour? // Part 2: What word is used to describe an aircraft's speed compared with the speed of sound in air? | Part 1: Knots // Part 2: Mach | C
+T19 | Physics | The ohm, the standard unit of electrical resistance, is represented by what Greek letter? | Omega | Tom:C
+B19 | Physics | What simple machine is represented by a playground slide? | An inclined plane | I | .team said lever, which was the answer to a second part that was never asked because time ran out
+# ---- second half ----
+T20 | Mythology | Oceanus was a titan, a mythical god that ruled over the freshwater of Earth and preceded what Olympian water god that ruled over the ocean? | Poseidon | Tom:C | .answer garbled in captions ("site")
+B20 | Mythology | The Catholic charitable organization Caritas receives 15% of its annual budget to help the homeless and others in need with a donation of over 1 million euros per year that the City of Rome collects from what landmark featuring a statue of the mythical titan Oceanus? | The Trevi Fountain | I | .team said the Sistine Chapel
+T21 | Religion | What is the title of the spiritual leader of a Jewish synagogue or temple? | Rabbi | Chloe:C
+B21 | Religion | Part 1: Which book of the Bible contains the story of Moses and the Israelites leaving slavery in Egypt to find the Promised Land? // Part 2: Which book of the Bible contains the story of Abraham being asked to sacrifice his son Isaac? | Part 1: Exodus // Part 2: Genesis | P10 | .team said Exodus for both parts
+T22 | Government | What event is used as the basis for reapportionment in the U.S. House of Representatives every ten years? | The census | Alex:C
+B22 | Government | What are four of the five largest cities in the United States by population according to the 2020 census? | Any four of: New York, Los Angeles, Chicago, Houston, Philadelphia | Leo:P10 | .team named New York, Atlanta, Chicago and Boston; two counted (10 points)
+T23 | Literature | What type of poem has only three lines of five, seven and five syllables? | Haiku | Tom:C
+B23 | Literature | Name four of the five basic elements of a short story. | Any four of: theme, plot, character, setting, conflict | Leo:C | .team named theme, plot, character and setting
+T24 | Geology | What type of rocks form from molten magma? | Igneous rocks | Leo:C
+B24 | Visual | At 20,310 feet tall, what mountain shown here has the highest peak in the United States? | Denali | Evan:C
+T25 | Geometry | Perimeter is to a rectangle as what characteristic is to a circle? | Circumference | Alex:C
+B25 | Geometry | In a right triangle with a hypotenuse of ten and a leg of five, what is the measure of both acute angles? | 30 and 60 degrees | Alex:C
+T26 | Miscellaneous | What Southeastern Conference school in Tennessee is included in Greene's Guides' Hidden Ivies? | Vanderbilt | Tom:C
+B26 | Miscellaneous | What are the two oldest universities in the United States? | Harvard and William & Mary | P10 | .team said Harvard and Yale; Harvard counted
+T27 | Economics | Illegal commerce in rationed or banned goods is called what? | The black market | Tom:I | | .Tom said contraband; steal offered to Rockwood, no answer captured
+T28 | Spelling | A liaison is defined as communication between people or groups working together. Spell "liaison." | L-I-A-I-S-O-N | Alex:C
+B28 | Spelling | Part 1: Spell the homophone "aisle," as in the aisle of a theater or grocery store. // Part 2: Spell the homophone "isle," as in a small island in a body of water. | Part 1: A-I-S-L-E // Part 2: I-S-L-E | C | .the spelling in the captions is garbled; the host ruled both right for 20 points
+T29 | Biology | Which rodent can cut down a 100 foot tree? | The beaver | ?:C | .buzzer and team not identified in captions
+B29 | Biology | Part 1: What is the term for a baby goat? // Part 2: What is the term for a baby horse? | Part 1: Kid // Part 2: Foal (colt) | C
+T30 | Government | Which branch of the U.S. military fights smuggling, protects ships and rescues victims of sea disasters? | The Coast Guard | Tom:C
+B30 | Government | In a July 2023 open letter to the nation's librarians, which former president wrote, "If America, a nation built on freedom of expression, allows certain voices and ideas to be silenced, why should other countries go out of their way to protect them?" | Barack Obama | C
+T31 | Architecture | What mansion in the mountains of North Carolina was built for George Washington Vanderbilt and was designed by Richard Morris Hunt? | The Biltmore | ?:C | .buzzer and team not identified in captions
+B31 | Architecture | Part 1: What is the name of Andrew Jackson's home in Tennessee? // Part 2: What style of architecture was used to design the Hermitage? | Part 1: The Hermitage // Part 2: Greek Revival | P10 | .team said Roman for Part 2
+T32 | Geography | In which world capital is Westminster Abbey located? | London | Leo:C
+B32 | Visual | What country's national flag features this symbol? | Canada | C
+T33 | Foreign Language | What is the French word for the act of performers returning to the stage to present or repeat? | Encore | Caitlin:C
+B33 | Foreign Language | Part 1: Translate the Marine Corps motto from Latin: "Semper Fidelis." // Part 2: Translate the Space Force motto: "Semper Supra." | Part 1: Always faithful // Part 2: Always above | I | .team said "never give up" and "fly high"
+T34 | Chemistry | What ingredient is added to still water to make seltzer or soda water? | Carbon dioxide | Alex:C
+B34 | Chemistry | Part 1: Which element has the symbol Mn? // Part 2: Which element has the symbol Co? | Part 1: Manganese // Part 2: Cobalt | C
+T35 | Pre-Calculus | If a quadratic equation has only one rational root, what is its discriminant value? | Zero | Alex:C
+B35 | Pre-Calculus | What is the value of the tangent of 135 degrees in the unit circle? | -1 | C
+T36 | Art | What is the name of the oven used to dry and bake clay sculptures or ceramics? | A kiln | Alex:C
+B36 | Art | Name the three primary colors (all or nothing). | Red, yellow and blue | C
+T37 | World History | What kind of social system requires serfs to work in exchange for security, clothing and provisions? | Feudalism | 2:C | .buzzer not named; team from "world history bonus for Rockwood"
+B37 | World History | Part 1: What Iraqi politician served as the fifth president of Iraq from 1979 to 2003? // Part 2: What war was waged from 1990 to 1991 because Iraq invaded Kuwait under Hussein? | Part 1: Saddam Hussein // Part 2: The Gulf War | I | .team (via Kaylee) said Fidel Castro and ran out of time on Part 2
+T38 | Vocabulary | What would be thrown down in issuing a challenge to fight? | A glove (gauntlet) | Leo:C
+B38 | Vocabulary | Part 1: What 12 letter word beginning with E is the antonym of "understatement"? // Part 2: Spell that word. | Part 1: Exaggeration // Part 2: E-X-A-G-G-E-R-A-T-I-O-N | Tom:C
+T39 | Astronomy | What is the name of the North Star? | Polaris | Tom:C
+B39 | Astronomy | Part 1: The solstices occur in which months? // Part 2: [the equinoxes occur in which months] | Part 1: June and December // Part 2: March and September | P10 | .question text partly garbled in captions; the team gave June and January and then June and December
+T40 | Religion | Buddhists believe in a place of perfect peace and blessedness called what? | Nirvana | Alex:C
+B40 | Religion | Tensions between Iraq and Sweden escalated in 2023 when an Iraqi national in Stockholm set fire to a copy of what holy book? | The Koran | C | .time ran out before the next question

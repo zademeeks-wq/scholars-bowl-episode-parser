@@ -26,6 +26,7 @@ import difflib
 import os
 import re
 import sys
+import unicodedata
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 EP_DIR = os.path.join(ROOT, 'data', 'episodes')
@@ -124,7 +125,9 @@ def episode_lines(lines, epnum):
 
 # ---------------------------------------------------------------- text helpers
 def toks(s):
-    return WORD.findall(s.lower().replace('’', "'"))
+    s = unicodedata.normalize('NFKD', s.lower().replace('’', "'"))
+    s = ''.join(c for c in s if not unicodedata.combining(c))
+    return WORD.findall(s)
 
 
 def content_tokens(s):

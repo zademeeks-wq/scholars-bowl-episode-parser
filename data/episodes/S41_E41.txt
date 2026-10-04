@@ -1,0 +1,83 @@
+@EP S41 E41
+@ROUND Round of 32
+@TEAMS Science Hill High School | Temple Baptist Academy
+@R1 Lilly, Elena, Hafsa, Sean, Isabella, Sini, Ghazi, Penelope
+@R2 Emily, Micah, Parker, E.J., Canyon, Evan
+# ---- first half ----
+T1 | Literature | The Lion King has similarities to which Shakespeare play, including a character who orchestrated the death of his brother, the king, in order to take over the throne himself? | Hamlet | 1:I | 2:I | .both answers garbled in captions
+T2 | Geography | Which river runs through Nashville, Tennessee? | Cumberland River | 1:I | E.J.:C | .first buzzer said the Tennessee River; steal name read from "PJ"
+B2 | Geography | What U.S. river is the longest river in North America and feeds into the Mississippi River? | Missouri River | C
+T3 | Biology | In biological taxonomy, what is the most specific major rank that has no further ranks below it? | Species | ?:C
+B3 | Biology | Part 1: In which phylum are lobsters? // Part 2: In which phylum are toads? | Part 1: Arthropoda // Part 2: Chordata | I | .team said arachnids and amphibians
+T4 | Math | What is 16 squared? | 256 | NB
+T5 | Foreign Language | Which Greek letter is the math symbol for summation? | Sigma | Micah:C
+B5 | Visual | Part 1: In a circle, what is the measure of an inscribed angle that intercepts a 136 degree arc? // Part 2: What is the measure of the central angle that intercepts the same arc? | Part 1: 68 degrees // Part 2: 136 degrees | Parker:I | .team said 90 and 180
+T6 | English | What 11 letter word beginning with E means having knowledge or skill in a particular field gained over a period of time, or to be an old hand at something? | Experienced | ?:C
+B6 | English | Part 1: What nine letter word beginning with V is a synonym of hesitate? // Part 2: Spell "vacillate." | Part 1: Vacillate // Part 2: V-A-C-I-L-L-A-T-E | I | .no answer for Part 1; misspelled in Part 2
+T7 | Economics | What citrus soft drink that was invented in Tennessee derived its name from moonshine? | Mountain Dew | ?:C
+B7 | Economics | Part 1: When Alcoa separated into two companies, one kept the name Alcoa. What is the new name of its fabrication business that has a facility in the city of Alcoa, Tennessee? // Part 2: What was the original name of the company that is represented by the syllables of the word Alcoa? | Part 1: Arconic // Part 2: Aluminum Company of America | I | .no answer given
+T8 | Astronomy | What specific instrument conclusively proved the existence of black holes in 1994? | Hubble Space Telescope | Micah:I | Elena:C | .Micah said X-ray telescope
+B8 | Astronomy | The crew of Artemis II are scheduled to become the humans farthest from Earth when they orbit the moon and break a record set by the crew of what mission in 1970? | Apollo 13 | I | .team said Apollo 11
+T9 | Architecture | What is the glass part of a window called? | Pane | ?:C
+B9 | Architecture | Which famous architect designed the Rock and Roll Hall of Fame in Cleveland, the East Building of the National Gallery of Art in Washington, DC, and the Louvre Pyramid in Paris? | I. M. Pei | I | .no answer given
+T10 | Vocabulary | What is the term for an introduction to a poem, play, or novel, such as The Canterbury Tales? | Prologue | ?:C
+B10 | Vocabulary | Part 1: What eight letter word beginning with D means hardworking and persevering? // Part 2: Now spell "diligent." | Part 1: Diligent // Part 2: D-I-L-I-G-E-N-T | C
+T11 | Geography | In which state is Mount Rushmore located? | South Dakota | Lilly:C
+B11 | Visual | Which national park in Wyoming shown here is continuing a multi-year project to replace 4,500 acres of hayfields that were planted by homesteaders with native sagebrush habitat and in 2024 converted a 110 acre site near the Jackson Hole Airport? | Grand Teton National Park | Elena:I | .team said Buffalo National Park; Elena's name read from "Alana"
+T12 | Health | What is the term that refers to any substance that can cause a fluid to clot or thicken? | Coagulant | NB | | .the host gave the answer; no buzz captured
+T13 | Geometry | A triangle has a side of six and an area of 24. What is the length of the altitude to that base? | 8 | Micah:I | | .Micah said 12; steal offered to Science Hill, no answer captured
+T14 | Miscellaneous | In what town and state is Appalachian State University located? | Boone, North Carolina | 1:I | | .Science Hill said Greensboro; steal offered to Temple, no answer captured
+T15 | Foreign Language | What is the standard word for dog in German? | Hund | Micah:C
+B15 | Foreign Language | Translate the French phrase "[unclear: comma review]" into Spanish. | ¿Cómo está usted? | I | !French phrase garbled in captions ("comma review"); team answered "Hi, how are you" in English
+T16 | History | Who was the Soviet dictator during World War Two? | Joseph Stalin | Parker:C
+B16 | History | Part 1: In 1940, what prevented the German Luftwaffe from flying missions over the English Channel against the Allied troops evacuating Dunkirk? // Part 2: Dunkirk is part of what country? | Part 1: Fog // Part 2: France | Parker:I | .team said storm and the Netherlands
+T17 | Physics | Galileo discovered that the trajectories of projectiles are in what shape? | Parabolas | Micah:C
+B17 | Physics | Part 1: What is the six letter word for the twisting force that tends to cause rotation? // Part 2: By what unit is torque measured? | Part 1: Torque // Part 2: Newton meters | P10 | .Part 2 missed
+T18 | Biology | What members of the phylum Porifera are one of the world's simplest multicellular organisms and have bodies full of pores and channels, allowing water to circulate through them? | Sponges | Micah:C
+B18 | Biology | In 2024, scientists discovered coral colonies that can withstand higher temperatures than previously thought in what reef, the world's largest? | The Great Barrier Reef | C
+T19 | Music | What is the name of the barber in The Barber of Seville? | Figaro | 1:I | Micah:I | .both answers garbled in captions ("Johann")
+T20 | Literature | Who was the American poet famous for his use of split words, few capital letters and creative punctuation? | E. E. Cummings | 1:I | | .Science Hill said Doctor Seuss; steal offered to Temple, no answer captured
+T21 | Government | Which amendment to the U.S. Constitution states a person cannot be forced to testify against himself in a criminal case? | Fifth Amendment | 2:C | .cut off by buzz; team from "government bonus for Temple"
+B21 | Government | Which amendment to the U.S. Constitution establishes procedures for an orderly transition of presidential power? | 25th Amendment | C
+T22 | Science | What is the chemistry term for the mixture of a solid and liquid, where the solid will not dissolve in the liquid, such as muddy water? | Suspension | NB | | .time ran out at the end of the first half
+# ---- second half ----
+T23 | Math | If two standard dice are rolled, what is the probability that a total of seven will appear on a roll? | 1/6 | 1:I | Micah:I | .Science Hill said 5/12, Micah said 1/18
+T24 | Religion | In the book of Genesis, who received instruction from the Lord to build a ship that would save him and his family? | Noah | Micah:C
+B24 | Religion | Part 1: What Christian holy day is a day of fasting and repentance and is the beginning of the liturgical season of Lent? // Part 2: What day is the most important and oldest festival of the Christian Church, celebrating the resurrection of Jesus Christ? | Part 1: Ash Wednesday // Part 2: Easter | P10 | .team said Ash Sunday for Part 1
+T25 | Vocabulary | What six letter word beginning with J is a word to characterize someone with good humor, cheerfulness and conviviality? | Jovial | ?:C
+B25 | Vocabulary | Part 1: What is the term for a fear of needles? // Part 2: What is the term for fear of thunderstorms? | Part 1: Trypanophobia // Part 2: Astraphobia | I | .team said needle phobia and storm phobia
+T26 | History | Which Native American woman served as a guide for Lewis and Clark? | Sacagawea | 1:I | Micah:C | .Science Hill's first buzzer blurted out an answer before being recognized
+B26 | Visual | What is the name of the Russian Imperial family seen here who were murdered in July 1918 by Bolshevik revolutionaries? | The Romanovs | C
+T27 | Geology | In addition to igneous and sedimentary, what is the other major type of rock? | Metamorphic | ?:C | .answer sits inside a garbled caption line; player and team not identified
+B27 | Geology | Name two of the top three income producing products mined in Tennessee. | Any two of: coal, limestone, zinc | C | .team said coal, limestone and quartz; the first two counted
+T28 | Economics | Swedish video game developer Mojang Studios is best known for developing what best selling video game? | Minecraft | 2:C | .buzzer not named; team from "economics bonus for Temple"
+B28 | Economics | To comply with Swiss laws, when Toblerone production moved from Switzerland to Slovakia, their chocolate bar packaging changed to show a generic mountain shape instead of the image of which famous mountain peak on the border of Switzerland and Italy? | The Matterhorn | I | .team said the Swiss Alps
+T29 | Art | Which Broadway musical includes the songs "Maria" and "Officer Krupke"? | West Side Story | NB | | .the host gave the answer
+T30 | Mythology | Which day of the week is named for the mythological Norse god Odin? | Wednesday | Parker:C
+B30 | Mythology | In Roman mythology, who was the two faced god of beginnings, transitions, time and doorways? | Janus | I | .team said Loki
+T31 | Geography | In which state is Shenandoah National Park located? | Virginia | 1:I | Parker:I | .Science Hill said Oregon; Parker said West Virginia
+T32 | Biology | What is the period in the life cycle of a plant or animal during which normal functions are slowed down or suspended? | Dormancy | Micah:I | Ghazi:I | .Micah said hibernation; Ghazi's name read from "gazing", said mitosis
+T33 | Pre-Calculus | Which trigonometric function is the reciprocal of the cosine? | Secant | ?:C
+B33 | Pre-Calculus | Part 1: Provide the sign, positive or negative, of cosecant in quadrant three. // Part 2: Provide the sign, positive or negative, of sine in quadrant three. | Part 1: Negative // Part 2: Negative | P10 | !which part was missed is unclear in captions (team said positive, then negative); 10 points
+T34 | Religion | Buddhists believe in a place of perfect peace and blessedness called what? | Nirvana | 1:C | .answer sits inside a garbled caption line; team from "religion bonus for Science Hill"
+B34 | Religion | Who was the Lord High Chancellor of England shown here, who was beheaded for refusing to approve Henry the Eighth's divorce, remarriage and establishment of the Church of England, canonized as a Catholic saint and was the subject of the Oscar winning film A Man for All Seasons? | Saint Thomas More | I | .team said Saint Louis
+T35 | Spelling | In some militaries, the rank of corporal nominally… Spell "corporal." | C-O-R-P-O-R-A-L | Micah:C | .cut off by buzz; spelling garbled in captions
+B35 | Spelling | Part 1: A chiropractor is skilled at relieving back and neck pain. Spell "chiropractor." // Part 2: Now spell "relieving." | Part 1: C-H-I-R-O-P-R-A-C-T-O-R // Part 2: R-E-L-I-E-V-I-N-G | Parker:C
+T36 | U.S. History | Who was president of the United States between Grover Cleveland and Theodore Roosevelt? | William McKinley | Penelope:I | 2:I | .Penelope said Taft; Temple said Woodrow Wilson
+T37 | Health | What is the term for a substance such as vitamin C or E that neutralizes harmful free radicals in the body? | Antioxidant | Micah:C | .name read from "Make"
+B37 | Health | Name two of the three stages of memory. | Any two of: sensory, short term, long term | C
+T38 | Sports | What annual event is called the Frozen Four? | The NCAA Hockey Championships | NB | | .the host gave the answer
+T39 | Music | What classical composer would attach a wooden rod to his piano and clench the other end in his teeth in order to feel the vibrations transfer from the piano to his jaw? | Beethoven | Micah:C
+B39 | Music | Part 1: Which of the famous three B-named composers earned his living by playing the piano in dance halls? // Part 2: Which of the famous three B-named composers had fewer than a dozen of his compositions printed during his lifetime? | Part 1: Brahms // Part 2: Bach | P10 | .team said Bach for Part 1
+T40 | Vocabulary | What is the study of the origin and development of words? | Etymology | ?:C
+B40 | Vocabulary | Sound box is related to output device as joystick is related to what? | Input device | C | .text as heard in captions ("sound box", probably speaker)
+T41 | Government | The FBI operates under the jurisdiction of which cabinet level government department? | Department of Justice | Micah:C
+B41 | Government | Part 1: Who has been Prime Minister of Canada since 2015? // Part 2: What was the name of Trudeau's father, who was Canada's 15th prime minister? | Part 1: Justin Trudeau // Part 2: Pierre Trudeau | P10 | .team said Kevin Trudeau for Part 2
+T42 | Chemistry | What is the chemical formula for nitric oxide? | NO | 1:I | Micah:C | .Science Hill said NO3
+B42 | Chemistry | Name the four smallest alkanes. | Methane, ethane, propane, butane | I | .team named elements instead
+T43 | Literature | Who is the devoted friend and associate of Sherlock Holmes, also the narrator of the books? | Doctor Watson | Micah:C
+B43 | Literature | Part 1: A third edition book, printed in 1608, of what well-known story by Miguel de Cervantes was sold in 2022 for $504,000? // Part 2: What Broadway musical was loosely based on Don Quixote? | Part 1: Don Quixote // Part 2: Man of La Mancha | P10 | .team said West Side Story for Part 2
+T44 | Foreign Language | What Russian word means prison or a system of labor camps maintained in the Soviet Union? | Gulag | 2:C | .player not named; team from "foreign language bonus for Temple"
+B44 | Foreign Language | What is the literal English translation of the commonly used Latin phrase "in vino veritas"? | In wine, truth | Micah:I | .Micah said "in vitro"
+T45 | Grammar | What is the past tense of the verb "bring"? | Brought | ?:C
+B45 | English | What is the term for a word like "buzz" that has a sound that imitates or suggests its meaning? | Onomatopoeia | C | .game ended after this bonus

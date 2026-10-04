@@ -1,0 +1,79 @@
+@EP S41 E42
+@ROUND Round of 32
+@TEAMS Alcoa High School | Halls High School
+@R1 Cameron, Dante, Jody, Hayden, Hannah, Collette, Krish, Jack
+@R2 Levi, Amanda, Sophia, Joe, Olivia, Sarah, Ella, Ty, Morgan
+# ---- first half ----
+T1 | Economics | Which U.S. agency was created in 1865 to combat the rise of counterfeit currency? | The Secret Service | Levi:I | 1:I | .Levi said the IRS; Alcoa said the Anti-Counterfeit Commission
+T2 | Health | What is the large, dome shaped muscle that contracts rhythmically and continually, and most of the time involuntarily, as part of a human's respiration? | The diaphragm | 1:C | .buzzer name garbled in captions ("Maintain"); team from "health bonus for Alcoa"
+B2 | Health | Part 1: What six letter word starting with N is used for vitamin B3? // Part 2: What six letter word starting with B is used for vitamin B7? | Part 1: Niacin // Part 2: Biotin | Dante:P10 | .Part 1 missed
+T3 | Arts | What is the six letter show business term starting with B that means a movie dramatizing the life of a particular person, typically a public or historical figure? | Biopic | Levi:I | 1:C | .Levi said biography; Alcoa's stealing player not named
+B3 | Arts | Part 1: Which Broadway musical includes the songs "Waving Through a Window," "Only Us" and "You Will Be Found"? // Part 2: Who was Evan's love interest in the play and the book? | Part 1: Dear Evan Hansen // Part 2: Zoe Murphy | I | .team said La La Land and Sofia
+T4 | Literature | What Chinese military treatise written by Sun Tzu in the fifth century BC has 13 chapters, each devoted to a different set of skills? | The Art of War | Levi:C
+B4 | Literature | Part 1: Who wrote the novel To Kill a Mockingbird? // Part 2: What was Atticus Finch's profession? | Part 1: Harper Lee // Part 2: Lawyer | C
+T5 | Math | What is the square root of 1600? | 40 | Joe:C
+B5 | Visual | What is the sum of 2/5 and 5/6? Give your answer as an improper fraction or mixed fraction. | 37/30 (1 and 7/30) | Amanda:I | .team said 42/30
+T6 | Geography | In which state is Sequoia National Park? | California | Joe:C
+B6 | Geography | What are the four largest states in the US by area? | Alaska, Texas, California, Montana | Joe:P15 | .team said Alaska, Texas, California and Nevada; three were right (15 points)
+T7 | Biology | Frog and toad larvae are commonly known as what? | Tadpoles | Hayden:C | .name garbled in captions ("Hidden"); host would also take pollywog
+B7 | Biology | Part 1: What type of fruit has a variety called Pink Lady? // Part 2: What type of fruit has a variety called [unclear: you formed orange]? | Part 1: Apple // Part 2: Pear | I | !name of the Part 2 variety garbled in captions ("you formed orange"); team said pomegranates for Part 1
+T8 | Foreign Language | What is the English translation of the Spanish phrase "hasta mañana"? | Until tomorrow (see you tomorrow) | Dante:C
+B8 | Foreign Language | What food is known in French as "pomme de terre"? | Potato | Dante:I | .team said fries
+T9 | English | Is the verb active or passive in the sentence "I washed my car three weeks ago"? | Active | Hayden:C | .name garbled in captions ("Hidden")
+B9 | English | What figure of speech compares two things using the words like or as to create a new meaning? | Simile | C
+T10 | Astronomy | What prominent constellation that is immediately northwest of Orion has a central part that looks like a large V, and is depicted as a bull? | Taurus | 1:I | Sophia:I | .Alcoa said the Big Dipper, Sophia said the Little Dipper; "bull" read from garbled caption ("bowl pitcher") and the host's "Taurus is the bull"
+T11 | U.S. History | Since 1986, the third Monday in January has been observed as a federal holiday in honor of what historical figure? | Martin Luther King Jr. | Sophia:C
+B11 | History | Part 1: Who was president of the United States when the movie It's a Wonderful Life premiered on December 20th, 1946? // Part 2: Who was president of the United States when the movie A Christmas Story was released on November 18th, 1983? | Part 1: Harry Truman // Part 2: Ronald Reagan | C
+T12 | Chemistry | What dietary mineral has been added to table salt in the US since the 1920s? | Iodine | Dante:C
+B12 | Chemistry | What is the electron configuration in exponential form for phosphorus? | 1s² 2s² 2p⁶ 3s² 3p³ | Hayden:I | .team's answer was not captured
+T13 | Games | How many dots are on a pair of dice? | 42 | Dante:I | Joe:I | .Joe said 17
+T14 | Spelling | Spell "purgation," which can mean the spiritual cleansing of a soul. | P-U-R-G-A-T-I-O-N | Sophia:C | .spelling garbled in captions
+B14 | Visual | What recently released Sony platformer celebrates the history of PlayStation with references to other games such as Horizon, God of War and The Last of Us? | Astro Bot | I | .team had no idea
+T15 | Geometry | What is the length of the hypotenuse of a right triangle in which both legs measure six? | 6√2 (√72) | 1:C | .buzzer not named; team from the bonus deferral to Cameron
+B15 | Geometry | A line has a slope of two thirds and passes through the point (3, 5). What is its equation in slope intercept form? | y = (2/3)x + 3 | Cameron:I | .team gave x - 3 = (2/3)(y - 5); point read from "the .35"
+T16 | Government | Which president holds the record for the most Supreme Court nominations with 14? | George Washington | 1:I | Sophia:I | .Alcoa said Jackson (player not named); Sophia said Trump
+T17 | Geology | What layer of the earth just outside the core is made up mostly of silicates? | The mantle | Joe:C
+B17 | Geology | What are two of the four most plentiful elements in the Earth's crust? | Any two of: oxygen, silicon, aluminum, iron | P10 | .team said carbon and iron; only iron counted
+T18 | Religion | What city that only Muslims are allowed to enter was the birthplace of the Prophet Muhammad? | Mecca | 1:C | .team inferred from the halftime score adjustment for Alcoa's Sukkot answer
+B18 | Religion | What is the Jewish festival that celebrates the harvest and commemorates the period during which the Jews wandered in the wilderness after the Exodus? | Sukkot (Feast of Booths) | C | .first scored as no points; at halftime the host said the score was adjusted to give Alcoa credit
+T19 | Literature | Which war was the setting for The Diary of a Young Girl by Anne Frank? | World War II | Joe:C
+B19 | Literature | Part 1: In the comic strip Garfield, what was the name of Garfield's owner? // Part 2: What is the name of Garfield's pet dog? | Part 1: Jon // Part 2: Odie | C | .team first said George, then John
+T20 | History | From approximately 1716 until his death in 1718, Edward Teach was a feared pirate known by what nickname? | Blackbeard | ?:C | .player and team not identified in captions
+B20 | History | In 2022, Egyptologists discovered hieroglyphics inside King Tut's tomb indicating that his burial chamber could contain a hidden door to the tomb of what woman who was his stepmother? | Nefertiti | C | .captions show "Aphrodite, Nefertiti is right for 20 points"; team not identified
+# ---- second half ----
+T21 | Geography | What is the common name of the demarcation that is roughly based on the meridian of 180 degrees longitude in the Pacific Ocean? | The International Date Line | 2:I | 1:I | .Halls said the prime meridian, Alcoa said the equator
+T22 | Health | What is the common name for arteries in the head hemorrhaging or becoming blocked, resulting in the death of nervous tissue in the brain? | Stroke | Sophia:I | Cameron:C | .Sophia said aneurysm; Cameron's name read from "content"
+B22 | Health | Part 1: What branch of medicine deals with the digestive system? // Part 2: What branch of medical science is the study of incidence, distribution and control of disease in a population? | Part 1: Gastroenterology // Part 2: Epidemiology | Dante:C
+T23 | Music | What famous singer performed his final concert in Indianapolis 51 days before he died on August 16th, 1977? | Elvis Presley | Joe:I | 1:C | .Joe said Frank Sinatra; Alcoa's stealing player garbled in captions ("the Honda")
+B23 | Music | Part 1: What musical term is described as music in which no key can be established? // Part 2: What does the musical term da capo al fine, usually notated as D.C. al fine, mean? | Part 1: Atonal // Part 2: From the beginning to the end | C
+T24 | Vocabulary | What six letter word starting with TU means a formal dinner jacket named in 1886 after a village in New York? | Tuxedo | Dante:C
+B24 | Vocabulary | Part 1: What nine letter word beginning with AB means a person, animal or plant that has been in a country or region from earliest times? // Part 2: Spell that word. | Part 1: Aborigine // Part 2: A-B-O-R-I-G-I-N-E | Hayden:P10 | .team said aboriginal (ten letters) for Part 1; Hayden spelled it correctly
+T25 | Math | Two out of three students in the class prefer buying a lunch to bringing it to school, and 20 students prefer buying lunch. How many students are in the class? | 30 | Joe:I | | .Joe said 60; Alcoa conferred on the steal, which is not allowed
+T26 | Economics | Which form do many working Americans receive from their employers to show their income and the amount of tax withheld? | W-2 | ?:C | .player and team not identified in captions; the host's "ten point game" final margin only works out if Alcoa won this one
+B26 | Economics | Part 1: What is the currency of Afghanistan? // Part 2: What was Afghanistan's currency prior to 1923 when they introduced the Afghani? | Part 1: The Afghani // Part 2: The rupee | I | .team said "the pound" for Part 2
+T27 | Biology | What is the term that refers to a certain place in which the species normally lives and grows? | Habitat | 1:I | Joe:C | .Alcoa's first buzzer not named
+B27 | Visual | What popular pet shown here is known as the designer fish of the aquatic world due to a long history of selective breeding that produced a wide variety of coloration and finish? | Betta fish (Siamese fighting fish) | C | .team said "beta fish"; host accepted
+T28 | Technology | Which company developed the PlayStation video game console? | Sony | Joe:C
+B28 | Technology | YouTube was founded by three former PayPal employees in 2005 and purchased for $1.6 billion by what company in 2006? | Google | C
+T29 | English | What is the function of the word "part" in the sentence "The Hobbit is not part of the Lord of the Rings trilogy"? | Predicate noun | Hayden:I | | .Hayden said direct object; name garbled in captions ("Hence"); steal offered to Halls, no answer captured
+T30 | Religion | The Hindu deities Brahma, Vishnu and Lakshmi are commonly depicted as sitting or standing on what flower? | Lotus | Levi:C
+B30 | Religion | Part 1: What holiday symbol, made from wood removed during the Truman era renovation, was added to the White House archives in 2022 to celebrate Hanukkah? // Part 2: In 1979, who became the first president to light a menorah in the White House? | Part 1: A menorah // Part 2: Jimmy Carter | C
+T31 | Government | What two word term is given to the unwritten custom of the American government to allow the president to withhold information? | Executive privilege | 1:I | Joe:I | .Alcoa's first buzzer not named (said qualified immunity); Joe said bully pulpit
+T32 | Science | What is the term for cone bearing trees? | Coniferous | Joe:C
+B32 | Science | What is the name for the portion of the Atlantic Ocean known for brown seaweed and often calm blue water that is bounded by the Gulf Stream, the North Atlantic Current, the Canary Current and the North Atlantic Equatorial Current? | Sargasso Sea | Joe:C
+T33 | Art | What is the term for the art of creating music, comedy or drama spontaneously? | Improv | 1:C | .buzzer not named; team from the bonus deferral to Hayden
+B33 | Art | Part 1: What is the term for a person learning a trade or an art from a skilled worker? // Part 2: Spell "apprentice." | Part 1: Apprentice // Part 2: A-P-P-R-E-N-T-I-C-E | Hayden:C
+T34 | Vocabulary | What nine letter word beginning with V is for someone who takes the law into their own hands to punish persons they consider to be offenders? | Vigilante | Levi:C
+B34 | Vocabulary | What six letter word beginning with L can be a verb or a noun, and means to express sorrow or to grieve? | Lament | C | .points not stated; host said "Yes"
+T35 | Pre-Calculus | Find the limit of four x over two x as x approaches three. | 2 | 1:C | .buzzer not named (captions "different ... contain"); team from the bonus deferral to Hayden
+B35 | Pre-Calculus | In which two quadrants would you find the solutions to the equation tangent x equals negative three? | Second and fourth quadrants | Hayden:C
+T36 | Geography | Mount Olympus, at 9,570 feet above sea level, is the highest point in what country? | Greece | ?:C | !question and answer garbled in captions ("In what country do you hope to breathe"); player and team not identified
+B36 | Visual | The flag shown here belongs to which nation that is the only landlocked country in Southeast Asia? | Laos | C | .team first said Cambodia, then Laos; host accepted Laos for 20 points
+T37 | Astronomy | What type of reaction generates energy in stars, causing them to shine brightly? | Nuclear fusion | Joe:C
+B37 | Astronomy | The mnemonic phrase "My very educated mother just served us nachos" stands for what? | The eight planets in order: Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, Neptune | Joe:C
+T38 | Foreign Language | What is the Spanish word for wolves? | Lobos | Dante:C
+B38 | Foreign Language | What are the last four letters in the Greek alphabet? | Phi, chi, psi, omega | P5 | .team got only omega (5 points)
+T39 | Literature | What play by Tennessee Williams tells the story of Blanche DuBois? | A Streetcar Named Desire | Sophia:I | Dante:I | .Sophia said The Glass Menagerie; Dante's answer garbled in captions ("Dante and Milton")
+T40 | Biology | What is the study of hormones and their actions? | Endocrinology | Dante:C
+B40 | Biology | In 2024, scientists published the results of a five year project to map all 54 million connections in the brain of a Drosophila melanogaster, [unclear]? | Fruit fly | C | !end of the question lost in captions; answer "fruit fly" accepted for 20 points
+T41 | U.S. History | Who was the first unelected vice president to assume the presidency? | Gerald Ford | NB | | !time ran out; the host never gave the answer (Gerald Ford inferred); game ended

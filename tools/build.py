@@ -62,7 +62,7 @@ CAT_ALIAS.update({
     'world history': 'World History', 'foreign language': 'Foreign Language',
     'pre calculus': 'Pre-Calculus', 'precalculus': 'Pre-Calculus', 'pre-calc': 'Pre-Calculus',
     'misc': 'Miscellaneous', 'mystery': 'Mystery Word', 'us presidents': 'U.S. Presidents',
-    'presidents': 'U.S. Presidents',
+    'presidents': 'U.S. Presidents', 'arts': 'Art', 'fine arts': 'Art', 'computer science': 'Technology',
 })
 
 RESULT_WORD = {'C': 'Correct', 'I': 'Incorrect', 'U': 'Unclear'}

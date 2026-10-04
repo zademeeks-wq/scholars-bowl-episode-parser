@@ -1,0 +1,94 @@
+@EP S41 E53
+@ROUND Round of 8
+@TEAMS Farragut High School | Roane County High School
+@R1 Leighton, Armin, Russian, Nisha, Evan, Uday, Aiden
+@R2 James, Lucas, Ethan, Maddox, Brylee, John, Emerson, Bailey
+# Name garbles in these captions: Leighton = "Late" / "Layton" / "Lightning" / "Latent"; Armin = "Almond" / "Amen" / "Ahmed" / "Harmon"; Russian = Farragut's captain (Ramanan); Maddox = "Matic's" / "Mannix"; Evan = "Even" / "Seven".
+# ---- first half ----
+T1 | Geography | The city of Cincinnati is on which river? | The Ohio River | Lucas:C
+B1 | Geography | Part 1: In which time zone is Las Vegas, Nevada? // Part 2: In which time zone is Indianapolis, Indiana? | Part 1: Pacific // Part 2: Eastern | P10 | .team said Central for Part 2
+T2 | Geology | Rounded to the nearest ten, what percentage of the Earth is covered in oceans? | 70% | Lucas:C
+B2 | Geology | As of September 2024, there were an estimated 23,490 active lithium prospecting claims in which U.S. state, which is already the nation's largest producer of gold and second largest producer of silver? | Nevada | C
+T3 | Literature | How many syllables are there in total in a haiku, which contains three lines of poetry? | 17 | Leighton:C | .buzzer name read from "Late"
+B3 | Literature | Part 1: Which Pulitzer Prize winner wrote "The woods are lovely, dark and deep, but I have promises to keep and miles to go before I sleep"? // Part 2: What is the exact title of the poem? | Part 1: Robert Frost // Part 2: Stopping by Woods on a Snowy Evening | P10 | .team said "The Road Not Taken" for Part 2
+T4 | Art | In which country did the type of dance drama known as kabuki begin? | Japan | 1:C | .buzzer not named; team from "visual bonus for Farragut"
+B4 | Visual | What is the title of the painting shown here, created in 1818 by the German artist Caspar David Friedrich and considered one of the masterpieces of the Romantic movement? | Wanderer Above the Sea of Fog | I | .team said "man on the mountain"
+T5 | Health | Which medical specialty studies changes in the body that cause disease or that are caused by disease? | Pathology | Leighton:C | .buzzer name read from "Latent"
+B5 | Health | The middle ear fills with air that comes from the mouth or nose via what passage? | The Eustachian tube | I | .team said "nasal canal"
+T6 | Economics | In economics, what currency is used in Mexico? | The peso | ?:C | .buzzer and team not identified in captions
+B6 | Economics | What country's official currency is the renminbi? | China | I | .team conferred and said Pakistan
+T7 | Algebra | In the equation 3x + 6 = 3x, solve for x. | No solution | Lucas:C
+B7 | Algebra | Part 1: What is the reduced slope of the line with the equation 4x + 8y = 0? // Part 2: Name its y-intercept in coordinate form. | Part 1: -1/2 // Part 2: (0, 0) | Lucas:C
+T8 | Vocabulary | What 12 letter word beginning with B refers to the practice or study of predicting the participants in or outcomes of elimination tournaments or competitions like this one? | Bracketology | Lucas:C
+B8 | Vocabulary | Part 1: What eight letter word starting with P means a person who knows and is able to use several languages? // Part 2: Spell that word. | Part 1: Polyglot // Part 2: P-O-L-Y-G-L-O-T | P10 | .team said "polygon" for Part 1; the host gave "polyglot" and asked for the spelling
+T9 | Miscellaneous | In what state is Old Dominion University located? | Virginia | Lucas:I | 1:C | .Lucas said Indiana; Farragut's stealing player not named
+B9 | Miscellaneous | In what city and state is Brown University located? | Providence, Rhode Island | C
+T10 | Astronomy | What is a huge cloud of dust that swirls among the stars? | A nebula | Armin:C
+B10 | Astronomy | What celestial event occurred on April 8th, 2024, in parts of Texas, Oklahoma, Arkansas, Missouri, Illinois, Kentucky, Indiana, Ohio, Pennsylvania, New York, Vermont, New Hampshire and Maine? | A total solar eclipse | C
+T11 | Government | What is the term for trying to get someone to do wrong by offering him or her special favors, bribery or money? | [unclear] | ?:C | !the buzzer and the answer are not in the captions (they jump from the question to the visual bonus); the answer is probably "corruption"
+B11 | Visual | On its 1976 bicentennial series of state flags, the U.S. Postal Service made what error on the Tennessee stamp seen here? | The flag is upside down | I | .team said the banner or bar was on the wrong side
+T12 | Geography | The sources of the Tigris and Euphrates rivers are in what country? | Turkey | Armin:I | Maddox:I | .Armin said Iraq; Maddox's answer garbled in captions ("It makes your iron"), probably Iran; the host gave Turkey
+T13 | English | What is the term for a verb that requires a direct object to complete its meaning? | Transitive verb | Russian:C
+B13 | English | Which four words need to be capitalized in the following sentence? "William the Conqueror was the first Norman king of England." | William, Conqueror, Norman, England | C
+T14 | Music | A platinum award from the Recording Industry Association of America represents sales of how many units? | 1 million | Lucas:I | Leighton:C | .Lucas said 10 million; Leighton's name read from "Late"
+B14 | Music | Part 1: If the time signature is six eight, how many beats would a half note get? // Part 2: How many beats would a dotted quarter note get? | Part 1: 4 // Part 2: 3 | C | .the host's reaction to Part 1 is garbled in captions; he ruled both parts correct for 20 points
+T15 | Science | What prefix means things or activities connected with air or movement through the air? | Aero- | Russian:C | .answer garbled in captions ("arrow")
+B15 | Science | Part 1: What chemical element is named after the mythological Greek goddess of the rainbow, who in the Iliad is the female messenger of the gods? // Part 2: What is the name of that mythological Greek goddess? | Part 1: Iridium // Part 2: Iris | C
+T16 | U.S. History | Who said, "I know not what course others may take, but as for me, give me liberty or give me death"? | Patrick Henry | Russian:I | Lucas:I | .Russian's answer not captured; Lucas said Thomas Paine
+T17 | Pre-Calculus | What is the value of the base five logarithm of 125? | 3 | Lucas:C
+B17 | Pre-Calculus | What is the value of the tangent of 135 degrees in the unit circle? | -1 | Lucas:C
+T18 | Spelling | According to Reader's Digest, the most misspelled word in Tennessee is "Parliament." Spell "Parliament." | P-A-R-L-I-A-M-E-N-T | Armin:C | .buzzer name read from "Ahmed"
+B18 | Spelling | Spell "Brandeis," as in Brandeis University in Waltham, Massachusetts. | B-R-A-N-D-E-I-S | I | .team spelled it B-R-A-N-D-I-C-E
+T19 | Foreign Language | What is the English translation of the Spanish question "¿Qué hora es?" | What time is it? | Russian:C | .Spanish phrase reconstructed from the translation (captions: "K to S")
+B19 | Foreign Language | Part 1: What is the English translation for the Spanish word "fuego"? // Part 2: What is the English translation for the Spanish word "nieve"? | Part 1: Fire // Part 2: Snow | C | .Spanish words reconstructed from the answers (captions: "naive" for nieve)
+T20 | Biology | A honeybee getting nectar or pollen from a flower is an example of which type of symbiotic relationship? | Mutualism | Russian:I | Maddox:C | .Russian said symbiosis; Maddox's name read from "Matic's"
+B20 | Biology | List four of the eight levels of classification in the Linnaean taxonomy system. | Any four of: domain, kingdom, phylum, class, order, family, genus, species | Lucas:P15 | .team named order, family and genus plus one wrong item; three counted (15 points)
+T21 | History | In 30 BC, Cleopatra killed herself following the defeat of her forces by what future first emperor of Rome? | Octavian (Augustus Caesar) | ?:C | .buzzer and team not identified in captions
+B21 | History | Which Native American leader, known as the last Apache war chief, fought against both Mexican and American forces in the second half of the 19th century? | Geronimo | I | .team said Sitting Bull
+T22 | Art | What is the term for the style of art that uses shapes, designs, textures and colors in a way that emphasizes moods or feelings? | Abstract art | Lucas:C
+B22 | Art | A junk dealer discovered a painting on a rolled up canvas in 1962, but his wife thought it wasn't pretty enough to sell, so it hung in their home for about 50 years until one of their children realized that the painting, authenticated in 2024, was an asymmetrical portrait of Dora Maar by what famed Spanish artist known for the Cubism movement? | Pablo Picasso | I | .team had no answer
+# ---- second half ----
+T23 | Literature | What poem by Rudyard Kipling contains the famous line "You're a better man than I am"? | Gunga Din | Armin:I | | .the host started this question before halftime and held it for the second half; Armin's answer not captured; steal offered to Roane, no answer captured
+T24 | Architecture | Which architect designed the Solomon R. Guggenheim Museum building on Fifth Avenue in New York City? | Frank Lloyd Wright | Leighton:C | .buzzer name read from "Layton"
+B24 | Architecture | The Newgrange mound in Ireland is a Neolithic monument, older than both Stonehenge and the Egyptian pyramids, and was constructed so that the rising sun would illuminate its innermost chamber during what celestial event in December? | The winter solstice | C
+T25 | Geology | Which fault line runs along the borders of West Tennessee, Arkansas and Missouri? | The New Madrid fault | Evan:C | .buzzer name read from "Seven"; team inferred from the bonus responder
+B25 | Geology | Part 1: What does a paleontologist study? // Part 2: Spell "paleontologist." | Part 1: Fossils // Part 2: P-A-L-E-O-N-T-O-L-O-G-I-S-T | C | .spelling garbled in captions; the host ruled it exactly right
+T26 | Government | What is the only crime defined in the U.S. Constitution? | Treason | Lucas:C
+B26 | Government | The Ottoman Empire was abolished in 1922 and succeeded by which nation state? | Turkey | C
+T27 | Math | How many minutes are in 2.25 hours? | 135 | Lucas:C
+B27 | Math | The first term of an arithmetic sequence is 20, and the common difference between terms is -12. What is the 12th term of the sequence? | -112 | Lucas:C
+T28 | Foreign Language | What is the literal English translation of the Spanish words "salsa amarilla"? | Yellow sauce | 1:I | James:I | .Spanish phrase reconstructed from the answer; Farragut's first buzzer garbled in captions ("Maria 11") said "yellow salsa", which the host rejected because it repeats "salsa"; James said green salsa
+T29 | Sports | In what year did the University of Tennessee football team last win the national championship? | 1998 | 2:C | .buzzer not named; team from "sports bonus for Roane"
+B29 | Sports | Part 1: What is the current name of the Major League Baseball team in Cleveland, Ohio? // Part 2: What is the current name of the National Football League team in Washington, D.C.? | Part 1: Guardians // Part 2: Commanders | C
+T30 | Chemistry | What is the common name for H2CO3? | Carbonic acid | Leighton:I | Ethan:I | .Leighton said hydrochloric acid; Ethan said methanol
+T31 | Economics | Which company introduced the first automatic drip coffee maker brand in 1972? | Mr. Coffee | Leighton:I | Maddox:I | .Leighton said Keurig (name read from "Lightning"); Maddox said Folgers
+T32 | Religion | Which of the apostles was a tax collector before following Jesus? | Matthew | Lucas:I | Evan:I | .Lucas said Jeremiah; Evan said Paul
+T33 | Vocabulary | A singer breathes from the diaphragm. Spell "diaphragm." | D-I-A-P-H-R-A-G-M | Ethan:C
+B33 | Vocabulary | What seven letter word starting with O means foreboding or foreshadowing, evil or horrible? | Ominous | C
+T34 | Music | What rock band, popular in the 70s and 80s, shares its name with a river that forms the boundary between Earth and the underworld in Greek mythology? | Styx | ?:C | .buzzer and team not identified in captions
+B34 | Music | Part 1: Identify the other half of the famous duo Brooks and ___. // Part 2: Identify the other half of the famous singing duo Sonny and ___. | Part 1: Dunn // Part 2: Cher | P10 | .team said "the Sunshine Band" for Part 2
+T35 | Physics | In radio broadcasting, what words do the letters AM represent? | Amplitude modulation | ?:C | .buzzer and team not identified in captions
+B35 | Physics | Part 1: What is the instrument that has a U-shaped tube and measures pressure in a closed system? // Part 2: Who invented the manometer in 1661, in addition to inventing a vacuum pump and an electrostatic generator? | Part 1: Manometer // Part 2: Otto von Guericke | I | .team said barometer and Maxwell; the answer to Part 2 is garbled in captions ("Otto van Gelder key")
+T36 | Geography | In which state is Cape Hatteras National Seashore? | North Carolina | Maddox:C
+B36 | Visual | Part 1: What geologic oddity shown here was designated as America's first national monument in 1906 by President Theodore Roosevelt? // Part 2: In what Steven Spielberg movie does a character played by Richard Dreyfuss use mashed potatoes to represent Devil's Tower? | Part 1: Devils Tower // Part 2: Close Encounters of the Third Kind | C
+T37 | Math | What is the more common name for a number that cannot be written as a fraction of two integers? | Irrational number | Leighton:I | Lucas:C | .Leighton said rational (name read from "Latent")
+B37 | Math | Part 1: In a certain geometric progression, the third term is 12 and the fourth term is 48. What is the fifth term in the progression? // Part 2: What is the first term in the progression? | Part 1: 192 // Part 2: 3/4 | Lucas:P10 | .team said 144 for Part 1; the host then asked for the first term
+T38 | Mythology | Which mythological Greek god was a messenger who wore winged sandals? | Hermes | Leighton:C | .buzzer name read from "lightning"
+B38 | Mythology | What Broadway and movie musical, with a plot similar to a 19th century German short story, is about a mythical Scottish town that appears for one day every 100 years? | Brigadoon | I | .team had no answer
+T39 | Foreign Language | What is the German word for the color black? | Schwarz | 1:C | .buzzer name garbled in captions ("Look at spots"), probably Leighton; team inferred
+B39 | Foreign Language | What is the literal English translation of the French phrase "mon chou," a term of endearment for someone much loved? | My cabbage | I | .team said "my little something" and "my little baby"
+T40 | Science | What temperature in Celsius is equal to 95 degrees Fahrenheit? | 35 degrees Celsius | Russian:I | Lucas:C | .Russian's answer not captured; no bonus appears in the captions after this steal
+T41 | History | Who was the Prime Minister of Japan responsible for the bombing of Pearl Harbor in 1941? | Hideki Tojo | Armin:C | .buzzer name read from "Arman"
+B41 | History | Which two wives of Henry VIII were cousins and were beheaded five years apart at the Tower of London? | Anne Boleyn and Catherine Howard | C | .team first offered Catherine of Aragon and Anne of Cleves before settling on the right pair
+T42 | Government | In the U.S., what distinguishes a bench trial? | There is no jury | Lucas:C | .answer read from "No. Jury correct"
+B42 | Government | In 2024, the Louisiana state government began accepting what type of digital payments for state services? | Cryptocurrency | C | .the host reminded the team to wait for the buzzer before answering
+T43 | Literature | One of Shakespeare's plays is titled Two Gentlemen of which city? | Verona | Evan:C | .buzzer name read from "Even"
+B43 | Literature | Part 1: Which of Homer's epic poems recounts the arduous journey of a king returning from war? // Part 2: From which war is he returning? | Part 1: The Odyssey // Part 2: The Trojan War | C
+T44 | Art | In the 1820s, which Spanish artist painted Saturn Devouring His Son? | Francisco Goya | Maddox:I | Evan:I | .Maddox said Picasso; Evan said Dalí
+T45 | Health | What is the location of the innominate bone in humans? | The hip (pelvis) | Leighton:I | Lucas:I | .Leighton said the elbow; Lucas said the leg
+T46 | U.S. History | Which inventor was known as the Wizard of Menlo Park? | Thomas Edison | Maddox:I | 1:C | .Maddox said Tesla (name read from "Mannix"); Farragut's stealing player not named
+B46 | History | Which U.S. president, prior to his presidency, filed a patent for adjustable, buoyant air chambers that would be attached to the sides of a boat, allowing them to navigate shallow waterways? | Abraham Lincoln | I | .team's answer garbled in captions ("Thomas Wilson")
+T47 | Geometry | What type of conditional statement is the inverse of its converse? | Contrapositive | Armin:I | Lucas:C | .Armin's name read from "Harmon", answer not captured
+B47 | Geometry | What number is the midpoint between negative four and positive seven? | 3/2 (1.5) | Lucas:C
+T48 | Music | Who composed the opera Lohengrin, which includes the bridal chorus generally known as "Here Comes the Bride"? | Richard Wagner | 1:C | !the buzzer is unclear: the captions show "Lucas" and a host quip before the answer "Wagner"; Farragut is inferred from the host's closing remark that even the 20 bonus points would not have been enough for the team still behind
+B48 | Music | What Italian words meaning "for two" are used as a musical term? | A due | I | .time expired; the host gave the answer "a due"

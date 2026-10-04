@@ -1,0 +1,84 @@
+@EP S41 E51
+@ROUND Round of 16
+@TEAMS Temple Baptist Academy | Halls High School
+@R1 Emily, Micah, Parker, E.J., Kenyon, Micah M., Evan
+@R2 Levi, Amanda, Sophia, Joe, Olivia, Sarah, Ella, Ty, Morgan
+# Temple has two Micahs: Micah (Vixella, starter) and Micah M. (Moreland, enters at halftime). The host says just "Micah" for either, so second-half "Micah" buzzes are ambiguous.
+# ---- first half ----
+T1 | Vocabulary | What 11 letter word beginning with "esp" refers to someone who spends money freely and in an irresponsible way? | Spendthrift | 2:C | .buzzer not named; team from the bonus deferral to Amanda
+B1 | Vocabulary | Part 1: The phrase "chicken out," a familiar way to say "lose one's nerve," is an example of what 13 letter word beginning with C? // Part 2: Spell that word. | Part 1: Colloquialism // Part 2: C-O-L-L-O-Q-U-I-A-L-I-S-M | I | .Part 1: team said "cowardice"; Part 2: Amanda's spelling dropped letters
+T2 | Geography | What line divides the Earth into the eastern and western hemispheres? | Prime Meridian (0 degrees longitude) | Micah:C
+B2 | Geography | Name four of the seven countries between Mexico and Colombia that make up Central America. | Any four of: Belize, Costa Rica, El Salvador, Guatemala, Honduras, Nicaragua, Panama | P10 | .team named Nicaragua, Guatemala and Ecuador; two counted (10 points)
+T3 | Physics | In the process of rainbow formation, what is the term for the splitting of white light into its constituent colors due to different wavelengths being refracted at slightly different angles? | Dispersion | Micah:I | Levi:I | .Micah said refraction; Levi's answer garbled in captions ("presumption")
+T4 | Algebra | What is three fourths raised to the negative two power? | 16/9 | Amanda:C
+B4 | Algebra | Give the factors of 16y² − 169. | (4y + 13)(4y − 13) | Amanda:C | .answer read from captions ("for y plus 13 and for y -13")
+T5 | Art | What is the term for the person who poses for an artist? | Model | 1:I | Amanda:C | .first buzzer not named (said "subject"); the host accepted Amanda's "subject, model" because the person takes the action of modeling
+B5 | Visual | Who is the director shown here, whose film Psycho was seen as a major departure from his previous film, North by Northwest, although both films, along with Rear Window, are considered among his best work? | Alfred Hitchcock | C
+T6 | Literature | What is the title of Reginald Rose's 1954 television script about the jury of a homicide trial that was later adapted for a film and for the stage? | 12 Angry Men | Micah:C
+B6 | Literature | Who wrote the novels Death on the Nile, The ABC Murders and The Murder of Roger Ackroyd? | Agatha Christie | I | .team said Stephen King
+T7 | U.S. History | Who was Helen Keller's teacher? | Anne Sullivan | Micah:I | Sophia:I | .Micah's answer garbled in captions ("Frank Norwich"); Sophia's answer garbled ("Smith Sutton")
+T8 | Biology | What is the name for a group of platypuses? | A paddle | Sophia:I | | .Sophia's answer garbled in captions ("Platt pie"); steal offered to Temple, no answer captured
+T9 | Astronomy | What is the brightest star seen in the night sky in the northern hemisphere? | Sirius | Micah:I | Joe:I | !captions show the host calling "Micah" mid-question and then Joe answering Polaris; Micah's answer and the steal call are missing (it may instead be only Joe's wrong answer, with no steal attempt)
+T10 | Religion | By number of chapters and total number of verses, what book of the Bible, with 150 chapters, is the longest? | Psalms | Micah:C | .buzzer name read from "Meadow"
+B10 | Religion | In the book of Exodus, what is the bread-like substance that God provided the Israelites in the wilderness? | Manna | C
+T11 | Spelling | A word meaning "not moving" is "stationary." Spell "stationary." | S-T-A-T-I-O-N-A-R-Y | Micah:C
+B11 | Spelling | Ventriloquism is the art of producing vocal sounds that appear to come from another source. Spell "ventriloquism." | V-E-N-T-R-I-L-O-Q-U-I-S-M | I | .team's spelling left out the O between the L and the Q
+T12 | Economics | What is the term for a tax on imported goods? | Tariff | ?:C | .buzzer and team not identified in captions; the question and answer run together ("a tax on imported goods like a tariff")
+B12 | Economics | Part 1: What country's currency is the ruble? // Part 2: What country's currency is the rupiah? | Part 1: Russia // Part 2: Indonesia | P10 | .team said India for Part 2
+T13 | Geology | What classification of rock is limestone? | Sedimentary | ?:C | .buzzer and team not identified in captions
+B13 | Geology | The peak of Mount Chimborazo is the farthest point from Earth's center due to its location along the planet's equatorial bulge. In what country is it located? | Ecuador | I | .team said Africa
+T14 | Math | Add the numbers 3 and 9, square the result, and then divide by 6. What is the final result? | 24 | E.J.:C | .buzzer name read from "Egypt"
+B14 | Math | A store has a sale discount of 30% off an item priced at $60. At checkout, another 20% is discounted. What is the item's final price before sales tax? | $33.60 | I | .team said $36
+T15 | Music | Who was the 19th century Polish composer renowned for virtuosic piano compositions? | Frédéric Chopin | Joe:C
+B15 | Music | Which singer-songwriter became the first solo artist to reach the UK top 10 in six separate decades thanks to his 2021 hit "Cold Heart," which interpolated lyrics from "Rocket Man" and featured Dua Lipa as guest vocalist? | Elton John | C
+T16 | English | What is the tense of the verb in the following sentence? "I will have worn 60 different ties by the end of this season." | Future perfect | 1:I | Amanda:C | .first buzzer not named (answer cut off in captions, probably "future"); the host re-read the sentence for the steal; no bonus was read after the steal
+T17 | History | Tenochtitlan was the capital of which empire? | The Aztec Empire | Levi:C
+B17 | World History | Who was the fifth century BCE Chinese sage and social philosopher who deeply influenced East Asia over 20 centuries by emphasizing personal and governmental morality? | Confucius | C
+T18 | Science | The University of Tennessee became famous for pioneering research on human decomposition when Dr. William Bass founded what facility? | The Body Farm | Levi:C | .question cut off by the buzz; ending inferred
+B18 | Science | Who published his influential Systema Naturae in 1735, classifying the natural world into three kingdoms (animal, vegetable and mineral) and including humans within the animal kingdom? | Carl Linnaeus | I | .team said Darwin
+T19 | Geography | The ports of Kanazawa, Akita and Vladivostok are all on what body of water? | Sea of Japan | 1:I | Levi:I | .first buzzer's name and answer garbled in captions ("up the cold sea"); Levi said the Black Sea
+T20 | Foreign Language | What is the Roman numeral for 224? | CCXXIV | ?:I | | .buzzer and team not identified in captions; the answer started "CCXX" and the host said it was almost right; no steal captured
+T21 | Sports | What is considered the greatest cycling event in the world? | Tour de France | ?:C | .buzzer and team not identified in captions
+B21 | Sports | What is the team name for the athletic program at the University of Pennsylvania? | The Quakers | I | .team said "the coal miners"; time ran out before the rest of the bonus
+# ---- second half ----
+T22 | Government | What type of federal laws, such as the Sherman Act, prohibit "combinations in restraint of trade"? | Antitrust laws | Micah:C | .which Micah is unclear (Temple has two)
+B22 | Government | On the 36th ballot of the 1801 contingent election in the House of Representatives, Thomas Jefferson finally won the presidency over which former New York senator, who had been nominated as Jefferson's running mate? | Aaron Burr | C
+T23 | Health | Which ancient Greek philosopher and scientist is considered the founder of comparative anatomy? | Aristotle | Micah:I | Levi:I | .Micah said Hippocrates; Levi said Galen; which Micah is unclear (Temple has two)
+T24 | Geometry | If a rectangle's perimeter is 54 and its length is 14, what is its width? | 13 | Micah:I | 2:I | .Micah said 9; Halls' steal player not named, answered 13 after the buzzer had sounded so the host could not accept it; which Micah is unclear (Temple has two)
+T25 | Art | What type of oil is the main ingredient in artists' oil paint? | Linseed oil | Levi:C
+B25 | Art | Part 1: What is the last name of the French painter who painted "Olympia" and "The Railway"? // Part 2: What is the last name of the French painter famous for his water lilies? | Part 1: Manet // Part 2: Monet | P10 | .team said Monet for Part 1
+T26 | Literature | Who is mourned as the lost love in Edgar Allan Poe's poem "The Raven"? | Lenore | ?:C | .buzzer and team not identified in captions
+B26 | Literature | Part 1: What novel includes the characters King Louie, Bagheera and Mowgli? // Part 2: Who wrote it? | Part 1: The Jungle Book // Part 2: Rudyard Kipling | C | .bonus team and the deferral are garbled in captions; the answer to Part 2 was "Kipling" and the host added "Rudyard"
+T27 | U.S. History | What practice did 19th century abolitionists seek to abolish? | Slavery | 2:C | .buzzer not named; team from the bonus deferral to Levi
+B27 | Visual | Part 1: What advocate shown here gave one of the most famous women's rights and abolitionist speeches of all time at the Women's Rights Convention in Ohio in 1851? // Part 2: What was her famous speech called? | Part 1: Sojourner Truth // Part 2: "Ain't I a Woman?" | Levi:P10 | .Levi said "I am a woman" for Part 2
+T28 | Chemistry | What is the chemical formula for calcium carbonate, the main ingredient in some chewable antacids? | CaCO₃ | Micah:I | Joe:I | .Micah's answer garbled in captions ("K Clowe"); Joe's answer garbled ("CAC for its") and the host gave no points; which Micah is unclear (Temple has two)
+T29 | Economics | Which online retailer has created more U.S. jobs in the last decade than any other? | Amazon | Levi:C
+B29 | Economics | Thanks to the end of a two year drought in Spain resulting in a stronger harvest, record high prices are expected to drop as supplies rise of what common ingredient in Mediterranean cuisine that is also used to fry foods, as a salad dressing and in religious rituals? | Olive oil | C
+T30 | Miscellaneous | What is Tennessee's state beverage? | Milk | Micah:C | .which Micah is unclear (Temple has two)
+B30 | Miscellaneous | Part 1: What is the Tennessee state tree? // Part 2: What is Tennessee's state commercial fish? | Part 1: Tulip poplar // Part 2: Channel catfish | P10 | .team did not know Part 2; the captions add "to defend America" after Part 1, which is garbled
+T31 | Foreign Language | What is the Spanish word for 11? | Once | Joe:C | .answer garbled in captions ("Unsay")
+B31 | Foreign Language | What is the English translation of the Spanish question "¿Dónde está la clase de inglés?" | Where is the English class? | C | .Spanish phrase reconstructed from the translation (captions: "Donde esta la class")
+T32 | Geography | What is the only country in the world with three capitals? | South Africa | Micah:C | .which Micah is unclear (Temple has two)
+B32 | Geography | Dhaka is the capital of what country, located in the delta of the Padma and Jamuna rivers in the northeastern part of the Indian subcontinent and one of the most densely populated countries in the world? | Bangladesh | I | .team said India
+T33 | Science | What is the common piece of laboratory glassware consisting of a finger-like length of glass or clear plastic tubing? | Test tube | 2:C | .buzzer not named; team from "now for Halls" on the bonus
+B33 | Visual | What term is used to describe the natural movement of particles from an area of higher concentration to an area of lower concentration due to random molecular motion? | Diffusion | I | .team said dispersion
+T34 | Math | What base ten number is represented by the base five number 423? | 113 | 1:I | Joe:I | .first buzzer's name and answer garbled in captions ("Like a 20"); Joe said 42.30 per captions
+T35 | Games | What card-shedding type game, manufactured by Mattel, is similar to the game Crazy Eights? | Uno | Micah:C | .answer inferred from "Micah Uno" in captions; which Micah is unclear (Temple has two)
+B35 | Games | First released in late 2004, what was the name of Sony's first handheld game console? | PlayStation Portable (PSP) | C
+T36 | Vocabulary | Necklace is to bead as mosaic is to what? | Tile | Joe:C
+B36 | Vocabulary | What nine letter word starting with O means very unpleasant or rude, highly objectionable or offensive? | Obnoxious | C
+T37 | U.S. History | What state was organized between 1784 and 1788 with a constitution and a governor, but was never allowed to actually become a state? | Franklin | Micah:C | .which Micah is unclear (Temple has two)
+B37 | History | Which two states were added to the Union during the Civil War? | West Virginia and Nevada | P10 | .team said California and West Virginia
+T38 | Biology | A sarcomere is the basic structural unit of which type of tissue? | Muscle tissue | 2:I | 1:I | .Halls' first buzzer not named (said plant tissue); Temple's steal answer garbled in captions ("Like a heart")
+T39 | Sports | In American football, how many points are awarded for a field goal? | Three | Joe:C
+B39 | Sports | Because the roof of Tropicana Field was damaged by Hurricane Milton, the Tampa Bay Rays will play their 2025 home games at George M. Steinbrenner Field in Tampa, which is the spring training facility for what American League team? | The New York Yankees | I | .team said the Dolphins
+T40 | Religion | Which gospel writer is also thought to be the author of the Acts of the Apostles? | Luke | Micah:C | .which Micah is unclear (Temple has two)
+B40 | Religion | According to the four Gospels, what is the name of the site where Jesus was crucified, just outside Jerusalem's walls, that translates to "the place of the skull"? | Golgotha | C
+T41 | Literature | What is the title of the Arthur Miller play that takes place during the Salem witch trials? | The Crucible | ?:C | .buzzer and team not identified in captions
+B41 | Literature | Part 1: In George Orwell's Animal Farm, which animals were "more equal than others"? // Part 2: In Animal Farm, what was the name of the pig who led the rebellion? | Part 1: Pigs // Part 2: Napoleon | C | .the exchange on Part 2 is garbled in captions; the host ruled Napoleon correct for 20 points
+T42 | Government | Many scientists say the best site for the permanent burial of high level nuclear waste is Yucca Mountain. It is located in what state? | Nevada | ?:C | .buzzer and team not identified in captions (garbled as "Latrobe")
+B42 | Government | Which four states allowed women to vote before 1900? | Wyoming, Colorado, Utah, Idaho | I | .team said Kansas, Oregon, California and New Jersey
+T43 | Astronomy | The Big Dipper is part of what constellation? | Ursa Major | Joe:C
+B43 | Astronomy | What are the four smallest planets in our solar system? | Mercury, Mars, Venus, Earth | Joe:C
+T44 | Pre-Calculus | In the first quadrant of the unit circle, if the cosine of an angle is one over two, what is the measure of the angle formed? | 60 degrees (pi/3 radians) | Amanda:C
+B44 | Pre-Calculus | What is the process of combining infinitesimal data to describe displacement, area, volume and other concepts? | Integration | I | .team did not know; the game ended after this bonus

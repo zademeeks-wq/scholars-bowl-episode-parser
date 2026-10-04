@@ -1,0 +1,81 @@
+@EP S40 E51
+@ROUND Round of 16
+@TEAMS Webb School of Knoxville (Steven's team) | Webb School of Knoxville (Penny's team)
+@R1 Nicholas, Andrea, Steven, Daisy, Anna, Nolan
+@R2 Sam, James, Penny, Jackson, Henry, Alex
+# Webb School of Knoxville plays itself: Steven's team (the same team as E39) against Penny's team (the same team as E38). The captions render Steven as "Stephen", Andrea as "Andrea/Andrea Munteanu", Henry as "Shamila/Shamia" and "steal Steven's team" as "still Stevens team". Anna and Nolan join Steven's team and Alex and Henry join Penny's team for the second half. Penny's team led at halftime (230-150) and won by one tossup and one bonus (30 points), matching the host's closing remark ("by literally one question and one bonus").
+# ---- first half ----
+T1 | Biology | What 11 letter term beginning with E is used to describe an animal with a constant body temperature, a fancy word for warm blooded? | Endothermic | NB | | .nobody buzzed; the host gave the answer
+T2 | Literature | In which adventure novel is Edmond Dantes the title character? | The Count of Monte Cristo | Andrea:C
+B2 | Literature | In 2023, an auction house sold a collection of handwritten letters written between 1939 and 1958 by what famous author, who discussed the price of his book To Have and Have Not and described how he survived two plane crashes while on safari in Africa? | Ernest Hemingway | I | .the team said Saint-Exupery (garbled as "Sonic Sabri") after Steven deferred to Andrea
+T3 | Music | A platinum award from the Recording Industry Association of America represents sales of how many units? | One million | Jackson:C
+B3 | Music | Name four of the five instruments that most commonly comprise a woodwind quintet. | Any four of: flute, oboe, clarinet, French horn, bassoon | C | .the team named flute, clarinet, oboe and French horn
+T4 | Geography | The Upper Peninsula of Michigan is separated from the Mitten mostly by Lake Michigan and partially by which other Great Lake? | Lake Huron | Sam:I | Andrea:I | .Sam said Superior and Andrea said Erie
+T5 | Foreign Language | Which family member is addressed as "obaasan" in Japanese? | Grandmother | Andrea:I | Penny:C | .Andrea said grandfather
+B5 | Foreign Language | In German, what is the three letter familiar term for "grandma"? | Oma | C | .the team first said "Opa"
+T6 | Science | What is the chemistry term for a mixture of a solid and a liquid, where the solid will not dissolve in the liquid, such as muddy water? | A suspension | Steven:I | 2:C | .Steven's answer is not captured; Penny's team's steal buzzer is not named (the answer "colloidal suspension" was accepted as a suspension)
+B6 | Visual | What term is used to describe the natural movement of particles from an area of higher concentration to an area of lower concentration due to random molecular motion? | Diffusion | C
+T7 | Miscellaneous | Vinyl figurines of Dolly Parton that debuted in 2023 are made by what company that creates collectibles with large square-ish heads? | Funko | James:C
+B7 | Miscellaneous | What is the stage name of the actor, writer, stunt performer and Tennessee native Philip John Clapp? | Johnny Knoxville | C
+T8 | U.S. History | Who was the first U.S. president to be photographed at his inauguration? | Abraham Lincoln (as accepted) | Penny:I | Steven:C | .Penny buzzed early and said John Quincy Adams
+B8 | U.S. History | Part 1: Who was president of the United States when Napoleon Bonaparte crowned himself Emperor of France in December 1804? // Part 2: Which future U.S. president attended Napoleon's coronation at Notre Dame Cathedral? | Part 1: Thomas Jefferson // Part 2: James Monroe | P10 | .the team said John Quincy Adams for Part 2
+T9 | Vocabulary | Fix the Spoonerism in the following sentence: "Supermarket Flowers by Ed Sheeran is a bad salad." | "Supermarket Flowers by Ed Sheeran is a sad ballad." | Penny:I | Daisy:I | .Penny said "a bad song" and Daisy said "a poor song"
+T10 | Geology | Which mechanically weak region of the upper mantle lies below the lithosphere at a depth between 50 and 120 miles below the surface? | The asthenosphere | Steven:I | Penny:I | .Steven said the mantle and Penny said the crust
+T11 | Astronomy | What is the dimmest of the zodiac constellations, with a name that is Latin for "crab"? | Cancer | Daisy:C
+B11 | Astronomy | Part 1: In 2023, for the first time, scientists saw dark spots on which planet, the farthest from the Sun and one of the two ice giants? // Part 2: The blue hue of that planet is due to which gas, with the symbol CH4? | Part 1: Neptune // Part 2: Methane | C
+T12 | Art | What fundamental of art adds a sense of physicality to an artwork by creating an illusion of three dimensional surfaces and shapes that can be seen and felt? | Texture | Sam:I | Daisy:I | .Sam said cubism and Daisy said perspective
+T13 | Government | What term beginning with PL is a form of government in which members of the wealthy are the rulers? | Plutocracy | Penny:I | Andrea:C | .Penny said "plebeian style government"
+B13 | Government | Part 1: What do the letters in the abbreviation POTUS represent? // Part 2: What do the letters in the abbreviation FLOTUS represent? | Part 1: President of the United States // Part 2: First Lady of the United States | C
+T14 | English | What six letter word beginning with S is the antonym of "abundant"? | Scarce | James:C
+B14 | Visual | What is the ancient statue seen here that depicts the Greek goddess of victory and has been on display in the Louvre since the late 19th century? | The Winged Victory of Samothrace (Nike of Samothrace) | I | .the team said something like "Nike" without Samothrace
+T15 | Chemistry | What is the chemical formula for calcium carbonate, the main ingredient in some chewable antacids? | CaCO3 | Andrea:I | Penny:I | .Andrea said CaCO2 and Penny's formula was garbled ("Ca3CO2")
+T16 | Geometry | A semicircle is divided into two arcs with a 3 to 1 ratio. What is the measure of the larger arc? | 135 degrees | Sam:C
+B16 | Geometry | The measurement of one of two complementary angles is two degrees less than three times the measurement of the other angle. What is the measurement of each angle? | 23 degrees and 67 degrees | Sam:C | .Penny deferred to Sam
+T17 | Games | In the backyard version of what game do players use mallets to hit colored balls through nine hoops, often called wickets? | Croquet | Penny:C
+B17 | Games | What tile based game uses rectangular pieces marked on each end with a number of dots for players to match ends to another tile with the same number of dots? | Dominoes | C
+T18 | World History | After Rome fell in 476, what city became the capital of the Byzantine Empire? | Constantinople | Steven:C
+B18 | World History | Part 1: Who became king of the Franks in 771 and was crowned Holy Roman Emperor on Christmas Day in the year 800? // Part 2: Spell that name. | Part 1: Charlemagne // Part 2: C-H-A-R-L-E-M-A-G-N-E | C | .Steven deferred to Andrea for the spelling
+T19 | Literature | What is the title of the Arthur Miller play that takes place during the Salem witch trials? | The Crucible | James:C
+B19 | Literature | Part 1: What was the title of the annual publication of seasonal weather forecasts, household hints, puzzles and other amusements published by one of our Founding Fathers from 1732 to 1758? // Part 2: Which founding father used the alias Richard Saunders to write anonymously for his almanac? | Part 1: Poor Richard's Almanack // Part 2: Benjamin Franklin | C
+T20 | Science | What eight letter word beginning with N is the term for a surgical examination of an animal's carcass to determine the cause and manner of death? | A necropsy | Steven:I | | .Steven said "necrosis"; no steal answer captured
+T21 | U.S. History | In 1948, President Truman signed what plan aimed to help European countries recover from World War II? | The Marshall Plan | Nicholas:C
+B21 | U.S. History | In 2023, a Chattanooga man was recognized for his Vietnam War helicopter rescue missions and was awarded which medal, the highest decoration for U.S. military service members? | The Medal of Honor | C
+T22 | Music | Beethoven originally titled his third symphony "Bonaparte," but when Napoleon declared himself Emperor, he gave it what six letter name by which it is still known? | Eroica | Jackson:I | Nicholas:I | .Jackson buzzed early and his answer is not captured; Nicholas's steal answer is garbled in the captions
+T23 | Geography | The Alboran Sea and the Ionian Sea are both part of what larger sea? | The Mediterranean Sea | Penny:C | .the first half ended before the bonus could be read
+# ---- second half ----
+T24 | Spelling | A musical instrument with bellows is an accordion. Spell "accordion." | A-C-C-O-R-D-I-O-N | Penny:C
+B24 | Spelling | Ventriloquism is the art of producing vocal sounds that appear to come from another source. Spell "ventriloquism." | V-E-N-T-R-I-L-O-Q-U-I-S-M | Alex:C | .Penny deferred to Alex
+T25 | Physics | The symbol F represents what unit of electrical capacitance, the ability of a body to store an electrical charge? | The farad | Alex:I | Andrea:C | .Alex buzzed early and did not finish an answer
+B25 | Physics | Part 1: Who was the French mathematician, physicist and philosopher who developed the modern theory of probability? // Part 2: What is the instrument that has a U-shaped tube and measures pressure in a closed system? | Part 1: Blaise Pascal // Part 2: A manometer | I | .the team said Descartes for Part 1 and barometer for Part 2
+T26 | Math | Evaluate aX + aY if a = 5, X = 18 and Y = 12. | 150 | James:I | 1:C | .James said 30; Steven's team's steal buzzer is not named
+B26 | Visual | If x = 1/4 and y = 3/5, what are the simplified product xy and quotient x over y of these two fractions? | Product 3/20; quotient 5/12 | C | .the captain deferred to Andrea
+T27 | Sports | What should you find people doing in a natatorium? | Swimming | Anna:C
+B27 | Sports | In a 25 meter pool, how many lengths is the 500 meter freestyle event? | 20 | C
+T28 | Economics | What is the term for the influx of more affluent residents and businesses that changes the character of a neighborhood by driving up housing costs and displacing low income residents? | Gentrification | Andrea:I | Henry:C | .Andrea said "the homeowners association"
+B28 | Economics | If someone puts $500 into a savings account that pays a fixed interest rate of 2% compounded annually, how long would it take for their money to double in value? | About 36 years | I | .the team said 100 years
+T29 | Foreign Language | What is the French word for the number five? | Cinq | Andrea:C
+B29 | Foreign Language | Translate the French phrase "je ne parle pas anglais" into Spanish. | No hablo ingles | C
+T30 | Health | What is the name of the muscular wall that divides the heart lengthwise? | The septum | Penny:I | Anna:I | .Penny said "the cardiac sac" and Anna said "the atria"
+T31 | Religion | Which pope, head of the Catholic Church from 1963 to 1978, wrote the encyclical Humanae Vitae and became the first reigning pontiff to visit the Western Hemisphere? | Pope Paul VI | Andrea:I | Penny:I | .Andrea said Benedict and Penny said "John Paul the Fifth"
+T32 | Art | Pablo Picasso's The Old Guitarist is on view in the Art Institute of what city, the most populous in the Midwest? | Chicago | Penny:C | .Penny said "the Chicago Museum of Art" and the host accepted "Chicago"
+B32 | Visual | Part 1: The Picasso painting shown here is named for what city that was bombed in 1937 by German aircraft allied with Francisco Franco? // Part 2: During what conflict was that city bombed? | Part 1: Guernica // Part 2: The Spanish Civil War | P10 | .the team said Madrid for Part 1
+T33 | U.S. History | First Ladies Julia Gardiner Tyler and Sarah Childress Polk began a tradition by instructing the band to play what song when their respective husbands arrived at an official event? | "Hail to the Chief" | Penny:I | Andrea:I | .Penny said "The Star-Spangled Banner" and Andrea said "Pomp and Circumstance"
+T34 | Literature | Which 1961 children's book written and illustrated by P.D. Eastman describes the actions and interactions of a group of highly mobile canines? | Go, Dog. Go! | Steven:C
+B34 | Literature | Part 1: Who is Jay Gatsby's neighbor in The Great Gatsby? // Part 2: Who wrote The Great Gatsby? | Part 1: Nick Carraway // Part 2: F. Scott Fitzgerald | C
+T35 | Science | In which layer of the atmosphere are the jet streams located? | The troposphere | Andrea:C
+B35 | Science | What is the word for belts of trees planted along the edges of fields in order to prevent soil erosion? | Windbreaks | I | .the team's answer is garbled in the captions
+T36 | Pre-Calculus | Solve this equation for x: the square root of the quantity x plus 6 equals 4. | x = 10 | James:C
+B36 | Pre-Calculus | What is the product of the two complex binomials (3 + i) and (3 - i), where i is the square root of negative one? | 10 | C
+T37 | Music | What pop singer, born on February 20, 1988 in Barbados, recorded the hit songs "Lift Me Up" and "Replay"? | Rihanna | James:I | Steven:C | .James had no answer
+B37 | Music | Mookie Blaylock was the original name of what Seattle grunge band? | Pearl Jam | I | .the team said Nirvana
+T38 | Geography | After the original 13 colonies organized into the United States, which new city was created at the geographical center of the Union? | Washington, D.C. | Penny:I | Nolan:C | .Penny said Philadelphia
+B38 | Geography | Part 1: In which state is Zion National Park? // Part 2: In which state is Acadia National Park? | Part 1: Utah // Part 2: Maine | I | .the team said Washington for Part 1 and New Mexico for Part 2
+T39 | Vocabulary | Spell "cite" as in the sentence "Students must cite their sources in a research paper." | C-I-T-E | James:C
+B39 | Vocabulary | Part 1: Sesquipedalophobia is the fear of what? // Part 2: What is the literal translation of the Latin word "sesquipedalis"? | Part 1: Long words // Part 2: A foot and a half long | I | .the team said "adults" for Part 1 and "long foot" for Part 2 (after Penny deferred to Alex)
+T40 | Health | A goiter is the enlargement of which gland? | The thyroid | Penny:C
+B40 | Health | Which human gland is connected to the hypothalamus by a stalk-like structure and is important in controlling growth and development? | The pituitary gland | C
+T41 | Government | How many electoral votes did Tennessee have in the 2020 presidential election? | 11 | Nolan:I | Penny:I | .Nolan said seven and Penny said nine
+T42 | Religion | Which Old Testament figure interpreted the Pharaoh's dream of seven lean cows devouring seven fat cows? | Joseph | Anna:C
+B42 | Religion | Catholics who attend the Tridentine Mass, also known as the extraordinary form, sometimes refer to it by the nickname TLM, which stands for what? | The Traditional Latin Mass | I | .the team said "the last meal"
+T43 | World History | Which conquistador scuttled his ships after arriving on Mexico's coast? | Hernan Cortes | Steven:C
+B43 | World History | Which naval battle, between a British fleet of 27 ships under Admiral Horatio Nelson and the combined fleets of the French Navy and Spanish Navy, took place on October 21, 1805? | The Battle of Trafalgar | I | .the team said Yorktown; the game ended after this bonus

@@ -463,6 +463,9 @@ def finalize(rows):
         if 'Unclear' in (r['Result'], r['Steal Result'], r['Outcome']) and not r['Needs Review']:
             r['Needs Review'] = 'Yes'
             r['Review Notes'] = (r['Review Notes'] + '; ' if r['Review Notes'] else '') + 'result unclear in captions'
+        elif 'Unknown' in (r['Team'], r['Steal Team']) and not r['Needs Review']:
+            r['Needs Review'] = 'Yes'
+            r['Review Notes'] = (r['Review Notes'] + '; ' if r['Review Notes'] else '') + 'team not identified in captions'
         if r['Needs Review'] == 'Yes':
             lines = r.get('_lines')
             if lines:

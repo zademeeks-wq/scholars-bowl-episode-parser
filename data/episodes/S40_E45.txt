@@ -1,0 +1,79 @@
+@EP S40 E45
+@ROUND Round of 32
+@TEAMS Roane County High School | Cocke County High School (Dhruv's team)
+@R1 Lucas, Ethan, Nathan, Maddox
+@R2 Luke, Lucy, Dhruv
+# Roane County (captain Nathan) is the same team as in E31. Cocke County has two teams in the tournament; this one is captained by Dhruv (a junior on this team has an unreadable name in the captions and never answers). The captions render Cocke as "Clark/Park County", Roane as "Ron/Rowan", Dhruv as "Druv/Drift/Drew/truth", and Maddox as "Mattox". Both teams keep their starters all game. The first half was tied 160-160 before Roane's last tossup and bonus; Roane led 190-160 at halftime and won. The captions give no final score.
+# ---- first half ----
+T1 | Biology | Which 19th century Austrian monk discovered the principles of heredity? | Gregor Mendel | Dhruv:C
+B1 | Biology | Thought to be extinct for more than a century, a rare species of giant tortoise was found in 2022 on what volcanic archipelago in the Pacific Ocean that has plants and animals found nowhere else? | The Galapagos Islands | Luke:C | .the captain deferred to Luke
+T2 | Foreign Language | Translate "je m'appelle François" from French to English. | My name is Francis (Frank) | Maddox:C | .Maddox said "my name is Frank" and the host accepted it
+B2 | Foreign Language | Part 1: What phrase meaning "of nothing" is used to say "you're welcome" in Spanish? // Part 2: What phrase meaning "much pleasure" is used to say "nice to meet you" in Spanish? | Part 1: De nada // Part 2: Mucho gusto | P10 | .the team ran out of time on Part 2
+T3 | Geometry | In the equation (x + 4) squared plus (y - 6) squared equals 49, what are the coordinates of the circle center? | (-4, 6) | Lucas:C
+B3 | Geometry | Part 1: Name the triangle that has no congruent sides. // Part 2: Name the triangle that has at least two congruent sides. | Part 1: Scalene // Part 2: Isosceles | C
+T4 | Music | Who composed the 1812 Overture? | Tchaikovsky | Lucas:C
+B4 | Music | In which two languages did composer J.S. Bach write the texts for his work? | German and Latin | C | .the team first said "German and German" before correcting to German and Latin
+T5 | Economics | Which suffragette was featured on a 1979 U.S. dollar coin? | Susan B. Anthony | Nathan:I | Luke:I | .Nathan said Harriet Tubman and Luke said Mother Teresa
+T6 | Science | What is the regular periodic rise and fall of the sea called? | Tides | Dhruv:C
+B6 | Visual | What type of scientific instrument shown here is used to detect and record vibrations and movements in the earth, especially during an earthquake? | A seismograph (seismometer) | I | .Luke answered "Richter scale"
+T7 | Literature | What was the final item revealed in Pandora's Box? | Hope | Luke:C
+B7 | Literature | Part 1: Which bestselling author of Carrie and The Shining testified in 2022 to oppose a $2.2 billion merger between Penguin Random House and Simon & Schuster, which would have reduced the big five U.S. book publishers to four? // Part 2: What is the name of the collection of federal laws that regulate the conduct of businesses to promote competition and prevent unjustified monopolies? | Part 1: Stephen King // Part 2: Antitrust laws | P10 | .Luke deferred to Lucy for both parts; she said Steinbeck for Part 1
+T8 | Mythology | Which mythological Greek god was one of the titans, a son of Hyperion, brother of Eos and a personification of the sun? | Helios | Luke:C
+B8 | Mythology | In 2023, the biggest hunt in half a century was held in Scotland for which fabled aquatic creature? | The Loch Ness Monster | C
+T9 | Religion | Which Christian holiday is on the first Sunday after the first full moon after March 21? | Easter | Lucas:C
+B9 | Religion | In the Gospel of John, who was the brother of Martha and Mary whom Jesus raised from the dead? | Lazarus | I | .Nathan deferred to Lucas, who said "Jeremiah"
+T10 | Geography | Of what country is Budapest the capital? | Hungary | Dhruv:C
+B10 | Geography | In 2022, construction began on a wall across the island of Hispaniola to stop migrant crossings, drugs and contraband between which two countries? | Haiti and the Dominican Republic | I | .the team named Colombia and Venezuela
+T11 | Technology | What are the two numbers used in a binary system? | One and zero | Dhruv:C
+B11 | Technology | Part 1: In 2022, several airlines canceled flights due to the deployment of what mobile phone technology near some U.S. airports? // Part 2: It was feared that 5G could interfere with which piece of equipment that measures the height of the aircraft above terrain? | Part 1: 5G // Part 2: The radio altimeter | C | .the host accepted "altimeter" for Part 2
+T12 | Vocabulary | What ten letter word beginning with P is an antonym of poverty and a synonym of well-being and happiness? | Prosperity | Dhruv:C | .the buzzer name is garbled in the captions ("truth", read as Dhruv); this fits the halftime tie
+B12 | Vocabulary | Elk are to hooves as hawks are to what? | Talons | C | .the team first said "two feet?" and then "talons"; the host explained the question was asking about their feet
+T13 | Math | Multiply 0.065 times 0.005. | 0.000325 | Nathan:C
+B13 | Math | Find the perimeter of a right triangle that has legs of 16 feet and 30 feet. | 80 feet | Lucas:C | .Nathan deferred to Lucas
+T14 | Art | In the field of art, what shape is referred to as a perfect shape? | A circle | 1:C | .buzzer not named; the captions' "not a circle" is probably the answer "a circle"; the bonus was Roane's
+B14 | Visual | Part 1: Who is the artist shown here in his 1845 self-portrait? // Part 2: What is the title of that famous self-portrait? | Part 1: Gustave Courbet // Part 2: The Desperate Man | I | .the team's Part 1 answer is garbled in the captions ("Ken Barrow") and they said "Self-portrait" for Part 2
+T15 | U.S. History | When Benedict Arnold betrayed the United States in 1780, what did he offer in exchange for 10,000 pounds and a British military commission? | To surrender the fort at West Point | Maddox:I | | .Maddox said "troop movements"; no Cocke County steal answer captured
+T16 | Chemistry | What is the atomic number of the element tennessine? | 117 | Ethan:I | Luke:I | .Ethan said 118; Luke said 114 (the host said he realized it was 117 right after saying it)
+T17 | English | What word beginning with T is the antonym of "savage"? | Tame | Ethan:C
+B17 | English | Part 1: What is the past simple of the verb "choose"? // Part 2: What is the past participle of the verb "choose"? | Part 1: Chose // Part 2: Chosen | C
+T18 | Health | Which structure in the eyeball contains the photoreceptors? | The retina | Luke:I | Nathan:I | .Luke said iris and Nathan said cornea
+T19 | Miscellaneous | What is a countertop cooking appliance that combines a heating element and a powerful fan to circulate heat, similar to a convection oven? | An air fryer | Lucas:I | | .Lucas said "stove"; no Cocke County steal answer captured
+T20 | Government | How many votes are needed to end a filibuster in the U.S. Senate? | 60 votes | Lucas:I | Luke:I | .Lucas said 67 and Luke said two thirds
+T21 | Physics | Atomic sizes are measured in what unit? | The angstrom | Nathan:C
+B21 | Physics | Part 1: What simple machine is represented by a block and tackle (a pulley and a movable pulley)? // Part 2: What simple machine is represented by the claw end of a hammer? | Part 1: A pulley // Part 2: A lever | C | .the first half ended after this bonus
+# ---- second half ----
+T22 | Literature | What is the term for a passage in a literary work that interrupts the action to describe an event that occurred earlier? | A flashback | Lucas:C
+B22 | Literature | What are the four styles of writing for essays? | Narrative, descriptive, persuasive and expository | P15 | .the team named persuasive, expository, argumentative and narrative; the host gave 15 points
+T23 | Algebra | What value must be added to the expression x squared - 24x in order to make a perfect square trinomial? | 144 | Lucas:C
+B23 | Algebra | What is the sum of the square root of 50 and the square root of 18 in simplified radical form? | 8 root 2 | C
+T24 | Games | What is the game in which two long jump ropes turning in opposite directions are jumped by one or more players jumping simultaneously? | Double Dutch | Ethan:C
+B24 | Games | First introduced on the Nintendo GameCube, what video game series has the player control a horde of plant-like creatures with a leaf, bud or flower sprouting from each of their heads, using them to navigate obstacles, fight off predatory fauna and collect items? | Pikmin | C | .the host thanked the team for the answer (no explicit ruling) and gave 20
+T25 | Astronomy | What unit of astronomical distance is equivalent to 5.88 trillion miles? | One light year | Dhruv:C
+B25 | Astronomy | In 2023, the journal Icarus reported that an abundance of clouds has all but mysteriously vanished since 2019 on which planet that is more than 30 times as far from the Sun as Earth? | Neptune | I | .the team said Jupiter
+T26 | Biology | Which scientist is credited with research that determined dogs developed conditioned reflexes? | Ivan Pavlov | Dhruv:I | Nathan:C | .Dhruv said Sigmund Freud
+B26 | Biology | Part 1: Which Native American tribe on the Rosebud Reservation aims to establish the largest indigenous owned and managed bison herd? // Part 2: In which state is the Rosebud Reservation? | Part 1: The Sioux (Lakota Sioux) // Part 2: South Dakota | P10 | .the team said Navajo for Part 1
+T27 | Foreign Language | What is the official language in Myanmar? | Burmese | Nathan:I | Lucy:I | .Nathan said Hindi and Lucy said French
+T28 | History | Who was President of the United States between Bill Clinton and Barack Obama? | George W. Bush | Lucas:I | Luke:C | .Lucas said George H.W. Bush
+B28 | Visual | Part 1: Ulysses S. Grant, shown here, did not want to attend which college where he was sent by his father in 1839? // Part 2: As a battlefield commander in February 1862, Grant won the Union's first major victory, capturing Fort Donelson in what state? | Part 1: The U.S. Military Academy at West Point // Part 2: Tennessee | I | .Luke answered Cambridge University for Part 1 and the team said Virginia for Part 2
+T29 | Music | What country singer who grew up in Knox County has had hits with "Here and Now" and "The Good Stuff"? | Kenny Chesney | Luke:I | | .Luke said Luke Combs; no Roane County steal answer captured
+T30 | Geography | Which of the Great Lakes does not border the state of Michigan? | Lake Ontario | Luke:C
+B30 | Geography | Part 1: Which state capital is the highest in elevation? // Part 2: Which state capital is westernmost? | Part 1: Santa Fe, New Mexico // Part 2: Honolulu | P10 | .the team said Salt Lake City for Part 1
+T31 | Geology | What branch of geology studies how groundwater is transported and distributed in the soil, rock and Earth's crust? | Hydrogeology | Nathan:I | Dhruv:I | .Nathan said hydrology and Dhruv said environmental science
+T32 | Spelling | Spell the eight letter word beginning with C that is an excellent tool for keeping track of one's daily tasks. | C-A-L-E-N-D-A-R | Lucas:I | Dhruv:C | .Lucas said the word without spelling it
+B32 | Spelling | Spell the eight letter word beginning with S that means to arrange or plan an event to take place at a particular time. | S-C-H-E-D-U-L-E | C
+T33 | Math | If one half of a number minus four is equal to ten, what is the number? | 28 | Lucas:C
+B33 | Visual | The area of a circle is 196 pi. What are the diameter and circumference of this circle? | Diameter 28; circumference 28 pi | C | .the diameter in the captions is garbled ("20 and 28")
+T34 | Sports | Which type of athletes traditionally ask the Virgin of Macarena to pray for their protection? | Bullfighters | Luke:I | | .Luke said Buddhists; no Roane County steal answer captured
+T35 | World History | "Doughboy" was a popular nickname for the American infantryman during what conflict? | World War I | Dhruv:C
+B35 | World History | In 2022, the prime minister of Poland said Vladimir Putin has deadlier weapons at his disposal and is more dangerous than which two men who led Germany and the Soviet Union during World War II? | Adolf Hitler and Joseph Stalin | C
+T36 | Health | Acetone is a chemical found in nail polish remover. If a urine test reveals the presence of acetone, what disease is suspected? | Diabetes | Nathan:I | Luke:I | .Nathan said kidney stones and Luke said pneumonia
+T37 | Vocabulary | In the sentence "You will rue the day you met me," what does the word "rue" mean? | Regret | Luke:C
+B37 | Vocabulary | Part 1: Name the phobia that is the fear of thunderstorms. // Part 2: Name the phobia that is the fear of needles. | Part 1: Astraphobia // Part 2: Trypanophobia | I | .the team said "thunderphobia" and "paniphobia"
+T38 | Government | What was the word for members of an activist women's organization in the early 20th century who helped women win the vote? | Suffragettes | Maddox:C
+B38 | Government | In 2023, hundreds of ethnic Armenians were killed and thousands fled, saying a campaign of ethnic cleansing and a land grab was underway. By what country, which lies along the Caspian Sea and borders Armenia to the east and Georgia to the north? | Azerbaijan | I | .the team's answer is not captured; the host said "now it's Azerbaijan"
+T39 | Architecture | Which bridge that currently crosses the Thames River is a box girder bridge? | London Bridge | Maddox:I | Dhruv:C | .Maddox said Tower Bridge
+B39 | Architecture | Architect Eero Saarinen, known for designing the Gateway Arch in St. Louis, also designed the main terminal of what major airport 26 miles west of Washington, D.C.? | Dulles International Airport | I | .the team said "Delaware"
+T40 | Economics | What ten letter word beginning with A refers to the process of determining the value of property to be taxed? | Assessment | Lucas:I | | .Lucas said appraisal; no Cocke County steal answer captured
+T41 | Science | What is the property of fluids that causes them to resist flowing? | Viscosity | Lucas:C
+B41 | Science | What temperature in degrees Fahrenheit is equal to 30 degrees Celsius? | 86 degrees Fahrenheit | I | .the team said 20
+T42 | Foreign Language | What is the French word for umbrella? | Parapluie | Lucas:I | | .Lucas had no answer; time ran out before a steal

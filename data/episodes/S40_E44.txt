@@ -1,0 +1,86 @@
+@EP S40 E44
+@ROUND Round of 32
+@TEAMS Morristown-Hamblen East High School | Science Hill High School (Owen's team)
+@R1 Kingston, Dorian, Hayden, Boyd, Caleb, Melanie
+@R2 Arushi, Selena, Owen, Shiven, Amanda, Sam, Molly
+# Morristown-Hamblen East (captain Hayden) is the same team as in E09. Science Hill has three teams in the tournament; this one is captained by Owen (the others are Danny's, E06, and Emily's, E31). The captions render Morristown East as "Hamblin", Arushi as "Aarushi/Aiushi", Shiven (Shivani Jain) as "Seven/Shiven" and Selena as "Selina". Amanda (Noey) joins Science Hill for the second half; Morristown East keeps its starters. A halftime challenge awarded Science Hill 20 more points on B2. The host called the halftime game "very close" with Science Hill "having a slight lead", but the rulings recorded here put Science Hill well ahead; the captions give no score.
+# ---- first half ----
+T1 | Health | At what speed do X-rays travel? | The speed of light | Owen:C
+B1 | Health | Part 1: How many ribs do humans have? // Part 2: What is the fibrous elastic tissue that connects the first seven pairs of ribs to the breastbone? | Part 1: 24 // Part 2: Costal cartilage | P10 | .the team said "xiphoid process" for Part 2 (the host said it is cartilage)
+T2 | Art | What is the term for a wall hanging made of heavy cloth with designs or pictures woven into it? | A tapestry | Owen:C | .Owen buzzed early
+B2 | Art | In 2023, scientists using portable chemical imaging technology uncovered hidden details in ancient Egyptian tomb paintings of which pharaoh, who was the son of Seti I and built more monuments and sired more children than any other pharaoh? | Ramses II (Ramses the Great) | C | .the team first said "Ramses the Second" and the host asked for more ("the Great") and gave no points; at halftime the judges decided Ramses II and Ramses the Great are the same person and awarded Science Hill the 20 points
+T3 | Religion | Which religion is represented by a six point star? | Judaism | Boyd:C
+B3 | Religion | The Cathedral Basilica of Saint Louis, King of France, the oldest cathedral in continuous use in the United States, is located next to Jackson Square in what city? | New Orleans | I | .the team said New York
+T4 | Economics | In what city is the headquarters of General Motors? | Detroit, Michigan | Owen:I | Hayden:I | .Owen said Chicago and Hayden said Tokyo
+T5 | Foreign Language | What is the official language in Madagascar, the Republic of the Congo and Belgium (among others)? | French | Kingston:C
+B5 | Foreign Language | Name four of the five countries where English is the main language spoken. | Any four of: United States, United Kingdom, Canada, Australia, New Zealand | C | .Hayden named the UK, Australia and New Zealand and deferred to Kingston, who added the USA
+T6 | Geology | Which term is used to describe the ability of a mineral to transmit light? | Diaphaneity | Hayden:I | Arushi:I | .Hayden said opacity and Arushi said luminescence
+T7 | Music | A trumpet has how many valves to facilitate a change in pitch? | Three | Dorian:C
+B7 | Music | Part 1: What major key signature, when written for piano, has one sharp? // Part 2: What major key signature, when written for piano, has four flats? | Part 1: G major // Part 2: A-flat major | P10 | .Kingston answered F major for Part 1
+T8 | History | What fifth century BC philosopher was sentenced to death after being found guilty of impiety and corrupting the young because he rejected the city's gods, introduced new divinities and inspired disrespect for authority among his youthful followers? | Socrates | 2:I | Hayden:I | .Science Hill's buzzer is not named (the early answer was "Confucius"); Hayden said Aristotle; the host reminded Morristown not to look at each other
+T9 | Literature | Which Charles Dickens book tells of a young man who must support his mother and sister after his father dies and who struggles to save his family and friends from the exploitation of his cold-hearted, grasping uncle? | Nicholas Nickleby | Selena:I | Hayden:I | .Selena buzzed early and said Great Expectations; Hayden said A Christmas Carol
+T10 | Science | As a measure of energy, what do the letters BTU stand for? | British thermal unit | NB | | .nobody answered; the host gave the answer
+T11 | Chemistry | What is the chemical symbol for radon? | Rn | Owen:C
+B11 | Chemistry | Recent studies show that Americans are exposed to toxic BPA levels 5000 times higher than what the European Union considers safe. BPA is produced by the condensation of phenol and what organic compound with the formula C3H6O? | Acetone | I | .the team said ethanol and then methanol
+T12 | Sports | In a race, if you overtake the person in second place, what place are you in? | Second place | Owen:C
+B12 | Sports | Part 1: What is the name of the racetrack where the Kentucky Derby is held? // Part 2: On what day each year does the Kentucky Derby occur? | Part 1: Churchill Downs // Part 2: The first Saturday in May | I | .the team said "Grand Prix" for Part 1 and "Thursday, April 3rd" for Part 2
+T13 | Geography | Which state has the smallest land area? | Rhode Island | Hayden:C
+B13 | Visual | Part 1: What desert represented on this satellite image is the third largest desert in the world? // Part 2: Name one of the two deserts larger than the Sahara. | Part 1: The Sahara // Part 2: The Antarctic (or Arctic) Desert | C | .the host confirmed both the Arctic and the Antarctic are larger
+T14 | Spelling | A type of artificial channel for water transport is an aqueduct. Spell "aqueduct." | A-Q-U-E-D-U-C-T | Owen:C
+B14 | Spelling | An event causing great and often sudden damage or distress or disaster is a calamity. Spell "calamity." | C-A-L-A-M-I-T-Y | C
+T15 | Astronomy | On December 14, 1972, Gene Cernan became the last Apollo astronaut to do what? | Walk on the moon | Owen:I | 1:I | .Owen's answer is garbled in the captions (appears to be "land on the moon"); Morristown's steal buzzer is not named and the answer was "orbit the Earth"; the host explained Cernan was the last to walk on the moon
+T16 | Algebra | The graph of the equation x = -y squared + 4 opens in which direction? | To the left | Shiven:C
+B16 | Algebra | Give both of the factors of the expression 9y squared - 49. | (3y + 7) and (3y - 7) | C | .the teammate deferred to is not named in the captions
+T17 | Art | What four letter word beginning with V is used to describe an opening, hole or negative space often used in modern sculpture? | Void | Kingston:C | .Kingston buzzed early
+B17 | Art | Which artist pranked the art world when his balloon girl was sold at auction in 2018 and was then partially destroyed by a shredder hidden inside the frame? | Banksy | C
+T18 | History | What agricultural chemist, who headed the Department of Agricultural Research at Tuskegee Institute, found multiple uses for the peanut? | George Washington Carver | ?:C | .buzzer and team not named in the captions
+B18 | History | Part 1: Who was the first Tennessee governor to serve two consecutive four year terms? // Part 2: Who has served the most terms total as governor of Tennessee? | Part 1: Lamar Alexander // Part 2: William Carroll (six nonconsecutive terms) | I | .the team said Bill Haslam for Part 1 and Lamar Alexander for Part 2
+T19 | English | What five letter word beginning with A is a synonym of "loathe"? | Abhor | Hayden:I | Arushi:C | .Hayden said "adore"
+B19 | English | Part 1: What nine letter word beginning with V is a synonym of "hesitate"? // Part 2: Spell that word. | Part 1: Vacillate // Part 2: V-A-C-I-L-L-A-T-E | P10 | .the team spelled it with an extra S (V-A-S-C-I-L-L-A-T-E)
+T20 | Biology | What is the name for the male reproductive part of a flower? | The stamen | Arushi:C
+B20 | Biology | Part 1: What is the clear tissue over the colored part of the eye? // Part 2: What is the tough white tissue that serves as the supporting framework of the eye? | Part 1: The cornea // Part 2: The sclera | C
+T21 | Religion | Which religious tradition is most closely associated with yoga? | Hinduism | Shiven:C
+B21 | Religion | Name two of the three major religious holidays celebrated respectively by Jews, Christians and Muslims that coincided for the second year in a row in April 2023. | Any two of: Passover, Easter, Ramadan | C | .the team named Easter and Ramadan; the first half ended after this bonus
+# ---- halftime: the judges awarded Science Hill 20 more points on B2 ----
+# ---- second half ----
+T22 | Miscellaneous | What is the term for a college for the study of classical music or other arts, like Juilliard? | A conservatory | Owen:C
+B22 | Miscellaneous | Part 1: Identify the other member of the famous duo Lewis and ___. // Part 2: Identify the other member of the royal couple Queen Victoria and ___. | Part 1: Clark // Part 2: Prince Albert | C | .the question text is reconstructed from garbled captions
+T23 | Geography | What state, not known for its cheese, is America's leading producer of dairy products? | California | Dorian:I | Shiven:I | .Dorian said Wisconsin and Shiven said Michigan
+T24 | Geometry | Which property of equality is illustrated by "If x equals y, then y equals x"? | The symmetric property | Owen:I | Hayden:I | .Owen said "reverse" and Hayden said "reflective"
+T25 | Physics | What force moves particles of a rotating object away from the center of rotation? | Centrifugal force | ?:C | .buzzer and team not named in the captions
+B25 | Physics | Part 1: Which component in a circuit only allows current to flow in one direction? // Part 2: Which component consists of a simple wire wound into a helix? | Part 1: A diode // Part 2: An inductor | I | .the team said "capacitor/transistor" for Part 1 and "battery" for Part 2
+T26 | Vocabulary | What words do the letters SPF represent on a bottle of sunscreen? | Sun protection factor | Owen:C
+B26 | Vocabulary | Part 1: What 11 letter word beginning with M means having a noble and generous spirit? // Part 2: Spell that word. | Part 1: Magnanimous // Part 2: M-A-G-N-A-N-I-M-O-U-S | C
+T27 | Music | Which of Handel's oratorios includes the Hallelujah chorus? | Messiah | Arushi:C
+B27 | Music | Part 1: Who composed Appalachian Spring and Fanfare for the Common Man? // Part 2: What country did he call home? | Part 1: Aaron Copland // Part 2: The United States | C | .Owen deferred to Arushi, who first said only "Copland"
+T28 | Government | Which amendment to the U.S. Constitution provides for protection from unlawful search and seizure of someone's house or property? | The Fourth Amendment | Hayden:I | Shiven:I | .Hayden said the fifth and Shiven said the third
+T29 | Foreign Language | Translate the French words "les poissons." | The fishes | Owen:C
+B29 | Visual | What is the official Tennessee state game bird, also known as the partridge and considered one of the finest game birds in the world? | The bobwhite quail | Arushi:C | .Owen deferred to Arushi
+T30 | Chemistry | What is the chemical formula for sulfuric acid? | H2SO4 | Amanda:C
+B30 | Chemistry | Name four of the six elements classified as alkali metals. | Any four of: lithium, sodium, potassium, rubidium, cesium, francium | P5 | .the team named beryllium, calcium, lithium and magnesium; only lithium counted, for five points
+T31 | Literature | Literature of ancient India is written in what language? | Sanskrit | Shiven:C
+B31 | Literature | First Lady Jill Biden, who works at Northern Virginia Community College, said one of her favorite books to teach is what 1850 novel, and by what author, about an unwed mother who struggles to create a new life of repentance and dignity in the Puritan Massachusetts Bay Colony? | The Scarlet Letter by Nathaniel Hawthorne | C
+T32 | Arts | What Nashville-based comedian and podcast host, called "the nicest man in standup," recently sold out multiple shows in Knoxville on his Be Funny tour and is known for his Netflix comedy specials, including Greatest Average American? | Nate Bargatze | Amanda:C
+B32 | Arts | What 2023 comedy horror film directed by Elizabeth Banks was loosely inspired by the true story of a botched drug smuggling operation that resulted in a pilot falling to his death in Knoxville and an animal in Georgia overdosing on illegal narcotics? | Cocaine Bear | C
+T33 | Geography | Which country has the longest coastline in the world? | Canada | Amanda:C
+B33 | Geography | The main region of the Inca Empire occupies three modern day countries. Name two of them. | Any two of: Peru, Bolivia, Ecuador | C | .the team named Peru and Bolivia; the host said Ecuador is the third
+T34 | Mythology | Who was the mythological Greek goddess of marriage, women and family, and queen of the 12 Olympians? | Hera | Dorian:C
+B34 | Mythology | Part 1: The name of what mythological Greek god of the dead and king of the underworld later became thought of as the name of the underworld itself? // Part 2: Roman-era literature eventually merged Hades and some others into what Roman god of the underworld and riches? | Part 1: Hades // Part 2: Pluto | C
+T35 | Biology | What food is sometimes mixed with pigments to make tempera because of its adhesive properties? | Egg yolk | Boyd:I | Arushi:I | .Boyd's early answer is not captured; Arushi said rice
+T36 | Pre-Calculus | What is the y-intercept, in coordinate form, of y = 2x squared - 8x - 2? | (0, -2) | Shiven:C
+B36 | Pre-Calculus | What is the value of the cosecant of the angle measure pi over four, in simplest form? | Square root of 2 | C
+T37 | Music | What British singing group sang "Strawberry Fields Forever" and "Hey Jude"? | The Beatles | Owen:C
+B37 | Visual | Part 1: What musical instrument shown here was introduced to the Hawaiian Islands by Portuguese immigrants in the late 19th century and has a name that roughly translates as "jumping flea" in the Hawaiian language? // Part 2: Spell that word. | Part 1: The ukulele // Part 2: U-K-U-L-E-L-E | C
+T38 | Economics | What is the business terminology for costs that do not vary with changes in output? | Fixed costs | Arushi:C
+B38 | Economics | In 2022, which U.S. financial agency investigated which billionaire about his attempt to buy a stake in Twitter? | The Securities and Exchange Commission and Elon Musk | C
+T39 | Vocabulary | What ten letter word beginning with U means one-sided, as in an action or decision by one involved party without the agreement of the others? | Unilateral | Boyd:C
+B39 | Vocabulary | Part 1: What is the superlative of the adjective "bad"? // Part 2: What five letter word is the superlative of the adjective "little"? | Part 1: Worst // Part 2: Least | P10 | .the team said "small" for Part 2
+T40 | Geology | What geological era means "middle life" and includes the Triassic, Jurassic and Cretaceous periods? | The Mesozoic era | Amanda:C
+B40 | Geology | What are two of the four most plentiful elements in the Earth's crust? | Any two of: oxygen, silicon, aluminum, iron | P10 | .the team said carbon and aluminum; only aluminum counted, for ten points
+T41 | Chemistry | What is the chemical formula for nitric oxide? | NO | Shiven:I | 1:I | .Shiven said NO2; Morristown conferred on the steal and the host would not take it ("can't confer on tossups")
+T42 | Sports | What international sport popular in Great Britain features wickets, stumps and bails? | Cricket | Hayden:C
+B42 | Sports | 110 years after being stripped of his gold medals for violating strict amateur rules, which Native American, considered one of the greatest all-around athletes of all time, was reinstated in 2022 as the sole winner of the 1912 Stockholm Olympic pentathlon and decathlon events? | Jim Thorpe | I | .the team said Usain Bolt
+T43 | U.S. History | Which U.S. president presided over the Era of Good Feelings? | James Monroe | Arushi:C
+B43 | U.S. History | In 1947, civil rights leader Bayard Rustin and three other men launched a protest to challenge Jim Crow laws that mandated segregation on buses and were sentenced to work in a chain gang in North Carolina. By what name was the protest known? | The Journey of Reconciliation | I | .the team said "bus riders/Freedom Riders"; the host said that was the later Freedom Rides
+T44 | Literature | Who wrote the Canterbury Tales? | Geoffrey Chaucer | Arushi:C
+B44 | Literature | Name four of the 15 Americans who have won the Nobel Prize in Literature. | Any four of the American laureates, e.g. Faulkner, Steinbeck, Hemingway, Morrison | P10 | !the team named Faulkner, Steinbeck, "Hathaway" and Robert Frost; the host credited only Faulkner and Steinbeck (10 points) and said he could not find the other two on the list (the captions' "Hathaway" may be Hemingway, who did win); the game ended after this bonus

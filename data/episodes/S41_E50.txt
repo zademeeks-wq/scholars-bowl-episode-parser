@@ -1,0 +1,78 @@
+@EP S41 E50
+@ROUND Round of 16
+@TEAMS Hardin Valley Academy | South Greene High School
+@R1 Ryan, Brock, Zeno, Zoe, Samir
+@R2 Gavin, James, Benji, Aiden, Noah, Trevor, Nate, Brenna
+# South Greene's stealing players are often garbled in the captions ("Angie", "Dana", "Kevin").
+# ---- first half ----
+T1 | Religion | What is the ninth month of the Islamic calendar observed by Muslims worldwide? | Ramadan | 1:C | .buzzer not named; team from "religion bonus for Hardin Valley"
+B1 | Religion | Part 1: What is the last book of the New Testament of the Bible? // Part 2: Who is believed to have written the book of Revelation? | Part 1: Revelation // Part 2: John | P10 | .host said the book is singular ("Revelation"); 10 points
+T2 | Literature | In which Edgar Allan Poe story does an old man's oddly clouded eye lead to murder? | The Tell-Tale Heart | Benji:C
+B2 | Literature | Part 1: What American novel begins as follows: "The cold passed reluctantly from the earth, and the retiring fogs revealed an army stretched out on the hills, resting"? // Part 2: Who wrote it? | Part 1: The Red Badge of Courage // Part 2: Stephen Crane | I | .team had no answer
+T3 | Math | How many hours are there from 9 p.m. to 10 a.m.? | 13 | Benji:C
+B3 | Visual | Given that y varies inversely with x, if y equals 16 when x equals 5, find x when y equals 8. | 10 | I | .team said 13
+T4 | Physics | What 11 letter word beginning with E refers to a state in which opposing forces or influences are balanced? | Equilibrium | Benji:C
+B4 | Physics | What phenomenon scatters a light beam by suspended particles in a gas or liquid? | The Tyndall effect | I | .team said refraction
+T5 | U.S. History | During Theodore Roosevelt's administration in 1907, which state became the 46th admitted to the Union? | Oklahoma | Zoe:I | 2:I | .Zoe said South Dakota; South Greene said North Dakota
+T6 | Vocabulary | Finish this phrase: The pen is mightier than the what? | Sword | Zoe:C
+B6 | Vocabulary | A cruciverbalist is someone skilled at creating or solving what, like word puzzles? | Crossword puzzles | C
+T7 | Astronomy | On December 14th, 1972, Gene Cernan became the last Apollo astronaut to do what? | Walk on the moon | Zoe:C
+B7 | Astronomy | LignoSat, which was built by Japanese researchers, flown to the International Space Station and deployed into Earth's orbit in 2024, is the world's first satellite made of what renewable substance? | Wood | I | .team said carbon
+T8 | Biology | Even though they are not reptiles, what amphibians are sometimes called spring lizards in the southern Appalachians? | Salamanders | 1:I | 2:C | .HVA's first buzzer not named (said frogs); South Greene's stealing player garbled in captions ("Angie")
+B8 | Biology | Sea cucumbers are echinoderms from the same phylum of marine animals that includes sea urchins and what creature that is illustrated as a cartoon character named Patrick? | Starfish (sea star) | C
+T9 | Government | Which amendment to the U.S. Constitution changed the date of assuming the office of president from March 4th to January 20th? | 20th Amendment | Zoe:C
+B9 | Government | Which jurisdiction's citizens were able to vote in presidential elections after the passage of the 23rd Amendment? | District of Columbia (Washington, D.C.) | C
+T10 | Miscellaneous | What is the smallest country in the world? | Vatican City | James:I | Zoe:C | .James said Andorra
+B10 | Visual | What is the name that was coined by a Puerto Rican comedian of the bloodsucking creature in Latin American folklore, illustrated here, that was first reported after eight sheep were killed in 1995? | Chupacabra | Zoe:C | .answer garbled in captions ("a chip a copra")
+T11 | Foreign Language | What is the English translation of the Spanish phrase "[unclear: chaos]"? | [unclear] | 1:C | !Spanish phrase and the answer are both garbled in captions ("chaos", "Sociedade sprog"); the recorded response was "What is the city?" (possibly "the city") and the host said correct; team from the bonus deferral to Brock
+B11 | Foreign Language | What is the Spanish phrase for "credit card"? | Tarjeta de crédito | Brock:C
+T12 | Algebra | What is 27 raised to the two thirds power? | 9 | Ryan:C
+B12 | Algebra | What are the two solutions of the equation absolute value of 4x minus 8 equals 24? | x = 8 and x = -4 | P10 | .team said 8 and -8; only 8 counted
+T13 | Chemistry | What is the simplest carbon containing molecule with one carbon atom and four hydrogen atoms? | Methane | Ryan:C | .name read from "Brian"
+B13 | Chemistry | If uranium-238 releases one alpha particle via radioactive decay, what is the atomic mass of the remaining product? | 234 | Brock:I | .team said 96
+T14 | Geography | What is the capital of the Republic of Austria? | Vienna | Zeno:C
+B14 | Geography | Part 1: What is the largest country in Africa by area? // Part 2: What is the largest country in North America by area? | Part 1: Algeria // Part 2: Canada | Zoe:C
+T15 | Architecture | What is the term for an architectural illustration depicting a building's exterior? | Elevation | 1:I | 2:I | .HVA's first buzzer not named (said blueprint); South Greene's stealing player garbled in captions ("Dingy")
+T16 | Spelling | To accentuate means to stress or emphasize. Spell "accentuate." | A-C-C-E-N-T-U-A-T-E | ?:C | .buzzer and team not identified in captions
+B16 | Spelling | Part 1: Spell "Taurus," as in the constellation and zodiac sign. // Part 2: Spell "torus," as in a donut shaped object. | Part 1: T-A-U-R-U-S // Part 2: T-O-R-U-S | P10 | .Part 2 missed
+T17 | History | What was the first capital of the unified kingdom of Upper and Lower Egypt? | Memphis | Zoe:C
+B17 | History | In 2024, archaeologists using aerial lidar, or light detection and ranging equipment, in the Mexican state of Campeche found thousands of never before seen structures belonging to what civilization that lived there from about 1000 BC to 1500 AD? | The Maya | I | .team said the Aztecs
+T18 | Health | What colorless liquid, abbreviated CSF, cushions and protects the brain and spinal cord? | Cerebrospinal fluid | Benji:C
+B18 | Health | The surgery to repair a torn ulnar collateral ligament inside the elbow by replacing it with a tendon from elsewhere in the body is named after what Major League Baseball pitcher who played for 13 seasons before having the surgery and another 13 seasons after the successful surgery? | Tommy John | Gavin:C | .answering player read from "Kevin"
+T19 | Economics | [unclear] | [unclear] | ?:C | !question text and answer not captured (the host's joke about spinach sales replaced them); player and team not identified
+B19 | Economics | If $500 is deposited into a savings account that pays a fixed interest rate of 2% compounded annually, how long would it take for the money to double in value? | About 36 years | I | .team said 50 years
+# ---- second half ----
+T20 | Foreign Language | What is the Italian word for milk that is used in English when ordering an espresso with milk? | Latte | Benji:C
+B20 | Foreign Language | What two word phrase that literally translates to "lost bread" is used to order French toast in French? | Pain perdu | I | .team had no answer
+T21 | Geometry | What is the sum of the degrees of the exterior angles of a dodecagon? | 360 degrees | Benji:C
+B21 | Geometry | If a circle's circumference is 28 pi, what is the area of that same circle in terms of pi? | 196 pi | C
+T22 | Geology | Which precious gem is the birthstone for September? | Sapphire | Benji:I | Samir:I | .Benji said ruby; Samir said diamond
+T23 | Government | Which branch of the U.S. government can deny the president the use of executive privilege? | The judicial branch | Zoe:I | 2:C | .Zoe said the executive branch; South Greene's stealing player garbled in captions ("Angie")
+B23 | Government | Which four U.S. presidents served their entire term without a vice president? | John Tyler, Millard Fillmore, Andrew Johnson, Chester A. Arthur | P5 | .team named Andrew Johnson, Martin Van Buren, John Quincy Adams and George Bush; only Andrew Johnson counted
+T24 | Sports | Which is the only NFL team to win the Super Bowl after having gone undefeated in the regular season and playoffs? | Miami Dolphins | 1:C | .buzzer not named; team from the bonus deferral to Samir
+B24 | Sports | Name two NBA franchises based in Florida. | Miami Heat and Orlando Magic | Samir:C
+T25 | English | What is the term for verbs that do not follow the normal patterns for tense and past participle? | Irregular verbs | Zoe:C
+B25 | Visual | Using either "accept" or "except," spell the word that correctly fills the blank in the sentence shown here: The Civic Coliseum does not [blank] cash. | A-C-C-E-P-T | Brock:C
+T26 | Chemistry | An ion with a charge of negative one that contains ten electrons has what atomic number? | 9 | Benji:I | 1:C | .Benji said 12; Hardin Valley's stealing player garbled in captions ("Xanadu", probably Zeno)
+B26 | Chemistry | In 2024, the U.S. Air Force announced it is seeking novel approaches to generate power at its bases, including the electrolysis of water to separate the molecules and use which element as a green fuel? | Hydrogen | C | .team first said oxygen, then hydrogen
+T27 | Science | In which layer of the atmosphere are the jet streams located? | Troposphere | Benji:I | 1:C | .Benji said thermosphere; Hardin Valley's stealing player garbled in captions ("Dana")
+B27 | Science | What temperature in Fahrenheit is equal to -5 degrees Celsius? | 23 degrees Fahrenheit | C
+T28 | Geography | How many states border Missouri? | Eight | Zoe:C
+B28 | Geography | List four of the states that border Missouri. | Any four of: Arkansas, Illinois, Iowa, Kansas, Kentucky, Nebraska, Oklahoma, Tennessee | Zeno:P15 | .team listed Missouri itself among the first four answers, so three counted (15 points)
+T29 | Religion | What religious movement of the 1500s led to Protestantism? | The Protestant Reformation | ?:C | .player and team not identified in captions
+B29 | Religion | Part 1: Upon Japan's surrender at the end of World War II, Allied powers believed a constitutional form of government could not be put into place as long as the Japanese people considered the emperor to be the ultimate authority in what national religion? // Part 2: Which emperor was forced to renounce his divine status? | Part 1: Shintoism // Part 2: Hirohito | I | .team said Zen Buddhism and feudalism
+T30 | Vocabulary | What nine letter word beginning with T is a synonym for garrulous? | Talkative | NB | | .nobody buzzed; the host gave the answer
+T31 | Pre-Calculus | Finish the trig identity: one plus tangent squared equals what? | Secant squared | Zeno:I | | .Zeno said cosecant squared; steal offered to South Greene, no answer captured
+T32 | Biology | What is the name for a group of porcupines? | A prickle | Zoe:I | | .Zoe said "a spine"; steal offered to South Greene, no answer captured
+T33 | History | Who succeeded Lenin as the leader of the Soviet Union in 1924? | Joseph Stalin | Zoe:C
+B33 | World History | Who invented the vulcanization process that made possible the commercial use of rubber? | Charles Goodyear | I | .team said Louis Pasteur
+T34 | Art | Which museum houses the Mona Lisa and Venus de Milo? | The Louvre | Benji:C | .answer garbled in captions ("live")
+B34 | Visual | Part 1: Which French sculptor designed the statue, originally known as Liberty Enlightening the World, seen here? // Part 2: Who wrote The New Colossus, a sonnet mounted on a bronze plaque inside the pedestal's lower level that begins with the line "Give me your tired, your poor"? | Part 1: Frédéric Auguste Bartholdi // Part 2: Emma Lazarus | I | .team said Louis Eiffel for Part 1 and had no answer for Part 2
+T35 | Spelling | Spell the word "reconnaissance," which is a military observation of a region. | R-E-C-O-N-N-A-I-S-S-A-N-C-E | Benji:I | 1:C | .Benji misspelled it; Hardin Valley's stealing player garbled in captions ("General")
+B35 | Spelling | Spell "approximation," meaning close but not exact. | A-P-P-R-O-X-I-M-A-T-I-O-N | C
+T36 | Technology | What term is used to describe an individual with a presence on social media who uses their platform to affect the opinions and behavior of groups? | Influencer | Zoe:C | .cut off by buzz
+B36 | Technology | During the 2023 actors strike, Keira Knightley said she was concerned about the rise in artificial intelligence and believed she needed to take steps to protect and possibly copyright what? | Her likeness (her face) | C
+T37 | Astronomy | Which constellation that is one of the prominent features of the summer skies in the northern hemisphere has a name that is Latin for archer? | Sagittarius | Zoe:I | | .Zoe said Orion; steal offered to South Greene, no answer captured
+T38 | U.S. History | Which of the 13 colonies refused to send a delegate to the Constitutional Convention? | Rhode Island | Zoe:I | Benji:I | .Zoe said Georgia; Benji said South Carolina
+T39 | Foreign Language | What is the English translation of the French word "aujourd'hui"? | Today | NB | | .nobody buzzed; the host gave the answer
+T40 | Literature | Three films based on which book by Mario Puzo tell the story of the Corleone organized crime family? | The Godfather | NB | | .the buzzer ended the game before anyone answered

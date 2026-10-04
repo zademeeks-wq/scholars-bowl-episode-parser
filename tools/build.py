@@ -406,6 +406,15 @@ def locate(ep_lines, rows):
                         break
             if found is not None:
                 break
+        if found is not None:
+            # a bonus can start with words that also occur in the tossup just before it, so
+            # prefer the nearby candidate whose tight window covers the whole key best
+            tight, best = 2 * len(key) + 8, -1.0
+            for q in range(found, min(len(words), found + win)):
+                if any(tok_match(words[q], key[j]) for j in range(min(3, len(key)))):
+                    sc = coverage(key, words[max(0, q - 2):q + tight])
+                    if sc > best + 1e-9:
+                        best, found = sc, q
         if found is None:
             starts.append(None)
         else:

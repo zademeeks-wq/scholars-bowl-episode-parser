@@ -1,0 +1,97 @@
+@EP S41 E49
+@ROUND Round of 16
+@TEAMS Webb School of Knoxville (Penny's team) | Webb School of Knoxville (Daisy's team)
+@R1 Sam, Jackson, Penny, Stephen, James, Ridge
+@R2 Nolan, Alexandra, Daisy, Alex, Isaac, Kaiser
+# Two teams from the same school.
+# ---- first half ----
+T1 | Literature | Thneedville is the setting for a film based on which 1971 Dr. Seuss book? | The Lorax | Penny:C | .cut off by buzz
+B1 | Literature | Part 1: Which series of books includes the characters named [unclear], Tonks and Peeves? // Part 2: Who wrote the Ramona Quimby series of children's books? | Part 1: Harry Potter // Part 2: Beverly Cleary | C | .first character name garbled in captions ("fedora")
+T2 | History | During World War II, what computer scientist played a crucial role in cracking intercepted coded messages that enabled the Allies to defeat the Axis powers in many crucial engagements? | Alan Turing | 1:I | 2:I | .Penny's team's buzzer was off by one letter; Daisy's team said the Navajo code talkers
+T3 | Chemistry | 18 karat gold contains what percentage of pure gold? | 75% | Nolan:I | Penny:I | .Nolan said 60%; Penny said 80%
+T4 | Algebra | What type of polynomial is three x squared plus four x plus six? | Quadratic | Penny:C
+B4 | Algebra | What is the sum of the square root of 48 and the square root of 27 in simplified radical form? | 7√3 | C
+T5 | Foreign Language | What is the national language of Senegal? | French | Alex:C
+B5 | Foreign Language | What is the French word for a pastry shop which is more specialized than a bakery? | Pâtisserie | C
+T6 | Vocabulary | What nine letter noun beginning with O means exclusion from a society or group? | Ostracism | Penny:C
+B6 | Vocabulary | Part 1: What 12 letter word beginning with E is the antonym of understatement? // Part 2: Now spell "exaggeration." | Part 1: Exaggeration // Part 2: E-X-A-G-G-E-R-A-T-I-O-N | Sam:C
+T7 | Geography | What is the name of the body of water that separates Spain from Africa? | Strait of Gibraltar | Penny:I | Nolan:C | .Penny's answer garbled in captions ("Gilbert Trier")
+B7 | Geography | Part 1: In which state is Devils Tower National Monument? // Part 2: In which state is the General Grant National Memorial? | Part 1: Wyoming // Part 2: New York | I | .team said Arizona and Virginia, then Pennsylvania
+T8 | Biology | What type of animal has an exoskeleton, a head, thorax and an abdomen? | Insect | Sam:C | .cut off by buzz; team from "visual bonus now for Webb" and Sam's team
+B8 | Visual | Part 1: What is the term for the insect shown here that is marked with nontoxic paint? // Part 2: What is the 11 letter word beginning with S that is used by beekeepers to describe the replacement of an existing queen by her daughter? | Part 1: Queen bee // Part 2: Supersedure | P10 | .team said "summation" for Part 2
+T9 | Geology | What is the name of the widely used system to measure the strength of earthquakes that was introduced in 1935? | The Richter scale | Alex:C
+B9 | Geology | In the next decade, NASA aims to mine resources on the moon, including which chemical element with the electron configuration argon 4s2 3d6? | Iron | I | .team said copper
+T10 | Art | Which artist who hosted the PBS television program The Joy of Painting was recognizable by his curly hair and happy little trees? | Bob Ross | Penny:C
+B10 | Art | What French artist with a large following on social media teaches oil painting for beginners using the 19th century Italian method in a YouTube video with 3.8 million views? | Florent Farges | I | .team guessed Mr. Beast
+T11 | English | In binomial nomenclature, is the genus or species, or both or neither capitalized? | The genus | Sam:C
+B11 | English | What is the term for a word that introduces a dependent clause? | Subordinating conjunction | Sam:C
+T12 | U.S. History | How was the numerical order of the original 13 states determined? | The order in which they ratified the Constitution | Sam:C
+B12 | U.S. History | Part 1: Which general was removed from command of the Army of the Potomac by President Lincoln in 1862 and then ran unsuccessfully against Lincoln in the 1864 presidential election? // Part 2: McClellan commanded the Union forces on the bloodiest day in U.S. military history during which battle? | Part 1: George McClellan // Part 2: The Battle of Antietam | C | .Part 2 answer not captured; host said "indeed"
+T13 | Science | What is the term for a material containing hydrocarbons such as coal, oil or natural gas that is formed naturally in the Earth's crust? | Fossil fuel | Penny:C
+B13 | Science | What temperature in Celsius is equal to 50 degrees Fahrenheit? | 10 degrees Celsius | I | .team said 120
+T14 | Math | What is the least common multiple of 12 and 18? | 36 | 2:I | Stephen:I | .Daisy's team's buzzer not named; Stephen said 3 on the steal
+T15 | Religion | What is the only miracle of Jesus that is recounted in all four gospels? | Feeding of the 5,000 | Sam:C
+B15 | Religion | What were the two sinful cities that God destroyed with fire and brimstone in the book of Genesis? | Sodom and Gomorrah | I | .team said Jericho and Nazareth
+T16 | Foreign Language | What is the Spanish word for Wednesday? | Miércoles | Sam:C
+B16 | Foreign Language | Translate the French phrase "je ne parle pas anglais" into Spanish. | No hablo inglés | I | .French phrase reconstructed from garbled captions; team's answer did not match
+T17 | Government | A state law requires people using the waterways in Tennessee to wear a life jacket if under what age? | 12 | Stephen:C | .name read from "Stacy"
+B17 | Government | Under which two presidents did the Indian Removal Act occur? | Andrew Jackson and Martin Van Buren | C
+T18 | Physics | What is an instrument that measures wind speed and wind pressure? | Anemometer | Alex:C | .Alex also said barometer; host accepted anemometer
+B18 | Physics | Barry Barish and Kip Thorne were awarded the 2017 Nobel Prize in Physics for detecting what cosmological phenomenon that had been predicted about 100 years before by Albert Einstein? | Gravitational waves | Alex:C
+T19 | Geography | Which landlocked South American country borders Chile and Brazil? | Bolivia | Daisy:C
+B19 | Geography | In 2023, a Chinese dissident fled to South Korea by riding a jet ski approximately 200 miles across which body of water? | The Yellow Sea | C
+T20 | Music | Who was the songwriter and lead singer of Queen's song Bohemian Rhapsody? | Freddie Mercury | Daisy:C
+B20 | Music | Part 1: Give the title of the classic country music song that begins "Blame it all on my roots, I showed up in boots." // Part 2: Which country music superstar had an award winning hit with that song? | Part 1: Friends in Low Places // Part 2: Garth Brooks | C
+T21 | Literature | What is the title of the novel by John Green about a 16 year old girl with thyroid cancer? | The Fault in Our Stars | Daisy:I | Penny:I | .Daisy said Looking for Alaska; Penny said Me and Earl and the Dying Girl
+T22 | Economics | What is the official currency in Lebanon? | The Lebanese pound | Nolan:C
+B22 | Economics | What company's logo of four interlocking rings symbolizes the 1932 merger of four previously independent German automobile manufacturers? | Audi | C
+T23 | Health | What field of medicine deals with the use of medicines to prevent pain during surgery and other procedures? | Anesthesiology | Penny:C
+B23 | Health | What is the large triangular bone at the base of the spine with a name derived from the Latin word for holy? | The sacrum | I | .team said the thorax
+T24 | Geometry | Point B is located between points A and C. If AB equals 9 and AC equals 31, what is the length of BC? | 22 | Alexandra:I | Sam:C | .Alexandra said 20
+B24 | Visual | Solve the combined inequality 12 is less than 6x plus 3 is less than 30, and describe the graph of the solution on a number line. | 1.5 < x < 4.5, graphed with open circles and the region between shaded | U | !result unclear: time ran out in the first half; captions garble the inequality and the team's answer (2 < x < 4?); answer calculated from the inequality as heard
+# ---- second half ----
+T25 | Miscellaneous | Which phobia is a fear of corpses? | Necrophobia | Sam:C
+B25 | Miscellaneous | Which one of Tennessee's official state wildflowers, also commonly known as the maypop or the Ocoee, derived its name from early Christian missionaries to South America who saw parts of the flower as symbols of the crucifixion? | Passion flower | I | .team said iris
+T26 | Games | The word checkmate in chess comes from the Persian phrase shah mat, which translates to what? | The king is dead | Penny:C | .Persian phrase reconstructed from captions ("Sean Marcus")
+B26 | Games | What puzzle game has players complete lines of blocks by moving differently shaped pieces that descend onto the playing field? | Tetris | C
+T27 | History | What word beginning with the letter S is the formal term for the right to vote? | Suffrage | Sam:C
+B27 | Visual | In 2023, scholars trained AI algorithms to detect the presence of ink on virtually unwrapped CT images, shown here, of charred scrolls that were first discovered in 1752 in the ruins of Herculaneum, a small town near Naples that was destroyed in 79 AD by the eruption of what volcano? | Mount Vesuvius | C
+T28 | Biology | The type of pet parakeet known as a budgie is native to what continent? | Australia | Daisy:C
+B28 | Biology | In 2019, a trove of Aztec sacrifices were discovered in Mexico City, including the remains of an animal dressed as a warrior belonging to what species of large cat that was worshiped by the Aztecs, Incas and Maya? | Jaguar | C
+T29 | Religion | What is the title of the spiritual leader of a Jewish synagogue or temple? | Rabbi | ?:C | .player and team not identified in captions
+B29 | Religion | In 2022, mummies with gold chips for tongues were discovered in Egypt. Experts believe the chips were placed so the deceased could speak to which ancient Egyptian god of the underworld? | Osiris | I | .team said Anubis
+T30 | Architecture | What is the name of the crowning feature of a column? | Capital | Jackson:C
+B30 | Architecture | What modern art museum on the National Mall in Washington, DC is located in a unique cylindrical building with a sculpture garden? | Hirshhorn Museum and Sculpture Garden | Jackson:I | .team said the Smithsonian
+T31 | Vocabulary | What eight letter word beginning with R is a synonym for germane? | Relevant | NB | | .nobody buzzed; the host gave the answer
+T32 | Geography | In which state does the Snake River start before flowing through Idaho? | Wyoming | Daisy:I | Penny:I | .Daisy said Arizona; Penny said Montana
+T33 | Astronomy | Which type of telescope is used for examining the moon and other planets of the solar system? | Refracting telescope | Daisy:I | 1:I | .Daisy said lunar; Penny's team's stealing player said Hubble
+T34 | Pre-Calculus | What is the value of cosine 120 degrees in simplest form? | -1/2 | Sam:C
+B34 | Pre-Calculus | What trigonometric function is the result of the quotient of cosine x divided by sine x? | Cotangent | C
+T35 | Foreign Language | What is the Spanish word for Monday? | Lunes | Daisy:I | Jackson:C | .Daisy said "Luna"
+B35 | Foreign Language | Translate the road sign reading "Mantenga su derecha," as shown here, from Spanish to English. | Keep right | C | .Spanish phrase reconstructed from garbled captions
+T36 | Spelling | Spell "labyrinth." | L-A-B-Y-R-I-N-T-H | Daisy:C
+B36 | Spelling | Ignominious means deserving or causing public disgrace or shame. Spell "ignominious." | I-G-N-O-M-I-N-I-O-U-S | C | .spelling garbled in captions
+T37 | U.S. History | Who was the English Quaker leader who oversaw the founding of Pennsylvania? | William Penn | Daisy:C
+B37 | U.S. History | Warren G. Harding's term as U.S. president was between that of which two other presidents? | Woodrow Wilson and Calvin Coolidge | I | .team said Cleveland and Monroe
+T38 | Science | Express the number 30,000 in scientific notation. | 3 × 10⁴ | Alex:I | James:C | .Alex said 3 × 10³
+B38 | Science | Part 1: Exactly how many centimeters are in an inch? // Part 2: How many ounces are in a quart? | Part 1: 2.54 // Part 2: 32 | Sam:P10 | .team said 16 and 8 for Part 2
+T39 | Literature | What classic Chinese novel, published in the 16th century, features a monk's legendary travels with the Monkey King to retrieve sacred texts? | Journey to the West | James:C
+B39 | Literature | Part 1: A British author's opinion column about her top ten favorite aunts in literature includes what character who is a sister to Lily Potter and who, along with her husband, allowed Harry to live in the cupboard under the stairs? // Part 2: What is the name of Petunia's son, who is Harry Potter's cousin? | Part 1: Petunia Dursley // Part 2: Dudley Dursley | C
+T40 | Sports | What international sport, especially popular in India and other former British colonies, features wickets? | Cricket | ?:C | .cut off by buzz; player and team not identified
+B40 | Sports | Part 1: In football, what virtual marker separates the two teams at the beginning of each play? // Part 2: What term is used to describe a defensive player catching a pass intended for an offensive player? | Part 1: Line of scrimmage // Part 2: Interception | C
+T41 | Music | Which style of music was composed mostly between 1600 and 1750? | Baroque | Sam:C
+B41 | Music | What word on a score instructs a string player to use their bow, as opposed to plucking the strings by hand? | Arco | James:I | .James said staccato
+T42 | Government | What Latin word meaning "I forbid" is used to describe a government's rejection of a proposal? | Veto | Alex:C
+B42 | Government | Part 1: What is the term for a symbol or words legally registered or established by use as representing a company or product? // Part 2: The United States Patent and Trademark Office is a federal agency within what cabinet level department? | Part 1: Trademark // Part 2: Department of Commerce | P10 | .team said Treasury for Part 2
+T43 | Biology | What is the carbohydrate material in insect exoskeletons? | Chitin | Alex:C
+B43 | Biology | Generations of Inuit hunters have hunted and consumed narwhals, which have skin that is an important source of what vitamin also found in citrus fruit? | Vitamin C | C
+T44 | Math | In simplest form, what is one half raised to the negative fourth power? | 16 | Sam:C
+B44 | Math | The first two terms of an arithmetic sequence are 12 and 7. Find the 10th term of the sequence. | -33 | C
+T45 | Religion | What is the name of the group of Roman Catholic bishops and archbishops who advise the Pope and elect new popes? | The College of Cardinals | James:I | | .James said "the cardinals"
+T46 | Literature | What was the name of Dr. Seuss's egg catching elephant? | Horton | Alex:C
+B46 | Literature | Part 1: What children's novel includes the quote "You don't have to live forever, you just have to live"? // Part 2: Who wrote Tuck Everlasting? | Part 1: Tuck Everlasting // Part 2: Natalie Babbitt | I | .team said Harry Potter and S.E. Hinton
+T47 | Geography | Winnipeg is the capital of which Canadian province? | Manitoba | Penny:I | Nolan:I | .Penny said Ontario; Nolan said Alberta
+T48 | Astronomy | How many times larger is the radius of the sun than that of the Earth? | About 109 times | Alex:I | 1:I | .Alex said 1,000; Penny's team's stealing player said 400
+T49 | Art | In the Peanuts comic strip and Charlie Brown cartoon specials, which character offers psychiatric help for a nickel? | Lucy | James:C
+B49 | Art | In 2023, the town of Shrewsbury, England displayed surrealist sculptures by what Spanish artist who is well known for his painting of softened solid objects inspired by seeing a piece of runny Camembert cheese melting in the sun? | Salvador Dalí | C
+T50 | Music | Who composed a collection of preludes and fugues known as The Well-Tempered Clavier? | Johann Sebastian Bach | James:U | !result not captured: game ended; the host joked that the points no longer mattered

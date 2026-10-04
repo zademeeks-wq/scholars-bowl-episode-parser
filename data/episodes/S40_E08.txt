@@ -1,0 +1,86 @@
+@EP S40 E08
+@ROUND Round 1
+@TEAMS Dobyns-Bennett High School (Abby's team) | Somerset High School (KY)
+@R1 Anton, Justin, Abby, Mulan, Eleanor, Derek, E.J.
+@R2 Quinton, Blake, John, Caroline, Kate
+# Dobyns-Bennett has two teams in the tournament; this one is captained by Abby. John is Somerset's captain. The captions render Mulan as "Milan". Derek, E.J. and Eleanor (DB) enter at halftime. Somerset won.
+# ---- first half ----
+T1 | U.S. History | The American Revolutionary War began with which battle in 1775? | The Battles of Lexington and Concord | Justin:C
+B1 | U.S. History | Part 1: Who was U.S. president during the 1964 World's Fair? // Part 2: Who was president when the Hubble Space Telescope was placed in orbit in 1990? | Part 1: Lyndon B. Johnson // Part 2: George H. W. Bush | I | .no answer for Part 1; the team said Nixon for Part 2
+T2 | Sports | In bowling, what is the term for knocking down all ten pins in two bowls? | A spare | Justin:I | Caroline:C | .Justin said "strike"; the host said "in two bowls" was the rest of the question
+B2 | Sports | Who was the last NBA Rookie of the Year to have entered the league straight out of high school? | LeBron James | C
+T3 | Astronomy | What is the galaxy that includes our solar system with a name describing its appearance? | The Milky Way | Mulan:C | .buzzer name read from "Milan"
+B3 | Astronomy | Using his telescopes, Galileo helped prove the heliocentric model previously suggested by Nicolaus Copernicus and others. What is the heliocentric model? | The Earth and all the planets orbit the sun | Justin:C
+T4 | Literature | What Dr. Seuss character lived just north of Whoville? | The Grinch | Caroline:C
+B4 | Literature | Part 1: In "A Visit from St. Nicholas," St. Nick's nose was like what? // Part 2: His belly was compared to what? | Part 1: Cherries // Part 2: A bowl full of jelly | Blake:C
+T5 | Health | What is the structural protein to which some people have an intolerance that is naturally found in cereal grains like wheat, rye and barley? | Gluten | Mulan:I | Caroline:C | .Mulan said lactose
+B5 | Health | There were 15 cases of leprosy in Florida in the first half of 2023, most of which were caused by contact with which animal that has a leathery armor shell and long sharp claws? | The armadillo | I | .team said alligator
+T6 | Geography | Which waterway connects the Red Sea to the Mediterranean Sea? | The Suez Canal | Mulan:C
+B6 | Visual | Which country is highlighted on the map shown here? | Mongolia | C | .the team first said Angola and then Mongolia
+T7 | Foreign Language | "Mardi Gras" is a French phrase that translates to what? | Fat Tuesday | Mulan:I | Caroline:I | .Mulan's answer was not clear in captions; Caroline said "overindulgence"
+T8 | Technology | What is another term for the base two system? | Binary | Mulan:C
+B8 | Technology | In terms of internet connections, what do the letters VPN represent? | Virtual private network | C
+T9 | Religion | Who is credited with originating the Protestant Reformation? | Martin Luther | Quinton:C
+B9 | Religion | In 1847, after 17 months of travel, which man led 148 Mormon pioneers from Illinois into Utah's Valley of the Great Salt Lake? | Brigham Young | I | .team said Joseph Smith (and Bessie Smith)
+T10 | Geometry | The ratio of the angles of a triangle is 3 to 4 to 5. What is the measure of the smallest angle? | 45 degrees | John:C
+B10 | Geometry | What diameter of tablecloth is needed to completely cover a round top table that is 20 inches across and 25 inches high? | 70 inches | I | .team said 25
+T11 | Government | What kind of speech does the loser typically give after an election? | A concession speech | John:C
+B11 | Government | Who was a patriot, an abolitionist, a founding father, president of the Second Continental Congress and the first Chief Justice of the Supreme Court? | John Jay | I | .team said John Adams
+T12 | Miscellaneous | Complete the expression: practice what you ___. | Preach | Mulan:I | John:C | .Mulan said "play"
+B12 | Miscellaneous | Part 1: Identify the other half of the classic comedy duo Laurel and Hardy. // Part 2: Identify the other half of the video game duo Mario and Luigi. | Part 1: Oliver Hardy (Stan Laurel) // Part 2: Mario (Luigi) | C
+T13 | Science | What is the science that is the study of relationships between organisms and their environment? | Ecology | John:I | 1:C | .John said biology; Dobyns-Bennett's stealing player not named
+B13 | Science | The 10,000 year old burial of a female infant discovered in Europe dates back to which archeological period following the Ice Age, when hunting and gathering was the way of life? | The Mesolithic period | I | .team said the Stone Age
+T14 | Mythology | Of what material is the mythological Trojan horse made? | Wood | Caroline:C
+B14 | Mythology | What were the names of the mythical twin sons of Mars who, according to legend, founded Rome in 753 BC? | Romulus and Remus | C
+T15 | Chemistry | A majority of the world's aluminum comes from which ore? | Bauxite | Mulan:I | 2:I | .Mulan said aluminum oxide; Somerset's stealing player not named (said iron)
+T16 | Tennessee History | When Tennessee joined the Union, how many states were already part of the United States? | 15 | Quinton:I | Mulan:C | .Quinton said 14
+B16 | Visual | Who is this businessman and politician, shown here, who served as the 48th governor of Tennessee after serving as the 66th mayor of Nashville? | Phil Bredesen | I | .team (via Justin) said Mike Pence
+T17 | Art | What is the title of the artwork by Charles M. Schulz that appeared in seven different newspapers starting in 1950? | Peanuts | Caroline:C
+B17 | Art | What famous photographer, born in 1902, is known for the photo "Moonrise, Hernandez, New Mexico"? | Ansel Adams | C
+T18 | Geology | At least 50% of the material in coal is composed of what element? | Carbon | 1:C | .buzzer not named (the captions show "Well, on carbon"); Dobyns-Bennett is inferred from the halftime remark that Somerset led by one tossup and one bonus
+B18 | Geology | Name the two key forces that form metamorphic rock. | Heat and pressure | C
+T19 | English | Where does a suffix attach to a word? | At the end | Mulan:C | .answer not spoken in captions (the host just said that's right)
+B19 | English | Name two of the three punctuation marks that usually come in pairs. | Any two of: parentheses, quotation marks, brackets | P10 | .team said quotation marks and colon; the host took the first two answers
+T20 | Math | What is negative two raised to the sixth power? | 64 | John:C
+B20 | Math | At a blood drive, 18 people had type B blood, which was 15% of the donors. What was the total number of donors? | 120 | C
+T21 | Geography | What is the highest mountain peak in Africa? | Mount Kilimanjaro | Mulan:C
+B21 | Geography | Part 1: Which mountain range is the longest unbroken chain of mountains on the African continent, separating the Mediterranean and Atlantic coastlines from the Sahara Desert and stretching through Morocco, Algeria and Tunisia? // Part 2: What is the longest mountain range in the U.S.? | Part 1: The Atlas Mountains // Part 2: The Rocky Mountains | C
+T22 | Music | In a chorus, what is the highest vocal line? | Soprano | Caroline:C | .the half ended before the bonus was read
+# ---- second half ----
+T23 | Physics | What sound effect is produced when an object moves faster than the speed of sound? | A sonic boom | 1:C | .buzzer not named; team from the bonus deferral to Eleanor
+B23 | Physics | Part 1: What is the SI unit of electrical resistance? // Part 2: What is the SI unit of electrical power? | Part 1: Ohm // Part 2: Watt | Eleanor:I | .team had no answers
+T24 | Literature | Name the book written by S. E. Hinton that is a coming of age story about a group of outsiders (Ponyboy, Darry and Sodapop). | The Outsiders | Caroline:C
+B24 | Literature | Part 1: Name the title character who marries George Knightley, owner of Donwell Abbey. // Part 2: Who wrote Emma? | Part 1: Emma // Part 2: Jane Austen | C
+T25 | Sports | When introduced in 1913, what did the five rings in the Olympic symbol represent? | The five continents | ?:C | .buzzer and team not identified in captions
+B25 | Sports | Over 100 years after swimming in it was banned due to pollution, which river will be clean enough to be used as the venue for the marathon swimming and triathlon events during the 2024 Olympics? | The Seine | I | .team had no answer
+T26 | U.S. History | Of the first six presidents, which was the only one who did not attend college? | George Washington | Abby:C
+B26 | Visual | Part 1: This statue in the U.S. Capitol represents President Harry Truman, who became president after serving 82 days as whose vice president? // Part 2: In what city is the Truman Presidential Library and Museum? | Part 1: Franklin D. Roosevelt // Part 2: Independence, Missouri | P10 | .team said Boston for Part 2
+T27 | Religion | In Buddhist and Hindu belief, what term refers to the ethical consequences of a person's fate? | Karma | Blake:C | .answer not spoken in captions (the host just said yes)
+B27 | Religion | What religion's followers believe in one God but not the Trinity, believe that Jesus Christ died for humankind's sins and are known for their door to door preaching and distributing literature? | Jehovah's Witnesses | C
+T28 | Biology | What is the Japanese art of growing and training miniature trees? | Bonsai | Eleanor:C
+B28 | Biology | Part 1: An estimated 16,000 to 20,000 species of what animal are the top pollinators? // Part 2: What is the scientific study of honeybees? | Part 1: Bees // Part 2: Apiology | P10 | .team had no answer for Part 2
+T29 | Vocabulary | "Indices" is the plural form of what word? | Index | NB | | .nobody answered; the host gave the answer
+T30 | Algebra | Evaluate 2x − 3y − 5z if x = 3, y = 2 and z = 4. | -20 | Quinton:I | Derek:C | .Quinton said zero (name read from "Clinton")
+B30 | Algebra | Given the equation 7x − 20y = 3x − 13y, find the ratio of x to y. | 7 to 4 | I | .team said 4 to 7
+T31 | Economics | What is the term for a period of increased business activity, rising stock prices and prosperity? | A boom | Eleanor:C | .buzzer name read from "Airline"
+B31 | Economics | Part 1: What fashion doll was launched at the New York Toy Fair on March 9th, 1959? // Part 2: What company manufactures the Barbie doll? | Part 1: Barbie // Part 2: Mattel | C
+T32 | Art | What is the term for a hue or mixture of pure colors to which only black is added? | A shade | ?:C | .buzzer and team not identified in captions
+B32 | Art | Part 1: Which two colors are blended to make the color teal? // Part 2: Which two colors are blended to make the color magenta? | Part 1: Blue and green // Part 2: Red and purple | C
+T33 | Chemistry | What is the name of a chemical reaction in which a simple compound breaks down into two or more simpler substances? | Decomposition | John:C
+B33 | Chemistry | What is the unit of energy required to raise the temperature of one gram of water by one degree Celsius? | A calorie | C
+T34 | Foreign Language | What is the Spanish word for book? | Libro | ?:C | .buzzer and team not identified in captions
+B34 | Foreign Language | Part 1: What is the national language of the Netherlands? // Part 2: What is the national language of Denmark? | Part 1: Dutch // Part 2: Danish | C
+T35 | Technology | Which technology allows wireless communication between devices such as phones and earbuds? | Bluetooth | Caroline:C
+B35 | Technology | Part 1: One 2023 survey listed what country that borders Spain on the Iberian Peninsula as the best location for digital nomads? // Part 2: A separate survey listed what state capital, home to the college football Buckeyes, as the best U.S. location for digital nomads? | Part 1: Portugal // Part 2: Columbus, Ohio | C
+T36 | Geography | What is the capital of India? | New Delhi | Quinton:I | Eleanor:I | .Quinton's answer is garbled in captions; Eleanor said Mumbai
+T37 | Music | What is the minimum number of notes needed to form a chord? | Three | John:C
+B37 | Music | Part 1: What is the major key for an instrument like a piano when the key signature has three sharps? // Part 2: What is the major key when the key signature has two flats? | Part 1: A major // Part 2: B-flat major | C
+T38 | Science | What is the branch of engineering that deals with the motion and behavior of projectiles such as bullets, bombs and missiles? | Ballistics | Caroline:C
+B38 | Science | For what disease did American virologist Jonas Salk develop the first safe and effective vaccine? | Polio | C
+T39 | Spelling | Winning the lottery is not an everyday occurrence. Spell "occurrence." | O-C-C-U-R-R-E-N-C-E | John:I | | .John misspelled it; steal offered to Dobyns-Bennett, no answer captured
+T40 | Pre-Calculus | Name the vertex coordinates of the parabola with the equation y = (2x + 3)² + 5. | (-1.5, 5) | John:I | | .John said (-3, 5); steal offered to Dobyns-Bennett, no answer captured
+T41 | Government | What word besides USA has appeared on all first class postage stamps since 2011? | Forever | E.J.:C | .buzzer name read from "E"
+B41 | Government | Which two East Tennessee counties were named for the state's first two U.S. senators? | Blount County and Cocke County | C | .the host's confirmation is cut off in the captions
+T42 | Architecture | What fortress was built by William the Conqueror to protect the capital of England? | The Tower of London | Eleanor:C
+B42 | Architecture | Name two of the three types of Greek columns. | Any two of: Doric, Ionic, Corinthian | Eleanor:P10 | .team said Corinthian, "Classic" and "Obelisk"; the host took the first two answers
+T43 | Health | What is the disease caused by a deficiency of vitamin C? | Scurvy | Quinton:C | .time ran out before the bonus

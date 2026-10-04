@@ -1,0 +1,83 @@
+@EP S40 E09
+@ROUND Round 1
+@TEAMS Gibbs High School | Morristown-Hamblen East High School
+@R1 Jacob, Anna, Rylan, Jackson, Alaric
+@R2 Kingston, Dorian, Hayden, Boyd, Caleb, Melanie
+# Rylan is Gibbs' captain and Hayden is Morristown East's. The captions call Morristown "Mars Town" / "Motown". Alaric (Gibbs) enters at halftime. At halftime the judges awarded Morristown East ten more points for the lawrencium answer (included in B15 below). Morristown East won.
+# ---- first half ----
+T1 | Health | What are the proteins released by B cells when antigens have caused an immune response? | Antibodies | Jacob:C
+B1 | Health | Part 1: In what part of the human body is the carotid artery? // Part 2: In what part of the human body is the tibial artery? | Part 1: The neck // Part 2: The lower leg (calf) | C | .the host accepted "calf" for Part 2
+T2 | Architecture | What railroad station house at 42nd Street and Park Avenue in Manhattan was built in the Beaux-Arts style in the early 20th century and saved in the 1970s by a preservation campaign spearheaded by Jacqueline Kennedy Onassis? | Grand Central Terminal | Jackson:I | | .Jackson said "Grand Central Station"; steal offered to Morristown, no answer captured
+T3 | Religion | What is the name of a Christian bishop's headdress that comes from the Greek word for turban? | A miter | NB | | .nobody answered in the captions; the host gave the answer
+T4 | Government | What is the term for representatives who vote for a specific candidate at their political party convention? | Delegates | 1:C | .buzzer not named; team from the bonus deferral to Jacob
+B4 | Government | Part 1: In 2021, a group of legal academics urged which Supreme Court justice to retire so that the Biden administration could name his successor? // Part 2: Who was confirmed by the Senate as Breyer's replacement? | Part 1: Stephen Breyer // Part 2: Ketanji Brown Jackson | Jacob:P10 | .team said Kamala Harris for Part 1
+T5 | Spelling | A short, entertaining account about a real incident or person is called an anecdote. Spell "anecdote." | A-N-E-C-D-O-T-E | Jacob:C
+B5 | Spelling | To fail to resist pressure, temptation or some other negative force is to succumb. Spell "succumb." | S-U-C-C-U-M-B | Jacob:C
+T6 | Science | What name is given to the mass per unit volume of a substance or solution? | Density | Jacob:C
+B6 | Science | In 2022, new evidence suggested that archaeologist Howard Carter stole treasures from the tomb of the boy king when he discovered it in 1922. Who was the boy king? | King Tutankhamun (King Tut) | C
+T7 | Math | Given that i is the imaginary unit, simplify 2i raised to the fifth power. | 32i | 2:I | | .Morristown's first buzzer not named (answered -5); the steal attempt ran out of time
+T8 | Art | Who painted the mural The Last Supper? | Leonardo da Vinci | Jacob:C
+B8 | Visual | What is the title of the painting shown here, created in 1818 by the German artist Caspar David Friedrich and considered one of the masterpieces of the Romantic movement? | Wanderer Above the Sea of Fog | I | .the team's answer is garbled in captions
+T9 | History | Which bandit terrorized Missouri and surrounding areas for about six years following the Civil War? | Jesse James | NB | | .nobody answered; the host gave the answer
+T10 | Foreign Language | What is the Spanish word for shoes? | Zapatos | Jacob:C
+B10 | Foreign Language | Part 1: What commonly used Latin phrase beginning with B means "in good faith" or "genuine"? // Part 2: What is the literal English translation of the Latin phrase "in vino veritas"? | Part 1: Bona fide // Part 2: In wine, truth | I | .the team's answers were not accepted
+T11 | Geology | What term refers to the low altitude area of a glacier that experiences a net annual loss of ice due to melting, sublimation and other causes? | The ablation zone | Rylan:I | | .Rylan said iceberg; steal offered to Morristown, no answer captured
+T12 | Geography | What is the only country in the world with three capitals? | South Africa | Kingston:C
+B12 | Geography | An expedition was launched in 2022 to retrace the 813 mile desert trek taken from the Persian Gulf to the Red Sea by Harry Philby 105 years earlier, when he was sent to help T. E. Lawrence muster resistance to Ottoman rule during World War I. Which desert did they cross? | The Arabian Desert | I | .the team said "the Arab desert", and the host required the exact name
+T13 | Music | Who composed the symphonic fairy tale for children "Peter and the Wolf"? | Sergei Prokofiev | Anna:I | 2:I | .Anna's name read from "Alan"; her answer was garbled; Morristown's steal said Mozart
+T14 | History | In addition to George Washington, which other delegate to the Constitutional Convention became president of the United States? | James Madison | Hayden:I | Jacob:I | .Hayden said Jefferson; Jacob said John Adams
+T15 | Chemistry | Which chemical element has the symbol Hg? | Mercury | Hayden:C
+B15 | Visual | Part 1: What synthetic chemical element with atomic number 103 and the symbol Lr is named in honor of the inventor of the cyclotron? // Part 2: Spell "cyclotron." | Part 1: Lawrencium // Part 2: C-Y-C-L-O-T-R-O-N | Boyd:C | .the team's pronunciation of "lawrencium" was first judged wrong; at halftime the judges reviewed it and awarded the extra ten points, so the bonus is recorded as 20
+T16 | Vocabulary | What word is used to describe slightly salty water such as that found in marshes near the sea? | Brackish | Jacob:C
+B16 | Vocabulary | Part 1: What eight letter word starting with P means a person who knows and is able to use several languages? // Part 2: Spell that word. | Part 1: Polyglot // Part 2: P-O-L-Y-G-L-O-T | Jacob:C
+T17 | Geometry | The measures of two opposite angles of a rhombus are 3x − 5 and x + 10. Solve for x. | x = 7.5 | Rylan:I | Hayden:I | .Rylan said 3/5; Hayden said 7/2
+T18 | Miscellaneous | According to the proverb, what does the early bird catch? | The worm | Hayden:C | .buzzer name read from "Hey"; the host noted the player had not waited to be called on
+B18 | Miscellaneous | What was the favorite dog breed of Queen Elizabeth II? | The corgi | C
+T19 | Economics | What is the name for the rate that banks charge to large commercial customers with excellent credit for short term loans? | The prime rate | Rylan:I | 2:I | .Rylan said "interest"; Morristown conferred on the steal, which is not allowed on tossups
+T20 | Literature | What is the sacred object sought by the Knights of the Round Table? | The Holy Grail | ?:C | .buzzer and team not identified in captions
+B20 | Literature | What is the three act play written by Tennessee Williams that includes the characters Blanche DuBois and Stanley Kowalski? | A Streetcar Named Desire | I | .team said West Side Story
+T21 | Astronomy | What is the term for the point of the moon's orbit that is closest to Earth? | Perigee | Rylan:I | Boyd:I | .Rylan said elliptical; Boyd said equinox
+T22 | Foreign Language | What does the French expression "j'ai mal à la tête" translate to in English? | I have a headache | NB | | .nobody gave a usable answer; the host explained it means a headache
+T23 | Sports | What is the national sport of Japan? | Sumo wrestling | Hayden:C
+B23 | Sports | Part 1: What do the letters NCAA represent? // Part 2: What do the letters BCS represent in college football? | Part 1: National Collegiate Athletic Association // Part 2: Bowl Championship Series | Kingston:P10 | .team said "college sports" for Part 2
+T24 | Geography | Which range of hills and mountains extends from southern Illinois across Missouri and into Arkansas and Oklahoma? | The Ozark Mountains | Jackson:I | | .Jackson said the Appalachians; steal offered to Morristown, no answer captured; the clock ran out before the next tossup
+# ---- second half ----
+T25 | English | In the sentence "Get away from there," what part of speech is the word "there"? | A noun | 1:I | 2:C | .Gibbs' first buzzer not named (said preposition); Morristown's stealing player not named
+B25 | English | Part 1: Is the following sentence in the active or passive voice? "I will introduce you to my boss this week." // Part 2: Is the sentence "The money was stolen" in the active or passive voice? | Part 1: Active // Part 2: Passive | C
+T26 | Biology | Frog and toad larvae are commonly known as what? | Tadpoles | ?:C | .buzzer and team not identified in captions
+B26 | Biology | Researchers worried that boat traffic near Chilean Patagonia was impacting the foraging and nursing habits of what giant sea creature with the scientific name Balaenoptera musculus? | The blue whale | I | .team said "baleen whales", which the host said was not specific enough
+T27 | Math | What are the next two numbers in the sequence 12, 9, 6, 3, 0? | -3 and -6 | 2:C | .buzzer not named; team from "visual bonus for Morristown"
+B27 | Visual | What is the greatest common factor of the numbers 144 and 84? | 12 | C
+T28 | Music | What billionaire singer-songwriter has had number one hits with "Anti-Hero" and "Cruel Summer"? | Taylor Swift | ?:C | .buzzer and team not identified in captions
+B28 | Music | What Texas-born singer has sold over 25 million albums worldwide and was the first winner of the TV singing competition American Idol? | Kelly Clarkson | C
+T29 | Government | Which political or governmental body has the power to admit new states to the Union? | Congress | 1:C | .buzzer not named; team from "government bonus for Gibbs"
+B29 | Government | Part 1: What document issued by a government official authorizes the police to arrest someone or search their premises? // Part 2: What two word phrase, from the name of a 1966 Supreme Court decision, describes the Fifth and Sixth Amendment protections about which an arrested person must be informed? | Part 1: A warrant // Part 2: Miranda rights | C
+T30 | Vocabulary | What is the indigenous name for the group of culturally similar peoples inhabiting the Arctic and subarctic regions of Alaska, Canada and Greenland? | The Inuit | Boyd:C
+B30 | Vocabulary | What 11 letter word beginning with E is the antonym of "thrifty"? | Extravagant | I | .team said "expensive"
+T31 | Physics | Thirty volts is needed to force a direct current of six amps through a coil. What is the resistance in ohms? | 5 ohms | Jacob:C
+B31 | Physics | Name two of the three types of nuclear reactions. | Any two of: fusion, fission, radioactive decay | Jacob:I | .the team's answers were not accepted
+T32 | Health | What was the first substance successfully used as a surgical anesthetic? | Chloroform (per the host) | Jacob:I | Boyd:I | .Jacob said ether; Boyd's answer was also rejected; the host's answer was chloroform
+T33 | Games | What game for two players uses 64 identical disks that are light on one side and dark on the other, placed on an uncheckered board, with the winner being the player with more disks showing in their color at the end? | Reversi (Othello) | Dorian:I | | .Dorian said checkers; steal offered to Gibbs, no answer captured
+T34 | U.S. History | Who was the first pilot to break the sound barrier? | Chuck Yeager | Jackson:C
+B34 | U.S. History | Part 1: Which president left office after losing to President Harrison and returned to office after defeating President Harrison? // Part 2: What was Grover Cleveland's first name? | Part 1: Grover Cleveland // Part 2: Stephen | Jackson:I | .the team missed both parts (said "Grover" for Part 2)
+T35 | Literature | In what town were the presents stolen by the Grinch in the Dr. Seuss tale? | Whoville | Hayden:C
+B35 | Visual | The poster shown here represents the supreme authority of a totalitarian state called Oceania, where the party has the highest authority over the people, in what dystopian 1949 novel by which author? | 1984 by George Orwell | C | .the host required both the title and the author
+T36 | Chemistry | Which chemical element is named for the Norse god of thunder? | Thorium | 1:C | .buzzer not named; team from "chemistry bonus for Gibbs"
+B36 | Chemistry | In 2023, Amsterdam's city council voted to ban cruise ships from docking at the city's main terminal, pointing out that big ships produce the same level per day as 30,000 trucks of what pollutants, known as NOx? | Nitrogen oxides | I | .the team's answer was incomplete (the host explained NOx is the sum of NO and NO2)
+T37 | Geometry | What is a 12 sided polygon called? | A dodecagon | ?:C | .buzzer and team not identified in captions
+B37 | Geometry | Find the area of an isosceles right triangle with a hypotenuse of five inches. | 6.25 square inches | I | .team said 12.5
+T38 | Art | Which Russian goldsmith became famous for his jeweled eggs? | Fabergé | 1:I | Boyd:C | .Gibbs' first buzzer not named and the answer garbled in captions
+B38 | Art | Part 1: In 1498, a French cardinal who lived in Rome commissioned which sculptor and painter to carve the Pietà? // Part 2: For how many different popes did Michelangelo create art? | Part 1: Michelangelo // Part 2: Nine | I | .team said da Vinci and eight
+T39 | Geography | In which mountain chain is Mount Everest? | The Himalayas | Kingston:I | Jackson:C | .Kingston said the Andes
+B39 | Geography | The lyrics of the Marine Corps Hymn refer to the shores of Tripoli, where the Marines hoisted the American flag in 1805 in the war against the pirates of the Barbary states. Of which African country is Tripoli the capital? | Libya | Jackson:C
+T40 | Foreign Language | What is the French word for table? | Table | NB | | .the captions are garbled; nobody gave a usable answer
+T41 | Science | What do we call a change in frequency of a wave that occurs when there is a change in the distance between source and receiver? | The Doppler effect | NB | | .nobody answered; the host gave the answer
+T42 | U.S. History | What naval hero from Knoxville is remembered for his famous rallying cry "Damn the torpedoes"? | Admiral David Farragut | Jacob:I | | .Jacob said Admiral Nelson; steal offered to Morristown, no answer captured
+T43 | Music | Who composed the opera Lohengrin, which includes the bridal chorus generally known as "Here Comes the Bride"? | Richard Wagner | 2:I | | .Morristown's buzzer not named (said Tchaikovsky); steal offered to Gibbs, no answer captured
+T44 | Economics | For what product is De Beers famous? | Diamonds | Kingston:C
+B44 | Economics | Name the two categories in which commodities are sorted. | Tangible and intangible goods | I | .team said imports and exports
+T45 | Mythology | What mythical creature has the body, tail and back legs of a lion and the head, wings and talons of an eagle? | A griffin | Boyd:C
+B45 | Mythology | Part 1: What is the name of the mythological Polynesian god credited with creating the Polynesian islands and giving the gift of fire to humans? // Part 2: In their mythology, which island country was formed when a giant fish caught by Maui was split into an island? | Part 1: Maui // Part 2: New Zealand | P10 | .team said Samoa for Part 2
+T46 | Biology | The type of pet parakeet known as a budgie is native to what continent? | Australia | Boyd:C
+B46 | Biology | Name two of the pigments involved in the process of leaves changing their colors in the fall. | Any two of: chlorophyll, anthocyanins, carotenoids | P10 | .team named chlorophyll and one wrong answer
+T47 | Algebra | In exponential form, what is four times three raised to the fifth power? | 3 to the ninth power (per the host) | Rylan:I | Kingston:C | .Rylan said 12 to the 20th; the question text is only partly clear in the captions; the bonus was cut off by the end of time

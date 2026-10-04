@@ -56,6 +56,7 @@ SUBJECT = {
     'History': 'Social Studies', 'Geography': 'Social Studies', 'Government': 'Social Studies',
     'Economics': 'Social Studies', 'U.S. Presidents': 'Social Studies',
     'U.S. History': 'Social Studies', 'World History': 'Social Studies',
+    'Tennessee History': 'Social Studies',
 }
 CAT_ALIAS = {c.lower(): c for c in SUBJECT}
 CAT_ALIAS.update({

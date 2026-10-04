@@ -1,0 +1,89 @@
+@EP S40 E46
+@ROUND Round of 32
+@TEAMS Carter High School | J. Frank White Academy (Shashi's team)
+@R1 Stix, Blake, Reagan, Karen, Riley, Dalen
+@R2 Van, Troy, Shashi, Stephen
+# Carter High School (captain Reagan) is the same team as in E01 and J. Frank White Academy (captain Shashi, last year's champions) is the same team as in E30. The captions render Carter's Styx as "Stix", Reagan as "Ragan", J. Frank White's Van as "Ben/Van" and Shashi as "Sashi". Riley and Dalen join Carter for the second half; J. Frank White keeps its starters. The host said Carter had "some points on the board" and was "trying to catch up" at halftime, and at the end that J. Frank White "built up a little bit of lead". Several tossups in this game have no buzzer named in the captions, so their points stay Unknown; the captions give no score.
+# ---- first half ----
+T1 | Geography | In which state does the Potomac River have its origins? | West Virginia | Shashi:I | Reagan:I | .Shashi said Virginia and Reagan said Maryland
+T2 | World History | Who was the French inventor of a system of writing for the blind that was named after him? | Louis Braille | Reagan:C | .Reagan buzzed early
+B2 | World History | In 2023, construction workers digging a shortcut hole for their excavator caused damage to a section of which World Heritage site that dates back to the Ming Dynasty? | The Great Wall of China | I | .the team said the Terracotta Army
+T3 | Music | What seven letter term beginning with the letter R refers to a public performance or presentation by a solo performer? | A recital | ?:C | .buzzer and team not named in the captions
+B3 | Music | Part 1: What was the period of music from 1750 to 1820, which established many of the norms of composition, presentation and style? // Part 2: During this era, what became the predominant keyboard instrument? | Part 1: The Classical period // Part 2: The piano | C
+T4 | Geology | What is the name of the horseshoe shaped belt around much of the rim of the Pacific Ocean where many volcanic eruptions and earthquakes occur? | The Ring of Fire | Reagan:C | .Reagan buzzed early
+B4 | Geology | Which extremely porous volcanic rock can float on water and is often used as an abrasive? | Pumice | C
+T5 | Foreign Language | What is the English translation of the French phrase "bonsoir"? | Good evening | Reagan:C | .Reagan said "good night" and the host accepted it ("good evening or good night")
+B5 | Foreign Language | Part 1: What is the word for "shirt" in Spanish? // Part 2: What is the word for "snow" in German? | Part 1: Camisa // Part 2: Schnee | P10 | .Reagan deferred to Karen for Part 1; the host said "no, I think it's pronounced schnee" for Part 2 (the team's answer is not captured)
+T6 | Government | The main body of the U.S. Constitution is divided into seven what? | Articles | Shashi:C
+B6 | Government | The mission of which agency in the Department of Justice is to enforce the controlled substances laws and regulations of the United States? | The Drug Enforcement Administration (DEA) | C
+T7 | Algebra | What is the vertex of the equation y = (x - 4) squared? | (4, 0) | Shashi:I | 1:I | .Shashi said (0, -16); Carter's steal buzzer is not named and the host scolded them for looking at each other's papers
+T8 | Architecture | Where was the Statue of Liberty built? | France | Reagan:C
+B8 | Visual | The Eiffel Tower shown here, completed ahead of schedule and under budget, was built to celebrate the 100th anniversary of the French Revolution at the World's Fair held in what year? | 1889 | I | .the team said 1883
+T9 | Science | What is the name for industrial waste in the atmosphere that combines with water droplets and falls to the ground? | Acid rain | Shashi:C | .Shashi buzzed early
+B9 | Science | Part 1: What type of lens has curved surfaces that bulge in the middle? // Part 2: What type of lens has curved surfaces that dip in the middle? | Part 1: Convex // Part 2: Concave | P10 | .the team said "concave" for both parts
+T10 | Spelling | An entrepreneur organizes and operates a business. Spell "entrepreneur." | E-N-T-R-E-P-R-E-N-E-U-R | Shashi:C | .the question text is reconstructed from the captions
+B10 | Spelling | Spell the seven letter word beginning with D that means a complete failure, especially because of bad planning and organization. | D-E-B-A-C-L-E | I | .the team said "disaster" and tried to spell it
+T11 | History | When Albert Einstein arrived in the U.S. in 1933, he was a refugee from what country? | Germany | Shashi:C
+B11 | History | What country in Southeast Asia, whose King Mongkut was the inspiration for the musical The King and I, was the only one to remain independent and not become a colony of a European power? | Thailand | C | .the team first said Taiwan; the host accepted Thailand
+T12 | Literature | In which novel is Jean Valjean released from prison? | Les Miserables | Shashi:C
+B12 | Literature | Part 1: Alleging a systematic theft on a mass scale, OpenAI was sued by 17 authors in 2023, including which author of The Winds of Winter? // Part 2: Another plaintiff suing OpenAI was which author of The Pelican Brief and A Time to Kill? | Part 1: George R.R. Martin // Part 2: John Grisham | I | .the team said Robert Frost
+T13 | Sports | In which city is the Preakness, one of the Triple Crown races, held? | Baltimore | ?:C | .buzzer and team not named in the captions; the question text is reconstructed
+B13 | Sports | The Alabama Crimson Tide of the SEC play their home games in what city? | Tuscaloosa | I | .the team guessed Montgomery or Mobile
+T14 | Vocabulary | What five letter word beginning with S, a likely alteration of the Spanish word for "he knows," means having shrewdness or practical knowledge? | Savvy | Shashi:I | | .Shashi answered with the Spanish word ("sabes"); no Carter steal answer captured; the host gave "savvy"
+T15 | Biology | Red pandas are a distant relative of what North American mammal that is Tennessee's official wild animal? | The raccoon | Shashi:C
+B15 | Visual | Part 1: What are the common names for the three tiny ear bones, the malleus, incus and stapes? // Part 2: In what part of the body are they located? | Part 1: Hammer, anvil and stirrup // Part 2: The ear | P15 | .the team gave hammer and anvil for 10 points and "the ear" for 5 more; stirrup was missed
+T16 | Geography | How many counties are in Tennessee? | 95 | ?:C | .buzzer and team not named in the captions
+B16 | Geography | Name four of the eight states that border Tennessee. | Any four of: Alabama, Arkansas, Georgia, Kentucky, Missouri, Mississippi, North Carolina, Virginia | C | .the team named Kentucky, Virginia, Alabama and North Carolina
+T17 | Geometry | The area of a circle is 196 pi. What is the length of its diameter? | 28 | ?:C | .buzzer and team not named in the captions
+B17 | Geometry | Find the total surface area of a closed cylindrical container with a radius of 5 centimeters and a height of 34 centimeters. | 390 pi square centimeters | I | .the team's answer is garbled in the captions (about "200")
+T18 | Arts | In the comic series Peanuts, what is the name of the anthropomorphic beagle? | Snoopy | Reagan:C
+B18 | Arts | Part 1: What is the common color name for the heraldry color of loyalty (azure)? // Part 2: What is the common color name for the heraldry color of worthwhile ambition (tenne)? | Part 1: Blue // Part 2: Orange | P10 | .the team said yellow for Part 2; the options read in the captions are garbled
+T19 | Chemistry | What is the interatomic linkage that results from the sharing of an electron pair between two atoms? | A covalent bond | Shashi:C
+B19 | Chemistry | What is the chemical formula for propane? | C3H8 | C
+T20 | English | What four letter word is a synonym of "sagacious"? | Wise | Shashi:I | Reagan:I | .Shashi said "tall"; Reagan's steal answer is not captured but the host said "if you're a sage, you are wise"
+T21 | Economics | Jimmy Donaldson, the highest-paid YouTuber in 2023, who spent 50 hours buried alive, is known by what name? | MrBeast | Reagan:C | | .the captions render the answer as "Mr. BS"
+B21 | Economics | In a bid to offset rampant inflation and strict sanctions imposed by the U.S., what socialist government launched a cryptocurrency called the Petro? | Venezuela | I | .the team said China
+T22 | Religion | According to the Acts of the Apostles, who was Paul's partner on his first missionary journey? | Barnabas | Reagan:I | Shashi:I | .Reagan said John and Shashi said David
+T23 | Miscellaneous | Which American lawman and gambler in Dodge City and Tombstone was the last surviving participant of the gunfight at the O.K. Corral? | Wyatt Earp | Reagan:I | 2:I | .Reagan buzzed early and said Pat Garrett; J. Frank White's steal buzzer and answer are garbled in the captions ("Smith")
+T24 | Health | What is the transparent part of a human eyeball that covers the iris and pupil? | The cornea | 2:I | Reagan:I | !J. Frank White's buzzer (answer "lens") is not named and Reagan's steal answer is not captured; the host's explanation was "people know the cornea is the part that covers all of those other things" and the first half ended, so it is unclear whether Reagan's steal was accepted
+# ---- second half ----
+T25 | Mythology | What body part does the mythological Norse god Odin sacrifice in order to gain wisdom? | His eye | Shashi:I | Reagan:I | .Shashi said "armpit" and Reagan said "leg"
+T26 | History | In 1939, who became the first reigning British monarch to visit the United States? | King George VI | Reagan:C | | .the captions render the answer as "joins the sixth" (George the Sixth)
+B26 | History | In 1867, a plan for a tunnel under the English Channel was turned down by which two rulers, the heads of the United Kingdom and France at the time? | Queen Victoria and Napoleon III | P10 | .the team said Napoleon and Queen Elizabeth; the host gave points for Napoleon the Third only
+T27 | Math | What is the product of 32 and 28? | 896 | Van:I | | .Van's answer is not captured; no Carter steal answer captured
+T28 | Music | If an X is used for an accidental, what does it mean? | A double sharp | Reagan:C
+B28 | Visual | In the triangle shown here with an area of 72 square centimeters, what is the height, perpendicular to its base, in centimeters? | 18 centimeters | Riley:C | !the captain deferred to Riley, who answered "18 centimeters" after a pause; the host's verdict is not in the captions (scored correct)
+T29 | Technology | On a Windows computer, what is the function of the keyboard shortcut Control+V? | Paste | Shashi:C
+B29 | Technology | What building block of the World Wide Web is represented by the letters HTTP? | Hypertext Transfer Protocol | I | .the team deferred to Troy and answered only "hypertext part"
+T30 | Foreign Language | What was the writing system used in the ancient Middle East consisting of wedge shaped letters? | Cuneiform | ?:C | .buzzer and team not named in the captions
+B30 | Foreign Language | What is the English translation of the German question "Wie spät ist es?" | What time is it? | I | .the team said "how are you today"
+T31 | Geography | What is the capital of Arkansas? | Little Rock | Reagan:C
+B31 | Geography | Part 1: What is the capital of Portugal? // Part 2: What is the capital of Finland? | Part 1: Lisbon // Part 2: Helsinki | C
+T32 | Geology | Rounded to the nearest ten, what percentage of the Earth is covered in oceans? | 70% | Shashi:I | Reagan:C | .Shashi said 80
+B32 | Geology | Thousands of people were killed in September 2023 when the water from Storm Daniel caused two dams in Libya to burst, sweeping many victims into which sea? | The Mediterranean Sea | C
+T33 | Arts | In Greek mythology, who is the god of theatrical arts? | Dionysus | Shashi:C
+B33 | Arts | Which Broadway musical includes the songs "Waving Through a Window," "Only Us" and "You Will Be Found"? | Dear Evan Hansen | I | .the team said West Side Story
+T34 | Biology | What is the name for the study of hormones and their actions? | Endocrinology | Shashi:C
+B34 | Biology | Part 1: What does the biological prefix "hemato-" (as in hematoma) mean? // Part 2: What does the biological prefix "hypo-" (as in hypothermia) mean? | Part 1: Blood // Part 2: Under or below (less) | P10 | !the team said "blood" and then "low/less" for hypo; the host said he would see if the judges would take it ("specifically under or below") and the ruling is not stated; scored as Part 1 only
+T35 | Literature | Who wrote the novella Billy Budd, Sailor? | Herman Melville | Shashi:C
+B35 | Literature | After his death in 1824, the memoirs of which English baron, who wrote the poems "Don Juan" and "She Walks in Beauty," were burned by his friends to prevent publication? | Lord Byron | I | .the team guessed Kafka
+T36 | Government | What is the term length for the U.S. Senate? | Six years | Reagan:C
+B36 | Visual | Part 1: The most famous U.S. postage stamp error occurred while printing the image of a Curtiss JN-4 airplane on the 1918 airmail stamp seen here. By what nickname is it known? // Part 2: A philatelist collects and studies stamps. Spell "philatelist." | Part 1: The Inverted Jenny // Part 2: P-H-I-L-A-T-E-L-I-S-T | C
+T37 | Pre-Calculus | What is the numerical value of five factorial? | 120 | Shashi:C
+B37 | Pre-Calculus | What is the value of the tangent of 135 degrees in the unit circle? | -1 | C
+T38 | Religion | What is the Indian religion that traces its spiritual ideas through a succession of 24 supreme preachers of Dharma and whose three main pillars translate to nonviolence, non-absolutism and asceticism? | Jainism | Shashi:I | Reagan:I | .Shashi buzzed early and said Hinduism; Reagan said Sikhism
+T39 | Chemistry | What principle states that we cannot know both the position and speed of a particle with perfect accuracy? | The Heisenberg uncertainty principle | Shashi:C
+B39 | Chemistry | Part 1: What is the chemical formula for nitric acid? // Part 2: What is the oxidation state of nitrogen in nitric acid? | Part 1: HNO3 // Part 2: +5 | P10 | .the team said negative three for Part 2
+T40 | Vocabulary | What five letter term beginning with M refers to the customs and manners of a social group or culture? | Mores | Reagan:I | 2:I | .Reagan's answer is garbled in the captions ("moans"); J. Frank White's steal buzzer is not named and the answer was "trashy manners"
+T41 | History | Who was the first unelected vice president to assume the presidency? | Gerald Ford | Reagan:I | Troy:I | .Reagan buzzed early (the captions read "Don Taylor") and Troy said Andrew Johnson
+T42 | Geography | Which Arizona city was so named because it rose from the ruins of a Native American town? | Phoenix | Reagan:C | .Reagan buzzed early
+B42 | Geography | In 2023, Hurricane Idalia became the largest storm in history to hit which city, Florida's capital? | Tallahassee | C | .the host's confirmation is partly garbled; he said "right for 20 points"
+T43 | Games | In which popular online game do players complete levels by swapping colored pieces of confections on a game board to make a match of three or more? | Candy Crush | ?:C | .buzzer and team not named in the captions
+B43 | Games | In what video game series by Rovio Entertainment does a flock of colorful flying creatures try to save their eggs from green pigs? | Angry Birds | C
+T44 | Science | Who invented the reflecting telescope? | Isaac Newton | Shashi:I | Reagan:I | .Shashi said Galileo and Reagan said Einstein
+T45 | Literature | Whose death is lamented by Walt Whitman in his poems, including "O Captain! My Captain!"? | Abraham Lincoln | Reagan:C
+B45 | Literature | What are the first names of the two protagonists in Of Mice and Men? | Lennie and George | P10 | .the team gave only Lennie
+T46 | Government | Which U.S. state was the first to give women the right to vote? | Wyoming | ?:C | .buzzer and team not named in the captions
+B46 | Government | In 1964, which jurisdiction's citizens were able to vote for the first time in a presidential election thanks to the passage of the 23rd Amendment? | The District of Columbia | I | .the team named "African American" and "18-year-olds"
+T47 | Math | In an arithmetic progression with the first term of four and a common difference of three, what is the eighth term? | 25 | Shashi:C
+B47 | Math | What is the median of the data set 60, 42, 55, 70, 64, 75? | 62 | C | .the game ended after this bonus

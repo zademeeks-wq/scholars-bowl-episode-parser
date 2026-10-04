@@ -1,0 +1,85 @@
+@EP S40 E47
+@ROUND Round of 32
+@TEAMS Science Hill High School (Danny's team) | L&N STEM Academy (Jared's team)
+@R1 Sean, Lily, Danny, Elena
+@R2 Harshita, Cameron, Jared, Dominic, Jordan, Chloe
+# Science Hill (captain Danny) is the same team as in E06 and L&N STEM Academy (captain Jared) is the same team as in E10; both schools have several teams in the tournament. The captions render Chloe as "Kemper/Kepler", Dominic as "Tonic", Harshita as "Harshida" and a Science Hill bonus prompt for Danny as "For Daniel". L&N brings Jordan and Chloe in for the second half; Science Hill keeps its starters. L&N led from the start ("trying to run up a lead ... by buzzing in faster") and won easily; the captions give no score.
+# ---- first half ----
+T1 | Art | What artist hosted the PBS television program The Joy of Painting and is recognized by his abundant hair and happy trees? | Bob Ross | Sean:C
+B1 | Art | Part 1: What is the last name of the French painter who painted Olympia and The Railway? // Part 2: What is the last name of the French painter famous for water lilies? | Part 1: Manet // Part 2: Monet | I | .the team said Michelangelo for Part 1 and, after deferring to Elena, Renoir for Part 2
+T2 | Geography | What is the capital of Louisiana? | Baton Rouge | Jared:I | | .Jared said New Orleans; no Science Hill steal answer captured
+T3 | Literature | What poem by Rudyard Kipling contains the famous line "You're a better man than I am"? | "Gunga Din" | NB | | .nobody buzzed; the host gave the answer
+T4 | Algebra | What is the slope of the line connecting the points (-4, 6) and (-1, 2)? | -4/3 | Jared:C
+B4 | Algebra | What is the sum of i raised to the fifth power added to i raised to the ninth power? | 2i | C
+T5 | Chemistry | Goiters have become less common because of the addition of a small amount of iodine to what mineral used to flavor food? | Salt | Jared:C
+B5 | Visual | Who is the American chemist, inventor and leader of organic chemistry at DuPont, shown here, who is credited with the invention of nylon? | Wallace Carothers | I | .the team's answer is garbled in the captions ("DJT Hicks")
+T6 | Music | Bohemian Rhapsody appeared on which Queen album, named for a Marx Brothers movie? | A Night at the Opera | NB | | .nobody buzzed; the host gave the answer
+T7 | Government | What is the term for government spending that exceeds government income? | Deficit spending | Jared:C
+B7 | Government | Part 1: Which cabinet level department of the federal government oversees the Government National Mortgage Association (Ginnie Mae)? // Part 2: Which cabinet level department of the federal government oversees the Office of Head Start? | Part 1: Housing and Urban Development // Part 2: Health and Human Services | I | .the team said Treasury for Part 1 and Education for Part 2
+T8 | Foreign Language | What is the German translation for "good morning"? | Guten Morgen | Harshita:C
+B8 | Foreign Language | What is the German word for "the day after tomorrow"? | Übermorgen | I | .the team's answer is garbled in the captions ("I don't dance ... yes, sir, no, sir"); the host gave "übermorgen"
+T9 | Sports | What is the annual championship game for the National Football League? | The Super Bowl | Sean:C
+B9 | Sports | One of the professional mushers who entered the so-called Last Great Race in 2023 was a Karns High School graduate named Jennifer LaBar, who scratched from the race on day three due to a hand injury. What is the name of that annual race that runs each March from Anchorage to Nome? | The Iditarod | I | .the team had no answer
+T10 | Health | What is the term for a sudden increase in the birthrate, as happened in the U.S. and Britain after World War II? | A baby boom | Jared:C
+B10 | Health | Part 1: Histology, also known as microscopic anatomy, is the branch of biology concerned with the composition and structure of what? // Part 2: Osteology is the study of the structure and function of what? | Part 1: Tissues and cells // Part 2: Bones | C | .the team said "cancer cells" for Part 1 and the host accepted the cells part; the Part 2 question text is partly garbled
+T11 | Religion | What is the four-sided spinning top played during the Jewish holiday of Hanukkah? | A dreidel | Jared:C
+B11 | Religion | Which Shinto deity, the celestial Sun goddess from whom the Japanese imperial family claims descent, was tricked by the use of a mirror to come out of a cave in which she had hidden herself? | Amaterasu | I | .the team's answer is not clearly captured; the host gave Amaterasu
+T12 | World History | Who was the eighth and final leader of the Soviet Union who helped end the Cold War, won the Nobel Peace Prize in 1990 and died in August 2022? | Mikhail Gorbachev | Cameron:I | Danny:I | .Cameron buzzed early and his answer is not captured; Danny said Stalin
+T13 | Vocabulary | What eight letter noun starting with M means wearisome uniformity or lack of variety, tedium? | Monotony | Jared:C
+B13 | Vocabulary | Part 1: What nine letter word starting with N means very wicked or evil? // Part 2: Spell that word. | Part 1: Nefarious // Part 2: N-E-F-A-R-I-O-U-S | C
+T14 | Math | How many prime numbers are between 20 and 40? | 4 | Jared:C
+B14 | Visual | In a game of chance, what is the total probability, in reduced fraction form, of rolling a six or a ten with two balanced dice? | 2/9 | I | .the team said 5/18
+T15 | Geology | What is the term for a mass of igneous rock, typically lens shaped, that has been intruded between rock strata causing uplift in the shape of a dome? | A laccolith | NB | | .nobody buzzed; the host gave the answer
+T16 | Games | What is the classic game of strategic naval combat that involves two players? | Battleship | Jared:C
+B16 | Games | With over 155 million units sold, what home video game console is the highest selling in history and was the original platform for games such as Final Fantasy X, God of War, Metal Gear Solid 3 and Shadow of the Colossus? | The PlayStation 2 | C
+T17 | U.S. History | Who was the first U.S. president to have been born a U.S. citizen? | Martin Van Buren | Jared:I | | .Jared said Monroe; Science Hill ran out of time on the steal
+T18 | Literature | What type of literary work is the ancient writing Beowulf? | An epic | Elena:C
+B18 | Literature | Part 1: What is George Orwell's real name? // Part 2: What is the name of the main character and narrator in Orwell's 1984? | Part 1: Eric Arthur Blair // Part 2: Winston Smith | I | .the team said George Orwell for Part 1 and "Winston Scott" for Part 2
+T19 | Health | Which body part is inflamed when someone has encephalitis? | The brain | Dominic:C | .the captions render the buzzer as "Tonic" (read as Dominic)
+B19 | Health | Due to a change in federal law, the temporary extra SNAP benefits issued due to COVID-19 ended in March 2023. What do the letters SNAP stand for? | Supplemental Nutrition Assistance Program | I | .the team said something like "insurance"
+T20 | Chemistry | What element's Latin name is argentum? | Silver | Jared:C
+B20 | Chemistry | Residents in Kingsport, Tennessee, were alarmed in July 2022 when plumes of purple vapor rose from an Eastman Chemical facility. The company said a power outage caused the release of which chemical element, with the symbol I and atomic number 53? | Iodine | C
+T21 | Arts | The American version of what short form comedy improv series that began as a British radio show has aired on the CW for over ten years? | Whose Line Is It Anyway? | Harshita:I | | .Harshita said "The Office"; no Science Hill steal answer captured
+T22 | Economics | What basic type of financial product allows you to deposit your money and typically earn a modest amount of interest? | A savings account | Jared:I | | .Jared said "CD"; no Science Hill steal answer captured
+T23 | Foreign Language | What is the English translation of the French word "pain"? | Bread | Jared:C | .the first half ended before the bonus could be read
+# ---- second half ----
+T24 | Pre-Calculus | Find the exact value of the expression tangent 135 degrees plus cotangent 45 degrees. | 0 | Jared:I | Danny:I | .Jared said 2 and Danny said 1
+T25 | Science | To the nearest tenth of a pound, how many pounds are in a kilogram? | 2.2 | Jared:C
+B25 | Science | Former UK Prime Minister Boris Johnson wanted to bring back imperial measurements to mark Queen Elizabeth's 2022 Platinum Jubilee. Name two of the three countries that use imperial measurements rather than metric on a daily basis. | Any two of: United States, Myanmar, Liberia | C | .the team named Myanmar and the United States
+T26 | Music | When a dot is placed after a note or rest, how does it change the time value? | It increases it by half | Jared:C
+B26 | Music | What alumnus of Gibbs High School appeared as a contestant on season six of The Voice and has become a superstar with albums including If I Know Me and One Thing at a Time? | Morgan Wallen | Chloe:C | .Jared deferred to Chloe
+T27 | U.S. History | Who was president when Walt Disney World opened in 1971? | Richard Nixon | Cameron:C
+B27 | Visual | Who is the man shown here who became the most visible mobster in America from 1925 through 1929 as he worked with local media and friendly politicians to cultivate an image of a businessman concerned with the welfare of his fellow Chicagoans? | Al Capone | C
+T28 | Spelling | A toboggan is a type of sled. Spell "toboggan." | T-O-B-O-G-G-A-N | Jared:I | 1:I | .Jared's spelling was wrong (the captions give T-O-B-A-G-G-A-N); Science Hill's steal was disqualified because players looked at each other's papers
+T29 | Chemistry | Which culture invented fireworks? | China | Elena:C
+B29 | Chemistry | Research is being done on how to kill feral pigs, which cause $2.5 billion in damages yearly. What inorganic compound, also used as a preservative in bacon, is being used to poison the pigs? | Sodium nitrite | I | .the team said sodium nitrate
+T30 | Health | What is the term for an inflammation of the protective membranes covering the brain and spinal cord? | Meningitis | Elena:C
+B30 | Health | 142 Afghan children died in the first three months of 2022 due to a contagious virus that a vaccine with the initials MMR can prevent. What is the virus? | Measles | I | !the question text is garbled in the captions; the team's answer is not captured and the host said "the MMR vaccine is measles, mumps and rubella, but the children didn't have measles" (probably "did have measles"); scored as missed
+T31 | Miscellaneous | Which phobia is a fear of corpses? | Necrophobia | Jared:C | | .the captions split the answer as "Necro Phobia"
+B31 | Miscellaneous | Part 1: In which state is Duke University located? // Part 2: In which state is Villanova University located? | Part 1: North Carolina // Part 2: Pennsylvania | P10 | .the team said West Virginia for Part 2
+T32 | Geography | What is the largest city in the Canadian province of Quebec? | Montreal | 2:I | Elena:C | .L&N's buzzer is not named (the answer given was Ontario)
+B32 | Geography | Part 1: In which time zone is Las Vegas, Nevada? // Part 2: In which time zone is Indianapolis, Indiana? | Part 1: Pacific // Part 2: Eastern | P10 | .Danny answered Part 1; the team said Central for Part 2
+T33 | Vocabulary | What seven letter word starting with P means a hypothetical remedy for all ills or diseases? | Panacea | Jared:C
+B33 | Vocabulary | Part 1: What nine letter adjective beginning with M means extremely small? // Part 2: Spell that word. | Part 1: Minuscule // Part 2: M-I-N-U-S-C-U-L-E | C
+T34 | Math | Subtract six cubed from four squared. | -200 | Jared:C
+B34 | Math | Sequentially list the next four prime numbers greater than 40. | 41, 43, 47 and 53 | C
+T35 | Astronomy | What process makes the stars shine because the gas inside them is so hot? | Nuclear fusion | Jared:C
+B35 | Astronomy | What is the term for a pair of stars that are close together, orbit each other and are held captive by each other's gravity? | A binary star (binary system) | C
+T36 | Art | What is the resulting color when mixing red and blue? | Purple | Danny:C
+B36 | Visual | What is the name of the statue shown here, the tallest in Africa, which sits atop one of the Twin Hills outside Dakar, Senegal, overlooking the Atlantic Ocean? | The African Renaissance Monument | I | .the team said "Black Panther"
+T37 | Government | What general name is given to people who are already in office and sometimes running for reelection? | Incumbents | Cameron:C
+B37 | Government | After the U.S. left Afghanistan, the Taliban reneged on a promise that girls would be permitted to go to school beyond which grade? | Sixth grade | I | .the team said fifth
+T38 | Foreign Language | What is the French word for "street"? | Rue | Chloe:C | | .the captions render the answer as "Room"
+B38 | Foreign Language | Part 1: Give the English translation for "coup de grâce." // Part 2: Give the English translation for "faux pas." | Part 1: The final blow or finishing stroke // Part 2: An embarrassing social error (a public mistake) | P10 | .the team's Part 1 answer is garbled in the captions ("head of Greece"); the host accepted "a public mistake" for Part 2
+T39 | U.S. History | Which U.S. president had both of his vice presidents die in office? | James Madison | Cameron:I | | .Cameron said James Monroe; no Science Hill steal answer captured
+T40 | Biology | What type of flowering plant completes its life cycle within one year? | An annual | Chloe:C
+B40 | Biology | Part 1: What is the meaning of the biology prefix "ecto-"? // Part 2: What is the meaning of the biology prefix "macro-"? | Part 1: Outer (outside) // Part 2: Large | C
+T41 | Sports | Which is the only breed of horse named after a U.S. state? | The Tennessee Walking Horse | Chloe:C
+B41 | Sports | Part 1: What two countries hosted the women's FIFA World Cup in 2023? // Part 2: Name two of the three countries that will host the men's FIFA World Cup in 2026. | Part 1: Australia and New Zealand // Part 2: The United States, Canada and Mexico (any two) | P10 | .the team said Spain and Portugal, then Qatar and Yemen, for Part 1
+T42 | Economics | What is the job title of the person who serves customers at a bank counter? | A teller | Elena:C
+B42 | Economics | Part 1: According to a 1970s advertising jingle, a kid will eat the middle of what cookie first and save the chocolate cookie outside for last? // Part 2: What product to cover cuts and scrapes had a 1970s jingle with a child singing "I'm stuck on blank because blank is stuck on me"? | Part 1: Oreo // Part 2: Band-Aid | C
+T43 | English | What six letter word beginning with H is the antonym of "dawdle"? | Hasten | Jared:I | | .Jared's answer is garbled in the captions; no Science Hill steal answer captured
+T44 | Geometry | An inscribed angle measures 65 degrees. What is the measure of its intercepted arc? | 130 degrees | Jared:C
+B44 | Geometry | What is the area of a right triangle with a hypotenuse of 20 feet and a leg of 12 feet? | 96 square feet | C
+T45 | Technology | On a Windows computer, what is the function of the keyboard shortcut Control+C? | Copy | Danny:C
+B45 | Technology | Which computer programming language is widely used for creating websites and web applications? | HTML | I | .the team said Java; the game ended after this bonus

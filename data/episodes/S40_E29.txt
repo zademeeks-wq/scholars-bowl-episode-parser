@@ -1,0 +1,84 @@
+@EP S40 E29
+@ROUND Round 1
+@TEAMS Knoxville Catholic High School | Oliver Springs High School (Walker's team)
+@R1 Alvaro, Nate, James, Thomas, Alex
+@R2 Anna, Bryan, Walker, Wyatt
+# Oliver Springs has several teams in the tournament; this one is captained by Walker. James is Knoxville Catholic's captain. The captions render Nate as "Make", Bryan as "Brian", and the steal prompt "Oliver Springs"/"Catholic" is sometimes garbled. Alex (Alexander Denkewalter) joins Knoxville Catholic for the second half. The first half ended on T20; the host said only that Knoxville Catholic had "a bit of a lead" at halftime.
+# ---- first half ----
+T1 | Geography | What city, known as the Eternal City, was built on the banks of the Tiber River? | Rome | James:C
+B1 | Geography | Part 1: In 2022, a Moai statue that had been removed in 1870 was returned to the Pacific island where it was carved. From what World Heritage Site was it returned? // Part 2: That island is a special territory of which country, whose capital city housed the Moai in a museum? | Part 1: Easter Island (Rapa Nui) // Part 2: Chile | C
+T2 | Architecture | What type of bridge is the Golden Gate Bridge? | A suspension bridge | Alvaro:C
+B2 | Architecture | What modern art museum on the National Mall in Washington, D.C., is located in a unique cylindrical building with a sculpture garden? | The Hirshhorn Museum and Sculpture Garden | I | .team said "the Smithsonian"
+T3 | Health | What is the term for a drug such as alcohol that lowers the functional activity of the nervous system? | A depressant | 1:C | .the buzzer's answer is not in the captions (the answer is supplied from the question); buzzer not named; Knoxville Catholic from the bonus
+B3 | Health | Part 1: Which part of the vertebrate brain is continuous posteriorly with the spinal cord and contains the centers controlling involuntary vital functions? // Part 2: Spell that word, "medulla." | Part 1: The medulla oblongata // Part 2: M-E-D-U-L-L-A | P10 | .the team said "brainstem" for Part 1 (the host wanted the medulla oblongata) and spelled medulla correctly
+T4 | Literature | Who wrote "The Cask of Amontillado"? | Edgar Allan Poe | Thomas:C
+B4 | Literature | Part 1: Which Pulitzer Prize winner wrote "The woods are lovely, dark and deep, but I have promises to keep, and miles to go before I sleep"? // Part 2: What is the exact title of the poem quoted? | Part 1: Robert Frost // Part 2: "Stopping by Woods on a Snowy Evening" | P10 | .the team gave a close but inexact title for Part 2
+T5 | Math | Put these numbers in order from least to greatest: 9/4, 7/3, √5. | √5, 9/4, 7/3 | 1:C | .buzzer not named; Knoxville Catholic from the visual bonus
+B5 | Visual | Evaluate the result when the square root of 289 is added to the cube root of 729 and then 6 squared is subtracted from the result. | −10 | I | .team said -12
+T6 | Government | What two word term is given to the unwritten custom of the American government that allows the President to withhold information? | Executive privilege | James:C
+B6 | Government | Part 1: How long is the initial term of a Tennessee Supreme Court justice? // Part 2: How long is the term of a U.S. Supreme Court justice? | Part 1: Eight years // Part 2: Life | P10 | .the team said six years for Part 1 and "lifelong" for Part 2
+T7 | Games | Which board game uses pawns? | Chess | Anna:C | .the answer is not clear in the captions; chess is inferred
+B7 | Games | Name the four suits in a standard deck of playing cards. | Diamonds, hearts, clubs, spades | C
+T8 | Technology | Google Meet is comparable to video meetings in what Microsoft program? | Teams | James:C
+B8 | Technology | Which government agency developed artificial limbs, scratch-resistant lenses, insulin pumps, ear thermometers and invisible braces for teeth? | NASA | Thomas:I | .Thomas said the NSA
+T9 | Foreign Language | Translate "thank you very much" into French. | Merci beaucoup | James:C
+B9 | Foreign Language | Part 1: What is the English translation of the phrase "la ropa"? // Part 2: What is the Spanish word for "belt"? | Part 1: The clothing // Part 2: Cinturón | Alvaro:C | .James deferred; the captions garble both answers; the host said the Spanish club president had it ("I guess the Spanish club doesn't need ...")
+T10 | U.S. History | Which United States president's inauguration was the first to be broadcast live on the Internet? | Bill Clinton | James:I | Bryan:I | .James said George W. Bush; Bryan said Jimmy Carter
+T11 | Economics | What is the term for a systematic and official examination of business finance activities of an organization? | An audit | Thomas:C
+B11 | Economics | At the beginning of the 18th century, which nation was the most powerful in Europe, with the largest economy and population? | France | I | .team said England
+T12 | Art | What word derived from the Japanese words for "fold" and "paper" refers to the art of paper folding? | Origami | ?:C | .buzzer and team not identified in captions; the captions garble the question ("two fold ... the art of money") and the player answered before being called on but was accepted
+B12 | Visual | What is the title of the 19th century Japanese painting shown here that depicts three boats moving through a storm-tossed sea and is considered to be one of the most, if not the most, famous artworks in Japanese history? | The Great Wave off Kanagawa | I | .the team said it had no idea
+T13 | Geology | What is the name of the seismic fault that goes through San Francisco? | The San Andreas Fault | 2:C | .buzzer not named; Oliver Springs from the bonus ("for Walker to answer")
+B13 | Geology | Part 1: What does a paleontologist study? // Part 2: Spell "paleontologist." | Part 1: Fossils // Part 2: P-A-L-E-O-N-T-O-L-O-G-I-S-T | P10 | .the team missed an O in the spelling
+T14 | Vocabulary | What is the superlative of the adjective "good"? | Best | ?:C | .buzzer and team not identified in captions
+B14 | Vocabulary | Part 1: What 11 letter word beginning with C means a person with expert knowledge or discriminating taste? // Part 2: Spell that word. | Part 1: Connoisseur // Part 2: C-O-N-N-O-I-S-S-E-U-R | P10 | .the team misplaced the I in the spelling
+T15 | Geometry | A trapezoid has a height of 12 and an area of 120. What is the sum of its two bases? | 20 | 1:I | Bryan:I | .Knoxville Catholic's buzzer is not named (said ten); Bryan said 132
+T16 | History | Who was the first czar of Russia? | Ivan the Terrible | James:C
+B16 | History | Part 1: In 1940, what prevented the German Luftwaffe from flying missions over the English Channel against the Allied troops evacuating Dunkirk? // Part 2: Dunkirk is part of what country? | Part 1: Fog // Part 2: France | Thomas:P10 | .the team said "a storm" for Part 1
+T17 | Miscellaneous | How many years is one Olympiad? | Four | Bryan:I | James:C | .Bryan said one million
+B17 | Miscellaneous | What is the name of the editorially independent student newspaper serving the UT Knoxville campus? | The Daily Beacon | C | .the team said "The Beacon" and the host accepted it
+T18 | Chemistry | What element has the highest electronegativity? | Fluorine | ?:C | .buzzer and team not identified in captions
+B18 | Chemistry | Part 1: What is the chemical formula for ammonia? // Part 2: What is the chemical formula for the table salt substitute potassium chloride? | Part 1: NH3 // Part 2: KCl | C | .the captions garble the host's final ruling ("ratio is right"); both parts treated as right
+T19 | Spelling | Spell "embezzlement," the crime of fraudulently appropriating property entrusted to one's care and converting it to one's own use. | E-M-B-E-Z-Z-L-E-M-E-N-T | James:I | Anna:I | .James said the word instead of spelling it; Anna's spelling was wrong
+T20 | Religion | Which group of religious followers did Bloody Mary Tudor persecute because she feared they would revolt? | The Protestants | Bryan:C | .the first half ended after this question without a bonus being read
+# ---- second half ----
+T21 | Geography | In what Tennessee city is Sun Studio, where Elvis Presley, B.B. King and others recorded? | Memphis | James:C
+B21 | Geography | Part 1: In what state is Fort Detrick located? // Part 2: In what state is Fort Leavenworth located? | Part 1: Maryland // Part 2: Kansas | I | .the team said Wisconsin and North Carolina
+T22 | Sports | How much does a regulation NCAA football weigh? | 14 to 15 ounces (about 14.5 ounces) | James:I | Bryan:I | .James said four pounds; Bryan said two pounds
+T23 | Astronomy | When a full moon occurs twice in the same month, what is it called? | A blue moon | ?:C | .buzzer and team not identified in captions (the host warned the player for answering before being called on)
+B23 | Astronomy | What are the four smallest planets in our solar system? | Mercury, Venus, Mars and Earth | C
+T24 | Mythology | Which country's mythological gods live in the Kunlun Mountains? | China | Anna:I | Thomas:I | .Anna said Athens; Thomas said India
+T25 | Algebra | What type of polynomial is 3x² + 4x + 6? | Quadratic | Nate:C
+B25 | Algebra | What is the slope of the line with the equation 4x + 2y = 0? | −2 | C
+T26 | Government | Who was U.S. president on January 2, 1890, when Alice Sanger became the first woman to join the White House staff? | Benjamin Harrison | James:I | Bryan:I | .James said Grover Cleveland; Bryan said William McKinley
+T27 | Art | What 1994 Quentin Tarantino movie with a cast including ... [cut off by the buzzer]? | Pulp Fiction | Walker:C | .the host said he had been about to list the cast
+B27 | Art | Part 1: What television show featured an eccentric yet compassionate extraterrestrial time traveler solving problems and battling injustice in various time periods? // Part 2: What was the name of his time-traveling device? | Part 1: Doctor Who // Part 2: The TARDIS | I | .the team said Quantum Leap and did not get the device name
+T28 | Science | Which class of organic compounds has names ending in "-ol"? | Alcohols | Thomas:I | Bryan:I | .Thomas said sugar; Bryan said plants
+T29 | Literature | What is the title of Ernest Lawrence Thayer's poem that includes "There is no joy in Mudville; mighty Casey has struck out"? | Casey at the Bat | Bryan:I | | .Bryan said "Casey at Bat"; the host would not accept it as the exact title and no steal was taken
+T30 | Geography | The Erie Canal runs from Lake Erie to what? | The Hudson River | 2:I | Alex:I | .Oliver Springs' buzzer is not named (said the Mississippi); Alex said the St. Lawrence
+T31 | U.S. History | Which Ohio farm girl shot a cigarette from the mouth of Kaiser Wilhelm around 1887? | Annie Oakley | James:C
+B31 | U.S. History | Part 1: Who was the lead counsel for the defense in the Scopes Monkey Trial? // Part 2: Who was the lead counsel for the prosecution in the Scopes Monkey Trial? | Part 1: Clarence Darrow // Part 2: William Jennings Bryan | C
+T32 | Biology | What carnivorous black and white mammal is in the genus Orcinus? | The orca (killer whale) | Anna:C
+B32 | Visual | Who is the Nobel laureate in physics shown here who, while conducting experiments on cosmic rays, accidentally invented the first particle detector by noticing odd readings in his equipment, leading to groundbreaking research in particle physics? | Carl Anderson | I | .team said Oppenheimer
+T33 | Music | Which one of the Beatles was killed by an obsessed fan? | John Lennon | James:C
+B33 | Music | Part 1: Who sang the 1988 hit song "My Prerogative"? // Part 2: To which music star was Bobby Brown married from 1992 to 2007? | Part 1: Bobby Brown // Part 2: Whitney Houston | C
+T34 | Algebra | If the square root of the quantity x + 4 equals ten, what is the value of x? | 96 | James:C
+B34 | Algebra | Simplify −3x(2x − 4). | −6x² + 12x | James:C
+T35 | Foreign Language | What is the English translation of the German word "wunderbar"? | Wonderful | James:C
+B35 | Visual | What French word is used to describe an edible terrestrial snail prepared for use as food, shown here, usually served in the shell with a sauce of melted butter and garlic? | Escargot | C
+T36 | Economics | In what city is the headquarters of General Motors? | Detroit | Walker:C
+B36 | Economics | Part 1: Which brand of shoes is recognizable by the swoosh? // Part 2: Which brand of shoes is recognizable by the three-stripe logo that represents a mountain pointing outwards toward challenges and goals? | Part 1: Nike // Part 2: Adidas | C
+T37 | Religion | Which festival in Hinduism symbolizes the spiritual victory of light over dark, good over evil and knowledge over ignorance? | Diwali | Thomas:C
+B37 | Religion | In 2014, Barack Obama invited Tibet's exiled spiritual leader to the White House, although the Chinese government warned that the meeting could damage U.S.-China relations. Who is Tibet's exiled spiritual leader? | The Dalai Lama | C
+T38 | Physics | The equation F = ma describes which of Newton's laws? | The second law of motion | 1:C | .buzzer not named; Knoxville Catholic from the bonus
+B38 | Physics | What is the subfield of physics that describes the physical behavior of particles, including atoms, electrons, photons and almost everything in the molecular and submolecular realm? | Quantum mechanics | I | .team said "quantum physics" and the host did not accept it
+T39 | Vocabulary | Finish the familiar saying: What doesn't kill you makes you ... | Stronger | Walker:C
+B39 | Vocabulary | Part 1: What nine letter word starting with O means very unpleasant or rude, highly objectionable or offensive? // Part 2: What seven letter word starting with O means foreboding or foreshadowing evil or harm? | Part 1: Obnoxious // Part 2: Ominous | P10 | .the team said "obscene" for Part 1
+T40 | Chemistry | When the coal-based fuel coke burns, what dangerous gas is produced? | Carbon monoxide | Anna:I | | .Anna said nitrous oxide; the host did not allow a Knoxville Catholic steal because the players looked at each other
+T41 | History | Which Greek physician is known as the father of medicine? | Hippocrates | 1:C | .buzzer not named (the host joked about the pronunciation); Knoxville Catholic from the bonus
+B41 | History | Who was the 70 year old former Milwaukee schoolteacher elected as the first female prime minister of Israel in 1969? | Golda Meir | Thomas:I | .the answer is garbled in the captions
+T42 | Art | In addition to being an environmentalist, with which art form is Ansel Adams associated? | Photography | Walker:I | James:I | .Walker said abstract; James said postmodernism
+T43 | Science | The speed of sound through water is approximately how many feet per second? | About 4,800 feet per second | Bryan:I | Nate:I | .Bryan said ten; Nate said about 140
+T44 | Literature | The Pequod began its fateful journey from Nantucket on Christmas Day in search of which specific sea creature? | Moby Dick | 2:I | James:I | .Oliver Springs' buzzer is not named (said whale); James said "the great whale"
+T45 | Math | What is the shape of the graph of a quadratic equation? | A parabola | Walker:I | Nate:C | .Walker's answer was garbled ("slope")
+B45 | Math | A rectangular solid has a length of eight inches, a width of six inches and a height of three inches. What is its total volume? | 144 cubic inches | C | .the game ended after this bonus

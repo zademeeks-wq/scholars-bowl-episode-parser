@@ -1,0 +1,89 @@
+@EP S40 E30
+@ROUND Round 1
+@TEAMS West Ridge High School (Hunter's team) | J. Frank White Academy (Shashi's team)
+@R1 Ray, Nathan, Hunter, Harrison, Tristan
+@R2 Van, Troy, Shashi, Stephen
+# Both schools have more than one team in the tournament. Hunter captains West Ridge; Shashi captains J. Frank White Academy (last year's champions). The captions render "West Ridge" as "Westridge" and "steal" as "still", and J. Frank White as "Jay Frank White". Tristan joins West Ridge for the second half. Shashi's team scores far more; many tossups and bonuses in the second half have no team named and stay Unknown.
+# ---- first half ----
+T1 | Sports | Which sport awards the Davis Cup? | Tennis | Shashi:C
+B1 | Sports | Part 1: What is the term for the score that an expert golfer would be expected to make for a given hole? // Part 2: What is the term for the closely mown area of a golf course between the tee and the green? | Part 1: Par // Part 2: The fairway | I | .the team said "hole in one" and "the green"
+T2 | Economics | The sale of spinach soared 33% [because of the eating habits of which cartoon character?] | Popeye | Shashi:C | .the question is only partly captured
+B2 | Economics | A 2022 Tennessee law repealed an exemption that previously allowed employees with disabilities to be paid below what level? | The minimum wage | C
+T3 | Vocabulary | What is the 14 letter word for a person who is 70 to 79 years old? | Septuagenarian | Shashi:I | Hunter:I | .Shashi said octogenarian; Hunter said "geriatric, maybe"
+T4 | Science | Who discovered important implications for the measurement of time intervals when he saw that the period of swing of a pendulum is independent of its amplitude? | Galileo | Shashi:C
+B4 | Visual | Who is the Serbian-American inventor and engineer shown here, best known for his contributions to the design of the modern alternating current electricity supply system? | Nikola Tesla | C
+T5 | Geometry | Two consecutive angles of a parallelogram are 2x and 3x. What is the measure of the smaller angle? | 72 degrees | Shashi:C
+B5 | Geometry | As decimals, what are the next two terms of the geometric sequence 80, 40, 20, 10, 5, ...? | 2.5 and 1.25 | C
+T6 | Music | What type of dance music that originated in Argentina and Uruguay was influenced by both regional folk music and European classical dance music and is composed in the easily danceable time signatures of 4/4 and 2/4? | Tango | Shashi:C
+B6 | Music | Part 1: Who is considered the Queen of Soul and sang "Freeway of Love" and "Respect"? // Part 2: Who wrote the song "Respect," which Aretha Franklin made famous? | Part 1: Aretha Franklin // Part 2: Otis Redding | P10 | .the team said Louis Armstrong for Part 2
+T7 | History | Who was the first English adventurer to explore and map the Chesapeake Bay and help establish the English colony in North America in the early 17th century? | John Smith | Troy:I | Harrison:C | .Troy said Henry Hudson
+B7 | History | Part 1: On April 30, 1789, George Washington took the oath of office as President of the United States. In what city? // Part 2: In 1793, George Washington took the oath for a second term. In what city? | Part 1: New York City // Part 2: Philadelphia | P10 | .Hunter was to answer or defer; the team said Philadelphia for Part 1
+T8 | Literature | How many lines are in a limerick? | Five | Shashi:C
+B8 | Literature | Part 1: What is the poetry term for a two-line stanza? // Part 2: What is the term for a six-line stanza? | Part 1: Couplet // Part 2: Sestet | C | .the team said "sextet" for Part 2 and the host accepted it
+T9 | Astronomy | What prominent constellation immediately northwest of Orion has a central part that looks like a large V and is depicted as a bull? | Taurus | Shashi:I | Nathan:I | .Shashi said Andromeda; Nathan said the Big Dipper; the captions show "bowl" for bull
+T10 | Health | What is the medical technique devised in China before 2500 B.C. in which needles are inserted into the skin? | Acupuncture | Shashi:C
+B10 | Health | In 2022, a company was convicted and fined $85,000 after its factory negligently released what chemical, with the formula NH3, that is used in the process of freezing waffles? | Ammonia | C
+T11 | Architecture | What type of zoning ensures that businesses are located in appropriate areas? | Commercial zoning | Troy:C
+B11 | Architecture | Which Greek architectural order has a capital decorated with carvings of acanthus leaves? | Corinthian | I | .team said "Athens"
+T12 | Government | The length of a U.S. senator's term is how many times as long as that of a member of the U.S. House? | Three times | Harrison:I | Troy:C | .Harrison said four
+B12 | Government | Name the four U.S. presidents who did not make any nominations for Supreme Court appointments because there were no vacancies while they were in office. | William Henry Harrison, Zachary Taylor, Andrew Johnson and Jimmy Carter | P5 | !the host awarded five points; the team named Tyler, Benjamin Harrison, Obama, Johnson, Jackson and later Tyler, Andrew Johnson and Jimmy Carter, and the captions are unclear about which names counted (the host said "five points for Andrew Johnson" and named William Henry Harrison and Zachary Taylor as the ones missed)
+T13 | English | What four letter word is a synonym for reverberate? | Echo | Shashi:C
+B13 | English | Fran's new car turned out to be a lemon is an example of what type of figurative speech? | A metaphor | I | .team said "hyperbole" and "idiom"
+T14 | Physics | Which atomic particle is made up of one up quark and two down quarks? | The neutron | Shashi:I | Hunter:I | .Shashi said proton; Hunter said electron
+T15 | Math | Divide 144 by 0.12. | 1,200 | 2:C | .buzzer not named; J. Frank White Academy from the visual bonus
+B15 | Visual | What is the correct change from a $100 bill for a meal costing $78.26? | $21.74 | C | .the team first said 22.74 and corrected itself
+T16 | Religion | Name the pillar of Islam that is described as sincerely reciting the Muslim profession of faith. | The shahada | Shashi:I | Hunter:I | .Shashi said hajj; Hunter's answer is not captured
+T17 | Geography | In what deal did the U.S. acquire the land that became the state of Arkansas? | The Louisiana Purchase | Shashi:C
+B17 | Geography | Part 1: Which dam on the border of Nevada and Arizona created the largest reservoir in the United States? // Part 2: What is the name of the reservoir? | Part 1: Hoover Dam // Part 2: Lake Mead | C
+T18 | Foreign Language | What is the English translation of the German phrase "Guten Tag"? | Good afternoon | Shashi:I | ?:I | !the captions show "Guten Abend" for the phrase (probably garbled) and a confusing exchange: Shashi said "good evening", a steal attempt said "goodnight", and the host said "It's good afternoon"; no bonus followed, so both attempts are treated as wrong
+T19 | Biology | What animals are classified as Chiroptera, the second largest order of mammals? | Bats | Shashi:I | | .Shashi said vertebrates; no West Ridge answer captured
+T20 | Art | What Knoxville-based comedian, currently on her nationwide "Just Getting Started" tour, released her first Netflix special titled "I'm Every Woman" in April 2023? | Leanne Morgan | Shashi:I | | .Shashi said Kelsea Ballerini; no West Ridge answer captured
+T21 | Games | What racket or paddle sport can be played indoors or outdoors with two or four players hitting a hollow plastic ball? | Pickleball | Harrison:C
+B21 | Games | What Xbox-exclusive first-person shooter game introduced the artificial intelligence character Cortana, who provides tactical information to the main character Master Chief and whom Microsoft also used as the basis for its Windows virtual assistant? | Halo | C
+T22 | History | From approximately 1716 until his death in 1718, Edward Teach was a feared pirate known as what? | Blackbeard | ?:C | .buzzer and team not identified in captions (the host said he was stumbling over the question and the player answered before being called on)
+B22 | World History | Euclid is considered to be the father of which branch of mathematics? | Geometry | C
+T23 | Literature | What was the title of the 23 page pamphlet written in 1848 by Karl Marx and Friedrich Engels? | The Communist Manifesto | 2:C | .buzzer not named; J. Frank White Academy is inferred from the host's remark after the bonus that "you guys are showing off trying to run up the scores"
+B23 | Literature | Part 1: What influential American writer who would go on to write Cat's Cradle and Breakfast of Champions received Army training at the University of Tennessee in Knoxville in 1943? // Part 2: After being captured during the Battle of the Bulge, Vonnegut was imprisoned in an underground meat locker in Dresden, which was the inspiration for which of his novels? | Part 1: Kurt Vonnegut // Part 2: Slaughterhouse-Five | P10 | .the team said Cormac McCarthy for Part 1; the first half ended after this bonus
+# ---- second half ----
+T24 | Geology | Which branch of geological science is the study of the earth by quantitative physical methods and the relations between the physical features of the Earth and the forces that produce them? | Geophysics | Troy:I | Harrison:I | .Troy said seismology; Harrison said "geology"
+T25 | Algebra | What is the absolute value of the expression 4 + 3i, where i is the imaginary unit? | 5 | Shashi:I | Hunter:I | .both said seven
+T26 | Music | What does the Italian musical term "adagio" mean? | Slow (stately) | Shashi:I | Hunter:C | .Shashi said faster
+B26 | Music | What is the major key, for an instrument like a piano, when the key signature has no sharps or flats? | C major | I | .team said "natural"
+T27 | Economics | The 1880s economic boom in the Amazon basin was fueled by what "black gold" that was not oil? | Rubber | ?:C | .buzzer and team not identified in captions
+B27 | Economics | What car company is the manufacturer of the Supra, RAV4 and Prius models? | Toyota | C
+T28 | Spelling | A written word that cannot be read or deciphered is illegible. Spell "illegible." | I-L-L-E-G-I-B-L-E | Shashi:I | | .Shashi spelled it I-L-L-I-G-I-B-L-E; the host did not allow a West Ridge steal because the players were looking at each other's papers
+T29 | Health | What part of the body do podiatrists treat? | The foot | ?:C | .buzzer and team not identified in captions
+B29 | Visual | In the human body, what are the largest and thickest bones seen here that articulate proximally with the pelvic bone and distally interact with the patella and the proximal aspect of the tibia? | The femur | C
+T30 | Literature | In the children's book Charlotte's Web, what was the name of the pig? | Wilbur | Harrison:C
+B30 | Literature | Part 1: A British author's opinion column about her top ten favorite aunts in literature includes what character who was a sister to Lily Potter and who, along with her husband Vernon, allowed Harry to live in the cupboard under their stairs? // Part 2: What was the name of Petunia's son, who is Harry's cousin? | Part 1: Petunia Dursley // Part 2: Dudley Dursley | C
+T31 | Miscellaneous | From the Batman comics, which character's alter ego is Harvey Dent? | Two-Face | NB | | .nobody answered; the host gave the answer
+T32 | Geography | In what country is Neuschwanstein, a 19th century historical palace? | Germany | Shashi:C
+B32 | Geography | Which two countries border the Dead Sea? | Israel and Jordan | Troy:I | .the team said Saudi Arabia and Eritrea
+T33 | Vocabulary | What term describes words of two languages that have almost the same spelling and the same meaning? | Cognates | Shashi:I | | .Shashi said "conjugate"; no West Ridge answer captured
+T34 | Chemistry | What is the chemical formula for sulfur hexafluoride? | SF6 | Shashi:I | | .Shashi said SH6F; the captions show the host giving SF6 and no West Ridge answer
+T35 | Math | Change 324 base five into a base ten number. | 89 | NB | | .nobody answered (the host noted the players could not look at each other); the host gave 89
+T36 | Religion | Who became the first Christian martyr when he was stoned to death in 36 A.D.? | Stephen | Stephen:C | .the captions repeat "Stephen" several times; the buzzer appears to be J. Frank White's Stephen answering "Stephen"
+B36 | Religion | According to Catholic tradition, where do the souls of those who have died undergo purification before they enter heaven? | Purgatory | C
+T37 | Government | Sometimes a name is listed as "a.k.a." What does a.k.a. stand for? | Also known as | Shashi:C
+B37 | Visual | On its 1976 bicentennial series of state flags, the U.S. Postal Service made what error on the Tennessee stamp seen here? | The stars in the middle were upside down | I | .the team said the stripe was on the wrong side
+T38 | Foreign Language | What is the official language in Niger? | French | Shashi:C
+B38 | Foreign Language | In what two countries is the Urdu language spoken? | Pakistan and India | P10 | .the team said Pakistan and Afghanistan
+T39 | Technology | On a Windows computer, what is the function of the keyboard shortcut Control+Z? | Undo | Troy:I | Harrison:I | .Troy said copy; Harrison said backspace
+T40 | Chemistry | What is the collective name for compounds that are made up of only carbon and hydrogen? | Hydrocarbons | Shashi:I | | .the host said Shashi's answer "hydrocarbons" was right but the time had been called, so no points
+T41 | Sports | In American football, how many points are awarded for a field goal? | Three | Hunter:C
+B41 | Sports | Part 1: What is the team name for the athletic program at Yale University? // Part 2: What is the team name for the athletic program at the University of Pennsylvania? | Part 1: Bulldogs // Part 2: Quakers | Harrison:P10 | .Hunter deferred to Harrison, who said Falcons for Part 2
+T42 | U.S. History | The Civil War Battle of Antietam was fought in which state? | Maryland | Shashi:C
+B42 | U.S. History | Part 1: Woodrow was President Wilson's middle name. What was his first name? // Part 2: What was the middle name of President Richard Nixon? | Part 1: Thomas // Part 2: Milhous | I | .the team said Henry and Patrick Henry for Part 1 and "none" for Part 2
+T43 | Mythology | Who was the mythological Roman god of freshwater and the sea and is a counterpart of the Greek Poseidon? | Neptune | ?:C | .buzzer and team not identified in captions
+B43 | Mythology | What mythological Greek demigod of the deep sea was the son of Poseidon and represented as a merman? | Triton | C
+T44 | Biology | Which phylum of animals has a notochord, a dorsal nerve cord and pharyngeal slits at some point in their development? | Chordata | 2:I | Nathan:I | .J. Frank White's buzzer is not named (said fish); Nathan said nematodes
+T45 | Geometry | Find the area of a triangle with a base of 14 feet and an altitude of nine feet. | 63 square feet | Shashi:C
+B45 | Geometry | The area of a triangle is 48 square feet. If its base is 12 feet, what is the length of the height to that base? | 8 feet | C
+T46 | Music | What modern instrument is the successor to the clavichord and harpsichord? | The piano | Shashi:C
+B46 | Music | Part 1: What does the musical term "poco a poco" mean? // Part 2: What does the musical term "staccato" mean? | Part 1: Little by little // Part 2: Detached, short notes | C
+T47 | Geography | What chain of volcanic islands extends over 900 miles westward from the tip of the Alaskan peninsula and separates the Pacific Ocean from the Bering Sea? | The Aleutian Islands | 2:I | | .J. Frank White's buzzer is not named (said the Ring of Fire); no West Ridge answer captured
+T48 | Vocabulary | What seven letter word, starting with A, is a synonym of forgive and also means to declare someone free from blame or guilt? | Absolve | Shashi:I | | .Shashi said amnesty; no West Ridge answer captured
+T49 | Science | Name the famous scientist who wrote The Interpretation of Dreams. | Sigmund Freud | ?:C | .buzzer and team not identified in captions
+B49 | Science | What is the name for the phenomenon when parts of the Pacific Ocean become warmer than usual and rising moist air currents are produced that affect weather patterns around the world? | El Niño | I | .team said La Niña
+T50 | Art | What does the word "Renaissance" mean in English? | Rebirth | 2:I | Harrison:C | .J. Frank White's buzzer is not named (said "a driven revolution")
+B50 | Art | In 2023, the town of Shrewsbury, England, displayed surrealist sculptures by what Spanish artist, well known for his painting of softened solid objects inspired by seeing a piece of runny Camembert cheese melting in the sun? | Salvador Dalí | Hunter:I | .Hunter said he had no idea; the game ended after this bonus

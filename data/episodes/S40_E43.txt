@@ -1,0 +1,85 @@
+@EP S40 E43
+@ROUND Round of 32
+@TEAMS Scott County High School (Brylan's team) | Knoxville Catholic High School
+@R1 Connor, Joslin, Brylan, Cameron
+@R2 Alvaro, Nate, James, Thomas, Alex
+# Scott County has more than one team in the tournament; this one is captained by Brylan (the same team as E28). Knoxville Catholic (the same team as E29) is captained by James. The captions render Connor as "Conner/Corner/counter", Joslin as "Jocelyn/Joslyn", Cameron as "camera", Nate as "Make" and Brylan as "Rylan". Both teams keep their starters all game (Alex never plays). The host said only 30 points separated the teams at halftime (Scott County led 160-130 by the rulings recorded here) and at the end that Knoxville Catholic "has overcome the small deficit" and won. The captions give no other score.
+# ---- first half ----
+T1 | Games | What puzzle game has players complete lines of blocks by moving differently shaped pieces that descend onto the playing field? | Tetris | James:I | Connor:C | .James buzzed early and said Scrabble
+B1 | Games | Part 1: What fantasy action adventure Nintendo game's latest release is subtitled Tears of the Kingdom? // Part 2: Who is the original creator of The Legend of Zelda, who also created Super Mario Brothers? | Part 1: The Legend of Zelda // Part 2: Shigeru Miyamoto | P10 | .Connor's Part 2 answer is garbled in the captions ("Minascory"); the host said "Miyamoto" would have been enough
+T2 | Geography | What is the area in a desert surrounding a well or natural spring? | An oasis | Alvaro:C
+B2 | Geography | Which has a longer coastline, Maine or California? | Maine (by about 51 miles) | I | .the team said California
+T3 | Literature | Who is actually the central character in Shakespeare's Julius Caesar? | Brutus | Connor:I | James:C | .Connor said Marcus Aurelius
+B3 | Literature | In which Leo Tolstoy novel does the title character have an affair with a cavalry officer named Count Vronsky? | Anna Karenina | I | .the team said War and Peace
+T4 | Physics | What phrase beginning with the letter Q means a huge, often sudden increase or advance in something, often due to new technology? | A quantum leap | Connor:C
+B4 | Physics | Part 1: What is the process by which heat energy is transmitted through a material substance? // Part 2: What is the process by which the heat of the sun is transmitted? | Part 1: Conduction // Part 2: Radiation | C
+T5 | Math | Give the product of negative four squared and negative two raised to the negative three power. | -2 | Nate:I | Joslin:I | .Nate said 144 and Joslin said 24
+T6 | Art | A tire, a pizza and a daisy have what type of balance? | Radial balance | Alvaro:I | Connor:I | .Alvaro said symmetrical and Connor said asymmetrical
+T7 | History | Which American founding document includes the right to life, liberty and the pursuit of happiness? | The Declaration of Independence | Brylan:C
+B7 | Visual | At a dinner party, a woman sitting next to the president shown here said she had a bet that she could get at least three words of conversation from him. He responded, "You lose." Who is this 30th president of the United States? | Calvin Coolidge | Connor:C | .Brylan designated Connor
+T8 | Foreign Language | What Russian word means prison or a system of labor camps? | Gulag | Connor:C
+B8 | Foreign Language | Translate "je voudrais un café" from French to English. | I would like a coffee | I | .the team's answer is garbled in the captions ("let's play game café")
+T9 | Health | What is the term that refers to any substance that causes a fluid to clot or thicken? | A coagulant | Connor:I | | .Connor's answer is garbled in the captions ("hemiphelic"); no Knoxville Catholic steal answer captured
+T10 | Government | If a person is charged with a DUI, what legal violation have they committed? | Driving under the influence | Brylan:C
+B10 | Government | Which country that shares a long border with Russia and also borders Sweden and Norway formally applied to join NATO in 2022? | Finland | I | .the team said Ukraine
+T11 | Sports | What is the national summer sport of Canada? | Lacrosse | Thomas:I | Brylan:I | .Thomas said hockey and Brylan said Canadian football
+T12 | Economics | What is the title of the person who serves guests in a hotel by booking restaurants and transportation? | A concierge | James:C
+B12 | Economics | What are the two mottoes engraved on current U.S. coins? | "In God We Trust" and "E Pluribus Unum" | C
+T13 | Spelling | Spell "synonymous." | S-Y-N-O-N-Y-M-O-U-S | Cameron:I | James:I | .Cameron spelled it S-Y-N-O-N-O-M-O-U-S; James began S-Y-N-O and ran out of steam
+T14 | Science | What serves as an atom's central core, consisting of a mixture of protons and neutrons? | The nucleus | 2:C | .buzzer not named (the bonus was Knoxville Catholic's)
+B14 | Visual | Part 1: Sir Alexander Fleming, shown here, the scientist who accidentally discovered penicillin, said about that day: "When I woke up just after dawn on September 28, 1928, I certainly didn't plan to revolutionize all medicine by discovering the world's first ___." // Part 2: In 1945, Fleming won what highly prestigious award in physiology or medicine? | Part 1: Antibiotic // Part 2: The Nobel Prize | C
+T15 | Algebra | If f(-2) = 6 and f(4) = -6, what is the slope of the line connecting these two points? | -2 | Brylan:I | Nate:I | .Brylan said 2/4 and Nate said 2 (the host wanted -2)
+T16 | Music | What is the term for the device that holds a reed onto the mouthpiece of a single reed instrument such as a saxophone or clarinet? | A ligature | Joslin:I | James:C | .Joslin buzzed early and said "mouthpiece holder"; the host finished the question for James's steal
+B16 | Music | Part 1: Which American musician composed Rhapsody in Blue? // Part 2: Which English composer is best known for the orchestral suite The Planets? | Part 1: George Gershwin // Part 2: Gustav Holst | C | .the team first gave only the surname Gershwin and then the full name
+T17 | History | Which English king introduced death by boiling and legalized the killing of Gypsies? | King Henry VIII | James:I | Brylan:C | .James said Henry the Sixth
+B17 | History | Part 1: Which African nation was once led by Idi Amin? // Part 2: Which Caribbean nation was once led by Fidel Castro? | Part 1: Uganda // Part 2: Cuba | P10 | .the team said South Africa for Part 1
+T18 | English | The meat dish mutton comes from what animal? | A sheep (or goat) | Connor:C
+B18 | English | What is the term for an object, event, person or thing that is chronologically out of place in a piece of literature? | An anachronism | Connor:C | .Brylan designated Connor
+T19 | Geology | What is the name for the hardest type of coal, which gives off little flame or smoke when it burns? | Anthracite | Brylan:I | James:C | .Brylan said charcoal
+B19 | Geology | Part 1: Which geologic era is associated with forests appearing and dominating the land? // Part 2: Which geologic era is associated with Homo sapiens appearing on the earth? | Part 1: The Paleozoic era // Part 2: The Cenozoic era | I | .James designated Thomas, who said Jurassic for Part 1, and Nate, who said Mesozoic for Part 2
+T20 | Chemistry | Which element has the Latin name Natrium? | Sodium (Na) | Brylan:I | 2:I | .Brylan said nitrogen; Knoxville Catholic was disqualified on the steal because players looked at each other
+T21 | Religion | According to the book of Proverbs, what does a soft answer turn away? | Wrath | Alvaro:I | Cameron:I | .Alvaro said "hard questions" and Cameron said "hard truth"
+T22 | Government | Assault refers to the act of causing someone to reasonably fear imminent harm. What term refers to actually physically harming them? | Battery | Connor:C | .Connor buzzed early
+B22 | Government | Part 1: What do the letters in the federal agency SEC stand for? // Part 2: What do the letters in the federal agency FTC stand for? | Part 1: Securities and Exchange Commission // Part 2: Federal Trade Commission | I | .the team said "Southeastern Conference" and then "the Securities and Exchange Commission" for Part 1 and "Foreign Trade Committee" for Part 2; the halftime margin of exactly 30 only works if this bonus earned nothing
+T23 | Literature | The concept of tilting at windmills comes from what literary classic? | Don Quixote | Connor:I | Alvaro:C | .Connor buzzed early and said "fighting imaginary foes"
+B23 | Literature | Part 1: Who wrote the poem "Because I could not stop for Death"? // Part 2: Who wrote the poem "Mending Wall"? | Part 1: Emily Dickinson // Part 2: Robert Frost | I | .the team said Poe for Part 1 and "Robert Woods" for Part 2; the first half ended after this bonus
+# ---- second half ----
+T24 | Health | Gram for gram, which category of nutrients has about twice as many calories as carbohydrates? | Fats | Nate:I | Connor:C | .Nate said proteins
+B24 | Health | Part 1: Which human organ secretes insulin? // Part 2: Which human organ secretes bile? | Part 1: The pancreas // Part 2: The liver | C
+T25 | Geometry | The diagonals of a square are both 12 square roots of two. What is the area of the square? | 144 | Nate:C
+B25 | Geometry | Part 1: True or false: every parallelogram is a quadrilateral. // Part 2: True or false: every square is a trapezoid. | Part 1: True // Part 2: False | P10 | .the team said true for both parts
+T26 | Miscellaneous | In the game of Monopoly, what is the cost of each utility? | $150 | Brylan:I | Alvaro:I | .Brylan said 200 and Alvaro said 250
+T27 | Geography | Which American city's original name translates to "the town of Our Lady, the Queen of the Angels"? | Los Angeles | Brylan:C
+B27 | Visual | The territorial flag shown here, representing what archipelago, is the only one in the world that features a sinking ship? | Bermuda | I | .the team said the Netherlands
+T28 | Vocabulary | What six letter word starting with T means a formal dinner jacket, named for a village in New York in 1886? | Tuxedo | Alvaro:C
+B28 | Vocabulary | What seven letter word beginning with Q refers to a bitter crystalline alkaloid used to treat malaria and as an ingredient in tonic water? | Quinine | Thomas:C | .James deferred to Thomas
+T29 | Science | Which law mathematically describes the relationships between pressure and velocity in the horizontal flow of fluids? | Bernoulli's law (principle) | James:I | | .James's answer is garbled in the captions (appears as a formula, "PV = nRT"); no Scott County steal answer captured
+T30 | Arts | What six letter show business term starting with B means a movie dramatizing the life of a particular person? | A biopic | Brylan:I | James:C | .Brylan said "a biography"
+B30 | Arts | Part 1: In 2023, what was the title of the biopic about the famous theoretical physicist known as the Father of the Atomic Bomb? // Part 2: In 2022, what was posthumously restored to Oppenheimer that had barred him from entering Department of Energy establishments? | Part 1: Oppenheimer // Part 2: His security clearance | C
+T31 | Music | Which type of musical composition is characterized by the systematic imitation of one or more overlapping themes? | A fugue | Thomas:I | | !the captions are garbled: Thomas buzzed early and the host said "I didn't get to it yet"; the host then seems to say "fugue or rondo is right" and moved on with no bonus, so no points are recorded
+T32 | History | Who was the founder and first president of Tuskegee University? | Booker T. Washington | James:I | Brylan:I | .James said George Washington Carver and Brylan said John Quincy Adams
+T33 | Foreign Language | What is the three word Latin phrase used in commencement programs meaning "with highest praise"? | Summa cum laude | James:C
+B33 | Foreign Language | Part 1: What Latin phrase does the abbreviation "e.g." stand for? // Part 2: What Latin phrase does the abbreviation "i.e." stand for? | Part 1: Exempli gratia // Part 2: Id est | I | .the team said "example given" for Part 1 and did not know Part 2
+T34 | Biology | What is the scientific term for all 12 pairs of ribs? | The thorax (rib cage) | Nate:I | Connor:I | .Nate said vertebrae and Connor said "rib cage"; the host said thorax is the term he was looking for
+T35 | Math | What is 6/7 of 42? | 36 | Brylan:I | Nate:C | .Brylan said 35
+B35 | Visual | Square the binomial 5z - 6 and give your answer in simplest form. | 25z^2 - 60z + 36 | C
+T36 | Religion | According to all four canonical gospels, who was the man who assumed responsibility for the burial of Jesus after his crucifixion? | Joseph of Arimathea | James:C
+B36 | Religion | What is the title of the podcast, originally released on January 1, 2021 and hosted by Father Mike Schmitz, that examines the Scriptures in 365 episodes? | The Bible in a Year | C
+T37 | History | In 1934, Adolf Hitler merged the offices of German Chancellor and President and declared his new title to be what? | Führer | Brylan:I | James:C | .Brylan said "Reich"
+B37 | History | In 1981, voters in Egypt participated in a referendum to elect Vice President Hosni Mubarak as their new president, one week after the assassination of whom? | Anwar Sadat | C
+T38 | Literature | Who was the author of War and Peace? | Leo Tolstoy | James:C
+B38 | Literature | What is the novel by Jack Kerouac that tells the story of a journey and whose title emphasizes the road? | On the Road | I | .the team said Call of the Wild
+T39 | Chemistry | What element is between lithium and boron on the periodic table? | Beryllium | Brylan:C
+B39 | Chemistry | What is the electron configuration in exponential form for phosphorus? | 1s2 2s2 2p6 3s2 3p3 | I | .the team had no answer
+T40 | Health | What ten letter word for the process of letting air out of the lungs during the breathing cycle is synonymous with exhaling or exhalation? | Expiration | Connor:I | Alvaro:I | .the captions show Connor's early answer as "counter expansion" (read as Connor: "expansion"); Alvaro said "expulsion"
+T41 | Architecture | Which city in Poland lost about 85% of its buildings in World War II? | Warsaw | Nate:C
+B41 | Architecture | Which famous architect designed the Rock and Roll Hall of Fame in Cleveland, the East Building of the National Gallery of Art in Washington, D.C., and the Louvre Pyramid in Paris? | I.M. Pei | I | .Thomas answered "Charles de Gaulle"
+T42 | Geography | Which Tennessee city is the sixth largest in population and the geographical center of the state? | Murfreesboro | Connor:I | James:I | .Connor said Nashville and James said Columbia
+T43 | Vocabulary | Resignation is to office as abdication is to what? | The throne | Connor:C
+B43 | Vocabulary | Part 1: What nine letter word beginning with OB means to make something unclear, obscure or difficult to understand? // Part 2: Spell that word. | Part 1: Obfuscate // Part 2: O-B-F-U-S-C-A-T-E | P10 | .the team had no answer for Part 1 and spelled the word correctly
+T44 | Astronomy | Which planet in our solar system would float if it could be placed in water? | Saturn | Connor:C
+B44 | Astronomy | What was the first known handheld analog computer, capable of several different kinds of calculations relating to spherical astronomy, invented around the first or second century BCE and used into the 16th century? | The astrolabe | Joslin:I | .Brylan designated Joslin, who said gyroscope
+T45 | Algebra | For the equation 10 - y = x squared + 3x, which direction does the parabola open? | Down | 2:I | Cameron:C | .Knoxville Catholic's early buzzer and answer are not captured; the host noted several players trying to ring in before Cameron answered
+B45 | Algebra | What is x in this linear equation: the quantity (x - 4) over -6 equals 3? | x = -14 | I | .nobody answered in time
+T46 | Music | Who wrote the musical score for West Side Story? | Leonard Bernstein | Alvaro:I | Connor:I | .Alvaro said Lin-Manuel Miranda and Connor said Tennessee Williams
+T47 | U.S. History | Which Civil War general sent the message to President Lincoln stating, "I present to you as a Christmas gift the city of Savannah"? | General William T. Sherman | Brylan:I | James:I | .Brylan buzzed early and said Robert E. Lee; James said Grant; the game ended

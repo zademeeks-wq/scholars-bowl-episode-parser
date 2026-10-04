@@ -1,0 +1,82 @@
+@EP S40 E37
+@ROUND Round of 32
+@TEAMS Hardin Valley Academy (Zoe's team) | Greeneville High School
+@R1 Austin, Jake, Zoe, Arturo, Ellie, Jessica
+@R2 Skyler, Emma, Angus, Trey
+# Hardin Valley has two teams in the tournament; this one is captained by Zoe (the other, David's team, played in E36). Angus is Greeneville's captain. The captions often render Greeneville as "Hardin/Hudson Valley" or "our valley", so some team names on steals and bonuses are inferred from the players named. The halftime remark ("the score is tied") and the closing remark (Greeneville "pulled away by just under 100 points") both check out with the totals here. Ellie and Jessica are alternates who appear to join Hardin Valley for the second half but do not buzz in the captions.
+# ---- first half ----
+T1 | Geography | In which direction from Central America is the Tropic of Cancer? | North | 2:I | Zoe:C | .Greeneville's buzzer is not named (said "straight south"); the captions show "Incorrect" after Zoe's "north", but the bonus followed, so Zoe's steal is treated as correct
+B1 | Geography | Part 1: What is the capital of Argentina? // Part 2: What does "Buenos Aires" mean in English? | Part 1: Buenos Aires // Part 2: "Good air" (fair winds) | P10 | .no answer for Part 1; the team said "good air" for Part 2
+T2 | Literature | What was the name of Peter Pan's friend who sewed his shadow back on? | Wendy | Zoe:C
+B2 | Literature | In A Tale of Two Cities by Charles Dickens, what are the two cities? | London and Paris | P10 | .the team named Paris but not the other city; the host gave London and awarded ten points
+T3 | Health | What is the medical term for the collarbone? | The clavicle | Trey:I | | .Trey's answer is garbled in the captions ("trick?"); no Hardin Valley answer captured
+T4 | Pre-Calculus | What word describes the number two in the function y = 2 cos x? | The amplitude | Emma:I | 1:I | .Emma said "coefficient"; the Hardin Valley steal answer is garbled ("factors")
+T5 | Music | What is another name for the G clef in music, which is used on the upper staff? | The treble clef | Trey:C
+B5 | Music | Part 1: Which instrument in an orchestra is traditionally the first to sound a note for tuning just before a concert? // Part 2: What note does that instrument play for tuning? | Part 1: The oboe // Part 2: A | I | .the team said trumpet and then D
+T6 | U.S. History | Tennessee became the 16th state in what year? | 1796 | Emma:I | Zoe:I | .Emma said 1760; Zoe said 1794
+T7 | Vocabulary | A pyromaniac would likely be charged with what crime? | Arson | Emma:I | Zoe:C | .Emma said "a fire" and was asked what crime
+B7 | Vocabulary | Part 1: What nine letter word beginning with the letter J means prudent, fair or sound in judgment? // Part 2: What six letter word beginning with the letter J means a decrepit car? | Part 1: Judicious // Part 2: Jalopy | I | .the team said "judicial" and "junk box"
+T8 | Geology | Minnesota's approximately 11,000 lakes were formed by what action? | Glaciers | Trey:C | .the captions show "Trade glaciers" and "bonus now for Hardin Valley", but the bonus deferral is to Trey ("Defer furniture"), so this is read as Trey for Greeneville
+B8 | Visual | This statue in the U.S. Capitol's National Statuary Hall Collection represents which general who was elected governor of an independent state that North Carolina declared to be in revolt, received a full pardon in 1788 and became the first governor of Tennessee in 1796? | John Sevier | Trey:C | .Angus deferred to Trey (captions: "Defer furniture")
+T9 | Religion | According to second century writings known as the Protoevangelium and church tradition, who is the mother of the Virgin Mary? | Saint Anne | Trey:I | | .Trey said Mary Magdalene; no Hardin Valley answer captured
+T10 | Art | In what building in Vatican City is Michelangelo's The Creation of Adam? | The Sistine Chapel | Trey:C
+B10 | Art | What is the process of drawing, painting or engraving using numerous small dots or specks? | Stippling | I | .team said pointillism
+T11 | Economics | Which agricultural researcher developed hundreds of peanut byproducts? | George Washington Carver | Trey:C
+B11 | Economics | Part 1: When Alcoa separated into two companies, one kept the name Alcoa. What is the new name of the fabrication business that has a facility in Alcoa, Tennessee? // Part 2: What was the original name of the company represented by the syllables of the word Alcoa? | Part 1: Arconic // Part 2: The Aluminum Company of America | I | .the team gave no answer for Part 1 and a joke answer for Part 2
+T12 | Foreign Language | Which Greek letter looks like an upside-down V? | Lambda | Trey:I | Zoe:C | .Trey said delta
+B12 | Foreign Language | Name the first and last letters of the Greek alphabet. | Alpha and omega | C | .the host noted Zoe studies Greek
+T13 | Chemistry | When testing a substance with litmus paper, what color does the paper turn if the substance is a base? | Blue | 1:I | | .Hardin Valley's buzzer is not named (said red); the host did not allow a Greeneville steal because the players conferred
+T14 | Algebra | Solve for x: 6 − 4x = x − 4. | x = 2 | Trey:I | Jake:C | .Trey said 10/3
+B14 | Algebra | In the quadratic equation y = x² − 4x + 5, what is the equation of the axis of symmetry? | x = 2 | I | .Zoe deferred to Jake, who said negative two
+T15 | Miscellaneous | What World War I hero was born in Pall Mall in Fentress County, Tennessee, in 1887? | Alvin C. York | Trey:C
+B15 | Visual | Part 1: Which element has a density about one third of steel and the atomic number 13? // Part 2: What is its chemical symbol? | Part 1: Aluminum // Part 2: Al | P10 | .the team said sodium for Part 1
+T16 | Geography | Which of the Great Lakes provides shoreline to the state of Ohio? | Lake Erie | Emma:C
+B16 | Geography | Name the four U.S. states that call themselves commonwealths. | Virginia, Pennsylvania, Massachusetts and Kentucky | P10 | .the team named Virginia, West Virginia, Ohio, New Jersey and Pennsylvania; Virginia and Pennsylvania counted (five points each)
+T17 | Literature | In The Crucible, for what offense is John Proctor arrested? | Witchcraft | Zoe:C
+B17 | Literature | Part 1: Who created the character referred to in the title of Bruce Springsteen's 1995 album The Ghost of Tom Joad? // Part 2: In what book does that character appear? | Part 1: John Steinbeck // Part 2: The Grapes of Wrath | I | .the team said Edgar Allan Poe and then (Jake deferred to) The Cat in the Hat
+T18 | Biology | What is the process by which different kinds of living organisms developed and diversified from earlier forms? | Evolution | Jake:C
+B18 | Biology | In 2022, Canada blocked the expansion of an iron ore mine in the Arctic that would have increased shipping, which makes narwhals stay away from the area. Generations of hunters have relied on narwhal hunting because one ounce of narwhal skin has as much of what vitamin as an ounce of oranges? | Vitamin C | C
+T19 | Geology | What classification of rock is limestone? | Sedimentary | Skyler:C
+B19 | Geology | In 2023, researchers re-examined a fossil that had been in a museum's collection for 150 years, over an inch across, the largest known flower fossil, preserved for over 34 million years in what substance that forms from fossilized tree resin? | Amber | C
+T20 | Music | In the song "Frosty the Snowman," what item is used as Frosty's nose? | A button | 2:I | | .Greeneville's buzzer is not named (said carrot); the host would not allow a Hardin Valley steal because Jake whispered the answer to Zoe; the first half ended after this question
+# ---- second half ----
+T21 | Government | In the United States, what distinguishes a bench trial? | There is no jury | Trey:C
+B21 | Government | Part 1: What branch of the U.S. government is responsible for conducting foreign policy? // Part 2: Which branch of the U.S. government is responsible for impeaching federal officials? | Part 1: The executive branch // Part 2: The legislative branch | P10 | .the team said "the Department of State" for Part 1
+T22 | Mythology | In Greek mythology, who was the god of music, poetry and purity? | Apollo | Zoe:C
+B22 | Mythology | In Roman mythology, who was the two-faced god of beginnings, transitions, time and doorways? | Janus | C | .the captions show "Janis"
+T23 | Physics | Which branch of physics deals with the properties of light? | Optics | Angus:I | Jake:I | .Angus said "theoretical"; Jake said "the quantum"
+T24 | Math | What is the product of the cube root of 27 and the square root of 121? | 33 | Trey:C
+B24 | Visual | The sum of two numbers is 76 and their difference is 20. What are the two numbers? | 48 and 28 | C
+T25 | Games | What children's game begins with a searcher counting while all the other players hide? | Hide and seek | Angus:C
+B25 | Games | What is a popular playground game in which players toss a small object onto a pattern of rectangles outlined on the ground and then jump through the spaces and retrieve the object? | Hopscotch | C
+T26 | History | Of the original 13 states, how was their numerical order determined? | The order in which they ratified the Constitution | Trey:C
+B26 | History | What retired Army general served as National Security Advisor, Chairman of the Joint Chiefs of Staff and the first African-American Secretary of State, from 2001 to 2005? | Colin Powell | I | .the team said "Leslie", "Obama" and "Ben Franklin"
+T27 | Grammar | What is the function of the word "part" in the sentence "The Hobbit is not part of the Lord of the Rings trilogy"? | A predicate noun | Trey:I | Jake:I | .Trey said a noun; Jake said a preposition
+T28 | Health | In human dietary needs, calcium is to bones as what mineral is to hemoglobin? | Iron | Zoe:C
+B28 | Health | Which part of the body has the metacarpal bones? | The hand | I | .the team said "fingers"; the host said the phalanges are the fingers and the hand has the metacarpals
+T29 | Technology | What is the term for a small piece of code that is capable of replicating itself and spreading to other computers? | A computer virus | Jake:I | Trey:C | .Jake said "a loop"
+B29 | Technology | In 2023, a 13-year-old boy in Michigan saved his eight-year-old sister from an attempted abduction by wounding the alleged kidnapper using what weapon that many associate with Link from the Legend of Zelda and David from the Bible? | A slingshot | C
+T30 | Art | What are the two dimensions in a two-dimensional painting? | Length and width | Trey:I | Jake:C | .Trey said "front and back"
+B30 | Visual | Who is the artist in the self-portrait shown here? | Rembrandt van Rijn | I | .team said Dr. Seuss, then Van Gogh
+T31 | Geography | Accra is the capital of which African country? | Ghana | Jake:I | 2:I | .Jake said Niger; Greeneville's stealer is not named and said Eritrea
+T32 | Literature | What is the name for a pair of rhyming lines in a poem? | A couplet | Jake:I | Skyler:I | .Jake said "line scheme"; Skyler said "stanza"
+T33 | Chemistry | When amino acids are joined together to make proteins, what type of bond joins them? | A peptide bond | Emma:I | | .Emma said ionic; a Hardin Valley player said covalent before being called on, so the host could not accept it
+T34 | Geometry | Three angles of a quadrilateral are 60, 120 and 70 degrees. What is the measure of the fourth angle? | 110 degrees | Skyler:C
+B34 | Geometry | In a certain geometric progression, the third term is six and the fourth term is 18. Find the sixth term of the progression. | 162 | I | .the team's answer is garbled in the captions ("336")
+T35 | Architecture | What is the name for an architectural drawing of a building's exterior? | An elevation | Trey:I | | .Trey said blueprints; no Hardin Valley answer captured
+T36 | Economics | What monetary unit replaced the guilder in the Netherlands? | The euro | Trey:C
+B36 | Economics | Part 1: What company is credited with developing the world's first smartphone, which featured a touch screen, email capability and built-in apps including a calculator and sketchpad? // Part 2: What was the name of that phone? | Part 1: IBM // Part 2: The IBM Simon | I | .the team said Apple and BlackBerry
+T37 | Foreign Language | The word "data" is the plural of what Latin word meaning "fact"? | Datum | Jake:I | Angus:I | .Jake said "debt"; Angus said "status"
+T38 | Biology | What is the name for any rod-shaped bacterium? | A bacillus | Angus:I | | .Angus said phylum; no Hardin Valley answer captured
+T39 | Astronomy | In which layer of the atmosphere is the ozone layer found? | The stratosphere | Jake:C
+B39 | Astronomy | Although Jupiter's 92 moons were briefly thought to be the most in our solar system, 62 more moons were discovered in 2023 orbiting which planet, bringing its total to 145? | Saturn | C
+T40 | Sports | Which university has permission from Disney to use Donald Duck as its official mascot? | The University of Oregon | Emma:C
+B40 | Sports | Part 1: Which college bowl game is played in Memphis, Tennessee? // Part 2: Which college bowl game is played in Nashville, Tennessee? | Part 1: The Liberty Bowl // Part 2: The Music City Bowl | C
+T41 | U.S. History | What is the name for both the drought period in the Great Plains that lasted from 1932 to 1936 and the section of the Great Plains affected by the drought and wind erosion? | The Dust Bowl | Emma:I | | .Emma gave a wrong answer ("great drought"); the host did not allow a Hardin Valley steal because the players conferred
+T42 | Spelling | To go back on one's word is to renege. Spell "renege." | R-E-N-E-G-E | Angus:I | Jake:I | .Angus spelled R-E-N-E-G; Jake spelled R-E-N-A-G-E
+T43 | Science | What is the name for the small glass containers used for bacterial cultures? | A Petri dish | Jake:I | Skyler:C | .Jake had no answer
+B43 | Science | Part 1: What type of scientist studies the composition, structure, properties and reactions of substances? // Part 2: What type of scientist studies weather and the atmosphere? | Part 1: A chemist // Part 2: A meteorologist | C
+T44 | Algebra | The statement (a + b) + c = a + (b + c) illustrates which property of addition? | The associative property | Trey:I | Jake:I | .Trey buzzed too soon and was stopped; Jake said commutative
+T45 | Music | What is the meaning of the musical term "poco a poco"? | Little by little | Jake:I | Trey:I | .Jake said "quieter"; Trey said "faster and faster"
+T46 | Government | Finish the military slogan: "The few, the proud, the ..." | The Marines | Zoe:C
+B46 | Government | Identify each word in the acronym of the international group NATO. | North Atlantic Treaty Organization | P15 | .the team said "North Atlantic Trade Organization"; three of four words counted (15 points); the game ended after this bonus

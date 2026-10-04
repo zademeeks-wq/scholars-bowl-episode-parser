@@ -1,0 +1,96 @@
+@EP S40 E36
+@ROUND Round of 32
+@TEAMS Corbin High School (KY) | Hardin Valley Academy (David's team)
+@R1 Jasper, Sam, Will, Hudson, Korina
+@R2 Brock, Zach, David, Zainab, Ryan
+# Hardin Valley has two teams in the tournament; this one is captained by David. Will is Corbin's captain. Corbin is from Corbin, Kentucky. The captions render Korina as "Karina/Corinna" and Hardin Valley as "Hudson/Harden Valley". Korina joins Corbin and Ryan joins Hardin Valley for the second half. Hardin Valley scored heavily throughout. T24's bonus was not read before halftime and T47's bonus was not read before the game ended.
+# ---- first half ----
+T1 | Chemistry | If blue litmus paper turns red, what does this indicate? | The presence of an acid | David:C
+B1 | Chemistry | Part 1: Name the compound H2O2. // Part 2: Name the compound NH3. | Part 1: Hydrogen peroxide // Part 2: Ammonia | C
+T2 | Music | What Tennessee state song was written in 1967? | "Rocky Top" | Zach:C
+B2 | Music | What British pop singer, whose parents were Albanian immigrants, was granted Albanian citizenship in 2022 because of the popularity of her songs such as "Levitating" and "Don't Start Now"? | Dua Lipa | C
+T3 | Games | What swimming pool game shares a name with a Venetian merchant? | Marco Polo | Zach:C
+B3 | Games | What board game involves players conquering their enemies' territory by building an army on adjacent territories? | Risk | C
+T4 | Geography | The Great Barrier Reef is located off the coast of which continent? | Australia | Zach:C
+B4 | Geography | Name two of the South American countries that the equator runs through. | Any two of: Ecuador, Colombia, Brazil | C
+T5 | Vocabulary | What kind of noun is "humility"? | An abstract noun | Zach:C
+B5 | Vocabulary | Part 1: What nine letter word that begins with the letter I means unbiased or fair? // Part 2: What five letter word that begins with the letter I means an expression peculiar to a language? | Part 1: Impartial // Part 2: Idiom | C
+T6 | Physics | Who first measured the density of solid objects by submerging them? | Archimedes | Zach:C
+B6 | Physics | Ohm's law is represented by the equation E = IR. Name two of the three words that these variables represent. | Any two of: voltage, current, resistance | C
+T7 | Algebra | Solve for x if 18 = 3 − 5x. | x = −3 | David:I | Will:C | .David said 3
+B7 | Visual | Evaluate the expression ax + ay if a = 3.2, x = 5.3 and y = 4.7. | 32 | Hudson:I | .Will designated Hudson, who said 15.8
+T8 | Art | Who was appointed by Pope Paul III as chief architect of St. Peter's Basilica? | Michelangelo | Zach:C
+B8 | Art | A detective known as the Indiana Jones of the art world found and returned a priceless statue that was stolen from a French museum in 1973. The statue was of what mythological Roman god of agriculture, wine and fertility? | Bacchus | C
+T9 | U.S. History | Who was president of the United States when NASA was established? | Dwight D. Eisenhower | Sam:I | Zach:C | .Sam said Kennedy
+B9 | U.S. History | Which two of the state quarters released in the early 21st century highlight the birth of aviation with the Wright Brothers' first airplane? | Ohio and North Carolina | C
+T10 | Literature | What ten letter word beginning with A means someone or something presented in a story in opposition to the principal character? | Antagonist | Zach:I | Jasper:C | .Zach buzzed early (his answer is garbled in the captions)
+B10 | Literature | What type of poetry is a form of narrative verse typically following a pattern of rhymed quatrains, like "The Rime of the Ancient Mariner"? | A ballad | I | .team said "ode"
+T11 | Health | Sugars, starches and fiber are what type of macronutrient found in certain foods? | Carbohydrates | Sam:C
+B11 | Health | Part 1: What branch of medical science is the study of the incidence, distribution and control of disease in a population? // Part 2: What field of medicine deals with the digestive system? | Part 1: Epidemiology // Part 2: Gastroenterology | I | .the captions give no clear ruling on Part 1 (the host says "that would be epidemiology") but end with "no points on the bonus"; Sam answered Part 2 "astronomics"
+T12 | Geometry | A two-dimensional space is divided into quadrants. What is three-dimensional space divided into? | Octants | Zach:C | .Zach said "octets" and the host accepted it
+B12 | Geometry | Two angles are complementary. One is 54 degrees larger than the other angle. What are the measures of both angles? | 18 and 72 degrees | I | .the team said 63 and 27
+T13 | Religion | What religion's practices are based on the Torah or Mosaic Law? | Judaism | Zach:C
+B13 | Religion | Part 1: Known for its five looming towers and grand porticos, the great temple of Angkor Wat is sacred for followers of which religion? // Part 2: In what country is Angkor Wat located? | Part 1: Buddhism // Part 2: Cambodia | I | .the team said Hinduism and India
+T14 | Geography | What body of water is bordered by Texas, Louisiana and Florida? | The Gulf of Mexico | Sam:C
+B14 | Visual | Part 1: What island nation is represented by the flag shown here? // Part 2: What is its capital? | Part 1: Jamaica // Part 2: Kingston | C
+T15 | Foreign Language | What does the French expression "prêt-à-porter" mean? | Ready to wear | Zach:I | Will:I | .Zach said "store"; Will's answer was "it's good"
+T16 | Science | What is the upward force in a liquid? | Buoyancy | Zach:C
+B16 | Science | Part 1: Which metal is the primary component in the ore hematite? // Part 2: Which metal is the primary component in the ore galena? | Part 1: Iron // Part 2: Lead | P10 | .the team said aluminum or gallium for Part 2
+T17 | Biology | Koalas rely on what tree for habitat and food? | The eucalyptus | Zach:C
+B17 | Biology | Although it saw record growth in 2022 after years of coral bleaching, scientists are still concerned about marine heatwaves, pollution and coral-eating crown-of-thorns starfish at what reef, the world's largest? | The Great Barrier Reef | C
+T18 | Miscellaneous | What is the Tennessee state wild animal? | The raccoon | Zach:C
+B18 | Miscellaneous | Part 1: What is the state gem of Tennessee? // Part 2: What is the Tennessee state reptile? | Part 1: The Tennessee River pearl // Part 2: The eastern box turtle | I | .the team debated pearl and sapphire for Part 1 and said salamander for Part 2; the host ended with "no points on the bonus"
+T19 | Government | What is a rule or regulation issued by the president that has the force of law? | An executive order | Zach:I | Sam:C | .Zach's answer is not captured
+B19 | Government | In 1801 it took 35 House ballots before Thomas Jefferson won the presidency. Who was the opponent who tied him in the Electoral College? | Aaron Burr | C | .the captions give "35 ballots" and "34 times"
+T20 | Spelling | Spell "fluorescent." | F-L-U-O-R-E-S-C-E-N-T | Zach:C
+B20 | Spelling | Someone who exercises a compelling charm which inspires devotion in others is charismatic. Spell "charismatic." | C-H-A-R-I-S-M-A-T-I-C | Zach:C | .David deferred to Zach
+T21 | Geology | In which mountain chain is Mount Everest? | The Himalayas | Zach:C
+B21 | Geology | What stone is said to have been given to Abraham by Gabriel and kept at the Kaaba in Mecca? | The Black Stone | Zainab:C | .David deferred to Zainab; the captions garble the answer ("Loxton")
+T22 | Pre-Calculus | What is the value of sin²x + cos²x? | 1 | Zach:C
+B22 | Pre-Calculus | Part 1: What is the limit of sin x as x approaches infinity? // Part 2: What is the limit of (sin x)/x as x approaches infinity? | Part 1: Does not exist // Part 2: 0 | C
+T23 | Architecture | What is the name for a decorative strip of wood across the top of a wall? | Molding | Sam:I | Zach:I | .Sam said portico; Zach said "a panel"
+T24 | Economics | What is a sum of money paid regularly by a company to its investors out of its profits? | A dividend | Sam:I | Zach:C | .Sam said "interest"; the bonus was not read because the first half ended
+# ---- second half ----
+T25 | English | What is the study of language and its structure called? | Linguistics | Zach:C
+B25 | English | What is the term for a word like "buzz" that has a sound that imitates or suggests its meaning? | Onomatopoeia | Ryan:C | .David deferred to Ryan
+T26 | Chemistry | What is the term for a substance that increases the rate of a chemical reaction? | A catalyst | Zach:C
+B26 | Chemistry | Give the electron configuration in exponential form for sodium. | 1s² 2s² 2p⁶ 3s¹ | C
+T27 | Mythology | Who was the mythological Greek goddess of love? | Aphrodite | Will:C
+B27 | Mythology | When Mauna Loa erupted in 2022, many native Hawaiians traveled to the volcano to make sacrifices in honor of what mythological goddess of volcanoes and fire? | Pele | Korina:C | .Will designated Korina
+T28 | Music | What song was the marching song of the Northern troops during the Civil War? | "The Battle Hymn of the Republic" | Zach:C
+B28 | Music | Part 1: What popular singer-songwriter became the youngest person to sweep the four main Grammy categories in 2020 with her hit "Bad Guy"? // Part 2: What was the title song for the 25th installment of the James Bond film franchise, written and sung by that artist? | Part 1: Billie Eilish // Part 2: "No Time to Die" | C
+T29 | U.S. History | Thomas Jefferson insisted that the legislative building in Washington be called the Capitol. Spell "Capitol." | C-A-P-I-T-O-L | Zainab:C
+B29 | Visual | Part 1: The funeral procession for which president traveled down Broadway in New York City on April 25, 1865, as shown here? // Part 2: The photo also shows what six-and-a-half-year-old boy who would become the nation's 26th president? | Part 1: Abraham Lincoln // Part 2: Theodore Roosevelt | C
+T30 | Literature | By what name did Dr. Frankenstein refer to his monster in the novel Frankenstein? | Adam | Zach:C
+B30 | Literature | Part 1: What novel did Jules Verne write about a traveler who makes a wager to circumnavigate the earth? // Part 2: What is the name of the protagonist? | Part 1: Around the World in Eighty Days // Part 2: Phileas Fogg | C
+T31 | Science | What is the illusion caused by the refraction of light in which distant objects appear to be floating in the air? | A mirage | Zach:C
+B31 | Science | In what geologic era did forests appear and dominate the land? | The Paleozoic era | I | .the team debated Paleolithic, Cenozoic and Cretaceous
+T32 | Math | What is 875 divided by 25? | 35 | Zach:C
+B32 | Math | What number is six factorial equal to? | 720 | C
+T33 | Foreign Language | Translate "casa de azúcar" from Spanish to English. | House of sugar | Zach:C | .the captions show "covers sugar"
+B33 | Foreign Language | Name two of the European countries where Catalan is spoken. | Any two of: Andorra, Spain, France, Italy | C | .the team said Andorra and Spain
+T34 | Geography | Of what country is Caracas the capital city? | Venezuela | Zach:C
+B34 | Geography | Part 1: Which Great Lake is the smallest in terms of surface area? // Part 2: Which Great Lake is the smallest by volume? | Part 1: Lake Ontario // Part 2: Lake Erie | C
+T35 | Art | What is a type of sculpture, made of wood and steel, in which objects are suspended and balanced to be moved by currents of air? | A mobile | Zach:I | | .Zach said "relief"; no Corbin answer captured
+T36 | Astronomy | What is the brightest star seen in the night sky? | Sirius | ?:C | .buzzer and team not identified in captions
+B36 | Astronomy | In 1736, the astronomer Anders Celsius confirmed Newton's theory that the Earth is not a sphere. What shape is it? | An ellipsoid (oblate spheroid) | I | .the team answered "ellipse" and only worked out "ellipsoid" in discussion after the answer was locked
+T37 | Health | In psychology, what is the innate and typically fixed pattern of behavior in animals in response to certain stimuli? | Instinct | Ryan:C
+B37 | Health | According to a 2018 report from UCLA's World Policy Analysis Center, what are the only two countries in the OECD where paid sick leave is not guaranteed? | The United States and South Korea | P10 | .the team said the U.S. and Canada; the U.S. counted
+T38 | Religion | In what city would you find the Church of the Holy Sepulchre, believed to be the location of Jesus' resurrection? | Jerusalem | Zach:C
+B38 | Visual | Part 1: Who is the artist in the self-portrait shown here? // Part 2: This 1907 self-portrait was painted at the beginning of which artistic stage of the artist's career? | Part 1: Pablo Picasso // Part 2: Cubism | C
+T39 | History | Who uttered the famous words "I have not yet begun to fight" when asked by the British to surrender? | John Paul Jones | David:I | | .David's answer is not captured; no Corbin answer
+T40 | Vocabulary | What profession entitles its members to use the term "Esquire" following their name? | Attorney | 2:C | .buzzer not named; Hardin Valley from the bonus
+B40 | Vocabulary | Part 1: Identify the meaning of the prefix "macro-." // Part 2: Identify the meaning of the prefix "poly-." | Part 1: Large // Part 2: Many | C
+T41 | Technology | Podbean, Riverside.fm and Buzzsprout are intended for creating what? | Podcasts | ?:C | .buzzer and team not identified in captions
+B41 | Technology | In the world of podcasting, what does RSS stand for? | Really Simple Syndication | I | .the team guessed "recording studio session"
+T42 | Geometry | In parallelogram ABCD, if angle A has a measure of 50 degrees, what is the measure of angle D? | 130 degrees | Zach:C
+B42 | Geometry | An angle with the value of 5x − 10 is an obtuse angle. What is the range of the value of x? | 20 < x < 38 | I | .the team gave only one bound (36)
+T43 | Music | What is the name of the scale that has intervals of half steps? | The chromatic scale | Zach:C
+B43 | Music | Part 1: With a time signature of 12/8, how many beats does a dotted half note get? // Part 2: With a time signature of 2/2, what note gets one beat? | Part 1: Six // Part 2: A half note | C
+T44 | Economics | BMW originally produced engines for what type of transportation? | Airplanes | Zach:C
+B44 | Economics | Part 1: The European Central Bank is responsible for the monetary policy of what group of member countries? // Part 2: In what city is the European Central Bank headquartered? | Part 1: The European Union (eurozone) // Part 2: Frankfurt | C
+T45 | Literature | The Iliad tells the story of which war? | The Trojan War | Zach:C
+B45 | Literature | Part 1: Both Virgil and Homer told about the most beautiful woman in the world being seduced and taken away by a foreign prince. Who was the woman? // Part 2: Who was the prince? | Part 1: Helen of Troy // Part 2: Paris | P10 | .the team said Pygmalion for Part 1
+T46 | Biology | What marine crustaceans with external shells attach themselves permanently to a variety of things, even whales? | Barnacles | David:C
+B46 | Biology | Part 1: What seven letter word beginning with A means the white part of a chicken egg? // Part 2: Spell that word. | Part 1: Albumen (albumin) // Part 2: A-L-B-U-M-I-N | P10 | .Zainab was deferred to and said "alveoli" for Part 1; Zach then spelled albumin correctly
+T47 | Government | What is the procedure that allows a U.S. city to expand its physical boundaries to include a nearby area that is not yet part of a larger city? | Annexation | Sam:C | .the game ended before the bonus could be read

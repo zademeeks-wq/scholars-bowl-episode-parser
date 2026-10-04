@@ -1,0 +1,88 @@
+@EP S40 E20
+@ROUND Round 1
+@TEAMS Temple Baptist Academy | The King's Academy
+@R1 Parker, Easton, Will, Kayla, Micah
+@R2 Jonah, Jack, Grady, Glacier
+# Will is Temple Baptist's captain and Grady is the King's Academy's. The captions render Will as "Well", Easton as "Eastern" and Grady as "Brady". Micah (Temple) is an alternate; neither alternate or substitution appears in the play. Temple won easily.
+# ---- first half ----
+T1 | Technology | In 1968, Doug Engelbart invented a small, hand-sized object he called an "X-Y position indicator." What is it now known as? | A computer mouse | Kayla:C
+B1 | Technology | Following his 2022 trial against Amber Heard, Johnny Depp donated nearly $800,000 to children's hospitals by selling unique digital assets traded through blockchain technology from his "Never Fear Truth" art collection. By what name are these digital assets known? | NFTs | C
+T2 | Math | What is the product of 3,000 times 400 times 20? | 24 million | NB | | .nobody answered in time; the host gave the answer
+T3 | Art | In which country did the type of dance drama known as kabuki begin? | Japan | 1:C | .buzzer not named; team from "Temple Baptist" on the bonus
+B3 | Visual | Part 1: Which American artist created the photorealistic oil painting shown here that was published on the cover of the Saturday Evening Post in 1962? // Part 2: The illustration, titled The Connoisseur, shows a man viewing an abstract expressionist painting in the style of what artist? | Part 1: Norman Rockwell // Part 2: Jackson Pollock | P10 | .team said Picasso for Part 2
+T4 | U.S. History | On April 9, 1865, at what location did General Lee surrender to General Grant? | Appomattox Court House | Easton:I | 2:I | .Easton said Arlington; the King's Academy players looked at each other on the steal, so it was not accepted
+T5 | Mythology | In Greek mythology, what was the traditional weapon of the gods? | Lightning (Zeus's thunderbolt) | Parker:C
+B5 | Mythology | Part 1: What is the Roman mythological equivalent of the Greek goddess Artemis? // Part 2: What is the Roman mythological equivalent of the Greek goddess Aphrodite? | Part 1: Diana // Part 2: Venus | P10 | .team said Venus for Part 1
+T6 | Biology | Which tree lizard is notable for its ability to change its color? | The chameleon | Will:C
+B6 | Biology | Name two of the three distinctive structures found in plant cells. | Any two of: cell wall, chloroplast, vacuole | P10 | .team said cell wall and chlorophyll; cell wall counted
+T7 | Government | What process allows a case to be brought up from a lower court to a higher court? | An appeal | Easton:C | .buzzer name read from "eastern"
+B7 | Government | In 2023, an advocacy group filed a federal complaint alleging that Harvard violated the Civil Rights Act by giving preferential treatment to applicants with family ties to wealthy donors and alumni. What is that practice called? | Legacy admissions | I | .team said affirmative action
+T8 | Music | What is the title of the national anthem of Great Britain? | "God Save the King" | Will:C
+B8 | Music | Part 1: Who was born in Memphis in 1942 and is known as the Queen of Soul? // Part 2: What was the title of the 2021 biopic starring Jennifer Hudson that is named after her signature song? | Part 1: Aretha Franklin // Part 2: Respect | C
+T9 | Economics | Which company is the largest producer of motorcycles in the U.S.? | Harley-Davidson | Grady:C
+B9 | Economics | Part 1: What product uses the slogan "Taste the Rainbow"? // Part 2: What product uses the slogan "The snack that smiles back"? | Part 1: Skittles // Part 2: Goldfish crackers | C
+T10 | Spelling | To make repeated small-scale attacks on an enemy is to harass them. Spell "harass." | H-A-R-A-S-S | Easton:C
+B10 | Spelling | Someone providing supplementary or additional help and support would be an auxiliary. Spell "auxiliary." | A-U-X-I-L-I-A-R-Y | Easton:C
+T11 | Chemistry | What is the common name for sodium chloride? | Table salt | Parker:C
+B11 | Visual | What is the symbol for tennessine, a synthetic chemical element that is the second heaviest known element? | Ts | I | .team said "TNT" (Tn)
+T12 | Algebra | What is the value of x if 7x + 12 = 5x − 12? | x = -12 | Will:I | | .Will said zero; steal offered to the King's Academy, nobody answered in time
+T13 | Religion | How many books are in the New Testament of the Bible? | 27 | Easton:C
+B13 | Religion | Which religion is represented by a star and crescent? | Islam | C
+T14 | Geography | Which of the 50 states is called "the Last Frontier"? | Alaska | Grady:C
+B14 | Geography | Part 1: The northernmost city in Alaska, which changed its name in 2016, attracts birdwatching tourists hoping to see snowy owls. What is its former name? // Part 2: What is its current name? | Part 1: Barrow // Part 2: Utqiaġvik | I | .team had no answers
+T15 | Foreign Language | What six letter French word beginning with C is a term for an overused phrase or opinion that betrays a lack of original thought? | Cliché | Parker:C
+B15 | Foreign Language | The mayor of Helsinki said it should become an English language city to attract more foreign workers. What are the two current official languages of Helsinki? | Finnish and Swedish | C
+T16 | Astronomy | Which star system has been identified as the nearest to our sun? | Alpha Centauri | Grady:I | | .Grady said Jupiter; steal offered to Temple, no answer captured
+T17 | Geology | What is the term for a massive tidal wave caused by earthquakes under the sea floor? | A tsunami | Will:C | .buzzer name read from "Well"
+B17 | Geology | The Cook Islands could become a source of critical strategic metals, although prominent ocean experts warn of enormous damage. The seabed is rich in copper, nickel, manganese and which chemical element with the symbol Co? | Cobalt | C
+T18 | Art | Which famous artist carved the Medici tombs in Florence? | Michelangelo | Will:I | | .Will said da Vinci; steal offered to the King's Academy, no answer captured
+T19 | World History | Who was the first democratically elected president of Russia? | Boris Yeltsin | Will:I | | .Will said Vladimir Putin; steal offered to the King's Academy, no answer captured
+T20 | Literature | In which Jane Austen novel does Marianne end up marrying Colonel Brandon? | Sense and Sensibility | Will:I | | .Will said Pride and Prejudice; steal offered to the King's Academy, no answer captured
+T21 | Health | Where are red blood cells created? | Bone marrow | Will:C | .buzzer name read from "Well"
+B21 | Health | Part 1: President Franklin D. Roosevelt is pictured on the ten cent coin partly because of his involvement in the creation of what charitable organization? // Part 2: What disease did the March of Dimes originally combat? | Part 1: The March of Dimes // Part 2: Polio | Kayla:P10 | .team said "the Dime Foundation" for Part 1
+T22 | Math | What is the greatest common factor of 48 and 72? | 24 | Will:C | .buzzer name read from "Well"
+B22 | Math | Change 125/625 into a decimal. | 0.2 | C
+T23 | Sports | When keeping score in baseball, which letter represents a strikeout? | K | Will:C
+B23 | Sports | The number 42 is retired by every Major League Baseball team and is displayed on all MLB jerseys every April 15th to honor which player? | Jackie Robinson | C
+T24 | Government | What is the common name for a political meeting in which voters publicly discuss their preference for a party nominee? | A caucus | Will:I | 2:I | .Will said town hall; the King's Academy's steal said rally
+T25 | Vocabulary | What human features have arches, loops and whorls? | Fingerprints | Will:C | .the half ended before the bonus was read
+# ---- second half ----
+T26 | Chemistry | The presence or absence of which element separates inorganic chemistry from organic chemistry? | Carbon | Will:C
+B26 | Chemistry | In 2023, a customer misusing a New Zealand supermarket's artificial intelligence meal planner app got it to generate a recipe for what deadly gas with the formula Cl2? | Chlorine gas | I | .team said mustard gas
+T27 | Geometry | A pentadecagon has how many sides? | 15 | Easton:C
+B27 | Visual | What is the distance between the points (3, -10) and (-2, 2) on the coordinate plane? | 13 | I | .team's answer was wrong (the host gave 13)
+T28 | Music | Who wrote the march "The Stars and Stripes Forever"? | John Philip Sousa | Will:I | | .Will said Francis Scott Key; steal offered to the King's Academy, no answer captured
+T29 | U.S. History | Which former U.S. president was named William Blythe III until he was 15 years old and moved to Hot Springs, Arkansas? | Bill Clinton | Will:I | 2:I | .Will said Garfield; the King's Academy's steal said Pierce
+T30 | English | Correct this sentence if necessary: "James has already eaten his candy bar." | No correction is necessary (a trick question) | Grady:I | Easton:I | .Grady changed the sentence; Easton's answer was also not accepted
+T31 | Science | How many watts are in three kilowatts? | 3,000 | Will:C
+B31 | Science | What is the word for water suspended in the air? | A cloud (or fog) | I | .team said "water vapor"
+T32 | Art | In the Peanuts comic strip and Charlie Brown cartoon specials, which character offers psychiatric help for a nickel? | Lucy | 2:C | .buzzer not named; team from "art bonus now for King's Academy"
+B32 | Art | In 2023, the Netherlands returned 472 wrongfully acquired objects of cultural significance to what archipelago nation that was under Dutch colonial rule until World War II? | Indonesia | I | .team had no answer
+T33 | Miscellaneous | What is the message if a flag is flown upside down? | Distress (need help) | 1:I | Grady:I | .Temple's first buzzer not named (said danger); Grady said surrender
+T34 | Geography | Which African country is closest to Antarctica? | South Africa | Will:C
+B34 | Visual | Part 1: This flag represents what country that gained its independence on July 9, 2011? // Part 2: Name one of the six countries that border South Sudan. | Part 1: South Sudan // Part 2: Any one of: Sudan, Central African Republic, Democratic Republic of the Congo, Ethiopia, Kenya, Uganda | C | .the team said "Sudan" for Part 2
+T35 | Foreign Language | Translate the Latin phrase "caveat emptor." | Let the buyer beware | NB | | .nobody answered; the host gave the translation
+T36 | Physics | The Rockwell number, the Brinell number and the Mohs scale all measure what physical property? | Hardness | Easton:I | Grady:I | .Easton said gravity; Grady said mass
+T37 | Literature | What was the name of King Arthur's sword? | Excalibur | 1:C | .buzzer not named; team from the bonus deferral to Easton
+B37 | Literature | Part 1: First Lady Jill Biden said one of her favorite books to teach is what classic novel about a self-made millionaire and his pursuit of a woman named Daisy in Jazz Age Long Island? // Part 2: Who wrote it? | Part 1: The Great Gatsby // Part 2: F. Scott Fitzgerald | Easton:I | .the team missed Part 1 and said O. Henry for Part 2
+T38 | Religion | Followers of Hinduism consider the waters of which river to be sacred? | The Ganges | Easton:I | 2:I | .Easton said the Euphrates; the King's Academy's steal said the Tigris
+T39 | Economics | What type of economic system is based on private ownership of the means of production? | Capitalism | Will:C
+B39 | Economics | What is the word for one who calculates risk and determines premium payments for insurance customers? | An actuary | I | .team said "statistician"
+T40 | Vocabulary | What is the past tense of "forbid"? | Forbade | Will:I | Jack:I | .Will's answer is garbled in captions; Jack said "forbid"
+T41 | Geology | What scale is used to measure the intensity of an earthquake? | The Richter scale | Will:C
+B41 | Geology | What five letter Norwegian word describes a deep, narrow, U-shaped valley eroded to a depth below sea level by glaciers and then flooded with seawater? | Fjord | C
+T42 | Pre-Calculus | Name two of the x-intercepts of the graph of y = x³ − 9x. | Any two of: 0, 3, -3 | Will:I | | .Will's answers were not accepted; steal offered to the King's Academy, no answer captured
+T43 | Architecture | What is a parallel building element used to support a floor or ceiling? | A joist | Grady:I | Will:I | .Grady said beam; Will said column
+T44 | Geography | What part of the Atlantic Ocean is between the West Indies and Central and South America? | The Caribbean Sea | Will:I | | .Will said the Pacific Ocean; steal offered to the King's Academy, no answer captured
+T45 | English | What is the direct object in this sentence: "I gave Tom my donation for charity"? | Donation | Easton:C
+B45 | English | Part 1: What is the case of the pronoun "her" in the sentence "Her days were numbered as queen"? // Part 2: What is the case of the pronoun "her" in the sentence "John likes her, but she doesn't like him"? | Part 1: Possessive // Part 2: Objective | C
+T46 | Science | What is the term for the temperature at which a liquid is converted to vapor? | The boiling point | Will:C
+B46 | Science | Which element in each pair has more mass for the same volume? Part 1: iron or lead? Part 2: copper or aluminum? | Part 1: Lead // Part 2: Copper | C
+T47 | Literature | In 1599, William Shakespeare and six associates became owners of what outdoor theater? | The Globe Theatre | Easton:C
+B47 | Literature | In 2023, HarperCollins edited language about ethnicity and removed some entire passages from new editions of classic detective novels featuring Miss Marple and Hercule Poirot, written by which bestselling author? | Agatha Christie | C
+T48 | Music | What group of instruments would play a street beat or a cadence? | Percussion | Easton:C
+B48 | Music | What is the musical term for a difference in pitch between two tones? | An interval | I | .team said "a note"
+T49 | History | Who was the cold-blooded killer who murdered at least six prostitutes in London in 1888? | Jack the Ripper | Parker:C
+B49 | World History | Part 1: Who was the son of King Henry VIII and Jane Seymour who reigned as king from 1547 to 1553? // Part 2: Who was the daughter of King Henry VIII and Anne Boleyn who reigned as queen from 1558 to 1603? | Part 1: Edward VI // Part 2: Elizabeth I | I | .team said "Edward" and then "Edward the First" for Part 1, and "Mary, Queen of Scots" for Part 2
+T50 | Literature | Which type of poem has 14 lines and a formal rhyme scheme? | A sonnet | NB | | .nobody answered; the host gave the answer
+T51 | Vocabulary | What seven letter word beginning with B is a synonym for breakable, crumbling and fragile? | Brittle | NB | | .a player began to answer too late; time ran out and the game ended

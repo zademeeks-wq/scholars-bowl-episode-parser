@@ -1,0 +1,98 @@
+@EP S40 E19
+@ROUND Round 1
+@TEAMS Jefferson County High School (Isabella's team) | Webb School of Knoxville (Penny's team)
+@R1 Laurel, Elaine, Isabella, Matthew, Grace
+@R2 Sam, James, Penny, Jackson, Henry, Alex
+# Both schools have two teams in the tournament. Isabella is Jefferson County's captain and Penny is Webb's. Grace (Jefferson County) and Henry and Alex (Webb) enter at halftime. At halftime the judges awarded Jefferson County 20 points on the earth-to-sun distance bonus (B6 below). Webb won easily.
+# ---- first half ----
+T1 | Science | A kilogram is nearly equal to the mass of how many cubic centimeters of water? | 1,000 | 2:C | .buzzer not named; team from "science bonus now for Webb"
+B1 | Science | What two macroscopic collections of atoms exist in a liquid state at room temperature? | Mercury and bromine | C
+T2 | Literature | Which Shakespearean character speaks the words "To be or not to be"? | Hamlet | James:C
+B2 | Literature | Part 1: Which Shakespearean play includes a character dressed like a donkey and a king and queen of the fairies? // Part 2: Which character suggests that the audience consider whether the entire play has been a dream? | Part 1: A Midsummer Night's Dream // Part 2: Puck | P10 | .team said Bottom for Part 2
+T3 | Algebra | What is the value of four raised to the negative two power? | 1/16 | Sam:C
+B3 | Algebra | What is the graph of the equation x²/25 + y²/16 = 1? | An ellipse | C
+T4 | Art | What are the light values of a color called? | Tints | Penny:I | | .Penny said pastels; steal offered to Jefferson County, no answer captured
+T5 | Geography | What is the capital of Puerto Rico? | San Juan | Jackson:C
+B5 | Visual | Which country is highlighted on the map shown here? | Honduras | C
+T6 | Astronomy | Which planet in our solar system has the most extremes in temperature variations? | Mercury | Isabella:C
+B6 | Astronomy | What is the estimated distance from the Earth to the sun? | 93 million miles (150 million kilometers; one astronomical unit) | Isabella:C | .the team answered "one astronomical unit," which the host first rejected because he wanted miles or kilometers; the judges accepted it at halftime and added 20 points
+T7 | Vocabulary | The recently coined term "crudivore" refers to people who eat a diet of what? | Raw food | 1:I | James:C | .the term is garbled in captions ("crew diver"); Jefferson County's first buzzer not named (said meat)
+B7 | Vocabulary | Part 1: What nine letter word starting with A means similar in a way that invites comparison? // Part 2: Spell that word. | Part 1: Analogous // Part 2: A-N-A-L-O-G-O-U-S | Sam:P10 | .team said "allegorical" for Part 1
+T8 | Music | What is the professional name of Shawn Corey Carter, a rapper, record producer and founder of the talent and entertainment agency Roc Nation? | Jay-Z | NB | | .nobody answered; the host gave the answer
+T9 | Religion | The Bible mentions five kings, including the king of Judea when Jesus was born, who all share what name? | Herod | Penny:I | Matthew:I | .Penny said Solomon; Matthew said Harold
+T10 | Economics | What is the term for an employer closing down their business during a labor dispute? | A lockout | 1:I | | .Jefferson County's buzzer not named (said strike); steal offered to Webb, no answer captured
+T11 | Health | How many muscles are attached to the eye to control its movement? | Six | Isabella:I | Penny:I | .Isabella said three; Penny said five
+T12 | Mythology | Which mythological Greek god was allotted the kingdom of the sea, but was also the god of horses and earthquakes? | Poseidon | James:C
+B12 | Mythology | In 2022, the FBI's art crime team returned to Italy a 2,000 year old mosaic of a winged monster with snakes in place of hair, who in Greek mythology turned to stone those who gazed into her eyes. What was the name of the monster? | Medusa | C
+T13 | Geometry | The diagonals of a rhombus are 12 and 16. What is the area of the rhombus? | 96 square units | NB | | .someone buzzed but time was called before an answer; the host gave 96
+T14 | Sports | What is the bowling term for all ten pins being knocked down with the first roll in a frame? | A strike | Jackson:C
+B14 | Sports | What variety of pool uses one black, one white, seven striped and seven solid balls, with each player being assigned either solids or stripes? | Eight-ball | C
+T15 | World History | Which landlocked European country remained neutral in both World War I and World War II? | Switzerland | Penny:C
+B15 | Visual | Part 1: What event is depicted in this iconic photograph of soldiers raising the U.S. flag on Mount Suribachi? // Part 2: In which war did that battle take place? | Part 1: The Battle of Iwo Jima // Part 2: World War II | James:C
+T16 | Chemistry | What halogen commonly found in household bleach is also used in swimming pool disinfectants? | Chlorine | Sam:C
+B16 | Chemistry | A group of farmers in France are expecting record levels of production thanks to a series of blistering heat waves in 2022. Which product, a mineral composed primarily of the compound NaCl, do they farm? | Salt (sea salt) | C | .the host would take "salt"
+T17 | Foreign Language | The Spanish word "caballo" translates to what animal? | A horse | Penny:C
+B17 | Foreign Language | Part 1: How do you say "goodbye" in Japanese? // Part 2: How do you say "thank you" in Japanese? | Part 1: Sayonara // Part 2: Arigato | C
+T18 | Technology | Which technology is used to transmit data over long distances using pulses of light? | Fiber optics | Penny:I | Laurel:I | .Penny's answer was not accepted; Laurel said Morse code
+T19 | Miscellaneous | For whom is the Knoxville airport named? | Charles McGhee Tyson | Jackson:C
+B19 | Miscellaneous | What are the call letters of the noncommercial student radio station on the University of Tennessee, Knoxville campus that broadcasts at 90.3 FM? | WUTK | C
+T20 | Geography | What is the capital of Nicaragua? | Managua | NB | | .nobody answered; the host gave the answer
+T21 | Geology | What is the most common color of a sapphire? | Blue | Elaine:C | .buzzer name read from "And lean"
+B21 | Geology | The island republic of Nauru plans to mine the seabed for minerals including copper, cobalt, nickel and what chemical element with the atomic number 12? | Magnesium | I | .team said sodium and ran out of time
+T22 | English | How many items are depicted by the idiom "a baker's dozen"? | 13 | James:C
+B22 | English | Correct the sentence if needed: "Neither my sister nor my mother drive a stick shift car." | Neither my sister nor my mother drives a stick shift car. | C
+T23 | Pre-Calculus | What is the base five logarithm of 625? | 4 | Sam:C
+B23 | Pre-Calculus | Finish the trig identity: one plus tangent squared equals what? | Secant squared | I | .team said cosine
+T24 | Architecture | What is the term for a window that protrudes from the external wall of a building? | A bay window | Penny:I | | .Penny said dormer; steal offered to Jefferson County, no answer captured
+T25 | History | Which Native American woman served as a guide for Lewis and Clark? | Sacagawea | Penny:C
+B25 | History | Who was born in Arizona, became a leader of the Apaches and later took part in the inaugural procession of President Teddy Roosevelt? | Geronimo | C
+T26 | Spelling | A doctor uses a stethoscope to hear many bodily functions. Spell "stethoscope." | S-T-E-T-H-O-S-C-O-P-E | Sam:C
+B26 | Spelling | Spell "aberrant," as in deviating from the ordinary. | A-B-E-R-R-A-N-T | I | .the team's spelling was wrong (the host gave A-B-E-R-R-A-N-T)
+# ---- second half ----
+T27 | Biology | What is the name for a dried plum? | A prune | 2:C | .buzzer not named; team from "visual bonus now in biology for Webb"
+B27 | Visual | What specialized structures are responsible for gas exchange in plants, as shown here in a cross-section of a leaf? | Stomata | C
+T28 | Government | What is the term meaning the refusal to obey laws that are regarded as unjust, often petty, accompanied by peaceful demonstrations? | Civil disobedience | ?:C | .buzzer and team not identified in captions
+B28 | Government | Which U.S. agency, whose primary purpose includes enforcing the law against market manipulation, filed complaints against the founder of a cryptocurrency exchange, leading to his indictment on criminal charges including wire fraud? | The SEC (Securities and Exchange Commission) | I | .team said the FTC
+T29 | Music | What is the name of the barber in The Barber of Seville? | Figaro | Penny:I | | .Penny said Sweeney Todd; steal offered to Jefferson County, no answer captured
+T30 | Economics | Which major automaker has a luxury division called Lexus? | Toyota | Laurel:I | Sam:I | .Laurel said Ford; Sam said Nissan
+T31 | Science | What is the term for an idea that proposes a tentative explanation about a phenomenon? | A hypothesis | Penny:C
+B31 | Science | Part 1: What type of scientist studies the solar system and stars? // Part 2: What type of scientist studies the structure and composition of the Earth and other planets? | Part 1: An astronomer // Part 2: A geologist | C
+T32 | Literature | Which queen was the lover of Lancelot? | Queen Guinevere | Laurel:C | .the host warned the player for not waiting to be called on
+B32 | Literature | Part 1: Which Irish author wrote Ulysses? // Part 2: Which book by James Joyce is titled after the people of his hometown, the capital of the Republic of Ireland? | Part 1: James Joyce // Part 2: Dubliners | Isabella:P10 | .team missed Part 2
+T33 | Math | Three fourths minus four fifths equals what fraction? | -1/20 | Sam:C
+B33 | Visual | Convert the repeating decimal 0.5454... to a simplified fraction. | 6/11 | C
+T34 | Arts | What is the term for a person who can speak or utter sounds so that they seem to come from somewhere else? | A ventriloquist | Sam:C
+B34 | Arts | Who is the most commercially successful film director of all time, with blockbusters like Jaws and E.T. the Extra-Terrestrial? | Steven Spielberg | C
+T35 | Geography | Glacier National Park is located in which state? | Montana | Penny:I | Isabella:I | .Penny said Alaska; Isabella said Washington
+T36 | Physics | An ampere is the SI unit for what? | Electric current | Henry:C
+B36 | Physics | Part 1: What physics quantity is defined as the measure of how much force causes an object to rotate? // Part 2: By what units is torque measured? | Part 1: Torque // Part 2: Newton-meters | P10 | .team said newtons per second squared for Part 2
+T37 | Foreign Language | What number is represented by the Roman numeral CXLIV? | 144 | ?:C | .buzzer and team not identified in captions
+B37 | Foreign Language | What food is known in French as "pomme de terre"? | Potato | C
+T38 | Religion | What term is used to describe a person who accepts and closely follows the traditional beliefs and customs of a religion? | An orthodox adherent | 1:I | Penny:I | .Jefferson County's first buzzer not named (said "adherent"); Penny said "a follower"
+T39 | Games | What Nintendo game, developed in 1992, has many versions, including Double Dash and Super Circuit? | Super Mario Kart | Alex:C
+B39 | Games | $144 million in humanitarian aid for Ukraine was raised in the fifth week of the Russian invasion by users of what online game whose most popular mode is battle royale? | Fortnite | C
+T40 | U.S. History | What is the name of the plane that dropped the first atomic bomb? | The Enola Gay | Henry:C
+B40 | U.S. History | Part 1: Which U.S. president removed General MacArthur from command in 1951 after he threatened to bomb China? // Part 2: Who succeeded Truman as president in 1953? | Part 1: Harry Truman // Part 2: Dwight Eisenhower | C
+T41 | Health | What are the two oval shaped lymph nodes at the back of the mouth and the top of the throat in humans? | The tonsils | Alex:I | Isabella:C | .Alex's answer was wrong
+B41 | Health | What term refers to a bundle of fibers composed of neurons that connect body parts with the central nervous system? | Nerves | C
+T42 | Vocabulary | What is the study of the origin and development of words? | Etymology | Sam:C
+B42 | Vocabulary | Part 1: What figure of speech combines opposite or contradictory ideas, for example "sweet sorrow"? // Part 2: Spell that word. | Part 1: Oxymoron // Part 2: O-X-Y-M-O-R-O-N | Sam:C
+T43 | Geometry | How many lines are determined by four points, connecting two points at a time, if no three of the points are collinear? | Six | Penny:I | | .Penny said four; steal offered to Jefferson County, no answer captured
+T44 | Music | What is the term for a group of pitches played in rhythm? | A melody | Isabella:C
+B44 | Music | What opera by Giuseppe Verdi, based on Shakespeare's The Merry Wives of Windsor, is named for its main character? | Falstaff | C | .the captions garble the team's answer; the host said it is hilarious
+T45 | Government | What is the more common term for the permanent residence card, which is evidence of an immigrant's status? | A green card | Penny:C
+B45 | Government | Part 1: Which department is U.S. Citizenship and Immigration Services under? // Part 2: Under which cabinet-level department do the immigration courts fall? | Part 1: Homeland Security // Part 2: Justice | P10 | .team said "judicial" for Part 2
+T46 | Biology | Which animal defends itself with a sac full of ink? | The octopus | Sam:C | .the host noted squid do too
+B46 | Biology | Three male and five female cheetahs were released into India's Kuno National Park after being flown on a chartered jet departing from Windhoek, the capital of what African country? | Namibia | C
+T47 | Literature | The Last of the Mohicans takes place in 1757 during which war? | The French and Indian War (Seven Years' War) | Sam:C
+B47 | Literature | What American novel begins "The cold passed reluctantly from the earth, and the retiring fogs revealed an army stretched out on the hills, resting"? | The Red Badge of Courage | I | .team said "The Call of the Wild"
+T48 | Geography | On which Great Lake is Toronto located? | Lake Ontario | Sam:C
+B48 | Geography | What body of water on the border between Peru and Bolivia, the highest navigable lake in the world, experienced low water levels due to a drought in 2023? | Lake Titicaca | I | .team said the Amazon River
+T49 | Art | In which painting method are the pigments suspended in a water based solution? | Watercolor | Sam:C
+B49 | Art | Which painter from Provence, France, an impressionist and post-impressionist, influenced the Cubist technique with his representation of three-dimensional form? | Paul Cézanne | I | .team said Picasso
+T50 | World History | Which Mongol leader forged an empire? | Genghis Khan | Sam:C | .the host accepted "Khan"
+B50 | World History | Which country in the Caribbean was thrown into chaos when its president was assassinated in 2021? | Haiti | I | .team said Cuba
+T51 | Math | Change 125% to a mixed number in lowest terms. | 1 1/4 | Elaine:C
+B51 | Math | A rectangle is nine feet by eight feet. Its area is three times the area of a second rectangle that is six feet in length. What is the width of the second rectangle? | 4 feet | C
+T52 | Art | What is the art of producing decorative handwriting or lettering with a pen or brush? | Calligraphy | Alex:C
+B52 | Art | A large version of a famous work by an Italian contemporary artist was destroyed by fire shortly after being installed in Naples in 2023. It consisted of a pile of rags next to a statue of what mythological goddess of love, beauty and fertility? | Venus | I | .team said Aphrodite, the Greek name; the game ended

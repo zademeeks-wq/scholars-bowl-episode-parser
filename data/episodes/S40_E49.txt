@@ -1,0 +1,91 @@
+@EP S40 E49
+@ROUND Round of 16
+@TEAMS Temple Baptist Academy | Dobyns-Bennett High School (Sachin's team)
+@R1 Kayla, Easton, Will, Micah, Parker
+@R2 Adam, Michael, Sachin, Claire, Allison, Aisha
+# Temple Baptist Academy (captain Will, from Powell) is the same team as in E33. Dobyns-Bennett has two teams in the tournament; this one is captained by Sachin (the same team as E34). The captions render Sachin as "Such a/Sachin", Micah as "Mica/Michael", Dobyns-Bennett as "DB" and "steal Temple" prompts as "still". Parker joins Temple Baptist for the second half; Dobyns-Bennett keeps its starters. Temple Baptist led at halftime ("Right now, Temple Baptist has a lead") and Dobyns-Bennett pulled ahead late to win ("the lead shifted"); by the rulings recorded here the game ends Dobyns-Bennett 405, Temple Baptist 390. The captions give no score.
+# ---- first half ----
+T1 | Mythology | In Norse mythology, what goddess of fertility, motherhood and prophecy was Odin's wife and Balder's mother? | Frigg | Sachin:I | | .Sachin buzzed early and said Freya; no Temple Baptist steal answer captured
+T2 | Science | Who invented the vacuum tube? | John Ambrose Fleming | Micah:I | | .Micah said Joseph Cook; no Dobyns-Bennett steal answer captured
+T3 | Geometry | What is a line called that passes through two points on a circle? | A secant | Sachin:C | .the captions render the buzzer as "Such a" (read as Sachin); the bonus was Dobyns-Bennett's
+B3 | Geometry | If an inscribed angle measures 37 degrees, what is the measure of its intercepted arc? | 74 degrees | C | .the captain deferred to a teammate who said 74
+T4 | Art | Which children's book illustrator is best known for the monsters he created for Where the Wild Things Are? | Maurice Sendak | NB | | .nobody buzzed; the host gave the answer
+T5 | Geography | What is the capital of Texas? | Austin | Sachin:C
+B5 | Geography | Part 1: Which state was added to the U.S. in 1821 as the 24th state and has the nickname the Show Me State? // Part 2: What is the capital of that state? | Part 1: Missouri // Part 2: Jefferson City | P10 | .the team said Saint Louis for Part 2
+T6 | Literature | In which Edgar Allan Poe story does an old man's oddly clouded eye lead to murder? | "The Tell-Tale Heart" | Sachin:C
+B6 | Literature | Part 1: A university in England gave undergraduates a trigger warning about some classic books with distressing scenes and violence, including which 1861 book that tells of an orphan who comes into a fortune from a mysterious benefactor and enters London high society? // Part 2: The trigger warning also included which 1847 story that describes the romance between a homely governess and the troubled Mr. Rochester? | Part 1: Great Expectations // Part 2: Jane Eyre | P10 | .the team said Les Miserables for Part 1
+T7 | Biology | An autotroph is an organism that can make its own what? | Food | Will:C
+B7 | Visual | What type of insect shown here is able to jump more than 100 times its body length due to natural springs in its joints? | A flea (or a similar jumping insect) | C | !the team's answer is not captured; the host only said "yeah, due to natural spring in its joints"; scored as correct because Temple Baptist's halftime lead only holds if this bonus earned 20
+T8 | History | During the years 1250 to 1271, which empire had no emperor? | The Holy Roman Empire | 1:I | Sachin:I | .Temple Baptist's buzzer is not named (the answer was "the Roman Empire") and Sachin said Byzantine; the host wanted "Holy Roman Empire"
+T9 | Religion | What is the annual Islamic pilgrimage to Mecca, Saudi Arabia? | The Hajj | Micah:I | | .Micah had no answer; no Dobyns-Bennett steal answer captured
+T10 | Economics | Beginning sometime in 2024, whose face will appear on United Kingdom currency? | King Charles III | Kayla:I | Sachin:I | .Kayla said King George and Sachin said Rishi Sunak
+T11 | Spelling | In some militaries, the rank of corporal nominally corresponds to commanding a section or squad. Spell "corporal." | C-O-R-P-O-R-A-L | Will:C
+B11 | Spelling | A commissioned officer in the U.S. Navy or Coast Guard is a lieutenant. Spell "lieutenant." | L-I-E-U-T-E-N-A-N-T | Micah:C | .Will deferred to Micah; the letter string in the captions is garbled
+T12 | Chemistry | What type of atom has an equal number of protons and electrons? | A neutral atom | Michael:I | Micah:C | .Michael said "stable"
+B12 | Chemistry | Part 1: In 2022, vandals defaced the famous stairs of the Turkish Steps (white cliffs) in Sicily using which red powder with the chemical formula Fe2O3? // Part 2: The cliffs are made of what sedimentary rock composed of clay and lime? | Part 1: Iron oxide (ferric oxide) // Part 2: Marl | P10 | .the host accepted "ferrous oxide" for Part 1; the team said limestone for Part 2
+T13 | Algebra | What are the two solutions for the equation 49x squared - 81 = 0? | x = 9/7 and x = -9/7 | Claire:C
+B13 | Algebra | Give both solutions for x in the equation x squared - 16x = 0. | x = 0 and x = 16 | C
+T14 | Music | Jazz musician Louis Armstrong was famous for singing and playing which instrument? | The trumpet | Sachin:C | .Sachin buzzed early
+B14 | Music | Part 1: Who wrote the operetta The Mikado? // Part 2: What is the musical term for the introductory music at the beginning of The Mikado? | Part 1: Gilbert and Sullivan // Part 2: An overture | P10 | .the team first said "Robert Frost" and then Gilbert and Sullivan for Part 1; they said "prelude" for Part 2
+T15 | U.S. History | In which city did Martin Luther King Jr. deliver his "I Have a Dream" speech? | Washington, D.C. | Sachin:C | .Sachin buzzed early
+B15 | U.S. History | Part 1: In 1925, Dayton, Tennessee, high school teacher John Scopes was arrested and charged with violating a newly enacted law that criminalized the teaching of what? // Part 2: In which county is Dayton, Tennessee? | Part 1: Evolution // Part 2: Rhea County | P10 | .the host took "evolution" for Part 1; the team said Franklin County for Part 2
+T16 | Vocabulary | What is the meaning of the psychological term "ergophobia"? | Fear of work | Claire:I | Micah:C | .Claire said "the fear of big things"
+B16 | Vocabulary | Part 1: What ten letter word beginning with B describes a loud, energetic, rowdy person? // Part 2: Spell that word. | Part 1: Boisterous // Part 2: B-O-I-S-T-E-R-O-U-S | Easton:C | .Will deferred to Easton for the spelling
+T17 | Astronomy | What is the science concerning the physical properties of the universe, such as chemical makeup and gravitational forces? | Astrophysics | Micah:C | .Micah buzzed early
+B17 | Visual | What is the name of the constellation shown here, located between Capricorn and Pisces, with a name that is Latin for "water carrier"? | Aquarius | C
+T18 | Architecture | What is the term beginning with the letter L for the area of space immediately at the top or bottom of stairs, or between series of flights of stairs? | A landing | Easton:C
+B18 | Architecture | Part 1: In 2022, environmentalists forced Paris to abandon plans to cut several mature trees in order to build a cafe, shops, toilets and baggage drop-off near what centerpiece of the 1889 World's Fair? // Part 2: What is the literal meaning of the tower's local nickname, "la Dame de Fer"? | Part 1: The Eiffel Tower // Part 2: The Iron Lady | P10 | .the team said "the Fair Lady" for Part 2
+T19 | Sports | What is considered the greatest cycling event in the world? | The Tour de France | Will:C
+B19 | Sports | Tennis champion Novak Djokovic was detained and deported from Australia prior to the 2022 Australian Open. His father claimed it was not due to Novak's lack of a COVID vaccine but because the West wanted to stomp on which country, where Djokovic is a native? | Serbia | I | .the team said Norway
+T20 | Geography | In which country are the islands of Arran, Skye and Shetland? | Scotland | Sachin:C
+B20 | Geography | Part 1: What is the largest island in the Mediterranean Sea? // Part 2: Sicily belongs to which European country? | Part 1: Sicily // Part 2: Italy | C
+T21 | Foreign Language | What is the French word for "house"? | Maison | Micah:I | Claire:I | .Micah's answer is garbled in the captions ("Kai") and Claire's was "Casey"; the host wanted the more formal "maison"
+T22 | Health | One of the translations of what pledge contains the phrase "I will abstain from all intentional wrongdoing and harm"? | The Hippocratic Oath | Sachin:C | .Sachin buzzed early
+B22 | Health | Part 1: What is the term for the specialized connective tissue made of fibrous collagen that gives structure to organs such as ears and noses? // Part 2: What is the term for the specialized connective tissue made of collagen and calcium that forms the main structure of the framework of the body? | Part 1: Cartilage // Part 2: Bone | C
+T23 | Pre-Calculus | For the ellipse x squared over 16 plus y squared over 25 equals one, what is the length of the major axis? | 10 units | Michael:I | Will:I | .Michael said 8 and Will said 4
+T24 | Games | In the board game Trivial Pursuit, how many wedges must you collect to be eligible for the final question? | Six | 1:C | .buzzer not named (the bonus was Temple Baptist's)
+B24 | Games | What board game has players complete activities in four color-coded categories (creative cat, data head, star performer and word worm) and includes Cranium and Play-Doh? | Cranium | C
+T25 | Government | Which military institution is referred to as "the long gray line"? | West Point | Will:C | .the half ended before the government bonus could be read
+# ---- second half ----
+T26 | English | With punctuation if necessary, spell the word "your" in the following sentence: "I am pleased with your answers." | Y-O-U-R | Claire:C
+B26 | English | Part 1: What is the past simple of the verb "hide"? // Part 2: What is the past participle of the verb "hide"? | Part 1: Hid // Part 2: Hidden | C
+T27 | Chemistry | What was the medieval forerunner of chemistry, based on the supposed transformation of base metals into gold? | Alchemy | Micah:C
+B27 | Chemistry | Potassium is classified as an alkali metal. Give the noble gas configuration for potassium. | [Ar] 4s1 | I | .the team said neon 3s2
+T28 | Literature | In Romeo and Juliet, what was Romeo's family name? | Montague | Sachin:C
+B28 | Literature | A British writer's opinion column about her top ten favorite aunts in literature included Aunt March, a rich widow who disapproves of her daughter-in-law's charitable work, and the amiable poverty in which she and her four daughters live, as described in what book by what author? | Little Women by Louisa May Alcott | C
+T29 | Art | The Old Guitarist is an example of which artist's Blue Period? | Pablo Picasso | Will:C
+B29 | Visual | What is the title of the famous French painting shown here in which Jacques-Louis David used the neoclassical style to depict a scene from a contemporary event, the 1793 assassination of a revolutionary leader? | The Death of Marat | I | .the team had no answer
+T30 | U.S. History | Which U.S. president had a previous job as a film actor? | Ronald Reagan | Will:C
+B30 | U.S. History | Part 1: Which U.S. president had a previous job as a tailor? // Part 2: Which U.S. president had a previous job as an ordained minister? | Part 1: Andrew Johnson // Part 2: James A. Garfield | P10 | .the team said Zachary Taylor for Part 1
+T31 | Vocabulary | A necklace is to bead as a mosaic is to what? | Tile | Sachin:I | Will:C | .Sachin said "glass"
+B31 | Vocabulary | Part 1: What eight letter word beginning with D means low spirits, a state of inactivity or stagnation, and ocean regions near the equator noted for dead calm or fluctuating winds? // Part 2: Spell that word. | Part 1: Doldrums // Part 2: D-O-L-D-R-U-M-S | Micah:C | .Will deferred to Micah for both parts
+T32 | Biology | What is the space within a cell that is empty of cytoplasm, lined with a membrane and filled with fluid? | A vacuole | Will:C
+B32 | Biology | The first withdrawal has been made from the Doomsday Vault, where seeds from around the globe are stored. The withdrawal was made by which nation, bordered by the Mediterranean Sea, Turkey, Iraq, Jordan, Israel and Lebanon, whose own seed collection was the casualty of a civil war in 2012? | Syria | C
+T33 | World History | What structure stood from August 13, 1961 until November 1989? | The Berlin Wall | Sachin:C
+B33 | World History | Who are the next four people in the line of succession to the British throne? | Prince William, Prince George, Princess Charlotte and Prince Louis | P15 | .the team named William, Harry, Charlotte and George; three counted for 15 points
+T34 | Music | What is defined as putting an accent in music on the off beats? | Syncopation | Sachin:C
+B34 | Music | What singer who died in a plane crash at age 30 was considered a forerunner for women in country music, with hits including "I Fall to Pieces," "Crazy" and "Walkin' After Midnight"? | Patsy Cline | I | .the team said Aretha Franklin
+T35 | Math | Four consecutive odd integers add up to 88. What are they? | 19, 21, 23 and 25 | Claire:C
+B35 | Visual | Find the volume, in cubic feet, of a rectangular solid with dimensions of six inches, 18 feet and four inches. | 3 cubic feet | C
+T36 | Foreign Language | What is the English translation of the Spanish word "gato"? | Cat | Claire:C
+B36 | Foreign Language | Translate the French phrase "comment allez-vous" into Spanish. | "Como esta usted" | I | .Michael had no answer
+T37 | Physics | What is the scientific principle that only two electrons can occupy a given orbital and both must have opposite spins? | The Pauli exclusion principle | Claire:I | Will:I | .Claire said "Hund's principle" and Will said "the transitive"
+T38 | Geography | What is the smallest province of Canada? | Prince Edward Island | Sachin:I | Micah:I | .Sachin said "St. Edward's" and Micah said Newfoundland
+T39 | Religion | What Jewish queen of Persia saved the Israelites from the court official Haman's plot? | Esther | Parker:C
+B39 | Religion | What is the name of the prayer shawl worn by male Jews during the daily morning service and by the leader of the afternoon service? | A tallit | I | .the team said "a hulka"
+T40 | Economics | What was the brand name of the first automatic drip coffee maker, in 1972? | Mr. Coffee | Sachin:I | Parker:C | .Sachin said Keurig
+B40 | Economics | Part 1: What company makes Gatorade drinks? // Part 2: What company makes Chex Mix? | Part 1: PepsiCo // Part 2: General Mills | I | .the team said Coca-Cola and Kellogg's
+T41 | Literature | What five letter word starting with E names the poetic form, longer than a dirge, that laments death as a poem or song? | An elegy | Michael:C
+B41 | Literature | Part 1: Which poet wrote "Good fences make good neighbors"? // Part 2: In which of his poems is that line contained? | Part 1: Robert Frost // Part 2: "Mending Wall" | I | .the team said Emerson for Part 1 and "Fences" for Part 2
+T42 | Health | What is the process of freezing bodies at the moment of death with the aim of resuscitation? | Cryopreservation (cryonics) | Sachin:C
+B42 | Health | What ingredient is added to white sugar to make brown sugar? | Molasses | C
+T43 | Geometry | What is the volume of a cylinder, in terms of pi, with a height of two feet and a radius of five feet? | 50 pi cubic feet | Will:I | Adam:C | .Will said ten
+B43 | Geometry | Part 1: What is the complementary angle to 37 degrees? // Part 2: What is the supplementary angle to 37 degrees? | Part 1: 53 degrees // Part 2: 143 degrees | P10 | !the captions give "83 ... 52 degrees" for Part 1 and "83.3 ... 143 degrees" for Part 2 and the host said "yeah" after 143; scored as Part 2 only
+T44 | Arts | What Disney Pixar feature was about a rodent who liked to cook? | Ratatouille | Michael:C
+B44 | Arts | What is the English translation of the Latin phrase "ars gratia artis" that appears surrounding the lion's head in the Metro-Goldwyn-Mayer logo? | Art for art's sake | I | .the team said "art is art"
+T45 | U.S. History | Which former U.S. president founded the Bull Moose Party in 1912? | Theodore Roosevelt | Micah:C
+B45 | U.S. History | Next to Union Station in Washington, D.C., the Federal Judiciary Building that houses offices of the U.S. Courts is named after which civil rights lawyer, who represented the Brown family in Brown v. Board of Education and later served on the Supreme Court from 1967 to 1991? | Thurgood Marshall | I | .the team said Clarence Thomas
+T46 | Vocabulary | Hot is to warm as cold is to what? | Cool | Will:C
+B46 | Vocabulary | A sound box is related to "output device" as a joystick is related to what type of device? | An input device | C | .the team's answer is not captured; the host said "yes" for 20
+T47 | Science | Which Greek supposedly yelled "Eureka" after realizing that water displacement can be used to calculate volume? | Archimedes | 1:C | .buzzer not named (the bonus was Temple Baptist's)
+B47 | Science | Part 1: What cloud type are stratus clouds found at higher than normal altitudes? // Part 2: What cloud type are wispy, feather-like clouds? | Part 1: Altostratus // Part 2: Cirrus | P10 | .the team's Part 1 answer is not captured; the host gave "altostratus"; the game ended soon after

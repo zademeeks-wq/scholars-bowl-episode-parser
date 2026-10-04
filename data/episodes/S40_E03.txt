@@ -1,0 +1,87 @@
+@EP S40 E03
+@ROUND Round 1
+@TEAMS Grace Christian Academy | Knox Central High School
+@R1 Christian, Daniel, Kate, Lauren, Addie, Emma, Jackson, Trinity
+@R2 Dax, Oliver, Jessica, Kaylee, Julia, Quil, Dagon
+# Kate is Grace Christian's captain and Jessica is Central's. Jackson (GCA) and Dagon and Quil (Central) enter at halftime. The captions render "Grace Christian" as "GK" / "GCA" and Lauren as "Lawrence".
+# ---- first half ----
+T1 | Health | What part of the human body is affected by myopia? | The eye | Oliver:I | 1:I | .Oliver said the liver; Grace Christian's stealing player not named (said the kidney)
+T2 | Vocabulary | What is the plural of "calf"? | Calves | 2:C | .buzzer not named; team from "vocabulary bonus for Central"
+B2 | Vocabulary | Part 1: What seven letter word means the wreckage of a ship or its cargo found floating on or washed up by the sea? // Part 2: What six letter word means material or goods that have been thrown overboard from a ship and washed ashore? | Part 1: Flotsam // Part 2: Jetsam | P10 | .team said "shipwreck" for Part 1
+T3 | Geometry | Which property of equality is illustrated by: if x equals y and y equals z, then x equals z? | Transitive property | Christian:C
+B3 | Geometry | The width of a rectangle is twice its length and the area is 72. What is the length of the rectangle? | 6 | Kate:I | .Kate's answer was not accepted (the host gave 6)
+T4 | Music | Name the spaces on the treble clef staff. | F-A-C-E | Jessica:C
+B4 | Music | Part 1: How many strings are on a ukulele? // Part 2: How many keys or holes does a piccolo have? | Part 1: Four // Part 2: 13 | P10 | .team said ten for Part 2
+T5 | History | During which war did Congress authorize the Medal of Honor as the highest military award? | The Civil War | Jessica:I | Christian:I | .Jessica said World War II; Christian's answer garbled in captions (probably World War I)
+T6 | Biology | What is the biological class that includes ticks, scorpions and spiders? | Arachnida | Oliver:C | .the host accepted "arachnoid"
+B6 | Visual | What feature shown here is unique to marsupials to help them care for their young? | The pouch | C
+T7 | Literature | What is the pattern of stressed and unstressed syllables in poetry? | Meter | Lauren:I | Oliver:I | .Lauren said iambic; Oliver said rhyme scheme
+T8 | Geology | What metal is found in bauxite? | Aluminum | Oliver:C
+B8 | Geology | A huge phosphate deposit discovered in Norway in 2023 also contains titanium and other minerals, including what chemical element with the symbol V? | Vanadium | Oliver:C
+T9 | Art | What water soluble synthetic paint allows an artist to combine the techniques of oil and watercolor paintings? | Acrylic | Kaylee:I | | .Kaylee's answer garbled in captions ("Carwash"); steal offered to Grace Christian, no answer captured
+T10 | Government | What is the term for fair treatment through the normal judicial system, especially as a citizen's entitlement? | Due process | Oliver:I | | .Oliver's answer not captured; steal offered to Grace Christian, no answer captured
+T11 | Astronomy | What entities have gravitational fields so strong that even light cannot escape? | Black holes | Oliver:C
+B11 | Astronomy | Part 1: Which was the first planet discovered on the basis of theoretical calculations? // Part 2: Which was the first planet discovered with the aid of a telescope? | Part 1: Neptune // Part 2: Uranus | P10 | .team said Mercury for Part 2
+T12 | Mythology | Who led the crew of the Argo in search of the Golden Fleece? | Jason | Christian:C
+B12 | Mythology | Part 1: Who was the Roman ruler of the gods in mythology? // Part 2: Who was Jupiter's wife? | Part 1: Jupiter // Part 2: Juno | P10 | .team said Venus for Part 2
+T13 | Algebra | Solve the equation: 12 − 4x = 40. | x = -7 | NB | | .nobody answered; the host gave the answer
+T14 | Chemistry | What is the general name for any atom that has more electrons than protons? | An ion (anion) | Lauren:C | .buzzer name read from "Lawrence"
+B14 | Visual | Bromine is a liquid at room temperature and has a bleach-like odor. Fill in this part of the periodic table: what are its atomic number and symbol? | Atomic number 35, symbol Br | P10 | .team got the symbol Br but said 33 for the atomic number
+T15 | Economics | What is the common name for an alloy of mostly purified iron combined with about 2% or less of carbon? | Steel | Oliver:C | .the host accepted "carbon steel"
+B15 | Economics | The author of The Wealth of Nations is known as the father of economics. What was his name? | Adam Smith | Oliver:C
+T16 | Health | What name is given to an inactive substance given in place of a drug in medical research? | Placebo | Christian:C
+B16 | Health | Over 55 nutrients have been discovered and divided into six major groups, two of them being water and vitamins. What are the other four groups? | Carbohydrates, fats (lipids), proteins and minerals | C | .the host accepted "lipids" as fats
+T17 | Foreign Language | What is the term that means a strange feeling that I have been here before? | Déjà vu | Oliver:C
+B17 | Foreign Language | Part 1: Translate "thank you" into French. // Part 2: Translate "thank you" into German. | Part 1: Merci // Part 2: Danke | C | .Part 2 garbled in captions ("Dunker"); the host did not state the points but accepted both
+T18 | Miscellaneous | In the 2023 QS World University Rankings, which U.S. university was named number one for the 12th year in a row? | MIT | Christian:I | Oliver:I | .Christian said Harvard; Oliver said Yale
+T19 | Religion | Which religion teaches the principles of Zen? | Buddhism | Oliver:C
+B19 | Religion | Part 1: John Calvin was a leader in the Protestant Reformation. What were his followers called in France? // Part 2: What were they called in England? | Part 1: Huguenots // Part 2: Puritans | I | .team said "Calvinists"; the host gave Huguenots and Puritans and said no points
+T20 | Geography | Of the 50 state capitals, which one comes first in alphabetical order? | Albany | Oliver:I | | .Oliver said Annapolis; steal offered to Grace Christian, no answer captured
+T21 | Physics | What does a hertz measure? | Frequency | Oliver:C
+B21 | Physics | Part 1: What great theoretical physicist was offered the presidency of Israel in 1952? // Part 2: What theory is Einstein best known for discovering? | Part 1: Albert Einstein // Part 2: Relativity (general relativity) | C
+T22 | Vocabulary | What term refers to a word formed from the initial letters of parts of other words, for example "laser" or "scuba"? | Acronym | Oliver:C
+B22 | Vocabulary | Part 1: Complete the well-known simile: like a lamb to the ___. // Part 2: Complete the well-known simile: like water off a duck's ___. | Part 1: Slaughter // Part 2: Back | C
+T23 | Pre-Calculus | Solve for x: the cube root of the quantity x minus five equals three. | 32 | NB | | .nobody answered; the host gave the answer
+T24 | History | Who was the first European to reach India by sea? | Vasco da Gama | Christian:I | Jessica:I | .Christian said Magellan; Jessica said Marco Polo
+# ---- second half ----
+T25 | Technology | What do the initials AI represent? | Artificial intelligence | Christian:C
+B25 | Technology | Part 1: What is the name of Amazon's voice AI? // Part 2: What is the name of Apple's voice AI? | Part 1: Alexa // Part 2: Siri | C
+T26 | Music | Which percussion instrument is made of one or two circular plates to be struck with a drumstick or to be struck together? | Cymbals | Jackson:C | .buzzer name read from "Jack"
+B26 | Visual | The distinctive sound from what instrument shown here has become the standard tuning pitch for orchestral performances? | The oboe | I | .team said piccolo
+T27 | Grammar | In the active voice, what part of the sentence receives the action of the verb? | The direct object | Oliver:I | 1:I | .Oliver said the subject; Grace Christian's player blurted out "direct object" without ringing in, so the host could not give the points
+T28 | Chemistry | What substance produces hydrogen ions in water solutions? | An acid | Oliver:C | .answer garbled in captions ("has a yes")
+B28 | Chemistry | Part 1: Certain pipes that carry drinking water from the main water source to homes may contain which element with the symbol Pb? // Part 2: The symbol for lead comes from what Latin word? | Part 1: Lead // Part 2: Plumbum | Oliver:P10 | .team said "plumber" for Part 2
+T29 | Games | How many red squares are on a red and black checkerboard? | 32 | Lauren:C
+B29 | Games | Which two pieces are moved in a chess castling maneuver? | The rook and the king | C
+T30 | Government | What is the standard six letter term for a tax on imports? | Tariff | Christian:C
+B30 | Government | What international organization provides secure access to global databases containing police information on criminals and crime, operational and forensic support, analytical services and training to 195 member countries through National Central Bureaus? | Interpol | I | !the captions do not show the team's answer; the host said "They are the international police and they go by the name Interpol" without saying points, so it was probably missed
+T31 | Biology | What physical feature makes the manatee helpless on land? | Lack of back legs | Jessica:C
+B31 | Biology | Part 1: How many pairs of legs do insects have? // Part 2: To which insect body segment are the legs attached? | Part 1: Three // Part 2: The thorax | C
+T32 | Foreign Language | English is one of two official languages of Ireland. What is the other? | Irish (Gaelic) | Oliver:C
+B32 | Foreign Language | What is the 23rd letter of the Greek alphabet, which looks like a trident and indicates the wave function in quantum mechanics in its lowercase form? | Psi | I | .team said theta
+T33 | Math | What is the sum of the square root of 289 added to the square root of 49? | 24 | NB | | .nobody answered; the host gave 17 plus 7
+T34 | Religion | What city do Jews, Christians and Muslims consider holy? | Jerusalem | Oliver:C
+B34 | Religion | Name four of the five books of the Pentateuch, the first five books of the Old Testament. | Any four of: Genesis, Exodus, Leviticus, Numbers, Deuteronomy | C | .team named four (Deuteronomy was the one it did not give)
+T35 | Geography | Which of the Great Lakes of North America is the largest? | Lake Superior | Lauren:I | Jessica:I | .Lauren said Lake Michigan; Jessica said Lake Ontario
+T36 | Chemistry | What is the element with the symbol K? | Potassium | Kaylee:C | .buzzer name read from "K"; team inferred
+B36 | Chemistry | Part 1: What is the common name of ferric oxide? // Part 2: What is the common name of ethylene glycol used in car radiators? | Part 1: Rust // Part 2: Antifreeze | I | .team said "salt" (rust) and "oil" for the two parts
+T37 | Literature | What mythical lumberjack supposedly carved out the Grand Canyon with his ax? | Paul Bunyan | Oliver:I | Jackson:C | .time was called on Oliver; the host re-read the question for the steal
+B37 | Literature | What Knoxville Catholic High School alumnus, who died in 2023, wrote No Country for Old Men and All the Pretty Horses and won the Pulitzer Prize for The Road? | Cormac McCarthy | I | .team had no answer
+T38 | Technology | On a computer keyboard, what letter is between S and F? | D | Jessica:I | 1:C | .Jessica said A; Grace Christian's stealing player not named
+B38 | Technology | Several authors are suing OpenAI and Meta, claiming that their books were used without permission to train artificial intelligence systems, which would be an infringement of their what? | Copyright | C
+T39 | Sports | What is the standard height of a tennis net? | Three feet | Lauren:C
+B39 | Sports | Identify the sport associated with each of these two terms: Part 1: line drive. Part 2: wicket. | Part 1: Baseball // Part 2: Cricket | C | .the host would also have accepted croquet for the second term
+T40 | History | Poland regained its independence at the end of what war? | World War I | ?:C | .buzzer and team not identified in captions
+B40 | History | Which 64,000 year old weapon helped Homo sapiens conquer the planet before being overtaken by guns? | The bow and arrow | I | .team said "sword"
+T41 | Health | What is the part of the tooth that is above the gum and covered with enamel? | The crown | Christian:C | .buzzer name read from "Brown" (the answer is crown)
+B41 | Health | What field of medicine deals with children's diseases? | Pediatrics | C
+T42 | Spelling | A simultaneous discharge of many firearms is called a fusillade. Spell "fusillade." | F-U-S-I-L-L-A-D-E | Oliver:I | Christian:I | .Oliver missed the double L; Christian's attempt was also not accepted
+T43 | Algebra | What is the value of the expression 3x if 15x equals 55? | 11 | Christian:I | | .Christian said 165; steal offered to Central, no answer captured
+T44 | Architecture | In which city is the Willis Tower, formerly known as the Sears Tower? | Chicago | Lauren:C
+B44 | Architecture | Which dam is on the French Broad River in Dandridge, near Sevierville? | Douglas Dam | I | .team said Norris
+T45 | Geography | In which state is Carlsbad Caverns located? | New Mexico | Oliver:C
+B45 | Visual | New York State, shown here, borders which two Great Lakes? | Lake Erie and Lake Ontario | C
+T46 | Geology | What is the hardest naturally occurring substance on the Mohs scale? | Diamond | Oliver:C
+B46 | Geology | Which gem, the birthstone for March, is a pale blue to light green variety of beryl whose color can be changed by heat and which has a hardness of seven and a half to eight? | Aquamarine | I | .team said sapphire
+T47 | Miscellaneous | Who invented and patented the first practical telephone? | Alexander Graham Bell | 2:C | .buzzer not named; the host noted the player had not been called on but accepted it; team from "bonus for Central"
+B47 | Miscellaneous | Name four of the six categories of Nobel Prizes. | Any four of: Peace, Chemistry, Physics, Economics, Literature, Medicine | P15 | .team named peace, chemistry and physics (plus one wrong); three counted (15 points)

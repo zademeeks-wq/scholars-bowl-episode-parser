@@ -1,0 +1,87 @@
+@EP S40 E01
+@ROUND Round 1
+@TEAMS Christian Academy of Knoxville | Carter High School
+@R1 Michael, Harrison, Olivia, Amelia, Mayberry, Andrew, Lisa, Tim
+@R2 Stix, Blake, Reagan, Karen, Riley, Dalen
+# Olivia is Christian Academy's captain and Reagan (Ragan) is Carter's. Tim (CAK) and Riley (Carter) enter at halftime.
+# ---- first half ----
+T1 | Health | What part of the eye has a diaphragm to control the amount of light going through the pupil? | The iris | Reagan:C
+B1 | Health | Which two of the three types of human muscles are striated? | Cardiac muscle and skeletal muscle | C | .responder's name garbled in captions ("Batman")
+T2 | Literature | Who wrote James and the Giant Peach? | Roald Dahl | Reagan:C | .question cut off by the buzz; the host added that Matilda is also Roald Dahl
+B2 | Literature | Who wrote The Once and Future King, a collection of fantasy novels about King Arthur that includes the book The Sword in the Stone? | T. H. White | I | .team said Mark Twain
+T3 | Art | What is the only piece of artwork that Michelangelo ever signed? | The Pietà | Olivia:I | | .Olivia said the David; steal offered to Carter, no answer captured; the host's answer is garbled in captions ("That's the way to test it")
+T4 | U.S. History | Which British commander surrendered to General George Washington at Yorktown? | Cornwallis | 2:C | .buzzer's name garbled in captions ("Brig."); team from "history bonus for Carter"
+B4 | History | Part 1: Who was the fugitive slave that helped 300 slaves escape via the Underground Railroad? // Part 2: What biblical nickname did abolitionist William Lloyd Garrison give to Harriet Tubman? | Part 1: Harriet Tubman // Part 2: Moses | C
+T5 | Religion | According to the Bible, in what city did Jesus live during much of his childhood and young adulthood? | Nazareth | Harrison:C
+B5 | Religion | What word means ritually correct in regards to food preparation in accordance with Jewish laws? | Kosher | Olivia:C
+T6 | Science | What is the study of microscopic organisms? | Microbiology | Harrison:C
+B6 | Visual | Who is the scientist shown here who jotted down the symbols for the chemical elements in order according to their atomic weights, in such a way that they ended up grouped on the page according to known regularities or curiosities of behavior? | Dmitri Mendeleev | C
+T7 | Vocabulary | What eight letter word starting with R means to produce or be filled with a deep, full, reverberating sound? | Resonate | Reagan:I | Olivia:C | .Reagan said ricochet
+B7 | Vocabulary | What seven letter word beginning with I means to cause something or someone to be alone or apart from others? | Isolate | C
+T8 | Algebra | Name the factors of the trinomial x² − 4x − 12. | (x − 6)(x + 2) | Olivia:I | | .Olivia hedged between "negative six and two" and "six and negative two"; steal offered to Carter, no answer captured
+T9 | Geography | On which of the Great Lakes is Buffalo, New York? | Lake Erie | Harrison:C
+B9 | Geography | Part 1: On which continent are the rivers St. Lawrence, Colorado and Rio Grande? // Part 2: On which continent are the rivers Yellow, Euphrates and Irrawaddy? | Part 1: North America // Part 2: Asia | C | .river names in Part 1 garbled in captions ("Catawba")
+T10 | Music | What classical composer would attach a wooden rod to his piano and clench the other end in his teeth in order to feel the vibrations through his jaw? | Beethoven | 2:C | .buzzer not named; team from "music bonus for Carter"
+B10 | Music | Part 1: What musical term refers to a romantic and dreamy short composition suggestive of night? // Part 2: Which Polish composer wrote 27 nocturnes? | Part 1: Nocturne // Part 2: Chopin | I | .no answer for Part 1; team said Beethoven for Part 2
+T11 | Biology | What is the monomer of a protein? | Amino acid | Karen:C
+B11 | Biology | What is the only member of the marsupial order that is endemic to the Americas and found in Tennessee? | The opossum | C | .question text partly garbled in captions
+T12 | Foreign Language | What is the Spanish word for exit? | Salida | Olivia:I | Karen:I | .Olivia's answer garbled in captions ("salt son"); Karen's answer not captured
+T13 | Geology | In what state is the volcano Mount St. Helens? | Washington | Reagan:C
+B13 | Geology | Algeria is mining one of the largest deposits in the world of what metal with the atomic number 26 and the symbol Fe? | Iron | C | .answer not spoken in captions (the host just said correct)
+T14 | Economics | What term beginning with the letter C refers to someone who uses goods and services? | Consumer | 2:C | .buzzer not named in captions; Carter is inferred from the game result (without these 30 points Carter would trail) and the bonus responder ("cover me", probably Karen)
+B14 | Economics | In a command economy, who makes the economic decisions about product availability and pricing? | The government | C | .responder's name garbled in captions ("cover me")
+T15 | Sports | Which sport uses terms such as pass, set, spike, dig and side out? | Volleyball | Reagan:I | Olivia:C | .Reagan said football
+B15 | Visual | A meeting of club representatives in a London tavern on October 26, 1863 led to the formation of the first official set of rules, shown here, and the creation of a governing body known as the FA that still oversees a sport in England. What is that sport known as in America? | Soccer | C
+T16 | Health | What malignant disease is characterized by a marked increase in the number of a person's white blood cells and swollen lymph glands? | Leukemia | Olivia:I | Karen:I | .Olivia's answer garbled in captions ("Lynn", probably lymphoma); Karen said cancer, which the host said was too general
+T17 | Spelling | Spell a nine letter word for a French crescent shaped roll made of sweet, flaky dough. | C-R-O-I-S-S-A-N-T | Olivia:C
+B17 | Spelling | Part 1: A nice thing to say about someone is a compliment. Spell "compliment." // Part 2: A thing that completes or brings to perfection is a complement. Spell "complement." | Part 1: C-O-M-P-L-I-M-E-N-T // Part 2: C-O-M-P-L-E-M-E-N-T | C
+T18 | Geometry | What is the ratio of the areas of two circles if the ratio of their diameters is 2 to 5? | 4 to 25 | NB | | .the host warned a team about looking at each other during a tossup and gave the answer; no answer was credited
+T19 | U.S. History | Who was the only U.S. president to receive the Purple Heart? | John F. Kennedy | Michael:I | Reagan:I | .Michael said Eisenhower; Reagan said "Reagan"
+T20 | Miscellaneous | The Rhodes Scholarship is an international postgraduate award for students to study at what university in the United Kingdom? | Oxford | Reagan:C
+B20 | Miscellaneous | What private university in Terre Haute, Indiana, reached a milestone in September 2023 with its 25th consecutive year as the number one ranked undergraduate engineering college in U.S. News and World Report's Best Colleges guide? | Rose-Hulman Institute of Technology | I | .team said Notre Dame
+T21 | Technology | What is the term for a computer program that organizes, stores and retrieves information in a structured way? | Database | 2:I | 1:C | .Carter's first buzzer not named (said algorithm); CAK's stealing player not named
+B21 | Technology | What do the letters URL represent? | Uniform Resource Locator | I | .team's answer garbled in captions ("unrestricted link")
+T22 | Mythology | What mountain in Greece was said to be the home to several mythological Greek gods? | Mount Olympus | Stix:C | .buzzer name read from "Styx"
+B22 | Mythology | Name four of the 12 Olympians of Greek mythology whose home was on Mount Olympus. | Any four of: Zeus, Hera, Poseidon, Demeter, Athena, Apollo, Artemis, Ares, Aphrodite, Hephaestus, Hermes, Dionysus | Stix:C | .team named Zeus, Athena, Apollo and Dionysus
+# ---- second half ----
+T23 | Government | The king and his government were declared to not be above the law and the English aristocracy was granted rights with what charter? | Magna Carta | 2:C | .buzzer not named; the captions run the question and answer together; team from "bonus for Carter"
+B23 | Government | In 2022, the U.N. Security Council imposed a targeted arms embargo, travel ban and asset freeze in an effort to stop criminal gangs and violence in which nation, ranked as the poorest country in the Western Hemisphere? | Haiti | C
+T24 | Geography | Which Tennessee city was known as "the town that temperance built"? | Harriman | Reagan:I | Olivia:I | .Reagan said Nashville; Olivia said Memphis
+T25 | Games | What game is played on a flat felt mat with sets of small disks, a pot which is the target, and a collection of squidgers, which are the larger disks used to shoot the smaller disks into the target? | Tiddlywinks | ?:I | .buzzer and team not identified in captions; the answer given was shuffleboard, and the host said the team had been conferring on a tossup
+T26 | Chemistry | What is the chemical formula for phosphoric acid? | H3PO4 | Tim:C
+B26 | Chemistry | What is a very pale blue liquid that is slightly more viscous than water and has the formula H2O2? | Hydrogen peroxide | C
+T27 | English | What four letter word beginning with F is the antonym of "coarse"? | Fine | Karen:C | .question's last word read from "Of course" in captions
+B27 | English | What is the past simple form of the verb "become"? | Became | C
+T28 | Math | What is one half raised to the negative three power? | 8 | Tim:C | .buzzer name read from "chem"; team from the bonus deferral to Michael
+B28 | Math | The perimeter of a rhombus is 40 meters. If the diagonals are in a 3 to 4 ratio, what are their lengths? | 12 and 16 meters | I | .team (via Michael) said 10 and 30
+T29 | History | Which country implemented a one child policy between 1980 and 2015? | China | Reagan:C
+B29 | History | Name two of the five main countries that battled in the Crimean War between 1853 and 1856. | Any two of: Russia, the United Kingdom, France, the Ottoman Empire, Sardinia | C | .team said Russia and the United Kingdom
+T30 | Music | Who, at age eight, began singing lead in the Jackson 5? | Michael Jackson | Harrison:C
+B30 | Music | Guests on the Lockdown Sessions album included Miley Cyrus, Lil Nas X, Charlie Puth and others. The album's first single, "Cold Heart," with guest Dua Lipa, made which superstar the first solo artist to reach the UK top ten in six separate decades? | Elton John | I | !the team's answer is garbled in captions ("SCISSOR") and the host said "That's Elton John" without giving points, so it was probably missed
+T31 | Science | What is the attractive force that acts between molecules of different substances? | Adhesion | Olivia:I | 2:I | .Olivia said intermolecular forces; Carter's stealing player is not clear in captions (said gravity)
+T32 | Foreign Language | What is the English translation of the French phrase "au revoir"? | Goodbye | Reagan:C | .the host would also have accepted "until we meet again"
+B32 | Foreign Language | What is the English translation of the French phrase "je suis désolé"? | I am sorry | C | .French phrase reconstructed from the translation (captions: "Just sweet easily")
+T33 | Religion | What 11 letter word starting with B comes from the Latin words for "speak well" and means the prayer sung or spoken at the end of a religious service? | Benediction | Olivia:C
+B33 | Religion | In 2023, Christian missionaries from South Korea risked prosecution in what country, the birthplace of Buddha, where it is illegal to convert people to another religion? | Nepal | I | .team said India
+T34 | Geography | What country is made up of the large islands of Honshu, Shikoku and Kyushu and others? | Japan | Harrison:C
+B34 | Geography | Part 1: What is the name of the group of about 90 islands that make up the smallest independent country by area in Africa? // Part 2: Spell that name. | Part 1: Seychelles // Part 2: S-E-Y-C-H-E-L-L-E-S | C
+T35 | Art | In Botticelli's famous painting The Birth of Venus, the goddess is floating in the ocean on what? | A scallop shell | Harrison:C | .answer garbled in captions ("Fisher")
+B35 | Visual | What is the commonly used name for the world's largest bronze sculpture of modern times, shown here at the World Trade Center prior to being damaged in the 9/11 attacks, which was eventually moved to Liberty Park overlooking the September 11 Memorial? | The Sphere | I | .the team's answer is garbled in captions; the host said "they call it the Sphere"
+T36 | Geology | What very hard, granular, crystalline igneous rock, consisting mainly of quartz, mica and feldspar, is often used as a building stone like limestone? | Granite | 2:I | Olivia:I | .Carter's first buzzer not named, answer not captured; Olivia said marble
+T37 | Literature | What is the sequel to The Adventures of Tom Sawyer? | The Adventures of Huckleberry Finn | Harrison:C
+B37 | Literature | In the book The Wonderful Wizard of Oz, which four characters accompany Dorothy on her way to see the Wizard? | The Tin Man, the Scarecrow, the Cowardly Lion and Toto | C
+T38 | Algebra | Solve the equation for x: x − 40 = −16. | x = 24 | Olivia:C | .the equation is only partly captured ("-40 equals -16"); answer inferred
+B38 | Algebra | What is the formula for the nth term of an arithmetic sequence with a common difference of four and a first term of one? | aₙ = 4n − 3 | I | .team's answer garbled in captions ("40 plus one"), apparently 4n + 1
+T39 | Government | How many nautical miles does the maritime boundary extend from a jurisdiction's coastline? | 12 nautical miles | Harrison:C
+B39 | Government | Who said, "It's all right to be the first to do something, but I didn't want to be the last woman on the Supreme Court"? | Sandra Day O'Connor | I | .team said Ruth Bader Ginsburg
+T40 | Sports | How many horses are on a polo team? | Four | Reagan:C
+B40 | Sports | The Arkansas Razorbacks of the SEC play their home games in what city? | Fayetteville, Arkansas | C
+T41 | Physics | What is the term to describe the length of time it takes for 50% of the atoms in a radioactive sample to decay? | Half-life | Harrison:C | .answer garbled in captions ("five")
+B41 | Physics | If a crater on a moon moves 20 degrees in 4 hours, what is the moon's period of complete rotation? | 72 hours | I | .team said 52 hours
+T42 | Vocabulary | What four letter word beginning with T means to make one's way arduously, or an organized migration? | Trek | Blake:C
+B42 | Vocabulary | Part 1: What nine letter word beginning with S means to supplant or take the place of a person or thing previously in authority? // Part 2: Spell that word. | Part 1: Supersede // Part 2: S-U-P-E-R-S-E-D-E | I | .the first answer was wrong; the spelling used C instead of the second S
+T43 | Chemistry | What element's Latin name is stannum? | Tin | Olivia:C | .answer garbled in captions ("Emma")
+B43 | Chemistry | The U.S. will spend $250 million to help clean up California's Salton Sea because its exposed shoreline has toxic chemicals from agricultural runoff and wastewater, including what element with the symbol Se and what element with the symbol As? | Selenium and arsenic | C
+T44 | U.S. History | Which man was the only U.S. senator from the South to stay loyal to the Union and then went on to become president? | Andrew Johnson | Reagan:C
+B44 | History | Which two expansion trails of the 1800s led west out of St. Louis, Missouri? | The Oregon Trail and the Santa Fe Trail | P10 | .team said Oregon and Missouri
+T45 | Music | What movie musical includes the songs "Consider Yourself" and "You've Got to Pick a Pocket or Two"? | Oliver! | Olivia:I | 2:I | .both answers garbled or missing in captions; the game ended after this question

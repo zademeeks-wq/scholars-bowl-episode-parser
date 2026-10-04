@@ -1,0 +1,89 @@
+@EP S40 E34
+@ROUND Round of 32
+@TEAMS Dobyns-Bennett High School (Sachin's team) | Alcoa High School
+@R1 Adam, Michael, Sachin, Claire, Allison, Aisha
+@R2 Reed, Tripp, Luke, Jahoyta
+# Dobyns-Bennett has two teams in the tournament (the other, Abby's team, played in E08); this team is captained by Sachin. Jahoyta is Alcoa's captain. The captions render Dobyns-Bennett as "Dobbins Bennett/DB" and Jahoyta as "Jehoiada". Both lineups stay the same all game. The game ended while a tossup was being read (an Alcoa player blurted "Kit Carson" and the host joked about the coach), so that question is not recorded.
+# ---- first half ----
+T1 | Health | What is the standard name for a potential cancer-causing agent? | A carcinogen | Claire:C
+B1 | Health | Following a two-year investigation, an e-cigarette company agreed to pay $438 million in a settlement over marketing its product to teens. What electronic cigarette company was it? | Juul | C | .the captions show "Jewel" for Juul
+T2 | Algebra | Evaluate 4x + 3y − 5z if x = 3, y = 2 and z = 4. | −2 | Michael:C
+B2 | Algebra | Name the coordinates of the point where the lines y = 2x + 4 and y = (1/2)x + 4 intersect. | (0, 4) | C
+T3 | Music | What famous singer played the lead role in the 2018 movie version of A Star Is Born? | Lady Gaga | Reed:C
+B3 | Music | In his song "Know Yourself," Drake says he's running through the 6 with his woes, in reference to his hometown area code 416, which is used in what city? | Toronto | C
+T4 | Vocabulary | What is the past participle form of the word "draw"? | Drawn | Tripp:C
+B4 | Vocabulary | Part 1: What word ending in -archy means ruling by a single ruler? // Part 2: What word ending in -archy means rule by a father or eldest male? | Part 1: Monarchy // Part 2: Patriarchy | P10 | .the team said "anarchy" for Part 1
+T5 | Astronomy | Most planets in our solar system are named for mythological gods from which ancient civilization? | Rome | ?:C | .buzzer and team not identified in captions
+B5 | Astronomy | Part 1: Which constellation is the largest and is named for the mythological creature that Hercules killed in his second labor? // Part 2: Which constellation is the smallest, with a name that is Latin for "cross"? | Part 1: Hydra // Part 2: Crux | P10 | .the team said "Crucis" for Part 2
+T6 | Literature | What seven letter word starting with P refers to a simple story from which a lesson should be drawn? | Parable | Tripp:I | Adam:I | .Tripp said protagonist; Adam said proverb
+T7 | Art | What earthenware substance is a clay-based, unglazed or glazed ceramic with a fired body that is porous? | Terracotta | Tripp:I | Claire:I | .Tripp said clay; Claire said adobe
+T8 | U.S. History | Which famous U.S. general accepted the Japanese surrender in 1945 aboard the USS Missouri? | General Douglas MacArthur | Luke:I | Claire:I | .Luke said Truman; Claire said Patton (at the buzzer)
+T9 | Foreign Language | What is the English translation of the French "Mayday"? | "Help me" | Tripp:I | Claire:I | .Tripp said "going down"; Claire said "crashing"
+T10 | Chemistry | Which element makes a metal or alloy ferrous? | Iron | Sachin:C
+B10 | Visual | Francium is the heaviest chemical of the alkali metal group, and its isotopes decay quickly into nearby elements on the periodic table such as radium and radon. What is francium's atomic number? | 87 | I | .team said 82
+T11 | Math | What is the product of 0.004 and 0.051? | 0.000204 | Claire:C
+B11 | Math | What is the cash value of 11 quarters, 12 dimes and 13 nickels? | $4.60 | Claire:I | .Claire said $5.20
+T12 | Religion | With which religion are the five pillars associated? | Islam | Sachin:C
+B12 | Religion | What 13 letter word is used to describe the Roman Catholic dogma, most recently used in 1950, that the Pope has the authority to teach without error? | Infallibility | I | .team said "communion"
+T13 | World History | Who invented dynamite and bequeathed his fortune to recognize those who conferred the greatest benefit to humankind? | Alfred Nobel | Tripp:C
+B13 | World History | Part 1: Who ruled Russia prior to his abdication in March 1917? // Part 2: Who led the overthrow of Russia's provisional government in October 1917 to become the first leader of the Soviet Union? | Part 1: Nicholas II // Part 2: Lenin | P10 | .the team said Stalin for Part 1
+T14 | English | What is the past tense of the verb "bring"? | Brought | Tripp:I | Sachin:C | .Tripp said "brung"
+B14 | English | Which four words need to be capitalized in the following sentence? "William the Conqueror was the first Norman king of England." | William, Conqueror, Norman and England | C
+T15 | Geology | A small earthquake that precedes a larger earthquake by several days is called what? | A foreshock | Claire:C
+B15 | Geology | Part 1: What 800 mile stretch through California, where the Pacific and North American tectonic plates meet, consistently produces a magnitude 6.0 earthquake approximately once every 22 years? // Part 2: After whom is San Andreas, California, named? | Part 1: The San Andreas Fault // Part 2: Saint Andrew | Adam:P10 | .Adam answered Part 1; Claire guessed "Andreas" for Part 2
+T16 | History | Which U.S. president's inaugural speech included "The only thing we have to fear is fear itself"? | Franklin D. Roosevelt | Sachin:C
+B16 | Visual | Part 1: What is the name of the building shown here, which means "little mountain" in Italian, Thomas Jefferson's home and plantation? // Part 2: It is located just outside what city that is home to the University of Virginia? | Part 1: Monticello // Part 2: Charlottesville | C
+T17 | Sports | What is the term for a score of zero in tennis? | Love | Reed:C
+B17 | Sports | Part 1: In what city is the Kentucky Derby held? // Part 2: On what racetrack is the Derby held? | Part 1: Louisville // Part 2: Churchill Downs | C
+T18 | Government | A state law requires people using the waterways in Tennessee to wear a life jacket if under what age? | 12 | Luke:C
+B18 | Government | Part 1: What is the minimum age to run for governor of Tennessee? // Part 2: How many consecutive terms may the Tennessee governor serve? | Part 1: 30 // Part 2: Two | Jahoyta:C
+T19 | Literature | Gregory Peck won an Academy Award for his portrayal of what character in a film? | Atticus Finch (To Kill a Mockingbird) | Michael:C
+B19 | Literature | Part 1: In To Kill a Mockingbird, what was Atticus Finch's profession? // Part 2: Who wrote the novel To Kill a Mockingbird? | Part 1: Lawyer // Part 2: Harper Lee | C
+T20 | Science | What unit is commonly used to measure the energy value of a food? | The calorie | Luke:I | Adam:C | .Luke said watts
+B20 | Science | Part 1: Which solvent has the higher flash point, acetone or acetic acid? // Part 2: Which solvent has the higher flash point, turpentine or methanol? | Part 1: Acetic acid // Part 2: Turpentine | C
+T21 | Pre-Calculus | What is the measure in radians of the quadrant I angle with a sine of 1/2? | π/6 | Adam:C
+B21 | Pre-Calculus | In calculus, what is the process of combining infinitesimal data to describe displacement, area, volume and other concepts, such as an integral? | Integration | I | .the team said "integral" and the host did not accept it; the first half ended after this bonus
+# ---- second half ----
+T22 | Music | Who composed the ballet The Nutcracker? | Tchaikovsky | Claire:C
+B22 | Music | Who composed the tone poem Also sprach Zarathustra, which was made famous as the opening theme of 2001: A Space Odyssey? | Richard Strauss | I | .team said Bach
+T23 | U.S. History | Who was president of the United States during the War of 1812? | James Madison | Tripp:I | Sachin:C | .Tripp said Jackson
+B23 | U.S. History | In 2022, Native Americans asked a Scottish museum to return three items taken from victims of what massacre that occurred on the Pine Ridge Indian Reservation in South Dakota on December 29, 1890? | The Wounded Knee Massacre | C | .the team said "Massacre of Wounded Knee"; the host would also accept "Battle of Wounded Knee"
+T24 | Mythology | In Roman mythology, who was the counterpart to the Greek goddess Artemis and sister to Apollo? | Diana | Adam:C
+B24 | Mythology | What item from mythology is also called a horn of plenty and represents nature's bounty? | A cornucopia | C
+T25 | Physics | What word describes three lines that pass through the same point? | Concurrent | Claire:I | Tripp:I | .Claire said collinear; Tripp said intersection
+T26 | Technology | In texting and social media, what do the letters FWIW represent? | For what it's worth | Sachin:I | Tripp:I | .Sachin said "for your information"; Tripp said "free Wi-Fi"
+T27 | Art | If something is dichromatic, how many colors does it have? | Two | Claire:C
+B27 | Visual | Who is the actor seen here who rose to fame during the silent movie era and is considered one of Hollywood's most important historical figures? | Charlie Chaplin | C
+T28 | History | Which Italian explorer traveled to China in 1275 and remained to serve Kublai Khan? | Marco Polo | Sachin:C
+B28 | History | To what group of people does the mnemonic device "divorced, beheaded, died, divorced, beheaded, survived" refer? | The six wives of Henry VIII | C
+T29 | Spelling | Any means of deliberately destroying, wasting or damaging items is called sabotage. Spell "sabotage." | S-A-B-O-T-A-G-E | ?:C | .buzzer and team not identified in captions
+B29 | Spelling | Presidential elections are quadrennial, meaning every four years. Spell "quadrennial." | Q-U-A-D-R-E-N-N-I-A-L | I | .the team spelled Q-U-A-D-R-N-I-A-L (missing an E)
+T30 | Health | What word is used to describe the rate at which body cells use food? | Metabolism | Claire:C
+B30 | Health | Part 1: What part of the body is affected by hepatitis? // Part 2: What internal organ is associated with the medical adjective "pulmonary"? | Part 1: The liver // Part 2: The lungs | C
+T31 | Geometry | The legs of a right triangle are 8 and 15 feet. What is the length of the hypotenuse? | 17 feet | Michael:C
+B31 | Geometry | Which regular polygon has an interior angle measure equal to twice the measure of the exterior angle at each vertex? | A hexagon | I | .team said triangle
+T32 | Miscellaneous | What is the term for a female sheep? | Ewe | Tripp:I | Adam:C | .Tripp's answer is not captured
+B32 | Miscellaneous | Part 1: What is the geometric shape of a school crossing sign? // Part 2: What is the geometric shape of a speed limit sign? | Part 1: A pentagon // Part 2: A rectangle | P10 | .the team said a triangle for Part 1
+T33 | Geography | What is the only river on the African continent that flows north? | The Nile | Luke:C
+B33 | Visual | What country is represented by this flag, which depicts an AK-47 and is one of only four national flags to feature a gun or cannon? | Mozambique | C
+T34 | Foreign Language | What is the term for the symbols in the language developed by the ancient Egyptians? | Hieroglyphics | Sachin:C
+B34 | Foreign Language | What are the last four letters of the Greek alphabet, in order? | Phi, chi, psi, omega | P15 | .the team named chi, phi, omega and pi; three counted (15 points)
+T35 | Chemistry | What is the type of reaction when oxygen combines with other elements? | Oxidation | 1:I | Tripp:C | .Dobyns-Bennett's buzzer is not named (said combustion)
+B35 | Chemistry | What do the letters NPK on a container of garden fertilizer represent? | Nitrogen, phosphorus and potassium | P10 | .the team said sodium, phosphorus and potassium; two counted (ten points)
+T36 | Religion | What is the Hebrew word for Sabbath? | Shabbat | Tripp:I | Sachin:I | .the host did not accept Tripp's attempt ("not exactly"); Sachin said Hanukkah
+T37 | Games | What daily word game gives players six chances to guess? | Wordle | Reed:C
+B37 | Games | What game includes 19 tiles that represent five resources, including clay, grain, sheep and wood? | Settlers of Catan | Tripp:C
+T38 | Economics | What is the term for a hand-operated calculating tool, the slide-bead device that has been used since ancient times? | An abacus | Claire:I | Luke:I | .Claire said "mandible"; Luke said "Chinese calculator"
+T39 | Literature | Who was the fearless Norse warrior who slew a murderous troll, in an Old English poem? | Beowulf | Tripp:I | Sachin:C | .Tripp said Leif Ericson
+B39 | Literature | Part 1: What is the name of the monstrous character that Beowulf slays in a mead hall? // Part 2: According to Beowulf, what is better than mourning a death? | Part 1: Grendel // Part 2: Revenge (avenging it) | C
+T40 | Biology | What are the single-celled reproductive units on the underside of fern leaves? | Spores | Claire:C
+B40 | Biology | What are the pairs of tiny holes on the sides of the abdomen and thorax that a grasshopper breathes through? | Spiracles | I | .team said "mouth" and the host called it a good guess
+T41 | Algebra | Find the value of x if 4x + 5 + 6x − 5 = 100. | x = 10 | Claire:C
+B41 | Algebra | For the quadratic equation y = x² − 4x + 5, what is the axis of symmetry? | x = 2 | C
+T42 | Architecture | What is the term for the upper triangular part of a wall at the end of a pitched roof? | A gable | Sachin:C
+B42 | Architecture | Which word designates both an elaborate design suggesting flowers or foliage in Moorish architecture and a ballet position with the arms and one leg extended? | Arabesque | I | .team said "pirouette" and then gave no answer
+T43 | Government | The FBI operates under the jurisdiction of which cabinet-level government department? | The Department of Justice | Tripp:I | Sachin:I | .Tripp said Homeland Security; Sachin said the Department of the Interior
+T44 | Vocabulary | What seven letter word beginning with T is used to mean oppressive rule by absolute authority? | Tyranny | Tripp:I | Sachin:C | .Tripp said "tyrannical"
+B44 | Vocabulary | Part 1: What ten letter word beginning with L is a commissioned naval officer and could also mean a deputy or substitute acting for a superior? // Part 2: Spell that word. | Part 1: Lieutenant // Part 2: L-I-E-U-T-E-N-A-N-T | P10 | !the host said "Correct" for Part 1 but ended with "no points on the bonus" after the team spelled it with an extra N; treated as ten points for Part 1
+T45 | Astronomy | What is the term for a dying star's explosion with so much energy that heavy metals are formed? | A supernova | Sachin:C
+B45 | Astronomy | Earth's magnetosphere is made up of invisible lines of magnetic field that radiate out into space from where on the earth? | The North Pole and the South Pole | C | .the game ended on the next tossup

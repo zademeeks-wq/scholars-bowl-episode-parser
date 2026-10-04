@@ -1,0 +1,73 @@
+@EP S40 E35
+@ROUND Round of 32
+@TEAMS Jefferson County High School | Unicoi County High School
+@R1 Eli, Katie, Evan, Zach, Reagan, Noah
+@R2 Leah, Emily, Brian, Galen
+# Evan is Jefferson County's captain and Brian is Unicoi County's captain. The captions render Leah as "Leia", Zach as "Zachary", Brian as "Bryan/Bryant", Evan as "11" (twice) and Unicoi as "Unicorn". Jefferson County brings in Reagan and Noah for the second half; Unicoi keeps its lineup.
+# ---- first half ----
+T1 | Sports | In what sport do teams compete for the Stanley Cup? | Hockey | Evan:C
+B1 | Sports | As of the start of the 2024 season, which Major League Baseball team has never been in a World Series? | The Seattle Mariners | I | .the team passed
+T2 | History | On what day each year does Mexico celebrate its declaration of independence from Spain? | September 16 | Brian:I | Katie:I | .Brian said Cinco de Mayo; Katie said October 3rd
+T3 | Vocabulary | What word describes a work or type of writing that ridicules human vice and folly? | Satire | Eli:C
+B3 | Vocabulary | Part 1: In Through the Looking-Glass, the author combined what two words to coin the new word "chortle"? // Part 2: Who wrote Through the Looking-Glass? | Part 1: Chuckle and snort // Part 2: Lewis Carroll | P10 | .the team passed on Part 2
+T4 | Biology | What are the breathing organs of fish? | Gills | Evan:C
+B4 | Visual | What is Tennessee's official sport fish shown here, often referred to as the "bronzeback," which will fight harder ounce for ounce than any other species of sport fish in Tennessee? | The smallmouth bass | I | .team said largemouth bass
+T5 | Algebra | Solve for x if (2/3)x + 14 = 2. | x = −18 | Emily:I | | .Emily said -8; no Jefferson County answer captured
+T6 | Architecture | What is the name of the Islamic mausoleum at Agra which serves as a memorial to the wife of Shah Jahan? | The Taj Mahal | Zach:C
+B6 | Architecture | Name the cathedral located in Red Square that has nine domes shaped like onions and painted bright colors. | Saint Basil's Cathedral | I | .the team passed
+T7 | Economics | The obverse and reverse of the Great Seal of the United States are printed on the back of what denomination of currency? | The one dollar bill | Leah:C | .Leah said "U.S. dollars" and the host accepted the one dollar bill
+B7 | Economics | Part 1: What country's official currency is the renminbi? // Part 2: What country's official currency is the zloty? | Part 1: China // Part 2: Poland | I | .the team said Saudi Arabia and Taiwan
+T8 | Grammar | In the sentence "Marcia gave Jan the book," what grammatical role does the word "Jan" play? | Indirect object | Brian:I | Evan:C | .Brian gave no usable answer
+B8 | Grammar | A person who studies birds is an ornithologist. What type of clause is the phrase "who studies birds"? | An adjective clause | I | .team said "dependent"
+T9 | Physics | Which form of energy is possessed by an object that is currently at rest? | Potential energy | Emily:C
+B9 | Physics | Name four of the six simple machines. | Any four of: inclined plane, lever, pulley, screw, wedge, wheel and axle | P5 | .the team named lever, fulcrum and load; the host counted lever (five points) and said the judges might add more
+T10 | Foreign Language | Which English word is actually a German word for a school that prepares children for first grade? | Kindergarten | Emily:C
+B10 | Foreign Language | Editorial articles throughout the world asked why many social media posts about the 2023 Titan submersible disaster seem to derive pleasure from the misfortune of others, which is known as what 13 letter German word? | Schadenfreude | C
+T11 | Music | Which singer who was eliminated from The X Factor and put into a band mentored by Simon Cowell recently topped the charts as a solo artist? | Harry Styles | Leah:I | Katie:C | .Leah said One Direction; Katie's steal name is read from "Katy's Ring"
+B11 | Visual | Who is the iconic trumpet player shown here, one of the most influential figures in jazz, for whom the New Orleans International Airport was named in 2001? | Louis Armstrong | C
+T12 | History | What was the name of the tax passed by Parliament in 1765, placed on playing cards, publications and legal documents? | The Stamp Act | Brian:C | .the host said he answered before being called on but accepted it
+B12 | History | Which U.S. president is credited with lobbying Congress to lower tariffs while instituting a federal income tax in 1913 and asking Congress to declare war on Germany in 1917? | Woodrow Wilson | I | .team said Teddy Roosevelt
+T13 | Literature | A large statue in Knoxville memorializes which award-winning author of Roots? | Alex Haley | Emily:I | | .Emily said Frederick Douglass; no Jefferson County answer captured
+T14 | Chemistry | What is the lustrous gray metalloid element with the symbol Sb? | Antimony | Evan:I | | .Evan gave a number (11, then ten) and blanked; no Unicoi answer
+T15 | Pre-Calculus | What is the value of the cotangent of 3π/4? | −1 | NB | | .nobody got it; the host gave the answer
+T16 | Religion | What is the ninth month of the Islamic calendar, observed by Muslims worldwide as a month of fasting, prayer, reflection and community? | Ramadan | 1:C | .buzzer not named; Jefferson County from the bonus
+B16 | Religion | Part 1: What Christian holy day is a day of fasting and repentance and is the beginning of the liturgical season of Lent? // Part 2: What day is the most important and oldest festival of the Christian church, celebrating the resurrection of Jesus Christ? | Part 1: Ash Wednesday // Part 2: Easter | C
+T17 | Geography | What river forms the boundary between Virginia and Maryland? | The Potomac River | Brian:C
+B17 | Geography | Which four state capitals have the word "city" in their name? | Salt Lake City, Carson City, Jefferson City and Oklahoma City | P5 | .the team named Kansas City and Salt Lake City; only Salt Lake City counted
+T18 | Grammar | What are words that have different meanings but are spelled and pronounced the same? | Homonyms | 2:I | Zach:C | .Unicoi's buzzer is not named (said synonyms)
+B18 | Grammar | What figure of speech compares two things using the words "like" or "as" to create a new meaning? | A simile | C
+T19 | Astronomy | Valentina Tereshkova made history on June 16, 1963 by becoming what? | The first woman in space | NB | | .the buzzer sounded before anyone answered; the first half ended after this question
+# ---- second half ----
+T20 | History | Who invented a system of writing for the Cherokee language? | Sequoyah | Galen:C
+B20 | Government | In 2023, the Cherokee Tribe continued to lobby for a nonvoting seat in the U.S. House of Representatives, as promised by a treaty. Name four of the current six non-voting seats in the House. | Any four of: American Samoa, Guam, Northern Mariana Islands, Puerto Rico, U.S. Virgin Islands, Washington, D.C. | Brian:P15 | .the team named American Samoa, the U.S. Virgin Islands, Cuba and Puerto Rico; Cuba did not count (15 points)
+T21 | Art | Which cartoonist created The Simpsons? | Matt Groening | Evan:C
+B21 | Art | The webcomic Heart and Brain, drawn by Nick Seluk, is found on a website named for what other webcomic starring a blue creature named Lars? | The Awkward Yeti | I | .the team said "blue giant" or similar
+T22 | Economics | Swedish video game developer Mojang Studios is best known for developing what? | Minecraft | Zach:C
+B22 | Economics | Which two men created one of the first commercially successful personal computers and founded Apple Inc.? | Steve Jobs and Steve Wozniak | P10 | .the team said Steve Jobs and Tim Cook; Steve Jobs counted
+T23 | Spelling | A period of forced seclusion is quarantine. Spell "quarantine." | Q-U-A-R-A-N-T-I-N-E | Zach:C
+B23 | Spelling | Ignominious means deserving or causing public disgrace or shame. Spell "ignominious." | I-G-N-O-M-I-N-I-O-U-S | C | .the captain deferred
+T24 | Geology | In which U.S. state have the most Tyrannosaurus rex fossils been discovered? | Montana | Evan:I | Emily:I | .Evan said Mississippi; Emily said "Mexico"
+T25 | Geometry | The area of a triangle is 70 square meters. What is the length of the altitude to a 14 meter base? | 10 meters | Evan:C | .the captions show "1110 meters" (probably Evan answering "10 meters")
+B25 | Geometry | Two lines intersect, forming four angles, one angle measuring 65 degrees. Give the measures of the other three angles. | 115, 65 and 115 degrees | I | .the team said 25, 65 and 25
+T26 | Miscellaneous | How many different colors are on an original Rubik's Cube? | Six | Emily:C
+B26 | Visual | With digits arranged in a circular layout and a finger hole in the wheel for each digit, what is the common term for the type of telephone shown here? | A rotary phone | I | .team said "dial phone" or "old round dial"
+T27 | Geography | In 1893, which nation became the first self-governing country to pass women's suffrage? | New Zealand | Evan:C | .the captions show "11" for the buzzer name
+B27 | Geography | If the time in Auckland, New Zealand, is 18 hours ahead of Knoxville, what day and time is it in Auckland when it is 5:30 p.m. on a Wednesday in Knoxville? | 11:30 a.m. on Thursday | I | .team said Tuesday at 8:30
+T28 | Foreign Language | What are the French words for "the window"? | La fenêtre | NB | | .nobody answered; the host gave the answer
+T29 | Health | What is the common term for arteries in the head becoming blocked or rupturing, resulting in the death of nervous tissue? | A stroke | Zach:C
+B29 | Health | What company that analyzes customers' saliva samples derives its name from the number of chromosome pairs in each human cell? | 23andMe | C
+T30 | U.S. History | What was the name given to the domestic programs that President Lyndon Johnson outlined in his 1965 State of the Union address? | The Great Society | Reagan:C
+B30 | U.S. History | Daniel Ellsberg, who died in 2023, famously gave The New York Times, The Washington Post and others a top secret 1971 study, the "Report of the Office of the Secretary of Defense Vietnam Task Force," more commonly known as what? | The Pentagon Papers | C
+T31 | Music | What is the term for the interval between the first and eighth tone of a musical scale? | An octave | Emily:C
+B31 | Music | Part 1: Who composed the New World Symphony? // Part 2: Who composed the opera Aida? | Part 1: Antonín Dvořák // Part 2: Giuseppe Verdi | I | .the team gave a wrong answer for Part 1 and none for Part 2
+T32 | Science | Which astronomical event cannot last longer than 7 minutes and 32 seconds? | A total solar eclipse | Brian:C | .Brian said "solar eclipse" and the host accepted it
+B32 | Science | Name four of the five major layers that make up the Earth's atmosphere. | Any four of: troposphere, stratosphere, mesosphere, thermosphere, exosphere | P5 | .the team named the ozonosphere, lithosphere, ionosphere and stratosphere; only the stratosphere counted
+T33 | Mythology | In Greek mythology, what is the name of the winged horse? | Pegasus | Brian:C
+B33 | Mythology | Part 1: Archaeologists examining the ruins of Pompeii discovered a fresco depicting a mythological hunter enraptured by his own reflection. Who was the hunter? // Part 2: Who was the mountain nymph in love with him? | Part 1: Narcissus // Part 2: Echo | I | .the team gave no answer for Part 1 and a wrong answer for Part 2
+T34 | History | Which amphitheater was completed in 80 A.D. to accommodate 50,000 spectators at gladiator games? | The Colosseum | Zach:I | Galen:C | .Zach said the Circus Maximus
+B34 | Visual | Part 1: Who led the Carthaginian army depicted in this image of one of the greatest military achievements in ancient warfare? // Part 2: What mountain range did they cross in this major event of the Second Punic War? | Part 1: Hannibal // Part 2: The Alps | C
+T35 | Math | Convert the base five number 1101 into base ten. | 151 | NB | | .nobody answered; the host gave the answer
+T36 | Religion | Which of Jesus Christ's apostles is the patron saint of impossible causes and the namesake for a nationally known children's research hospital in Memphis? | Saint Jude | Emily:I | Noah:C | .Emily said Saint Peter
+B36 | Religion | Name four of the ten plagues inflicted upon Egypt to convince Pharaoh to free the Israelite slaves. | Any four of: water to blood, frogs, lice, flies, death of livestock, boils, hail, locusts, darkness, death of the firstborn | C | .the team named water to blood, frogs, locusts, boils and the death of the firstborn; the host accepted all of them
+T37 | Government | The National Park Service operates under the jurisdiction of which cabinet-level government department? | The Department of the Interior | Brian:I | | .Brian said the Department of Defense; no Jefferson County answer captured
+T38 | Vocabulary | What seven letter word beginning with P means swearing under oath to something that is not true? | Perjury | Brian:I | | .Brian had no answer and the game ended

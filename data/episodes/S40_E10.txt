@@ -1,0 +1,88 @@
+@EP S40 E10
+@ROUND Round 1
+@TEAMS L&N STEM Academy (Jared's team) | J. Frank White Academy (Tyler's team)
+@R1 Chloe, Cameron, Jared, Jordan, Harshita, Dominic
+@R2 Jay, Logan, Tyler, Aaron, Eva, Madeline
+# Both schools have more than one team in the tournament. Jared is L&N's captain and Tyler is J. Frank White's. The captions write the school as "Ellen" / "Linen" Stem Academy. Harshita and Dominic (L&N) and Madeline and Eva (JFW) enter at halftime. L&N won easily.
+# ---- first half ----
+T1 | Music | What Broadway musical includes the songs "I Whistle a Happy Tune" and "Shall We Dance?" | The King and I | Jared:C
+B1 | Music | Part 1: Which Ashman and Menken musical includes the songs "Skid Row," "Suddenly Seymour" and "Somewhere That's Green"? // Part 2: What is the name of the plant? | Part 1: Little Shop of Horrors // Part 2: Audrey II | P10 | .team said Venus flytrap for Part 2
+T2 | Biology | What are the organelles of the cell that take in nutrients and create energy-rich molecules for the cell? | Mitochondria | Jared:C
+B2 | Biology | Part 1: What is the sheath of cells and connective tissue that surrounds the root of a hair? // Part 2: What is the stalk that joins a stem to a leaf? | Part 1: A follicle // Part 2: A petiole | P10 | .no answer for Part 2
+T3 | Health | Which part of the blood is made of small, granular fragments of cells that promote clotting? | Platelets | Jared:C
+B3 | Health | In 2022, Texas sued Google for capturing data of Texans without their consent, including voice prints and records of face geometry. This type of data is known by what name? | Biometrics | C
+T4 | Geography | What river flows southwest for 337 miles in Virginia and Tennessee and is dammed by both Norris Dam and Melton Hill Dam? | The Clinch River | Jay:I | | .Jay said the Tennessee River; steal offered to L&N, no answer captured
+T5 | Foreign Language | What is the official language of Venezuela? | Spanish | Jared:C
+B5 | Foreign Language | Which variety of Persian is the official language of Iran? | Farsi | I | .team said Urdu
+T6 | Math | What is the simple interest on $500 invested for two years at a 5% rate? | $50 | Jared:C
+B6 | Math | In a certain geometric progression, the third term is 12 and the fourth term is 48. What is the fifth term? | 192 | C
+T7 | Physics | What is the term for a pull or a push applied or exerted on an object? | Force | ?:C | .buzzer and team not identified in captions
+B7 | Physics | Part 1: Which has a lower frequency: infrared rays or microwaves? // Part 2: Which has a lower frequency: AM or FM radio? | Part 1: Microwaves // Part 2: AM | P10 | .team said FM for Part 2
+T8 | Art | What is the resulting color when mixing blue and yellow? | Green | Jay:C
+B8 | Visual | Part 1: What is the title of this artistic interpretation of the 1954 coup d'état to overthrow the President of Guatemala? // Part 2: Who was the artist? | Part 1: Gloriosa Victoria // Part 2: Diego Rivera | I | .team said Frida Kahlo for Part 2; Part 1 garbled in captions
+T9 | U.S. History | What is the name of George Washington's historic home in Virginia? | Mount Vernon | Cameron:C
+B9 | U.S. History | Name two of the three R's in Franklin Roosevelt's New Deal. | Any two of: relief, recovery, reform | I | .team said restoration and reparation
+T10 | Vocabulary | What is the term for an implied comparison such as "a heart of stone"? | A metaphor | Jared:C
+B10 | Vocabulary | Part 1: What 11 letter word beginning with R means to echo or produce an after-effect? // Part 2: Spell that word. | Part 1: Reverberate // Part 2: R-E-V-E-R-B-E-R-A-T-E | C
+T11 | Religion | Which of the apostles was a tax collector before following Jesus? | Matthew | Jared:I | Logan:C | .Jared's answer is garbled in captions
+B11 | Religion | Name two of the seven sacraments of Catholicism. | Any two of: baptism, confirmation, Eucharist, reconciliation, anointing of the sick, holy orders, matrimony | I | .team answered with Ten Commandment items (steal, gossip)
+T12 | Chemistry | What is the chemical formula for glucose? | C6H12O6 | ?:C | .buzzer and team not identified in captions
+B12 | Chemistry | Part 1: Which of this pair of solvents has the highest flash point: acetone or acetic acid? // Part 2: Which of this pair of solvents has the highest flash point: turpentine or methanol? | Part 1: Acetic acid // Part 2: Turpentine | P10 | .team said acetone for Part 1
+T13 | Government | What part of the U.S. Constitution explains the six purposes of government? | The Preamble | Jared:I | 2:I | .Jared said Article I; J. Frank White conferred on the steal, which is not allowed
+T14 | Science | To the nearest hour, how long is it between low tide and high tide? | Six hours | Jay:I | Jared:C | .Jay's name read from "Jake"; he said 12 hours
+B14 | Visual | Who was the American paleontologist and fossil hunter shown here who served as president of the American Museum of Natural History for 25 years, popularizing science to millions of museum visitors? | Henry Fairfield Osborn | I | .team said Burgess
+T15 | Literature | What famous American poet wrote "I Know Why the Caged Bird Sings"? | Maya Angelou | Jared:C
+B15 | Literature | Part 1: What is the term for an eight line stanza written in iambic pentameter? // Part 2: What is the term for a three line stanza? | Part 1: Octave // Part 2: Tercet | I | .team said "octet" and a wrong answer for "triplet"
+T16 | Geometry | What is the measure of each exterior angle of a regular nonagon? | 40 degrees | Jared:C
+B16 | Geometry | Quadrilaterals A and B have perimeters of 30 meters and 45 meters respectively. What is the reduced scale factor comparing quadrilateral A to B? | 2/3 | I | .team said 1.5
+T17 | Geography | What is the capital of Kansas? | Topeka | Jared:I | | .Jared said Kansas City; steal offered to J. Frank White, no answer captured
+T18 | Sports | In golf, how many strokes under par is an eagle? | Two | Jared:C
+B18 | Sports | The Georgia Bulldogs of the SEC play their home games in what city? | Athens, Georgia | C
+T19 | History | Who led the Bolshevik seizure of power in the Russian Revolution? The man was Lenin's chief lieutenant, was exiled to Mexico and was assassinated in 1940. | Leon Trotsky | Jordan:I | | .Jordan answered early (apparently "Lenin"); the host read the rest of the question for J. Frank White, which did not answer
+T20 | Mythology | In Roman mythology, Luna was considered a divine embodiment of what? | The moon | Jared:C
+B20 | Mythology | Part 1: In 2018, some ancient artifacts were discovered in Iceland, including a pendant depicting what weapon of the mythological Norse god of thunder and lightning? // Part 2: To what city were the artifacts brought for further study? | Part 1: Thor's hammer // Part 2: Reykjavik | C
+T21 | Games | In what game is the objective to withdraw plastic sticks from a plastic tube without causing the marbles supported by the sticks to drop to the bottom? | Kerplunk | Tyler:I | | .Tyler's answer is garbled in captions (apparently Jenga); no steal captured
+T22 | Health | The term "apoplexy" formerly referred to what medical condition? | A stroke | Jared:C | .the half ended before the bonus was read
+# ---- second half ----
+T23 | Religion | What mountain, 11 miles west of the Sea of Galilee, was the site of the transfiguration of Jesus? | Mount Tabor | Jay:I | Cameron:I | .Jay said Golgotha; Cameron said he did not know
+T24 | Economics | What car company is the manufacturer of the Silverado and Tahoe models? | Chevrolet | Jared:C
+B24 | Economics | Part 1: What economic term refers to the amount of goods available? // Part 2: What economic term refers to the amount of goods that consumers want? | Part 1: Supply // Part 2: Demand | C
+T25 | Foreign Language | Translate the motto of the 45th Infantry Division, "Semper Anticus," into English. | Always forward | Jared:C | .the Latin motto is garbled in captions
+B25 | Foreign Language | What is the conqueror in the Latin phrase "Omnia vincit amor"? | Love | C | .the host accepted "love conquers all"
+T26 | Math | What is the cube root of 125/729? | 5/9 | Jared:C
+B26 | Visual | In a circle, what are the measures of an inscribed angle and of a central angle that intercept a 116 degree arc? | Inscribed 58 degrees; central 116 degrees | C
+T27 | Biology | The Gila monster is a kind of poisonous lizard native to the arid regions of which continent? | North America | Cameron:I | Tyler:I | .Cameron said Oceania; Tyler said Asia
+T28 | Music | Who composed a collection of preludes and fugues known as The Well-Tempered Clavier? | Johann Sebastian Bach | Dominic:I | Tyler:I | .Dominic said Mozart; Tyler said Chopin
+T29 | Government | What is a sworn written statement for a civil or criminal proceeding called? | An affidavit | Tyler:I | | .Tyler's answer is garbled in captions; steal offered to L&N, no answer captured
+T30 | Spelling | The word "disseminate" means to distribute, spread or scatter. Spell "disseminate." | D-I-S-S-E-M-I-N-A-T-E | Tyler:I | Jared:C | .Tyler's spelling was wrong
+B30 | Spelling | Spell the seven letter word beginning with A that means one who engages in a pursuit of something on an unpaid level. | A-M-A-T-E-U-R | C
+T31 | Art | Which abstract artist is famous for using the drip technique? | Jackson Pollock | Jared:C
+B31 | Visual | Who was the artist in the self-portrait with a beret shown here who built a large pond filled with water lilies and crossed with a humpback bridge on his property in Giverny? | Claude Monet | C
+T32 | Science | Which of the Earth's atmosphere layers reflects radio waves? | The ionosphere | Jared:I | Jay:I | .Jared's answer is garbled in captions; Jay said the stratosphere
+T33 | Geology | What is the term for the disappearance of a species? | Extinction | Jared:C
+B33 | Geology | In the summer of 2023, the U.S. Forest Service said it was nearing completion of a transfer of land sacred to the Apaches to two multinational corporations that will mine it for which chemical element with the atomic number 29? | Copper | I | .team said zinc
+T34 | Geography | Which landlocked South American country borders Chile and Brazil? | Bolivia | Jared:I | Jay:I | .Jared said Paraguay; Jay said Portugal
+T35 | Literature | In what literary anthology did Rudyard Kipling create the mongoose character Rikki-Tikki-Tavi? | The Jungle Book | Jared:C
+B35 | Literature | Part 1: Name the John Steinbeck novel that is the story of the food processing industry in California. // Part 2: Name the John Steinbeck novel that tells of the intertwined destinies of two families, the Trasks and the Hamiltons, who reenact the fall of Adam and Eve and the rivalry of Cain and Abel. | Part 1: Cannery Row // Part 2: East of Eden | Dominic:C
+T36 | Algebra | Solve for x in the equation (2/3)x − 12 = x + 6. | x = -54 | Jared:I | Tyler:I | .Jared said negative six; Tyler said six
+T37 | Chemistry | What is the symbol for rhodium? | Rh | Jared:C
+B37 | Chemistry | If an alloy contains copper and zinc in a ratio of 10 to 9, how much zinc would be in 475 kilograms of the alloy? | 225 kilograms | I | .team's answer (apparently 190) was not accepted
+T38 | Sports | What words do the letters WWE represent? | World Wrestling Entertainment | Jared:C
+B38 | Sports | Part 1: What does the red flag mean in auto racing? // Part 2: What does the checkered flag mean in auto racing? | Part 1: Stop // Part 2: The finish line | C
+T39 | History | A truce signed at Panmunjom in 1953 officially ended which war? | The Korean War | Cameron:C
+B39 | History | What event led to the U.S. and the USSR setting up a hotline in 1963 to facilitate communication between the U.S. president and the Soviet premier? | The Cuban Missile Crisis | C
+T40 | Vocabulary | What four letter word starting with V is a synonym for proud, arrogant and haughty? | Vain | Jared:C
+B40 | Vocabulary | Part 1: What ten letter word beginning with M is the name of a thick dressing or condiment used on sandwiches and salads? // Part 2: Spell that word. | Part 1: Mayonnaise // Part 2: M-A-Y-O-N-N-A-I-S-E | C
+T41 | Religion | Who baptized Jesus in the Jordan River? | John the Baptist | Jay:C
+B41 | Religion | Part 1: What Bishop of Hippo wrote City of God and is considered one of the most important fathers of the Christian church? // Part 2: Which saint was his mother? | Part 1: Saint Augustine // Part 2: Saint Monica | I | .team's answers were wrong ("Father Joseph" and "St. Mary")
+T42 | Astronomy | How many moons orbit the planet Venus? | Zero | Jared:C
+B42 | Astronomy | Apollo 13 was unable to land on the moon due to an exploded oxygen tank. Name two of the three astronauts on the Apollo 13 mission. | Any two of: Jim Lovell, Fred Haise, Jack Swigert | I | .team named Glenn and Armstrong
+T43 | Geography | Kathmandu is the capital of what Asian country? | Nepal | Dominic:C
+B43 | Geography | Part 1: In 2022, low water levels stranded barges on the second longest river in the United States. What is that river? // Part 2: What is the longest river in the United States? | Part 1: The Mississippi River // Part 2: The Missouri River | P10 | .team said the Colorado for Part 1
+T44 | U.S. History | The 21st Amendment overturned the 18th Amendment, which had established what? | Prohibition | ?:C | .buzzer and team not identified in captions
+B44 | U.S. History | In 1838, the telegraph was demonstrated for the first time by Alfred Vail and what man who was Vail's partner? | Samuel Morse | C
+T45 | Foreign Language | What is the German word for street? | Straße | Tyler:C | .the host accepted the pronunciation
+B45 | Foreign Language | What is the English translation of the French question [not captured]? | [unclear] | C | !the French question and the answer are not in the captions; the host joked that it was "the wrong way to speak English" and ruled it right for 20 points
+T46 | Geometry | The sides of an isosceles triangle are 10, 13 and 13. What is its area? | 60 | ?:C | .buzzer and team not identified in captions
+B46 | Geometry | A triangle has angle measures of 2x, 3x and 115 degrees. What are the measures of the two missing angles? | 26 and 39 degrees | C
+T47 | Science | A device to measure revolutions per minute is called what? | A tachometer | Jared:I | | .the answer (apparently "harmonic") was wrong; the game ended

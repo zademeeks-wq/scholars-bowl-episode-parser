@@ -1,0 +1,86 @@
+@EP S40 E17
+@ROUND Round 1
+@TEAMS Corbin High School (KY) | Greeneville High School (John's team)
+@R1 Jasper, Sam, Will, Hudson, Korina
+@R2 Peyton, Hudson, John, Shiloh, Jayce, Adam
+# Greeneville has two teams in the tournament; this one is captained by John. Will is Corbin's captain. Both teams have a player named Hudson (1.Hudson = Corbin's, 2.Hudson = Greeneville's). The captions write Will as "Well". Corbin won easily.
+# ---- first half ----
+T1 | Health | What part of the body can benefit from a monocle? | The eye | Will:C
+B1 | Health | What separates the left and right airways of the nasal cavity, dividing the two nostrils? | The septum | I | .the team's answer (via Sam) is garbled in captions ("Roto-Rooter")
+T2 | Foreign Language | What is the French word for "good day"? | Bonjour | NB | | .nobody answered; the host gave the answer
+T3 | History | What anti-apartheid activist and world leader wrote the autobiography Long Walk to Freedom? | Nelson Mandela | Sam:C
+B3 | History | After Islamic State terrorists destroyed much of Palmyra in 2015, efforts to renovate the World Heritage site have been slowed by an earthquake in 2023 and remaining ISIS landmines. In which country that borders Iraq is Palmyra located? | Syria | C
+T4 | Music | What is a waltz time signature? | 3/4 time | Sam:I | John:C | .Sam said 4/4
+B4 | Music | Who composed "Für Elise"? | Beethoven | C
+T5 | Economics | What is the total monetary or market value of all the finished goods and services produced within a country's borders in a specific time period? | Gross domestic product | Sam:C
+B5 | Economics | Part 1: What entrepreneur started her own production company and the television network OWN? // Part 2: What is the name of her production company? | Part 1: Oprah Winfrey // Part 2: Harpo | Sam:P10 | .Part 2 was missed (Harpo is Oprah spelled backwards)
+T6 | Physics | What is the process in which light atoms combine to form heavier atoms, giving off excess energy in the process? | Nuclear fusion | Will:I | | .Will said atomic collision; steal offered to Greeneville, no answer captured
+T7 | Literature | Which Dr. Seuss book is known for the quote "A person's a person no matter how small"? | Horton Hears a Who! | Peyton:C
+B7 | Literature | After Queen Elizabeth's death, over a thousand toys were left in London and Windsor as a tribute. The toys were likenesses of what character from Peru, wearing a blue duffel coat and a red hat, who also appeared in a video having tea and marmalade sandwiches with the queen for her platinum jubilee? | Paddington Bear | C
+T8 | Math | What is one fourth of ten cubed? | 250 | 2.Hudson:I | 1.Hudson:C | .Greeneville's Hudson said 25; Corbin's Hudson stole it (the host remarked on the two Hudsons)
+B8 | Visual | In a 30-60-90 triangle, the leg opposite the 60 degree angle has a length of nine. Give the lengths of the shorter leg and the hypotenuse in simplified radical form. | Shorter leg 3√3; hypotenuse 6√3 | 1.Hudson:I | .Hudson said he was not sure
+T9 | Architecture | What brick building in Nashville, originally built as a church, was home to the Grand Ole Opry from 1943 to 1974 and still hosts concerts today? | The Ryman Auditorium | Sam:I | | .Sam's answer was wrong; steal offered to Greeneville, no answer captured
+T10 | History | What was the name of North America's first permanent English colony, founded in 1607? | Jamestown | Sam:C
+B10 | History | What was the first representative legislative body to meet in America, which met in Jamestown, Virginia, on July 30, 1619? | The House of Burgesses | Sam:C
+T11 | Technology | In a computer, what do the letters CPU represent? | Central processing unit | Jasper:C
+B11 | Technology | In 2022, a self-steering ship completed the world's first trans-oceanic voyage of an ultra large vessel, setting off from the Gulf of Mexico, crossing the Pacific and sailing to South Korea. Which canal did it use? | The Panama Canal | I | .team said Suez
+T12 | Vocabulary | If a magazine is published semimonthly, how many issues a year would be produced? | 24 | Sam:I | 2.Hudson:C | .Sam's answer was wrong
+B12 | Vocabulary | Part 1: What six letter word beginning with K means destiny or fate? // Part 2: What five letter word beginning with K means acclaim or praise? | Part 1: Kismet // Part 2: Kudos | I | .team had no answers
+T13 | Geography | What is the longest line of latitude on the Earth? | The equator | Will:I | Peyton:C | .Will's answer is garbled in captions
+B13 | Visual | Which country is highlighted on the map of South America shown here? | Bolivia | C
+T14 | Religion | What is the process in which the Catholic Church officially recognizes a deceased person as being a saint? | Canonization | Sam:C
+B14 | Religion | Convinced that carbon dating done by the British Museum in 1988 was flawed, filmmaker David Rolfe offered the museum $1 million if it could replicate what many believe to be the burial cloth of Jesus. By what name is the burial cloth known? | The Shroud of Turin | I | .team said "the Shroud of Saint Mary"; the host said "Shroud" was right but he needed the full name
+T15 | Government | From which country did the United States purchase Alaska? | Russia | Sam:C
+B15 | Government | What are the four officer ranks between first lieutenant and brigadier general in the U.S. Army? | Captain, major, lieutenant colonel, colonel | Sam:P10 | .team named lieutenant colonel, colonel, sergeant and corporal; two counted
+T16 | Biology | In the Linnaean classification system, Canis familiaris is what animal? | The dog | Jasper:C
+B16 | Biology | Part 1: What type of animal has breeds called Hereford and Texas Longhorn? // Part 2: What type of animal has breeds called Abyssinian and American Shorthair? | Part 1: Cattle // Part 2: Cats | P10 | .team said sheep for Part 1
+T17 | English | What literary device is the repetition of the same sound at the start of a series of words? | Alliteration | 2:C | .buzzer not named; team from "English bonus for Greeneville"
+B17 | English | Name four of the five properties of verbs. | Any four of: transitivity, tense, mood, voice, number, person | I | .the team's answers were not accepted (it named transitivity)
+T18 | Sports | What is the name for the athletic teams at the University of Texas? | The Longhorns | Sam:I | John:C | .Sam said Aggies
+B18 | Sports | The University of Tennessee's 2023 football season tickets sold out in May, but why has a chair of honor in Section ZZ been kept empty at all games since 2018? | It is reserved for POW and MIA soldiers | I | .the team's answer is not in the captions; the host explained the chair is reserved for prisoners of war and soldiers missing in action
+T19 | Art | What informal work is created when an artist absentmindedly draws simple shapes continuously? | A doodle | Will:C
+B19 | Art | What type of book is made up of comics that include fiction and nonfiction? | A graphic novel | I | .team said "picture book"
+T20 | World History | Sir Arthur Wellesley, the Duke of Wellington, is best remembered for his victory over whom? | Napoleon | Sam:C
+B20 | World History | Queen Elizabeth II lay in state for four days in Westminster Hall. Which two prime ministers also lay in state in Westminster Hall? | Winston Churchill and William Gladstone | P10 | .team named Churchill and Thatcher; Churchill counted
+T21 | Science | What is the zone that develops when the edge of a cold air mass and the edge of a warm air mass meet? | A front | Will:C
+B21 | Science | Part 1: What is the chemical symbol for zinc? // Part 2: Zinc helps plants produce what pigment that gives them their green color and helps them make their own food through photosynthesis? | Part 1: Zn // Part 2: Chlorophyll | P10 | .team said chloroplast for Part 2
+# ---- second half ----
+T22 | Foreign Language | What capital letter in the Greek alphabet is in the form of a triangle? | Delta | Peyton:C
+B22 | Foreign Language | What French expression is often used in English to mean "let the people do as they choose," particularly in the form of a doctrine opposing governmental influence in economic affairs? | Laissez-faire | I | .team said "pièce de résistance"
+T23 | Pre-Calculus | What is the cosine of 180 degrees? | -1 | 1:C | .buzzer not named; team from "pre-calc bonus now for Corbin"
+B23 | Pre-Calculus | What numerical method of determining the definite integral of a function involves finding the average of the left and right Riemann sums, resulting in a trapezoid shape for each interval? | The trapezoidal rule | I | .team said "standard deviation"
+T24 | Music | Which kind of music was composed mainly between 1600 and 1750? | Baroque music | John:I | Sam:C | .John said classical
+B24 | Music | Which Baroque composer wrote The Four Seasons? | Antonio Vivaldi | C
+T25 | Geography | What is the name of the largest lake in Utah? | The Great Salt Lake | Will:I | Shiloh:I | .Will said Salt Lake; Shiloh said Salt Lake City
+T26 | Chemistry | What is the scale that represents acid and base values? | The pH scale | Sam:C
+B26 | Visual | Radon, the immediate decay product of radium, is an odorless, colorless, radioactive gas and one of the noble gases in Group 18 on the periodic table. Give radon's symbol and its atomic number. | Rn and 86 | I | .team's answer was wrong or incomplete
+T27 | Spelling | The word "ricochet" means to rebound one or more times off a surface. Spell "ricochet." | R-I-C-O-C-H-E-T | Will:I | Shiloh:C | .Will's spelling was wrong
+B27 | Spelling | To annihilate is to completely destroy. Spell "annihilate." | A-N-N-I-H-I-L-A-T-E | C
+T28 | Health | What are the two oval shaped lymph nodes in the back of the mouth and on top of the throat in humans? | The tonsils | Will:C
+B28 | Health | Young siblings, including an 11 month old, survived in the Amazon jungle for 40 days after a plane crash in 2023 in which country that has coastlines on both the Atlantic and Pacific Oceans? | Colombia | C
+T29 | Miscellaneous | When a person treats a minor problem like a major one, they are said to be making a mountain out of a what? | A molehill | Will:C
+B29 | Miscellaneous | How many stars are on the European Union flag? | 12 | I | .team said 18
+T30 | U.S. History | Which Civil War general with no political experience served as president of the United States? | Ulysses S. Grant | Jasper:C
+B30 | U.S. History | Part 1: During what battle did General George Pickett's charge take place? // Part 2: In what state did that battle take place? | Part 1: Gettysburg // Part 2: Pennsylvania | C
+T31 | Geology | To form a fossil, an organism has to be buried by what soon after death? | Sediment | 2:I | Will:C | .Greeneville's first buzzer not named (said mud)
+B31 | Geology | Part 1: According to the Mohs scale, which gemstone is harder: sapphire or opal? // Part 2: Which is harder: topaz or turquoise? | Part 1: Sapphire // Part 2: Topaz | C
+T32 | Literature | In which adventure novel is Edmond Dantès the title character? | The Count of Monte Cristo | Sam:I | | .Sam said Gulliver's Travels; steal offered to Greeneville, no answer captured
+T33 | Algebra | In the equation 3x + 6 = 3, what is the value of x? | x = -1 | Peyton:I | Will:C | .Peyton said one half
+B33 | Algebra | Name the line in slope-intercept form with a slope of three passing through the point (9, 6). | y = 3x − 21 | 1.Hudson:I | .Hudson said y = 3x + 3
+T34 | Art | Which 1939 film ends with the line "There's no place like home"? | The Wizard of Oz | Will:C
+B34 | Visual | This fertility idol in what movie was directly copied from a well-known Aztec style statue in the Dumbarton Oaks Museum collection? | Raiders of the Lost Ark | I | .team said Indiana Jones
+T35 | Government | What word is used to mean the temporary release of an accused person awaiting trial, sometimes on the condition that a sum of money be lodged to guarantee their appearance in court? | Bail | Sam:I | Peyton:C | .Sam said "bond"
+B35 | Government | When President Joe Biden had a medical procedure under anesthetic in 2021, Kamala Harris became the first woman to wield U.S. presidential power. Which amendment provides for this transfer of power? | The 25th Amendment | I | .team's answer was wrong
+T36 | Biology | Name the substances that are made by the body to fight diseases. | Antibodies | Will:C
+B36 | Biology | Seizures of illegally harvested sea cucumbers have become increasingly common in the waters between India and what island nation, nicknamed the teardrop of India? | Sri Lanka | C
+T37 | Vocabulary | What word used as a noun means an Eskimo dog, while used as an adjective it means robust and strong? | Husky | 2:I | Sam:C | .Greeneville's first buzzer not named (said "husk")
+B37 | Vocabulary | Finish the following phrases that have the word "work" in them. Part 1: Many hands make ___ work. // Part 2: Idle hands are the devil's ___. | Part 1: Light // Part 2: Workshop | I | .the team's wording did not include "work"
+T38 | Foreign Language | When detectives refer to a criminal's M.O., they are using the abbreviation for what Latin phrase? | Modus operandi | Sam:C
+B38 | Foreign Language | Translate Montana's state motto, "Oro y Plata," which reflects its mining history. | Gold and silver | C
+T39 | Religion | What is the better known name of the Poor Fellow-Soldiers of Christ, whose last grand master was burned at the stake? | The Knights Templar | Sam:I | John:I | .Sam said Jesuits; John said Disciples
+T40 | Geography | What is the capital and largest city of the Netherlands? | Amsterdam | Sam:C
+B40 | Geography | What are the four largest islands in the Mediterranean Sea? | Sicily, Sardinia, Cyprus and Corsica | Sam:P15 | .team named Cyprus, Sardinia and Sicily; three counted (15 points)
+T41 | Astronomy | Which comet made a flyby during the Battle of Hastings in 1066? | Halley's Comet | Sam:C
+B41 | Astronomy | Part 1: A cosmonaut is an astronaut from what country? // Part 2: A vyomanaut is an astronaut from what country? | Part 1: Russia (the Soviet Union) // Part 2: India | P10 | .team said Ukraine for Part 2
+T42 | Mythology | Who was the mythological Roman goddess of wisdom, justice, law and victory? | Minerva | Will:C
+B42 | Mythology | Which day of the week was named after the mythological Roman god of agriculture? | Saturday | Will:I | .Will said Thursday; the game ended after this bonus

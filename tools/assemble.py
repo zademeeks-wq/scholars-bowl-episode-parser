@@ -43,32 +43,38 @@ NOTES = [
     ('Notes', None),
     (None, None),
     ('Scope', None),
-    ('Seasons 40 and 41 of Tennessee Scholars Bowl, built from the PBS caption files season_40.txt and '
-     'season_41.txt. The Questions tab follows the 19 columns of the Season 42 Questions tab; Needs Review '
-     'and Review Notes are added at the end.', None),
-    ('Season 40 has episodes 1 to 10 and 17 to 62 in the caption file (episodes 11 to 16 are not in it). '
-     'Season 41 has episodes 39 to 51, 53, 55 and 59 with usable text; episodes 35 to 38, 52, 54 and 57 are '
-     'empty, and episodes 56 and 58 repeat the text of episode 59, so only episode 59 is recorded.', None),
+    ('Seasons 40 and 41 of Tennessee Scholars Bowl, from the PBS caption files season_40.txt and '
+     'season_41.txt. The Questions tab keeps the 19 columns of the Season 42 Questions tab (A to S) and adds '
+     'Needs Review, Review Notes and Transcript Excerpt (T to V).', None),
+    ('Season 40: episodes 1 to 10 and 17 to 62 are in the caption file; episodes 11 to 16 are not. '
+     'Season 41: episodes 39 to 51, 53, 55 and 59 are entered. Episodes 35 to 38, 52, 54 and 57 have no '
+     'caption text, and the captions for episodes 56 and 58 are a copy of episode 59, so only episode 59 '
+     'is entered.', None),
+    ('Rounds. Season 40: Round 1 is episodes 1 to 31, Round of 32 is 32 to 47, Round of 16 is 48 to 55, '
+     'Round of 8 is 56 to 59, Round of 4 is 60 and 61, Championship is 62. Season 41: Round of 32 is '
+     'episodes 39 to 44, Round of 16 is 45 to 51, Round of 8 is 53 and 55, Championship is 59.', None),
     (None, None),
     ('How rows are filled', None),
-    ('Tossup 10 points; bonus 20 points unless the host states another value (for example 15 points for '
-     'three of four answers, 5 per item on "name four" bonuses). A two-part bonus uses Part 1 / Part 2 in the '
-     'Question Text and Correct Answer and has Parts = 2; a half-right answer is Partial.', None),
-    ('Answered By is the first player to buzz. Steal By is the player on the other team who answered after a '
-     'wrong first answer. Team, Steal Team and Points To use the school name; a school with more than one '
-     'team in a season is labelled with its captain, for example Maryville High School (Mohammed\'s team).', None),
-    ('When the answer is a halftime challenge or the host re-ruled it, the final ruling is recorded and the '
-     'row has a note.', None),
-    ('The captions have no speaker labels and many names are garbled. Player names are first names read '
+    ('A tossup is worth 10 points and a bonus 20, unless the host states another value (15 points for '
+     'three of four answers, 5 per item on name-four bonuses). A two-part bonus lists Part 1 and Part 2 in '
+     'Question Text and Correct Answer and has Parts = 2. A half-right answer is Partial.', None),
+    ('Answered By is the first player to buzz. Steal By is the player on the other team who answered after '
+     'a wrong first answer. Team, Steal Team and Points To use the school name. When one school has more '
+     'than one team in a season, the label includes the captain, for example Maryville High School '
+     '(Mohammed\'s team).', None),
+    ('A halftime challenge or a re-ruling is entered with its final ruling, and Review Notes says so.', None),
+    ('The captions have no speaker labels and many names are garbled, so player names are first names taken '
      'from the host\'s introductions and may be misspelled.', None),
     (None, None),
     ('Review columns', None),
-    ('Needs Review = Yes marks a row whose buzzer, team, answer, question text or ruling could not be read '
-     'reliably from the captions. Review Notes says what is uncertain. Team = Unknown means the captions do '
-     'not name the buzzer or the team that took the question; those rows also have Points To = Unknown. '
-     'A Result of Unclear has no points counted.', None),
-    ('The Review Queue tab lists the flagged rows with the caption lines they came from, so each can be '
-     'checked without going back to the source files.', None),
+    ('Needs Review = Yes marks a row where the buzzer, team, answer, question text or ruling could not be '
+     'read reliably from the captions. Review Notes says what is uncertain, and Transcript Excerpt holds the '
+     'caption lines the row came from. A Result of Unclear has no points counted.', None),
+    ('Team = Unknown means the captions name neither the buzzer nor the team that took the question, so '
+     'Points To is also Unknown. Where the host\'s score remarks narrow down who answered, for example the '
+     'gap at halftime or both teams finishing above 400, the note on the row gives the reasoning.', None),
+    ('The Review Queue tab lists the flagged rows with the same columns plus their row number on the '
+     'Questions tab.', None),
     (None, None),
     ('Counts', None),
 ]
@@ -76,6 +82,7 @@ NOTES_FORMULAS = [
     ('Rows on the Questions tab', '=COUNTA(Questions!A2:A)'),
     ('Tossups', '=COUNTIF(Questions!C2:C,"Tossup")'),
     ('Bonuses', '=COUNTIF(Questions!C2:C,"Bonus")'),
+    ('Episodes', '=COUNTA(UNIQUE(Questions!A2:A))'),
     ('Rows marked Needs Review', '=COUNTIF(Questions!T2:T,"Yes")'),
     ('Rows with Team = Unknown', '=COUNTIF(Questions!K2:K,"Unknown")'),
 ]

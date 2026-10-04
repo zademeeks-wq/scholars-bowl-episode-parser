@@ -1,0 +1,85 @@
+@EP S40 E06
+@ROUND Round 1
+@TEAMS West Ridge High School (Reed's team) | Science Hill High School (Danny's team)
+@R1 Hope, Andrew, Reed, Caitlin
+@R2 Sean, Lily, Danny, Elena
+# Both schools have more than one team in the tournament. Reed is West Ridge's captain and Danny is Science Hill's; neither team has alternates. The captions sometimes spell Reed as "Reid" / "Read".
+# ---- first half ----
+T1 | Biology | At what stage in mitosis do the chromatids separate from each other and get pulled toward opposite ends of the cell? | Anaphase | Elena:I | Reed:I | .Elena said metaphase; Reed said prophase
+T2 | Literature | Which Shakespearean play is the shortest as well as the bloodiest? | Macbeth | Reed:C
+B2 | Literature | Part 1: Which 16th century poet and playwright's most famous work was The Tragical History of Doctor Faustus? // Part 2: Marlowe was one of the most famous playwrights of what era? | Part 1: Christopher Marlowe // Part 2: The Elizabethan era | I | .no answer for Part 1; the team said "Shakespearean" for Part 2
+T3 | Religion | In what country did Buddhism originate? | India | Danny:C
+B3 | Religion | In 2023, Afghanistan banned women from working for NGOs because some had not properly worn their headscarves. What words do the letters NGO represent? | Non-governmental organization | C | .the host did not state the points but moved on after Danny's answer
+T4 | Music | What great composer and musician is also known as "the March King"? | John Philip Sousa | Andrew:C
+B4 | Music | Part 1: Who composed the German opera The Flying Dutchman? // Part 2: During which musical period did Wagner compose? | Part 1: Richard Wagner // Part 2: The Romantic period | I | .team said Strauss and "Classical"
+T5 | Economics | What is the unit of currency used in Australia and New Zealand? | The dollar | Reed:C
+B5 | Economics | Part 1: Which auto manufacturer makes the Atlas and the Jetta? // Part 2: Which manufacturer owns the Mini Cooper line of cars? | Part 1: Volkswagen // Part 2: BMW | I | .team said Mercedes and Ford
+T6 | Technology | What photo sharing app notifies users at random times each day to share unfiltered snapshots during a two minute window? | BeReal | Hope:C
+B6 | Technology | Which technology is used to store and process data on remote servers accessed over the internet? | Cloud computing | I | .team said RAM
+T7 | Foreign Language | What is the Spanish word for street? | La calle | ?:C | .buzzer and team not identified in captions
+B7 | Foreign Language | Part 1: What prayer is sung in Latin with the words "Ave Maria"? // Part 2: What words are used in Spanish prayers and hymns to say "the Lord"? | Part 1: Hail Mary // Part 2: El Señor | C | .Part 2 garbled in captions ("Elsinore")
+T8 | Math | Evaluate four factorial plus three factorial. | 30 | Danny:C
+B8 | Visual | What is the base ten value of the base two number 10101? | 21 | I | .team said 1
+T9 | Sports | When a surfer "hangs ten" on a wave, what does the ten refer to? | Toes | Elena:C | .buzzer name read from "Laina"
+B9 | Sports | Part 1: In which city is the Sugar Bowl played? // Part 2: In which city is the Fiesta Bowl played? | Part 1: New Orleans // Part 2: Tempe, Arizona (Glendale) | I | .team said Kansas City and Phoenix
+T10 | U.S. History | Which state was added to the Union as the 46th state in 1907 while Theodore Roosevelt was president? | Oklahoma | Danny:I | Reed:I | .Danny said Hawaii; Reed said Oregon
+T11 | Science | Name the branch of Earth science that is concerned with the Earth's water. | Hydrology | Caitlin:I | | .Caitlin said marine biology; steal offered to Science Hill, no answer captured
+T12 | Vocabulary | What ten letter word beginning with O means all-knowing? | Omniscient | Danny:I | Reed:C | .Danny said omnipotent
+B12 | Vocabulary | Part 1: What is the word for a female fox? // Part 2: What is the term for a male duck? | Part 1: Vixen // Part 2: Drake | I | .no answer for Part 1; the team said mallard for Part 2
+T13 | Geography | Which South American country has its legal capital at Sucre and its seat of government at La Paz? | Bolivia | 1:C | .buzzer not named; team from "geography bonus for West Ridge"
+B13 | Geography | In 2022, a record number of people fleeing Venezuela risked their lives to cross the Darién Gap, the only land bridge connecting South and North America. Which two countries does the Darién Gap straddle? | Panama and Colombia | C
+T14 | Art | What is the resulting color when mixing red and yellow? | Orange | Danny:C
+B14 | Visual | Who is this post-impressionist artist shown here who painted scores of self-portraits, many of them in exactly this pose? | Paul Cézanne | I | .team said Van Gogh
+T15 | History | During World War II, what computer scientist played a crucial role in cracking intercepted coded messages that enabled the Allies to defeat the Axis? | Alan Turing | Andrew:C
+B15 | World History | Who is considered a hero in England but a pirate in Spain, had a privateer's license from Queen Elizabeth I and was the first Englishman to circumnavigate the globe? | Sir Francis Drake | I | .team had no answer
+T16 | Geology | Diatomaceous earth is made of fossilized, photosynthetic single celled organisms called what? | Diatoms | 1:I | Danny:I | .West Ridge's first buzzer not named (said pebbles); Danny said artists
+T17 | Literature | What short story written by Washington Irving is set in the Catskill Mountains and tells of a villager who falls asleep for 20 years? | Rip Van Winkle | Hope:I | | .Hope said Sleeping Beauty; steal offered to Science Hill, no answer captured
+T18 | Algebra | Solve for x in the equation 7 − 4x = x − 8. | x = 3 | Andrew:I | Lily:I | .Andrew said negative one third; Lily said 5
+T19 | Music | Who popularized the Whip and Nae Nae dances? | Silento | Danny:C
+B19 | Music | Part 1: What is the meaning of the mezzo forte dynamic marking in music? // Part 2: What is the meaning of the fortissimo dynamic marking in music? | Part 1: Medium loud // Part 2: Very loud | C
+T20 | Government | The Brady Bill, enacted in 1993 and named after former White House press secretary James Brady, is concerned with what issue? | Gun control | ?:C | .buzzer and team not identified in captions
+B20 | Government | Part 1: What is the term for a symbol or words legally registered or established by use as representing a company or product? // Part 2: Which automobile company has a ram for its trademarked logo? | Part 1: Trademark // Part 2: Dodge | C
+T21 | Chemistry | What term refers to the number of molecules or ions attached to a central metal atom? | Coordination number | 1:I | Danny:I | .West Ridge's first buzzer not named (said atomic number); Danny said cation
+T22 | Spelling | Spell the word "miscellaneous." | M-I-S-C-E-L-L-A-N-E-O-U-S | Reed:I | Danny:C | .Reed's spelling was wrong
+B22 | Spelling | Spell "appetite," as in hungry for food. | A-P-P-E-T-I-T-E | C
+T23 | History | Who was president when the U.S. made the Gadsden Purchase in 1853, securing present day Arizona and New Mexico? | Franklin Pierce | Reed:I | | .Reed said Polk; steal offered to Science Hill, no answer captured
+T24 | Games | In what playground game does a caller announce a color that signals players to move forward? | Red light, green light | 1:C | .buzzer not named; team from "games bonus for West Ridge"
+B24 | Games | What lawn game from Italy is played with eight large balls and one smaller target ball called a pallino, as players try to land their ball closer to the target than their opponent? | Bocce | C
+# ---- second half ----
+T25 | Geography | What is the name of the body of water that separates Spain from Africa? | The Strait of Gibraltar | Danny:I | Reed:C | .Danny said the Mediterranean Sea
+B25 | Geography | Which two countries share Victoria Falls along the Zambezi River? | Zambia and Zimbabwe | I | .team said Venezuela and Colombia
+T26 | Health | Which vitamin found in leafy green vegetables is required for clotting of blood? | Vitamin K | Reed:I | | .Reed said iron; steal offered to Science Hill, no answer captured
+T27 | Foreign Language | What is the French word for garden? | Jardin | NB | | .nobody answered; the host gave the answer
+T28 | Geometry | The area of a circle is 81 pi. What is its circumference? | 18 pi | Danny:C
+B28 | Geometry | What is the sum of the interior angles of a nonagon? | 1,260 degrees | C
+T29 | Music | What song title from the musical A Chorus Line is a single word and a number? | "One" | Hope:I | Sean:C | .Hope said "six"
+B29 | Music | Part 1: Which Broadway musical includes the songs "Practically Perfect" and "Chim Chim Cher-ee"? // Part 2: Which Broadway musical includes the songs "Circle of Life" and "I Just Can't Wait to Be King"? | Part 1: Mary Poppins // Part 2: The Lion King | Sean:C
+T30 | Science | What unit of energy is equal to the amount of heat required to raise one pound of water one degree Fahrenheit at a pressure of one atmosphere? | The British thermal unit (BTU) | Reed:I | | .Reed said calorie; time ran out on the steal attempt
+T31 | History | Which Spanish conquistador is most known for conquering Peru? | Francisco Pizarro | NB | | .nobody answered in the captions; the host gave the answer
+T32 | Vocabulary | What eight letter word beginning with S means optimistic or positive, especially in a difficult situation, and can also refer to a blood red color as in heraldry? | Sanguine | Hope:I | | .Hope said scarlet; steal offered to Science Hill, no answer captured
+T33 | Astronomy | How often does a full moon appear for it to be called a blue moon? | Twice in one month | Danny:I | Hope:I | .Danny said four days; Hope said every three months
+T34 | Art | What is the word for the Japanese art of flower arrangement? | Ikebana | Danny:I | | .Danny said bonsai; steal offered to West Ridge, no answer captured
+T35 | Physics | What simple machine consists of two inclined planes back to back? | A wedge | Danny:I | | .Danny said a ramp; steal offered to West Ridge, no answer captured
+T36 | Literature | What is the practice of using someone else's work as your own? | Plagiarism | Danny:C
+B36 | Visual | Which bone in the lower leg is often referred to as the shin bone and is one of the two long bones that make up the lower leg alongside the fibula? | The tibia | C
+T37 | Math | Simplify and evaluate: 25 times the sum of 4.1 and 3.9. | 200 | Danny:C
+B37 | Math | What are the next two numbers in the sequence 4, 12, 8, 16, 12, 20? | 16 and 24 | Danny:C
+T38 | Miscellaneous | The concept of "tilting at windmills," which means attacking imaginary evils, comes from what literary classic? | Don Quixote | Danny:I | | .Danny said Harry Potter; steal offered to West Ridge, no answer captured
+T39 | Economics | The majority of funding for public schools in the U.S. comes from what category of taxes? | Property taxes | Reed:C
+B39 | Economics | Known as the father of modern economics, Adam Smith advocated the principles of laissez-faire economics. In what book? | The Wealth of Nations | I | .the team did not know; the host gave the answer
+T40 | Health | What is the term for an inherited protein found on the surface of red blood cells and used to indicate whether the blood of two different people is compatible when mixed? | An antigen (the Rh factor) | Reed:I | Danny:I | .Reed said "red blood type"; Danny said antigen; the host wanted the Rh factor
+T41 | Government | Which president holds the record for the most Supreme Court nominations, with 14, of which 12 were confirmed? | George Washington | Caitlin:I | | .Caitlin said John Quincy Adams; steal offered to Science Hill, no answer captured
+T42 | English | What five letter word beginning with S is a synonym for diaphanous? | Sheer | NB | | .nobody answered; the host gave the answer
+T43 | Literature | Who wrote the books Treasure Island and Kidnapped? | Robert Louis Stevenson | NB | | .nobody answered; the host gave the answer
+T44 | Religion | Who is the third son of Adam and Eve? | Seth | Andrew:C
+B44 | Religion | Which of the disciples betrayed Jesus to the high priest for 30 pieces of silver? | Judas | C
+T45 | Geography | What Florida city, because of the presence of the U.S. Navy and Army, remained in Union hands and became the headquarters of the Gulf blockade of the Confederacy during the Civil War? | Key West | Hope:I | Sean:I | .Hope said Tallahassee; Sean said Tampa Bay
+T46 | Biology | What is a copperhead snake able to sense, by using receptors between its eyes and nostrils, to find nearby prey in total darkness? | Heat | Caitlin:C
+B46 | Visual | In international road signage, what does a blue sign with a white H represent? | A hospital | C
+T47 | Literature | What well-known Shakespeare character speaks the lines "But soft, what light through yonder window breaks? It is the east"? | Romeo | Hope:I | Lily:C | .Hope said Hamlet
+B47 | Literature | Part 1: In what play is an audience addressed as "Friends, Romans, countrymen"? // Part 2: What character in that play delivers the speech? | Part 1: Julius Caesar // Part 2: Mark Antony | C
+T48 | Geometry | The acute angles of a right triangle are in the ratio 3 to 2. What is the measure of the larger angle? | 54 degrees | Reed:I | | .Reed said 60; steal offered to Science Hill, no answer captured
+T49 | Music | The modern version of what instrument has 47 strings and seven pedals which raise or lower each pitch class of strings? | The concert harp | Hope:I | 2:C | .Hope said organ; Science Hill's stealing player not named
+B49 | Music | What is the main difference between the instrumentation of a group of musicians called a Wind Symphony and that of a classical symphony orchestra? | A wind symphony has no string section | I | .team said one has strings and the other has strings and wind instruments
+T50 | U.S. History | Which former U.S. senator and Secretary of War had his citizenship revoked and then restored 89 years after his death? | Jefferson Davis | NB | | .nobody answered; the host gave the answer
+T51 | Astronomy | What space object is an average of 238,855 miles away? | The moon | Reed:I | | .Reed said the sun; steal offered to Science Hill, no answer captured; the game ended

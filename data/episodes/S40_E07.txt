@@ -1,0 +1,81 @@
+@EP S40 E07
+@ROUND Round 1
+@TEAMS Scott County High School (Hailey's team) | Oliver Springs High School (Tristan's team)
+@R1 Ryan, Colton, Hailey, Ana, Naomi
+@R2 Jackson, Sarah, Tristan, Jonah
+# Both schools have more than one team in the tournament. Hailey is Scott County's captain and Tristan is Oliver Springs'. Naomi (Scott County) enters at halftime. The captions render Ana as "Honor" / "Onna" / "Anna" and Ryan as "Brian".
+# ---- first half ----
+T1 | Health | The pulmonary artery carries blood from the heart to which part of the body? | The lungs | Hailey:C
+B1 | Health | Part 1: What Scottish surgeon received the Nobel Prize for medicine in 1945 for his studies in bacteriology and his accidental discovery of a miracle drug? // Part 2: What did he discover? | Part 1: Alexander Fleming // Part 2: Penicillin | Ana:P10 | .team said Darwin for Part 1
+T2 | Architecture | Which type of zoning designates an area for houses and apartments? | Residential | Tristan:C
+B2 | Architecture | Italy is restoring what ancient highway that symbolized the might of the Roman Empire and stretched 360 miles from Rome to Brindisi? | The Appian Way | I | .team had no answer
+T3 | Miscellaneous | "Before You Leap" is the fictional autobiography of what Muppet, who says he was born in a swamp in Leland, Mississippi, alongside approximately 2,353 siblings? | Kermit the Frog | Sarah:C
+B3 | Miscellaneous | Part 1: What toy is an American brand of scale model cars introduced by Mattel in 1968 to compete with Matchbox? // Part 2: What American electronic robotic toy, originally released in 1998 by Tiger Electronics, resembles a hamster or owl-like creature and was a must-have toy in the early 2000s? | Part 1: Hot Wheels // Part 2: Furby | C | .Part 2 answer garbled in captions ("Barbies")
+T4 | U.S. History | In what U.S. state is Fort Sumter located? | South Carolina | Jackson:C | .the host warned the player for blurting without being called on
+B4 | U.S. History | Which two states were added to the Union during the Civil War? | West Virginia and Nevada | P10 | .team said West Virginia and New Mexico
+T5 | Vocabulary | How many times is the letter S used in the word "possession"? | Six | Jackson:I | 1:I | .Jackson's answer is not clear in the captions; Scott County's steal said three
+T6 | Chemistry | The presence or absence of which element separates inorganic chemistry from organic chemistry? | Carbon | Colton:C
+B6 | Chemistry | Part 1: What is the chemical element with the symbol P? // Part 2: What is the chemical element with the symbol Si? | Part 1: Phosphorus // Part 2: Silicon | Colton:C | .Part 1 answer garbled in captions ("plutonium") but the host accepted it
+T7 | Geometry | In an isosceles triangle, the vertex angle measures 42 degrees. Give the other two angle measures. | 69 degrees each | NB | | .nobody rang in in time; the host gave the answer
+T8 | Arts | What 1937 Walt Disney Productions film was the first full length cel animated feature? | Snow White and the Seven Dwarfs | 2:I | Ryan:C | .Oliver Springs' first buzzer not named (said Steamboat Willie); Ryan's name read from "Brian"
+B8 | Visual | Part 1: Although the official title of the painting seen here is longer, by what name is this famous portrait of militiamen during the Dutch Golden Age commonly known? // Part 2: Who painted it? | Part 1: The Night Watch // Part 2: Rembrandt | I | .team's answers garbled in captions
+T9 | Geography | What is the name of the chain of barrier islands that make up most of the North Carolina coastline? | The Outer Banks | Sarah:C
+B9 | Geography | Part 1: Which U.S. city has the nickname "the City of Brotherly Love"? // Part 2: Which U.S. city has the nickname "the Big Easy"? | Part 1: Philadelphia // Part 2: New Orleans | P10 | .team said Chicago for Part 2
+T10 | Foreign Language | What is the Spanish phrase for "I believe"? | Creo (yo creo) | NB | | .nobody answered in the captions; the host gave the answer
+T11 | Geology | What type of geologic action causes a caldera? | A volcanic eruption (collapse) | 1:I | Sarah:I | .Scott County's first buzzer not named (said fracking); Sarah said erosion
+T12 | Literature | What Alfred Hitchcock film, based on a short story by Daphne du Maurier, focuses on a series of unexplained aerial attacks on the people of Bodega Bay, California? | The Birds | Sarah:C
+B12 | Literature | A 1958 letter from a father to his teenage son about first loves that was auctioned in 2022 was written by which Nobel Prize winning author known for Of Mice and Men? | John Steinbeck | C
+T13 | Sports | Who was the only athlete to play in both a Super Bowl and a World Series? | Deion Sanders | Jonah:I | | .Jonah said Bo Jackson; steal offered to Scott County, no answer captured
+T14 | Government | What is the only crime defined in the U.S. Constitution? | Treason | Hailey:I | Tristan:C | .Hailey said murder
+B14 | Government | What were the first two states to ratify the U.S. Constitution? | Delaware and Pennsylvania | P10 | .team said Delaware and Massachusetts; Delaware counted
+T15 | Vocabulary | What is the comparative form of the word "bad"? | Worse | 1:C | .buzzer not named; team from "vocabulary bonus for Scott"
+B15 | Vocabulary | Part 1: What is the plural form of "daughter-in-law"? // Part 2: What is the plural form of "notary public"? | Part 1: Daughters-in-law // Part 2: Notaries public | C
+T16 | Biology | RNA is the abbreviation for what? | Ribonucleic acid | Hailey:C
+B16 | Visual | The echidna and the platypus, shown here, are the only two living species in the order Monotremata. Part 1: They are the only mammals to do what? // Part 2: On what continent are platypuses found? | Part 1: Lay eggs // Part 2: Australia | C
+T17 | Algebra | What is the discriminant of x² + 4x − 5 = 0? | 36 | NB | | .nobody answered in time; the host gave the answer
+T18 | Religion | The root word of what Indian religion, which originated in the Punjab region around the end of the 15th century, means "seeker of truth"? | Sikhism | 1:I | 2:C | .Scott County's first buzzer not named (said Buddhism); Oliver Springs' stealing player not named
+B18 | Religion | What religion, founded in 1863, whose symbol is a nine-pointed star, espouses the essential worth of all religions and the unity and equality of all people? | The Baha'i faith | I | .team said Hinduism
+T19 | Economics | What type of business uses actuarial tables to calculate the remaining life expectancy for people? | An insurance company | ?:I | | .buzzer, team and answer not captured; the host gave "insurance company"
+T20 | Grammar | If an opinion adjective and a fact adjective are used before a noun, which comes first? | The opinion adjective | Colton:C
+B20 | Grammar | What is the term for a verb form ending in -ing when used as a noun? | Gerund | C
+T21 | Physics | What is the form of energy that an object or a particle possesses due to its motion? | Kinetic energy | 1:C | .buzzer not named; Scott County is inferred from the host's halftime remark that one tossup and one bonus separated the teams
+B21 | Physics | Who were the two physicists who isolated the radioactive compound radium chloride in 1902? | Marie Curie and Pierre Curie | P10 | .team said Curie and Darwin; the host took one
+T22 | Geography | What Mexican city is closest to San Diego, California? | Tijuana | 2:I | Ana:I | .Oliver Springs' first buzzer not named (said something in Baja); Ana said San Juan
+T23 | Music | What six letter word beginning with R refers to the recurrence of notes and rests in time? | Rhythm | Sarah:I | Ana:I | .both answers garbled in captions (apparently "repetition"); the host gave rhythm
+# ---- second half ----
+T24 | U.S. History | Which of the 13 colonies refused to send a delegate to the Constitutional Convention? | Rhode Island | Jackson:C
+B24 | U.S. History | Which Founding Father proposed the Bill of Rights, which was published in the Gazette of the United States on June 13, 1789? | James Madison | I | .team said Thomas Jefferson
+T25 | Foreign Language | What word is the same in English and Dutch and means a vehicle specially equipped for taking sick or injured people to and from the hospital? | Ambulance | ?:C | .buzzer and team not identified in captions
+B25 | Foreign Language | Part 1: What kind of merchandise is sold in a dulcería? // Part 2: What kind of merchandise specifically is sold in a carnicería? | Part 1: Candy (sweets) // Part 2: Meat | P10 | .team said "food" for Part 1
+T26 | Chemistry | What is the chemical change that produces alcohol in wine? | Fermentation | ?:C | .buzzer and team not identified in captions
+B26 | Chemistry | Name two of the three German scientists who discovered the atomic fission of uranium. | Any two of: Otto Hahn, Lise Meitner, Fritz Strassmann | I | .team said Einstein and ran out of time
+T27 | Math | Which is greater: 2 to the fourth power or 4 squared? | They are equal | 2:I | Ana:I | .Oliver Springs' first buzzer not named (said 2 to the fourth); Ana said 4 squared
+T28 | Sports | The Slammy Awards have been presented periodically to athletes such as Roman Reigns and Drew McIntyre. In what sport? | Professional wrestling | Ana:C
+B28 | Sports | Part 1: In what sport was Muhammad Ali a world champion? // Part 2: What was Muhammad Ali's birth name? | Part 1: Boxing // Part 2: Cassius Clay | C
+T29 | Government | What are pretrial negotiations in which the defendant agrees to plead guilty to a lesser charge in return for a less severe penalty? | Plea bargaining | ?:I | | .the first answers ("a plea deal") were not accepted; the host gave "plea bargaining"; team not identified
+T30 | Spelling | Something inappropriate, joking or jesting, which is meant to be funny, is called facetious. Spell "facetious." | F-A-C-E-T-I-O-U-S | Sarah:C
+B30 | Spelling | To give one's good wishes when something special or pleasant has happened is to congratulate. Spell "congratulate." | C-O-N-G-R-A-T-U-L-A-T-E | Sarah:C
+T31 | Astronomy | The North Star appears to be stationary because it is located only one half degree from what? | The North Celestial Pole | Sarah:C
+B31 | Astronomy | Part 1: Europa and Ganymede are both moons of which planet? // Part 2: What element makes up 89% of Jupiter's atmosphere? | Part 1: Jupiter // Part 2: Hydrogen | P10 | .team said methane for Part 2
+T32 | Religion | What five letter title beginning with V is given to certain priests or ministers in the Roman Catholic and Episcopal Churches and the Church of England? | Vicar | NB | | .nobody answered in the captions; the host gave the answer
+T33 | Geometry | What is the effect on the area of a circle if the length of the diameter is doubled? | The area becomes four times as large | 1:I | | .Scott County's buzzer not named and the answer not captured; steal offered to Oliver Springs, no answer captured
+T34 | Art | Who is credited with painting the frescoes, including The School of Athens, in the Vatican's Stanza della Segnatura? | Raphael | Ana:I | | .Ana said Michelangelo; steal offered to Oliver Springs, no answer captured
+T35 | Literature | In The Scarlet Letter, how does Hester support herself? | As a seamstress | 1:I | | .Scott County's first buzzer not named (said nursemaid); steal offered to Oliver Springs, no answer captured
+T36 | Biology | What is the top layer or habitat zone of the tropical rainforest called? | The canopy | Sarah:C | .buzzer name read from "Sierra"
+B36 | Visual | Convert the fraction 17/8 into both a decimal and a percent. | 2.125 and 212.5% | I | .team said 2.8 and 212%
+T37 | Music | What is the interval between notes in a chromatic scale? | A half step | Sarah:C
+B37 | Music | Part 1: In which orchestral family are cymbals? // Part 2: In which orchestral family are saxophones? | Part 1: Percussion // Part 2: Woodwinds | C
+T38 | Geography | What is the capital of the United Kingdom? | London | Ana:I | Jonah:C | .Ana said England
+B38 | Geography | What four countries make up the United Kingdom? | England, Scotland, Wales and Northern Ireland | P15 | .team named Wales, England, Scotland and "Ireland"; three counted (15 points)
+T39 | Foreign Language | Translate the question "¿Cómo te llamas?" from Spanish to English. | What is your name? | Tristan:C
+B39 | Foreign Language | What is the Latin phrase that means "I came, I saw, I conquered"? | Veni, vidi, vici | I | .team's answer sounded like "venti"
+T40 | History | In World War I, what word came to be used for close combat between military aircraft? | Dogfight | 1:C | .buzzer not named; team from "visual bonus for Scott"
+B40 | Visual | Part 1: Experts believe the Great Pyramid of Giza, shown here, was built in 2550 BCE by which pharaoh as his tomb? // Part 2: What was the main material used to build the Great Pyramid, including its core and outer casing? | Part 1: Khufu // Part 2: Limestone | P10 | .team said King Tut for Part 1
+T41 | Science | Phillips, Pozidriv and flathead are types of what? | Screws | Ana:C
+B41 | Science | Part 1: What type of clouds are described as layered clouds from which precipitation occurs? // Part 2: What type of clouds are described as puffy, heaped-up clouds? | Part 1: Nimbostratus // Part 2: Cumulus | Naomi:P10 | .Naomi said "cumulonimbus" or similar for Part 1
+T42 | Biology | In what part of the digestive tract in humans is digestion completed for proteins, fats and carbohydrates? | The small intestine | 1:I | Sarah:I | .Scott County's first buzzer not named (said the stomach); Sarah said the large intestine
+T43 | Games | What physical skill game marketed by Hasbro has players take turns removing one block at a time from a tower and placing it on top of the tower? | Jenga | Jonah:C
+B43 | Games | What game uses the terms "hunching," "hissing" and "knuckling down"? | Marbles | I | .team said Mortal Kombat
+T44 | Economics | What six letter word beginning with O means to sell a share or commodity at a specified price at a future date? | Option | 1:I | | .Scott County's first buzzer not named (answer garbled); steal offered to Oliver Springs, no answer captured
+T45 | Vocabulary | Finish this phrase: The pen is mightier than the ___. | Sword | Tristan:C
+B45 | Vocabulary | Define the word "dank." | Moist (damp) | P10 | .the host said that was ten points and that the game ended before the rest of the bonus

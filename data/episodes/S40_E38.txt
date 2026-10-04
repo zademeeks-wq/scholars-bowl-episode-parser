@@ -1,0 +1,92 @@
+@EP S40 E38
+@ROUND Round of 32
+@TEAMS Webb School of Knoxville (Penny's team) | Happy Valley High School (Tyler's team)
+@R1 Sam, James, Penny, Jackson, Henry, Alex
+@R2 Mackenzie, Grace, Tyler, Aubrey, Nicole, Hayden
+# Webb has more than one team in the tournament; this one is captained by Penny. Happy Valley's team is the same Tyler-captained team seen in E25. The captions render Webb as "web" and Mackenzie as "Kenzie". Webb brings in Henry and Alex for the second half and Happy Valley brings in Nicole and Hayden. Webb dominates; the host's closing remark says the game was one where Webb ran up the score.
+# ---- first half ----
+T1 | History | Also called Emancipation Day, what is the holiday that commemorates the date in 1865 ... [cut off by the buzzer]? | Juneteenth | Jackson:C
+B1 | History | Part 1: On February 12, 1849, which president, who was a Tennessean, became the first to have his photo taken while serving in office? // Part 2: What does the K in his name stand for? | Part 1: James K. Polk // Part 2: Knox | P10 | !the captions are unclear on whether Part 1 earned points ("Zachary Taylor ... Oh no, it's Polk. James K. Polk ... now ten more points if you could tell me what the K stands for"); treated as Part 1 missed and Part 2 ("Knox") right
+T2 | Music | In which section of the band is a glockenspiel? | The percussion section | Mackenzie:C
+B2 | Music | Part 1: What popular song begins "I don't want a lot for Christmas, there is just one thing I need"? // Part 2: Who co-wrote and sang the original recording of the song? | Part 1: "All I Want for Christmas Is You" // Part 2: Mariah Carey | P10 | .the team gave "All for Christmas" (accepted) and then said Aretha Franklin
+T3 | Physics | Oxidation occurs at what electrode? | The anode | NB | | .nobody answered; the host gave the answer
+T4 | Literature | Who became king because he could pull a sword out of a stone? | King Arthur | James:C
+B4 | Literature | Part 1: Which work of literature is associated with this first line: "It was a bright cold day in April, and the clocks were striking thirteen"? // Part 2: Who is its author? | Part 1: 1984 // Part 2: George Orwell | P10 | .the team said "James Bond" for Part 1
+T5 | Government | What is the process in which the legitimacy of a will is established? | Probate | Penny:I | | .Penny said "revision"; no Happy Valley answer captured
+T6 | Geography | Which state is the Cornhusker State? | Nebraska | Jackson:C
+B6 | Geography | The borders of which four U.S. states meet at the Four Corners Monument? | Arizona, New Mexico, Colorado and Utah | C
+T7 | Health | Where in a cell is the cell's genetic material located? | The nucleus | ?:C | .buzzer and team not identified in captions
+B7 | Visual | Which region of the brain highlighted in this image is responsible for regulating vital functions like breathing and heart rate? | The medulla oblongata | I | .team said "brain stem"
+T8 | Art | What toy has a silver screen, two knobs and silver powder inside to draw pictures? | Etch A Sketch | Mackenzie:C
+B8 | Art | The artist Kandinsky is considered the first practitioner of what style of art? | Abstract art | I | .team said realism
+T9 | Foreign Language | What is the Spanish word for Saturday? | Sábado | Jackson:C
+B9 | Foreign Language | Part 1: What is the Spanish word for yesterday? // Part 2: What is the Spanish word for tomorrow? | Part 1: Ayer // Part 2: Mañana | Sam:C | .Penny deferred to Sam for both parts
+T10 | Math | What is the square root of 4 cubed? | 8 | Sam:C
+B10 | Visual | Solve the equation 6 − (8y + 8) = 2 − 8 for the variable y. | y = 1/2 | C
+T11 | Economics | What citrus soft drink was invented in Tennessee? | Mountain Dew | Penny:C
+B11 | Economics | Part 1: What product or service uses the slogan "Capture and share the world's moments"? // Part 2: What product or service uses the slogan "Real people, real videos"? | Part 1: Instagram // Part 2: TikTok | I | .the team said Kodak and YouTube
+T12 | Sports | The first 500 mile automotive race on a closed track took place in what city? | Indianapolis | James:C
+B12 | Sports | Part 1: In which competitive sport is a lower score the more favorable outcome? // Part 2: In a typical professional golf round, how many holes make up a complete round of golf? | Part 1: Golf // Part 2: 18 | C
+T13 | Chemistry | Who is the scientist whose name is given to the laboratory burner? | Robert Bunsen | Penny:C
+B13 | Chemistry | Name two of the three classes of electrolytes. | Any two of: acids, bases, salts | I | .the team said "chemical, organic and artificial"
+T14 | Vocabulary | What ten letter word beginning with O means having total absolute power? | Omnipotent | Tyler:C | .the host accepted Tyler's pronunciation
+B14 | Vocabulary | What five letter word beginning with A means highly capable or skilled? | Adept | I | .team said "able"
+T15 | U.S. History | Considered one of the most viewed films in history, what is the subject of the Zapruder film? | President John F. Kennedy | James:C | | .James answered "JFK"
+B15 | U.S. History | Part 1: In 2022 the death of a 96-year-old princess was announced by the only royal residence in the United States, which is located in what city? // Part 2: What is the name of the Hawaiian royal residence, now a museum? | Part 1: Honolulu // Part 2: Iolani Palace | I | .the team said Los Angeles and "the palace of Honolulu"
+T16 | Government | Which amendment in the Bill of Rights states "Excessive bail shall not be required, nor excessive fines imposed"? | The Eighth Amendment | Jackson:I | | .Jackson said the Ninth Amendment; the host gave the answer and no Happy Valley answer is captured
+T17 | Music | What is a broad style of music characterized by complex harmonies, syncopated rhythms and a heavy emphasis on improvisation that started in New Orleans? | Jazz | James:C
+B17 | Music | What is the genre of popular music that originated with blues, Southern gospel and spirituals (plus Appalachian, Cajun and Western styles)? | Country music | I | .the team said "old time" music
+T18 | Geology | What is the only gemstone to come from a living creature? | The pearl | Tyler:C
+B18 | Geology | Name two of the three hardest known naturally occurring substances. | Any two of: diamond, moissanite and a third substance (garbled in the captions) | I | .the team's answers are garbled ("obsidian and bedrock"); the host said none counted
+T19 | English | Tongue twisters usually involve what figure of speech? | Alliteration | James:C
+B19 | English | What figure of speech is used to make a comparison by describing one thing in terms of another, without using the words "like" or "as"? | A metaphor | C
+T20 | Pre-Calculus | What conic section graph will result from the equation 4x² + 9y² = 36? | An ellipse | Sam:C
+B20 | Pre-Calculus | If the sine ratio of an angle is 5/13, what is the cosine ratio of the same angle? | 12/13 | C
+T21 | History | Who was dictator of the USSR during World War II? | Joseph Stalin | Penny:C
+B21 | History | In 1909 it took five months before the world knew that which explorer had reached the North Pole? | Robert Peary | I | .team said Ernest Hemingway
+T22 | Miscellaneous | What is the soft, bland, custard-like food product that is made from soybeans? | Tofu | Penny:C
+B22 | Miscellaneous | Part 1: In folklore, what is the cloaked skeletal creature carrying a scythe? // Part 2: In folklore, what is the elderly bearded man wearing a robe and sash and carrying an hourglass? | Part 1: The Grim Reaper // Part 2: Father Time | C
+T23 | Science | What word for a unit of measurement of length is derived from the Latin word "uncia," meaning one twelfth? | Inch | Penny:C | .the first half ended after this question, so no bonus was read
+# ---- second half ----
+T24 | Spelling | The person in a hotel who books guest services is a concierge. Spell "concierge." | C-O-N-C-I-E-R-G-E | Penny:C
+B24 | Spelling | Part 1: Spell "discrete," meaning distinct, discontinuous and countable. // Part 2: Spell "discreet," meaning prudent, protective and circumspect. | Part 1: D-I-S-C-R-E-T-E // Part 2: D-I-S-C-R-E-E-T | P10 | .the team spelled D-I-S-C-R-E-E-T for both parts
+T25 | Religion | What religious movement of the 1500s led to the Reformation? | Protestantism (as accepted) | ?:C | .buzzer and team not identified in captions
+B25 | Religion | Part 1: Made from wood removed during the Truman-era renovation, what holiday symbol was added to the White House archives in 2022 to celebrate Hanukkah? // Part 2: In 1979, who became the first president to light a menorah in the White House? | Part 1: A menorah // Part 2: Jimmy Carter | P10 | .the team said George W. Bush for Part 2
+T26 | Geography | In which ocean is the Gulf Stream? | The Atlantic Ocean | Penny:C
+B26 | Geography | Tina Turner, Quentin Tarantino, Morgan Freeman and Al Gore Jr. were all born in what state? | Tennessee | I | .the team's answer is garbled in the captions ("southeast ... New Mexico"); the host said no
+T27 | Biology | What is the term for the shape of the human DNA molecule? | A double helix | Penny:C
+B27 | Visual | Part 1: What plant is depicted on the national flag shown here? // Part 2: What nation does that flag represent? | Part 1: A cedar tree // Part 2: Lebanon | P10 | .the team said "fir" for Part 1
+T28 | Art | Gilbert Stuart, an American painter of the 18th century, is most noted for his portrait of which president? | George Washington | Penny:C | .buzzer name read from "Kenny"
+B28 | Art | A Vincent van Gogh exhibition in London selling ear-shaped erasers was criticized for being insensitive to the artist's mental illness. Van Gogh's self-mutilation happened after an argument with which French post-impressionist artist known for his paintings of French Polynesia? | Paul Gauguin | I | .team said Monet
+T29 | Mythology | What was the name of the son of Zeus and Hera who was the god of war in Greek mythology? | Ares | James:C
+B29 | Mythology | The world's first robot tour guide inside a cave is welcoming visitors in Alistrati Cave in northern Greece. The robot is named for which mythological character, the daughter of Zeus and Demeter, who was abducted by Pluto to be his wife? | Persephone | C | .the answer is garbled in the captions ("Demeter for 74 70?") and the host said right for 20 points
+T30 | History | During whose presidency did Thomas Jefferson serve as secretary of state? | George Washington | Penny:C
+B30 | Visual | This famous painting by John Trumbull shows the Committee of Five presenting their draft of the Declaration of Independence to the Second Continental Congress. Name four of the five members of the drafting committee. | Any four of: Thomas Jefferson, Benjamin Franklin, John Adams, Robert Livingston, Roger Sherman | P10 | .the team named Jefferson, Franklin, Madison and John Jay; Jefferson and Franklin counted
+T31 | Architecture | What is the name of Elvis Presley's colonial revival style house? | Graceland | Penny:C
+B31 | Architecture | What type of civic buildings did Andrew Carnegie donate money to build in the 19th century? | Libraries | C
+T32 | Astronomy | Which planet has Phobos and Deimos as its satellites? | Mars | James:C
+B32 | Astronomy | The mnemonic phrase "My very educated mother just served us nachos" stands for what? | The eight planets in order from the sun | I | !the captions show the team asking whether it needed the order and the host saying "that's what we're looking for" but no ruling or answer is stated; treated as missed
+T33 | Literature | Who wrote the Little House on the Prairie books? | Laura Ingalls Wilder | Penny:C
+B33 | Literature | Who wrote the novels Death on the Nile, The ABC Murders and Crooked House? | Agatha Christie | C
+T34 | Chemistry | What element's name was suggested by Lavoisier and derived from two Greek words meaning "water former"? | Hydrogen | Henry:C
+B34 | Chemistry | In 2022, a new analysis of a 4,000 year old toolkit that was found near Stonehenge in 1801 indicates it was used by a skilled craftsperson to hammer sheets of what chemical element with atomic number 79? | Gold | C
+T35 | Economics | What branch of the U.S. Department of the Treasury collects income taxes and enforces related tax laws? | The Internal Revenue Service (IRS) | Henry:C
+B35 | Economics | In 2022, Ralph Lauren announced a new fashion collection to celebrate the traditions and history of Atlanta HBCUs, Morehouse College and Spelman College. What does HBCU stand for? | Historically Black College and University | C
+T36 | Sports | What is the men's track and field competition consisting of ten events in two days? | The decathlon | Penny:I | | .Penny's answer is garbled in the captions; no Happy Valley answer captured
+T37 | Health | What is the pigment in blood that colors it red? | Hemoglobin | Alex:C
+B37 | Health | Name two of the three types of muscles in the human body. | Any two of: skeletal, smooth, cardiac | C | .the team said skeletal and smooth
+T38 | Foreign Language | What commonly used ten letter Spanish word that starts with A is defined as a person who is very knowledgeable and enthusiastic about an activity, subject or pastime? | Aficionado | NB | | .nobody answered; the host gave the answer
+T39 | Geometry | If the hypotenuse of a 45-45-90 triangle is ten, what is its leg length? | 5√2 | Henry:C
+B39 | Geometry | How many total degrees are in the interior angles of a convex decagon? | 1,440 degrees | C
+T40 | History | What city was targeted by the first wartime use of an atomic bomb? | Hiroshima | James:C
+B40 | History | In 1836, Sam Houston led Texans to victory over General Santa Anna at the Battle of San Jacinto. The Texans rallied to what famous war cry? | "Remember the Alamo" | C
+T41 | Music | What is the term for the stick used by conductors to enhance the movements for musicians? | A baton | Alex:C
+B41 | Music | Part 1: What is the lowest pitch on a correctly tuned violin? // Part 2: What is the lowest note on a flute? | Part 1: G // Part 2: Middle C | P10 | .the team said B-flat for Part 2
+T42 | Science | What does a barometer measure? | Air pressure | Alex:C
+B42 | Science | Part 1: What kind of clouds are lowest to the Earth's surface? // Part 2: What kind of clouds are highest in the sky? | Part 1: Stratus // Part 2: Cirrus | Alex:P10 | .the team said cumulus for Part 1; Alex answered Part 2
+T43 | Vocabulary | What is the term for a word that is spelled the same way forward or backward? | A palindrome | Mackenzie:I | Alex:C | .Mackenzie's answer is not captured; the host gave a hint ("like noon or madam")
+B43 | Vocabulary | Part 1: What ten letter verb beginning with A means to combine or unite to form one organization or structure? // Part 2: Spell that word. | Part 1: Amalgamate // Part 2: A-M-A-L-G-A-M-A-T-E | James:P10 | .the team said "aggregate" for Part 1; James spelled amalgamate
+T44 | Religion | What is the collection of the Scriptures of Islam called? | The Quran | Tyler:C | | .Tyler answered "Koran" (an accepted spelling)
+B44 | Religion | In 2023, delegates to the Southern Baptist Convention voted to expel five Southern Baptist churches, including Saddleback, over which issue? | Having women as pastors | Mackenzie:I | .the captions say 2020; Tyler deferred to Mackenzie, who said abortion
+T45 | Geography | What is the capital of Switzerland? | Bern | Penny:I | | .Penny's answer is garbled in the captions; no Happy Valley answer captured
+T46 | Art | What Italian city is home to the Uffizi Gallery? | Florence | Penny:I | | .Penny said Milan; no Happy Valley answer captured; the game ended on the clock

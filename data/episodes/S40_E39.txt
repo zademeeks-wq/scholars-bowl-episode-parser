@@ -1,0 +1,90 @@
+@EP S40 E39
+@ROUND Round of 32
+@TEAMS Happy Valley High School (Levi's team) | Webb School of Knoxville (Steven's team)
+@R1 Nick, Ella, Levi, Alicia, Marcy
+@R2 Nicholas, Andrea, Steven, Daisy, Anna, Nolan
+# Both schools have more than one team in the tournament. Levi captains this Happy Valley team (the same team as E21) and Steven captains this Webb team (the same team as E22). The captions render Steven as "Stephen" (and once as "Semen"), Andrea as "Andreea", and a stolen "Happy Valley" prompt as "steel/still". Webb brings in Anna and Nolan for the second half. The halftime score was tied 230-230 before a challenge cost Happy Valley ten points (see B7), which fits every first-half bonus ruling recorded here (including B6 and B15). The captions give no final score; Webb pulled away in the second half.
+# ---- first half ----
+T1 | Science | Which type of matter has volume but no definite shape? | Liquid | Andrea:I | 1:C | .Andrea's answer is garbled in the captions (probably "gas"); the Happy Valley steal ("thick liquid") was accepted and the steal buzzer is not named
+B1 | Science | Part 1: What is the term for the bouncing back of waves that strike a surface? // Part 2: What is the term for the change in direction of a wave as it passes from one medium to another? | Part 1: Reflection // Part 2: Refraction | I | .the team said "reverberation" for Part 1; the Part 2 answer is garbled in the captions (appears to be "reverberation" again) and the host gave both answers
+T2 | Foreign Language | What is the Spanish word for wolves? | Lobos | Ella:C
+B2 | Foreign Language | What Spanish word literally means a person who kills and is used for bullfighters? | Matador | Ella:C | .a player blurted "matador" first; Levi then deferred to Ella, who repeated it, and the host moved on (accepted for 20)
+T3 | Geometry | In a circle, a 5 centimeter radius bisects an 8 centimeter chord. Find the distance of the chord from the circle center. | 3 centimeters | NB | | .nobody buzzed; the host gave the answer
+T4 | Music | In which family of instruments are the triangle and chimes? | Percussion | Andrea:C
+B4 | Visual | What is this musical symbol and what does it indicate? | A fermata; the note is held as long as the player or conductor chooses | Andrea:C | .Steven deferred to Andrea; the host called it "the most accurate description of a fermata" and gave 20 points
+T5 | Economics | Which U.S. agency was created in 1865 to combat the rise of counterfeit currency following the Civil War? | The U.S. Secret Service | 2:I | Nick:I | .Webb's buzzer is not named (the answer given was "U.S. Mint"); Nick said "the National Treasury"
+T6 | Biology | Lepidoptera refers to which animals? | Butterflies (and moths) | Ella:C
+B6 | Biology | Part 1: In which phylum are lobsters? // Part 2: In which phylum are toads, or amphibians? | Part 1: Arthropoda (arthropods) // Part 2: Chordata (chordates) | I | .the team said "crustacean" for Part 1; the Part 2 answer is garbled in the captions and the host gave "chordate"
+T7 | Vocabulary | What is the term for an introduction to a poem, play or novel, such as The Canterbury Tales? | A prologue | Ella:C
+B7 | Vocabulary | Part 1: What is the term for a fear of open spaces? // Part 2: What is the term for a fear of heights? | Part 1: Agoraphobia // Part 2: Acrophobia | P10 | .Levi answered Part 2 "agoraphobia" without deferring while Ella supplied "acrophobia"; the host first awarded the points, but after a halftime challenge ten points were subtracted from Happy Valley, so only Part 1 counts
+T8 | Literature | In literature, which war was the setting for The Diary of Anne Frank? | World War II | 1:C | .buzzer not named (the bonus was Happy Valley's)
+B8 | Literature | Part 1: A rare first edition of what classic 1937 novel featuring Bilbo Baggins was found in a Scottish charity shop in 2023 and sold for £10,000? // Part 2: Who wrote it? | Part 1: The Hobbit // Part 2: J.R.R. Tolkien | Nick:C | .Levi deferred to Nick for both parts
+T9 | Games | How many colored dots are on a Twister mat? | 24 | Nicholas:I | Levi:I | .Nicholas said 25 and Levi said 12
+T10 | U.S. History | Who was the second president of the United States? | John Adams | Steven:C
+B10 | Visual | Part 1: The women seen here on the east steps of the U.S. Capitol are celebrating the passage of the 19th Amendment, which granted what? // Part 2: In what year was it ratified? | Part 1: Women's suffrage (the right to vote) // Part 2: 1920 | C | .the team first said "suffrage" and the host asked for the full answer ("women's right to vote"); after some hesitation they said 1920
+T11 | Chemistry | Which element has the symbol Pd? | Palladium | Nicholas:I | Ella:C | .Nicholas said lead; the steal name is garbled in the captions (read as Ella); the host reminded players not to talk to each other on tossups
+B11 | Chemistry | What type of chemical reaction occurs between a fuel and an oxidizing agent to release energy? | Combustion | C | .Levi was to answer or defer
+T12 | English | What five letter word beginning with I describes phrases such as "make the bed" or "change your mind"? | Idiom | Steven:C
+B12 | English | What figure of speech did Carl Sandburg use when he wrote "Pigs so thin the farmer had to tie knots in their tails to keep them from crawling through the cracks"? | Hyperbole | C
+T13 | Algebra | Using the six numbers 6, 8, 13, 19, 20 and 23, what is the median of the data set? | 16 | Levi:I | Andrea:I | .Levi said 13 and Andrea said 19
+T14 | Religion | What annual seven-day celebration of African and African-American culture was created in 1966? | Kwanzaa | Nicholas:C
+B14 | Religion | In 2020, soldiers confessed that they were part of a campaign to exterminate the Rohingya Muslim minority in what nation, formerly known as Burma? | Myanmar | I | .the team's answer is garbled in the captions (appears to be "Cambodia")
+T15 | Geography | In which city is Tennessee Tech University located? | Cookeville | Nicholas:C
+B15 | Geography | Part 1: On which continent is the Amazon River located? // Part 2: On which continent is the Volga River located? | Part 1: South America // Part 2: Europe | C | !the captions show the team answering "Africa" for the Amazon part, yet the host awarded 20 points ("we'll take that as right"); scored Correct because the halftime tie at 230-230 only works if this bonus earned 20, so the Amazon answer is probably garbled in the captions
+T16 | Geology | Which of the three main categories of rock is always formed from one of the two other types? | Metamorphic rock | Nick:C
+B16 | Geology | What 2000 BC cromlech on the Salisbury Plain of England has evenly spaced stone uprights with horizontal lintels set up in a circular pattern? | Stonehenge | C
+T17 | Mythology | In Greek mythology, what was the name of the River of Forgetfulness? | The River Lethe | Ella:I | Andrea:C | .Ella said the River Styx; Andrea spelled L-E-T-H-E
+B17 | Mythology | Which mythological titan stole fire from the Greek gods and gave it to humanity? | Prometheus | C | .Steven was to answer or defer
+T18 | History | Queen Mary I, sometimes called Bloody Mary, was a member of what family that ruled England from 1485 to 1603? | The Tudors | 1:C | .buzzer not named; the host reminded the player to wait to be called on
+B18 | History | A house in Sussex that was listed for sale at £2.25 million in 2023 had been given by Henry VIII to which woman, his fourth wife, as part of their annulment settlement? | Anne of Cleves | Ella:C | .Levi was to answer or defer; Ella answered
+T19 | Art | What was the principal craft of Sir Christopher Wren? | Architecture | Daisy:I | Levi:I | .Daisy said watercolor and Levi said oil
+T20 | Government | How many judges are currently serving on the United States Supreme Court? | Nine | 2:C | .buzzer not named (the bonus was Webb's)
+B20 | Government | Part 1: What agency overseen by Congress is represented by the letters FCC? // Part 2: What agency regulated by the Department of Transportation is represented by the letters ICC? | Part 1: Federal Communications Commission // Part 2: Interstate Commerce Commission | I | .Steven deferred to Daisy, who said "Federal Change Commission" for Part 1; the Part 2 answer was "Interstate Communications"
+T21 | Technology | Who is credited with inventing the kinetoscope, a forerunner of the motion picture projector? | Thomas Edison | Steven:C
+B21 | Technology | Since 2005, Oak Ridge National Laboratory has deployed four supercomputers, each the world's fastest in its time. Name two of those four ORNL supercomputers. | Any two of: Jaguar, Titan, Summit, Frontier | Nicholas:C | .Steven deferred to Nicholas, who said Frontier and Summit
+T22 | Spelling | Spell the word "misspell." | M-I-S-S-P-E-L-L | Ella:C
+B22 | Spelling | A person who claims neither faith nor disbelief in God is an agnostic. Spell "agnostic." | A-G-N-O-S-T-I-C | C | .Levi deferred; the teammate who spelled it is not named in the captions
+T23 | Music | What is the time signature for a waltz? | 3/4 time | Nicholas:C
+B23 | Music | Which English singer-songwriter was cleared of copyright infringement when a New York jury decided he didn't steal key components of Marvin Gaye's 1973 song "Let's Get It On" when creating his 2014 hit "Thinking Out Loud"? | Ed Sheeran | Nicholas:C | .Steven deferred to Nicholas; the first half ended after this bonus
+# ---- halftime: tied 230-230; ten points were then subtracted from Happy Valley after a successful challenge (B7) ----
+# ---- second half ----
+T24 | Sports | Which Olympic sport uses rings and parallel bars? | Gymnastics | Anna:C
+B24 | Sports | Part 1: In football, what separates the two teams at the beginning of each play? // Part 2: What is the term for when a defensive player catches a pass from the offensive team? | Part 1: The line of scrimmage // Part 2: An interception | C
+T25 | U.S. History | What are the last three words of Dr. Martin Luther King Jr.'s famous speech? | "Free at last" | Nick:I | | .Nick said "I have a dream"; the host offered Webb a steal but no steal answer appears in the captions and no bonus was read
+T26 | Health | What is the word for a human embryo after eight weeks of development? | A fetus | 2:C | .buzzer not named (the bonus was Webb's)
+B26 | Health | Part 1: Which vitamin is beneficial for both bone health and muscle strength? // Part 2: What is another name for ascorbic acid? | Part 1: Vitamin D // Part 2: Vitamin C | P10 | !the captions are jumbled on Part 1 ("vitamin K ... I mean D"; the host said "that's fine") while the host's closing line is "that's ten points"; scored as Part 2 (vitamin C) only, but Part 1 may also have been credited
+T27 | Literature | In theater, what is the term for a monologue in which a character expresses their thoughts aloud? | A soliloquy | 2:C | .buzzer not named (the bonus was Webb's)
+B27 | Literature | Part 1: What novel includes the characters King Louie, Bagheera and Mowgli? // Part 2: Who wrote The Jungle Book? | Part 1: The Jungle Book // Part 2: Rudyard Kipling | P10 | .Steven deferred to Andrea for Part 1; the Part 2 answer was "Jack London"
+T28 | Math | What type of number is the square root of a negative number? | An imaginary number | Steven:C
+B28 | Visual | Give the prime factorization of 800. | 2^5 x 5^2 | I | !Steven deferred to Anna, who began "two ..."; the host said "you have to get right to it quickly" and gave the answer; treated as missed (time ran out) but no ruling is stated
+T29 | Miscellaneous | Garmin, TomTom and Magellan all make devices that use what type of technology? | GPS (Global Positioning System) | 1:C | .buzzer and answer are not captured; the bonus was Happy Valley's
+B29 | Miscellaneous | Part 1: What does GPS stand for? // Part 2: Which division of the U.S. Armed Forces operates the constellation of up to 30 satellites in the GPS system? | Part 1: Global Positioning System // Part 2: The U.S. Space Force | P10 | .Levi deferred to a teammate for Part 1; the team said "Air Force" for Part 2 and the host said the question was updated and the Space Force now operates GPS
+T30 | Geography | What is the largest island on Earth that is not a continent? | Greenland | Steven:C
+B30 | Geography | In which country is Skellig Michael located (a rugged island that saw a spike in visitors along the Ring of Kerry after scenes from Star Wars: The Last Jedi were filmed there)? | Ireland | U | !the team's answer is unclear ("either, like, Ireland or New Zealand"); the host's next words are "Now it's Ireland" (which may be "No, it's Ireland")
+T31 | Astronomy | What famous Italian astronomer was the first to discover the rings of Saturn in 1610? | Galileo Galilei | Anna:C
+B31 | Astronomy | What is the name of the dwarf planet between the orbits of Mars and Jupiter? | Ceres | U | !the team said "Ceres" with an odd pronunciation ("Sersi"); the host said he didn't know if he could take it and spelled C-E-R-E-S; no clear ruling in the captions
+T32 | Vocabulary | What seven letter word beginning with C means brief and to the point? | Concise | Anna:C
+B32 | Vocabulary | Part 1: What 11 letter word means involving or producing a harsh, discordant mixture of sounds? // Part 2: Spell that word. | Part 1: Cacophonous // Part 2: C-A-C-O-P-H-O-N-O-U-S | P10 | .the team said "cacophony" for Part 1; Andrea spelled "cacophonous" correctly for Part 2
+T33 | Pre-Calculus | Change 5π/6 to degrees. | 150 degrees | Andrea:C
+B33 | Pre-Calculus | What trigonometric function is the result of the quotient of cosine x divided by sine x? | Cotangent x | C
+T34 | Religion | Under what king in the first century B.C. was the Western Wall (Wailing Wall) built? | King Herod | Andrea:I | Ella:I | .Andrea said Solomon and Ella said David; the host said "King Herod Agrippa specifically, but we would've taken Herod"
+T35 | Economics | What is the standard name for a tax levied on the beneficiary share of an estate? | Inheritance tax | ?:C | .buzzer and team not named; the host reminded the player to wait to be called on
+B35 | Economics | Part 1: What is an economic system based on supply and demand with little or no government control? // Part 2: What is the term for money that can be invested in business? | Part 1: Free market (a free-market economy) // Part 2: Capital | P10 | .the team said "capitalism" for Part 1 (the host wanted "free market") and "capital" for Part 2
+T36 | Astronomy | Which planet in our solar system is nearest the Sun? | Mercury | ?:C | .buzzer and team not named; the answer is garbled in the captions
+B36 | Visual | Which gas giant seen in this image is the largest planet in our solar system? | Jupiter | C
+T37 | Foreign Language | Chaucer's Canterbury Tales were written in what kind of English? | Middle English | Andrea:C
+B37 | Foreign Language | How do you say "my grandmother's house" in Spanish? | La casa de mi abuela | Anna:C | .Steven deferred to Anna
+T38 | Government | What is the repeal by Congress of Presidential actions called? | A legislative veto | Levi:I | Steven:I | .Levi said "veto" and the host asked for more; Steven said "congressional veto," which the host called close but the term is "legislative veto"
+T39 | Architecture | What famous building in western North Carolina is an example of the Chateauesque architectural style? | The Biltmore (Biltmore Estate) | Andrea:C
+B39 | Architecture | What is the term for a roof structure that projects vertically beyond the plane of a pitched roof, often containing a window? | A dormer | C
+T40 | U.S. History | Which U.S. president dedicated the Statue of Liberty in 1886? | Grover Cleveland | Steven:I | Levi:I | .Steven said Jackson and Levi said McKinley
+T41 | Physics | What is the term used to identify the point of no disturbance of a standing wave? | A node | Levi:I | Nolan:I | .Levi said "trough" and Nolan said "null point"
+T42 | Literature | Simile, metaphor and personification are known as what? | Figures of speech | Ella:C | .Ella said "forms of speech," which the host accepted
+B42 | Literature | Part 1: What is the name of the story that ends with a sled dog named Buck running through the pale moonlight, singing "a song of the younger world, which is the song of the pack"? // Part 2: Who wrote it? | Part 1: The Call of the Wild // Part 2: Jack London | C
+T43 | Math | Simplify the number negative two thirds raised to the negative fourth power. | 81/16 | NB | | .time ran out; the host gave the answer
+T44 | Music | What American country music singer-songwriter is known for "Whiskey Lullaby" and "Perfect Storm"? | Brad Paisley | Nick:C
+B44 | Music | Part 1: What is the title of the classic country song that begins "Blame it all on my roots, I showed up in boots"? // Part 2: Which country music superstar had an award-winning hit with that song? | Part 1: "Friends in Low Places" // Part 2: Garth Brooks | C | .Levi deferred to Nick for Part 1 and answered Part 2 himself
+T45 | Geography | The Grand Canyon was formed by what river? | The Colorado River | Nolan:C
+B45 | Geography | Part 1: The world's longest known cave system is a national park only 190 miles from Knoxville. What national park is it? // Part 2: In what state is it located? | Part 1: Mammoth Cave National Park // Part 2: Kentucky | P10 | .Steven deferred to Anna, who said "Cave National Park" (the host wanted "Mammoth")
+T46 | Biology | Which blood type is the universal donor? | O negative | Steven:C | .the captions render the buzzer as "Semen" (read as Steven); the game ended after the following bonus
+B46 | Biology | Part 1: What is the only bird able to fly backwards? // Part 2: [not read; time ran out] | Part 1: The hummingbird // Part 2: (not read) | P10 | .the host said the second half of the bonus was not reached

@@ -1,0 +1,92 @@
+@EP S40 E54
+@ROUND Round of 16
+@TEAMS Science Hill High School (Owen's team) | Roane County High School
+@R1 Arushi, Selena, Owen, Shiven, Amanda, Sam, Molly
+@R2 Lucas, Ethan, Nathan, Maddox
+# Science Hill's Owen-captained team (the same team as E44; the host says it is Science Hill's last remaining team) plays Roane County (captain Nathan, the same team as E31 and E45). The captions render Arushi as "Aarushi", Shiven as "Sensor/Shiv", Maddox as "Maddoz", Amanda as "Samantha" once and the Roane steal prompt as "steal Roane". Both teams keep their starters all game. The first half ended Science Hill 190, Roane County 180 (the host: "only ten points separate our teams"), and Science Hill ran away with the second half ("you did really run up the score"); the captions give no final score.
+# ---- first half ----
+T1 | Science | Express the number 30,000 in scientific notation. | 3 x 10^4 | Lucas:C
+B1 | Science | Part 1: At Mount Kilauea, when sulfur dioxide gas dissolves in groundwater, it can be re-emitted as hydrogen sulfide gas, producing a rotten egg scent. What is the formula for sulfur dioxide? // Part 2: What is the formula for hydrogen sulfide? | Part 1: SO2 // Part 2: H2S | P10 | .the team said "H2S2" for Part 2
+T2 | Algebra | If 6x = -18, find the value of 2x + 4. | -2 | Lucas:I | Shiven:C | .Lucas buzzed early and said -6; the host finished reading the question for the steal
+B2 | Algebra | What is the x-intercept of the line with the equation 3x - 5y = -21, in coordinate form? | (-7, 0) | C
+T3 | Music | Who was the first woman inducted into the Rock and Roll Hall of Fame? | Aretha Franklin | NB | | .nobody buzzed; the host gave the answer
+T4 | Geography | In September 2023, vandals cut down one of the most photographed trees in the UK, the Sycamore Gap tree, which stood alongside what barrier built to defend Britannia in the second century AD? | Hadrian's Wall | Owen:I | | .Owen said "Hayden's Wall"; no Roane County steal answer captured
+T5 | Foreign Language | What is the Spanish word for the number nine? | Nueve | Shiven:C
+B5 | Visual | Although it is entirely in one country, a common misconception about Hadrian's Wall, depicted here, is that it divides which two UK countries? | Scotland and England | C
+T6 | Biology | A honeybee getting nectar or pollen from a flower is an example of which type of association? | Mutualism | Owen:I | Lucas:I | .Owen buzzed early and said "pollinator"; Lucas said symbiotic
+T7 | Religion | Which of the Gospels tells the lineage of Jesus Christ, beginning with Abraham and naming 41 generations? | Matthew | Amanda:C
+B7 | Religion | 2 million Muslim pilgrims made the annual Hajj pilgrimage in 2023. After making their way out of Mecca, they traveled to what mount, where Muhammad delivered his final sermon? | Mount Arafat | I | .the team said Mount Sinai
+T8 | Sports | Which Canadian-born hockey player, nicknamed "the Great One," played on four Stanley Cup winning teams? | Wayne Gretzky | Maddox:C
+B8 | Sports | What is the name of the infraction called when a player shoots the puck over the red line and the opposing team's goal line, in that order, and the puck remains untouched without scoring a goal? | Icing | C
+T9 | U.S. History | In 1957, with 300 U.S. Army troops standing guard, nine African-American children were escorted to Central High School in what Arkansas city? | Little Rock | Shiven:C
+B9 | U.S. History | Part 1: Who was the youngest man to take the oath of office as president of the United States? // Part 2: Who was the oldest man to take the oath of office as president? | Part 1: Theodore Roosevelt // Part 2: Joe Biden | P10 | .the team said JFK for Part 1
+T10 | Literature | Taylor Swift owns a cat named after what title character of a 2008 film based on a 1922 F. Scott Fitzgerald story? | Benjamin Button | Amanda:C | .the captions render the buzzer as "Samantha"
+B10 | Literature | Part 1: What 1956 play by William Gibson is based upon the teacher who changed Helen Keller's life? // Part 2: Who was the teacher? | Part 1: The Miracle Worker // Part 2: Annie Sullivan | C | .Owen deferred to Arushi for Part 2
+T11 | Geology | Which precious gem is the birthstone for April? | Diamond | Arushi:I | Lucas:I | .Arushi said emerald and Lucas said jade
+T12 | Pre-Calculus | In the first quadrant of the unit circle, if the cosine of an angle is one half, what is the measure of the angle? | 60 degrees | Lucas:C
+B12 | Pre-Calculus | In degrees or radians, what acute angle has a secant of 2? | 60 degrees (pi/3) | C | .the host said the same answer was chosen on purpose
+T13 | Music | What does the musical term "lento" mean? | Slow | Nathan:C
+B13 | Visual | Which musical note is indicated on the treble clef shown here? | C-sharp | C
+T14 | Economics | What is the currency of Saudi Arabia? | The riyal | Owen:I | Nathan:I | .Owen said ruble and Nathan said dinar
+T15 | Vocabulary | What six letter word beginning with V is a synonym of "possible"? | Viable | Owen:C | | .the captions render the answer as "Bible"
+B15 | Vocabulary | Name the two word phrase beginning with Q that describes a style of Victorian home and architecture. | Queen Anne | I | .the team said "Quaint Gothic"
+T16 | Health | Medic Regional Blood Center allows donors as young as what age if they meet the health requirements? | 16 | Maddox:C
+B16 | Health | Part 1: What word means the process for the sorting and allocation of first aid treatment to victims on the basis of urgency? // Part 2: What is the identification of the nature of an illness or other problem by examination of the symptoms? | Part 1: Triage // Part 2: Diagnosis | C
+T17 | Government | In Tennessee, crash helmets are required for motorized bike riders of what age? | All ages | Lucas:C
+B17 | Government | After securing pay raises for UPS workers in 2023, what labor union for truck drivers called off what would have been one of the largest strikes in U.S. history? | The Teamsters (International Brotherhood of Teamsters) | I | .the team said "the Union of Motor Vehicles"
+T18 | Arts | In Arsenic and Old Lace, the victims of the Brewster sisters are buried by a character who believes himself to be which American president? | Theodore Roosevelt | Owen:C
+B18 | Arts | Part 1: Two front row balcony ticket stubs auctioned for $262,500 in 2023 were from a tragically historic performance of what play by Tom Taylor on April 14, 1865? // Part 2: What theater staged the production on that date? | Part 1: Our American Cousin // Part 2: Ford's Theatre | C
+T19 | Geography | What is the name of the African country formerly known as Rhodesia? | Zimbabwe | Owen:I | Nathan:I | .Owen said Sudan and Nathan said Rwanda
+T20 | Spelling | A meteorologist studies the weather. Spell "meteorologist." | M-E-T-E-O-R-O-L-O-G-I-S-T | Ethan:C
+B20 | Spelling | To express or feel sympathy or pity, or to sympathize, is to commiserate. Spell "commiserate." | C-O-M-M-I-S-E-R-A-T-E | I | .Nathan deferred to Ethan, who spelled it with one M
+T21 | Chemistry | What long theorized subatomic particle was finally discovered in 2012? | The Higgs boson | Lucas:C | .the host said "2020" and then corrected it to 2012
+B21 | Chemistry | Astatine and tennessine are two of the elements in the halogen group. Name the remaining four. | Fluorine, chlorine, bromine and iodine | P10 | .the team said helium (wrong), chlorine and bromine; two counted for 10 points
+T22 | Math | What is the first derivative of 3x squared + 10? | 6x | Owen:C | .the captions' answer is garbled ("6x + 10 ... 10x is right"); the host accepted Owen's answer
+B22 | Math | What is the product of the cube root of 125 and the fourth root of 81? | 15 | C | .the first half ended after this bonus
+# ---- second half ----
+T23 | Sports | What is the name of the stadium where the Tennessee Titans play their home games? | Nissan Stadium | Lucas:C
+B23 | Sports | Part 1: With which NFL team did Tom Brady end his football career? // Part 2: For which team did he play from 2001 to 2019? | Part 1: The Tampa Bay Buccaneers // Part 2: The New England Patriots | C | .the team first said Patriots for Part 1 and then corrected to Buccaneers
+T24 | History | Which Nordic island country has topped the Global Peace Index each year since 2008? | Iceland | Amanda:C
+B24 | History | Part 1: In the late 1920s and early 1930s, Constantinople began to be known by what name? // Part 2: The area that is now New York City was known by what name from 1626 to 1664? | Part 1: Istanbul // Part 2: New Amsterdam | C
+T25 | Literature | Which ancient Greek historian is referred to as the father of history? | Herodotus | Arushi:C
+B25 | Literature | Which Greek comic playwright wrote The Clouds, The Wasps and The Frogs? | Aristophanes | C
+T26 | Technology | In a photo editing application, what tool is used to trim the outside edges of a digital image? | Crop | Owen:C | .Owen buzzed early
+B26 | Technology | What software, originally called "Sky Peer to Peer," is known for VoIP based video telephony and video conferencing? | Skype | C
+T27 | Geology | What is the term for an enclosure or basin on a canal or river, with gates at each end, within which the water level may be varied to raise or lower boats? | A lock | Lucas:I | Owen:C | .Lucas buzzed early and said "a dam"
+B27 | Geology | In the next decade, NASA aims to mine resources on the moon, including which chemical element with atomic number 26? | Iron | C
+T28 | Art | What kitschy series of paintings by Cassius Marcellus Coolidge, commissioned to advertise cigars, depicted canines surrounding a gaming table? | Dogs Playing Poker | Nathan:C
+B28 | Visual | Part 1: What is the title of this famous painting by a Dutch artist, said to express sadness and extreme loneliness but also what is healthy and fortifying about the countryside? // Part 2: Although painted in his final weeks, a persistent myth erroneously claims that painting was which artist's final work? | Part 1: Wheatfield with Crows // Part 2: Vincent van Gogh | I | .the team said "countryside" for Part 1 and Monet for Part 2
+T29 | Government | What is the term length for the U.S. House of Representatives? | Two years | Lucas:C
+B29 | Government | The ESA was enacted in the 1970s as landmark legislation to save declining species from extinction. What did the initials ESA stand for? | The Endangered Species Act | C | .the team first said "environmental justice" and then corrected to the Endangered Species Act; the host accepted it
+T30 | English | What five letter word beginning with C is a synonym for "influence"? | Clout | Lucas:I | Amanda:C | .Lucas said "cost"
+B30 | English | What is the subject in the following sentence: "The old abandoned church caught on fire."? | Church | C | .the team said "the old church" and then "church"
+T31 | Biology | What is the name for a group of porcupines? | A prickle | Amanda:C
+B31 | Biology | How do plants transport water against gravity? | Capillary action | C
+T32 | Geometry | An isosceles right triangle has what three angle measures? | 45, 45 and 90 degrees | Lucas:C
+B32 | Geometry | A line has a slope of two thirds and passes through the point (3, 5). What is its equation in slope-intercept form? | y = (2/3)x + 3 | Lucas:C | .Nathan deferred to Lucas
+T33 | Music | Who is the lead singer of the band Aerosmith? | Steven Tyler | NB | | .nobody buzzed; the host gave the answer
+T34 | Geography | The Statue of Christ the Redeemer stands on Corcovado mountain overlooking what city? | Rio de Janeiro | Owen:C
+B34 | Visual | The Bosporus Strait, shown here, is a naturally formed waterway that connects the Black Sea to the Sea of Marmara and serves as the border between which two continents? | Asia and Europe | C
+T35 | Foreign Language | What is the English translation of the Spanish word "oso"? | Bear | Owen:C
+B35 | Foreign Language | What is the Spanish translation of "Where is the beach?" | "Donde esta la playa?" | Amanda:C | .Owen deferred to Amanda
+T36 | Science | What is the freezing point of water on the Kelvin scale? | 273 kelvins | Lucas:I | Owen:C | .Lucas said 216
+B36 | Science | Part 1: Which German scientist took the first X-ray of a human being? // Part 2: Who was the person he X-rayed? | Part 1: Wilhelm Rontgen // Part 2: His wife | C | .Owen deferred to Arushi
+T37 | Economics | What American mobile payment service, founded in 2009 and owned by PayPal since 2013, is it? | Venmo | Owen:C
+B37 | Economics | Part 1: Which union that went on strike in the summer of 2023 uses the abbreviation WGA? // Part 2: Which union that went on strike in the summer of 2023 uses the abbreviation UAW? | Part 1: The Writers Guild of America // Part 2: The United Auto Workers | C
+T38 | Religion | In the Book of Exodus, while Moses was on Mount Sinai to receive the Ten Commandments, Aaron made what type of idol? | A golden calf | Owen:C | .a player blurted an answer ("the Two Commandments") before being recognized and the host asked to finish the question; it was not counted
+B38 | Religion | Part 1: Who sent Uriah the Hittite to the battlefront to be killed so that his wife Bathsheba would be free to remarry? // Part 2: Who was David and Bathsheba's son who would go on to become a wise king of Israel? | Part 1: King David // Part 2: Solomon | C
+T39 | U.S. History | Who was the first African-American to be pictured on a postage stamp? | Booker T. Washington | Owen:I | Maddox:C | .Owen said Harriet Tubman
+B39 | U.S. History | Who was president of the U.S. on February 12, 1809, the day both Abraham Lincoln and Charles Darwin were born? | Thomas Jefferson | I | .the team said Jackson
+T40 | Literature | Who was the author of Don Quixote? | Miguel de Cervantes | Arushi:C
+B40 | Literature | What is the pen name of Theodor Geisel, the author of Oh, the Places You'll Go? | Dr. Seuss | C
+T41 | Health | What is the large dome shaped muscle that contracts rhythmically and continually? | The diaphragm | Owen:C
+B41 | Health | How many bones are in the human hand, including the wrist? | 27 (the host's key reads 54, presumably both hands) | I | .the team said 26; the host's answer ("54") is unclear
+T42 | Games | What video game character that debuted in 1980 enjoys eating power pellets? | Pac-Man | Owen:C
+B42 | Games | What series of video games features the Belmont clan's struggle against Dracula and spawned an animated TV adaptation on Netflix? | Castlevania | I | .Owen deferred to Shiven, who said "Buffy the Vampire Slayer"
+T43 | Geography | Angel Falls, the tallest waterfall in the world, is located in what South American country? | Venezuela | Amanda:I | Lucas:I | .Amanda said Argentina and Lucas said Zimbabwe
+T44 | Vocabulary | What six letter word beginning with E is a synonym for "abscond"? | Escape | Owen:I | | .Owen said "exodus"; no Roane County steal answer captured
+T45 | Chemistry | What organic chemical, with the formula HCHO, is commonly used to preserve biological specimens in glass jars? | Formaldehyde | Owen:C
+B45 | Chemistry | What is the oxidation state of phosphorus in phosphoric acid? | +5 | C
+T46 | Biology | What is the location of a plantar arch? | The foot | Lucas:C
+B46 | Biology | Afghanistan's wheat crop suffered an infestation in 2023 of what economically damaging plant pest that was also a biblical plague in Egypt? | Locusts | C
+T47 | Miscellaneous | Which Israeli-born actress and model, Miss Israel in 2004, played Wonder Woman? | Gal Gadot | Amanda:C | .the game ended before the bonus could be read

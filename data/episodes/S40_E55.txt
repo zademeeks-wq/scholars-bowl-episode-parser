@@ -1,0 +1,92 @@
+@EP S40 E55
+@ROUND Round of 16
+@TEAMS J. Frank White Academy (Shashi's team) | L&N STEM Academy (Jared's team)
+@R1 Van, Troy, Shashi, Stephen
+@R2 Dominic, Cameron, Jared, Jordan, Harshita
+# J. Frank White Academy (captain Shashi, last year's champions) is the same team as E30 and E46, and L&N STEM Academy (captain Jared) is the same team as E10 and E47. The captions render Van as "Ben/Van", Dominic as "Dominic Palaia", Shashi as "Sashi", Cameron as "Camera" and Altar'd State as "Altered State". Harshita joins L&N for the second half; J. Frank White keeps its starters. L&N led at halftime (230-200 by the rulings recorded here, "extremely close") and Shashi then answered most second-half tossups for J. Frank White; at the end Shashi gave a joke answer to run out the clock. The captions give no score.
+# ---- first half ----
+T1 | Music | Whose first documented composition, a minuet and trio in G major, was composed when he was just five years old? | Wolfgang Amadeus Mozart | Shashi:C
+B1 | Music | Part 1: What is the musical term beginning with T that instructs all singers in a choral piece to sing? // Part 2: What is the musical term beginning with T that tells the musician not to play in a movement or section of a larger work? | Part 1: Tutti // Part 2: Tacet | I | .the team's answers are garbled in the captions
+T2 | Economics | Any sparkling wine labeled champagne must come from what country? | France | Jared:C
+B2 | Economics | Part 1: What is depicted on the back of a $100 bill? // Part 2: In what city is that building located? | Part 1: Independence Hall // Part 2: Philadelphia | P10 | .the team said "the Capitol" for Part 1
+T3 | Literature | In Les Miserables, what is the name of the inspector who pursues Jean Valjean? | Javert | Shashi:C
+B3 | Literature | Part 1: Which Hemingway book features the running of the bulls? // Part 2: Which city is famous for the running of the bulls? | Part 1: The Sun Also Rises // Part 2: Pamplona | C
+T4 | Geology | In addition to igneous and sedimentary, what is the other type of rock? | Metamorphic | 1:C | .buzzer not named (the bonus was J. Frank White's)
+B4 | Visual | During the winter of 1807 and 1808, mountain man John Colter became the first known person of European descent to enter the region that later became Yellowstone National Park and to see the mountain range shown here, which is now in what national park ten miles south of Yellowstone? | Grand Teton National Park | I | .the team said Yosemite
+T5 | Pre-Calculus | What is the absolute value of the complex expression 12 + 5i? | 13 | Jared:C
+B5 | Pre-Calculus | What is the product of the cosecant of angle alpha times the tangent of angle alpha? | Secant alpha (one over cosine alpha) | C
+T6 | Religion | Which gospel writer is thought to also be the author of the Acts of the Apostles? | Luke | Jared:C
+B6 | Religion | In the Old Testament, what eldest son of King Saul was a close friend of David? | Jonathan | I | .the team said "John"
+T7 | Geography | Which state has a longer coastline than the other 49 combined? | Alaska | Shashi:C
+B7 | Geography | Part 1: In which state is Fort Bliss located? // Part 2: In which state is Fort Drum located? | Part 1: Texas // Part 2: New York | I | .the team said Colorado and Florida
+T8 | Vocabulary | What five letter word beginning with G is a synonym of "speculate"? | Guess | Jared:C | .the host first asked Jared to give the answer rather than ask a question
+B8 | Vocabulary | Part 1: What commonly used Latin phrase translates to "through my own fault"? // Part 2: What commonly used French phrase translates to "have a good trip"? | Part 1: Mea culpa // Part 2: Bon voyage | C
+T9 | Chemistry | Methanethiol is added to what normally odorless mixture of methane and ethane to provide its characteristic pungent smell? | Natural gas | Jared:C
+B9 | Chemistry | If uranium-238 releases one alpha particle via radioactive decay, what is the atomic mass of the remaining product? | 234 | C
+T10 | Health | What is the series of involuntary muscle contractions that moves food along the digestive tract? | Peristalsis | Shashi:C
+B10 | Health | In 2023, travelers were warned of the health risks from wildfire smoke and thousands of people were evacuated from the Greek island of Corfu, located in which sea, actually a bay of the Mediterranean Sea? | The Ionian Sea | I | .the team said the Aegean Sea
+T11 | Arts | What Netflix series set in the 1980s follows the adventures of characters like Dustin, Steve and Eleven? | Stranger Things | Troy:C
+B11 | Arts | Part 1: Character actor Stanley Tucci is married to the sister of which actress, who has played Mary Poppins and appeared in A Quiet Place and The Devil Wears Prada? // Part 2: A Quiet Place was directed by and also starred which actor, Emily Blunt's husband? | Part 1: Emily Blunt // Part 2: John Krasinski | C
+T12 | History | The Treaty of Paris of 1898 ended what war? | The Spanish-American War | Shashi:C | .the captions give the year as 1890
+B12 | Visual | What communist leader shown here seized power in 1959 and claimed to have survived over 600 assassination attempts during his 49 year rule of Cuba? | Fidel Castro | C
+T13 | Foreign Language | What is the Spanish word for salad? | Ensalada | Jared:C | .the captions render the answer as "Sonata"
+B13 | Foreign Language | What is the English translation of the Spanish question "Donde esta la clase de ingles?" | Where is English class? | C
+T14 | Astronomy | Aboard which spacecraft was the first living creature, a dog named Laika, sent into space? | Sputnik 2 | Shashi:I | | .Shashi buzzed early and said Columbia; no L&N steal answer captured
+T15 | Geometry | Two vertical angles have measures of 4x - 5 and 2x + 8. What is the measure of either angle? | 21 degrees | Jared:I | 1:I | .Jared answered 6.5 (the value of x); J. Frank White looked at each other's papers on the steal and the host would not take it
+T16 | Games | What arcade game features Jumpman climbing platforms to rescue Pauline from a giant ape? | Donkey Kong | Shashi:I | Jared:C | .Shashi said Pac-Man
+B16 | Games | Sonic the Hedgehog was released in 1991 for a 16 bit Sega console known by what name in North America? | The Genesis | C
+T17 | Government | What kind of bill packages together several measures or diverse subjects into a single bill? | An omnibus bill | Shashi:C
+B17 | Government | The ICC is an intergovernmental organization with jurisdiction to prosecute individuals for war crimes. What do the letters ICC stand for, and where is the ICC located? | International Criminal Court; The Hague, Netherlands | P10 | .the team said Brussels, Belgium after deferring to Troy for the name
+T18 | English | What 11 letter word beginning with E means having knowledge or skill in a particular field gained over a period of time? | Experienced | Jordan:I | Van:I | .Jordan buzzed early and said "enlightenment"; Van's steal answer is not captured but the host said he needed "experienced"
+T19 | Biology | Even though they are not reptiles, what amphibians are sometimes called "spring lizards" in the southern Appalachians? | Salamanders | Shashi:I | Jared:C | .Shashi buzzed early and said "frogs"
+B19 | Biology | Part 1: What is the common name of the Ambystoma mexicanum, a salamander named after the Aztec god of fire and lightning that is a popular exotic pet? // Part 2: Spell that name. | Part 1: Axolotl // Part 2: A-X-O-L-O-T-L | I | .the team said "Quetzal salamander" and misspelled axolotl A-X-O-T-O-T-A-L
+T20 | History | Whose 37 year reign was characterized by Russia's transformation? | Ivan the Terrible | Shashi:C
+B20 | History | In 2022, Ukraine accused Russian soldiers of looting Ukrainian museums and stealing thousands of artifacts, including a crown of gold and precious stones that belonged to what fifth century king who ruled the Hunnic empire? | Attila the Hun | C
+T21 | Music | What classic rock song begins "Tommy used to work on the docks, union's been on strike, he's down on his luck"? | "Livin' on a Prayer" | Jared:I | Van:C | .Jared started with "halfway there" and the host said he had to take the first answer
+B21 | Music | In the 1957 Merrie Melodies cartoon "What's Opera, Doc?", known for the song "Kill the Wabbit," which two characters parody Wagner's operas? | Bugs Bunny and Elmer Fudd | P10 | .the team gave Bugs Bunny (credited) and mispronounced "Elmer Fudd" as "Elmer Fudge"
+T22 | Geography | Khartoum is the capital of what country? | Sudan | Shashi:I | Jared:C | .Shashi said Ethiopia
+B22 | Geography | Name two of the three deserts on the African continent. | Any two of: Sahara, Namib, Kalahari | C | .the team named Namib, Sahara and Kalahari
+T23 | Literature | What children's book by E.B. White is about one small mouse on a very big adventure? | Stuart Little | Shashi:I | Cameron:C | .Shashi buzzed early and his answer is cut off; the first half ended after this tossup
+# ---- second half ----
+T24 | Technology | In the phrase "Super Mario RPG," what do the letters RPG represent? | Role playing game | Jared:C
+B24 | Technology | What eight letter word beginning with S means to install software, such as an app onto an iPhone, obtained from a third party source rather than an official retailer? | Sideload | I | .the team said "soft load"
+T25 | Algebra | What are the complex roots of the equation x squared = -64? | 8i and -8i | Jared:C
+B25 | Algebra | Simplify the square root of 243. | 9 square root 3 | C
+T26 | Art | What type of art that became popular in the 1920s and 1930s is characterized by geometric shapes, smooth lines and streamlined forms? | Art Deco | Shashi:C
+B26 | Art | What French artist with a large following on social media teaches oil painting for beginners using a 19th century Italian art method in a YouTube video with 3.5 million views? | Florent Farges | I | .the team's answer is garbled in the captions ("Barbara")
+T27 | Economics | What Knoxville-based rapidly growing women's fashion brand, with more than 120 boutiques across the U.S. selling boho chic clothing and accessories, is moving its headquarters from Maryville to the former Discovery campus in West Knoxville? | Altar'd State | Van:I | Cameron:I | .Van said Lululemon and Cameron said Belk
+T28 | Spelling | Cadaverous means gaunt and pale like a corpse. Spell "cadaverous." | C-A-D-A-V-E-R-O-U-S | Shashi:C
+B28 | Spelling | To revive someone from unconsciousness or apparent death is to resuscitate. Spell "resuscitate." | R-E-S-U-S-C-I-T-A-T-E | C
+T29 | Chemistry | What is the common name for H2CO3? | Carbonic acid | Jared:I | Shashi:I | .Jared's answer is garbled in the captions ("stall") and Shashi said Epsom salt
+T30 | Biology | Chinook, coho, chum, sockeye and pink are five species of what ray finned fish found in North American waters? | Salmon | Shashi:I | Jared:I | .Shashi said stingray and Jared said dolphin
+T31 | Sports | When keeping score in baseball, what letter represents a strikeout? | K | Shashi:C
+B31 | Sports | Which Major League Baseball team has a name that refers to evading trolleys in the streets of Brooklyn, New York, in the early 20th century? | The Dodgers | C
+T32 | History | With the slogan "I Am a Man," what labor action became Dr. Martin Luther King Jr.'s final cause in 1968? | The Memphis sanitation strike | Shashi:I | Jared:I | .Shashi said "the Civil Unions Act" and Jared said "equal opportunity employment"
+T33 | Miscellaneous | What toy that caught on as a fad in the 1950s and is still sold today consists of a plastic ring that is twirled around the waist, limbs or neck? | The hula hoop | Jared:I | Shashi:C | .Jared buzzed early and said "Slinky"
+B33 | Visual | Part 1: What is the name of the element with the chemical symbol No and atomic number 102? // Part 2: The element is named in honor of Alfred Nobel, whose most famous invention is what? | Part 1: Nobelium // Part 2: Dynamite | C
+T34 | Foreign Language | What is the German word for the color black? | Schwarz | Shashi:I | | .Shashi's answer is garbled in the captions; no L&N steal answer captured
+T35 | Physics | A figure skater who tucks in his or her arms during a spin will begin turning faster due to the conservation of what form of momentum? | Angular momentum | Shashi:I | Jared:U | !Shashi buzzed early and said "inertia"; Jared answered "angular momentum" and the host said "rotational momentum is ... in that case" and moved on without reading a bonus, so the steal ruling is unclear
+T36 | Geography | In which state is Hot Springs National Park? | Arkansas | 1:I | Jared:I | .J. Frank White's buzzer is not named (the answer was Colorado); Jared said Wyoming
+T37 | Vocabulary | What six letter word beginning with Z means a fervent and even militant proponent of something? | Zealot | Jordan:C
+B37 | Vocabulary | What nine letter word beginning with P means recurring again and again, or a type of plant lasting for three seasons or more? | Perennial | C
+T38 | Math | As a fraction, what is two and one half squared? | 25/4 | Shashi:C
+B38 | Visual | The ratio of the measures of the three angles in a triangle is 4:5:6. Find the measures of the smallest and largest angles. | 48 degrees and 72 degrees | C
+T39 | Science | What is the term for a material containing hydrocarbons, such as coal, oil or natural gas, that is formed naturally? | A fossil fuel | Shashi:I | Jordan:C | .Shashi buzzed early and said "fluorocarbon"
+B39 | Science | What is the term for the region, occurring at convergent boundaries of tectonic plates, where one plate moves under another and is forced to sink into the earth's mantle? | A subduction zone | I | .the team said "subversion zone"
+T40 | Government | What is a universal pardon for people who have broken the law? | Amnesty | Shashi:C
+B40 | Government | NATO suggested that the leaks in the Nord Stream pipelines under the Baltic Sea in 2022 were caused by sabotage. The pipelines run between which two countries? | Russia and Germany | C | .the team first said Norway
+T41 | Music | The song "Once Upon a Dream," covered by Lana Del Rey, is from which Disney movie? | Sleeping Beauty | Jared:C
+B41 | Music | What now retired opera singer who lives in Knoxville is known for providing the voice of Princess Aurora in Disney's 1959 animated film Sleeping Beauty? | Mary Costa | I | .the team answered with their coach's name, Glenn Arnold
+T42 | History | Which president ordered rigorous enforcement of the Fugitive Slave Act of 1850 and, as a former president, ran and lost as a candidate of the Know Nothing Party in 1856? | Millard Fillmore | Shashi:C
+B42 | History | The Republican Party was founded in 1854 by anti-slavery activists who opposed the spread of slavery into the Western territories. They were mainly Free Soilers and former members of what political party? | The Whigs | C
+T43 | Literature | Who wrote the novel The Grapes of Wrath? | John Steinbeck | Shashi:C
+B43 | Literature | Part 1: Name the author who created the literary character Ichabod Crane. // Part 2: Name the author who created the literary character Silas Marner. | Part 1: Washington Irving // Part 2: George Eliot | P10 | .the team said T.S. Eliot for Part 2
+T44 | Astronomy | What 13 letter word beginning with SC is the scientific term that explains what causes stars to twinkle? | Scintillation | Shashi:C
+B44 | Astronomy | The fundamental law of stellar physics holds that a star's brightness is proportional to which two characteristics of the star? | Temperature and size | C
+T45 | Geometry | The perimeter of a square is 52. What is its area? | 169 | Shashi:C
+B45 | Geometry | Part 1: What is the term for statements that must be proven? // Part 2: Spell "theorem." | Part 1: Theorems // Part 2: T-H-E-O-R-E-M | P10 | .the team said "proofs" for Part 1; the host gave points for the spelling of "theorems"
+T46 | Sports | Which country's 2022 Winter Olympic team won the most gold medals? | Norway | Shashi:C
+B46 | Sports | What sport that originated in the Basque region of Spain involves bouncing a ball off a walled in space by accelerating it to high speeds with a handheld wicker scoop called a cesta? | Jai alai | C | .the host noted the pronunciation "high lie"
+T47 | Geography | In what European capital city is the Trevi Fountain? | Rome | Shashi:C
+B47 | Geography | Name four of the nine countries that enclose the Baltic Sea. | Any four of: Finland, Estonia, Latvia, Lithuania, Poland, Germany, Denmark, Sweden, Russia | C | .the team named Latvia, Estonia, Lithuania and Finland after deferring to Troy
+T48 | Foreign Language | What is the English translation of the French phrase "Quelle est cette ville"? | What city is this? | Shashi:I | | .Shashi gave a joke answer ("Robert Frost") to run out the clock; the host said so and the game ended

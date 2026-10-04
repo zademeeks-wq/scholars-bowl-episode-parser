@@ -1,0 +1,75 @@
+@EP S40 E25
+@ROUND Round 1
+@TEAMS Morristown West High School (Dalton's team) | Happy Valley High School (Tyler's team)
+@R1 Winnie, Kelly, Dalton, Zeke
+@R2 Mackenzie, Grace, Tyler, Aubrey, Nicole, Hayden
+# Both schools have more than one team in the tournament. Dalton captains Morristown West; Tyler captains Happy Valley (a different Happy Valley team from E21's Levi team). The captions render Morristown as "Motown", Mackenzie as "Macy/McKinsey" and a stolen "Happy Valley" prompt as "steel/still". Happy Valley brings in alternates Nicole and Hayden for the second half. The host said only ten points separated the teams at halftime and that Happy Valley "held on to win". The game ended before a final geography question could be asked.
+# ---- first half ----
+T1 | Religion | The Seder plate is the centerpiece of what Jewish holiday feast? | Passover | Zeke:C
+B1 | Religion | What is the name of the structure under which a bride and groom stand during a Jewish wedding? | A chuppah | I | .team said "a synagogue"; the host described an archway or canopy
+T2 | Government | What is the term for the return of a fugitive from another state back to the state where he or she allegedly committed the crime? | Extradition | Zeke:I | | .Zeke said deportation; the host said he would check but was looking for extradition (state to state); no Happy Valley answer captured
+T3 | Foreign Language | What is the Spanish word for "kiss"? | Beso | Dalton:I | | .Dalton's answer is garbled in the captions ("mersad"); no Happy Valley answer captured
+T4 | Biology | A cow's stomach has how many compartments? | Four | Tyler:I | Zeke:I | .Tyler said five; Zeke said three
+T5 | Literature | Which musical instrument did Jack steal from the giant in Jack and the Beanstalk? | A harp | Tyler:C
+B5 | Literature | When a South Carolina convicted murderer spoke at his sentencing in 2023, he excused his dishonesty by uttering, "Oh, what a tangled web we weave when first we practice to deceive." What author of Ivanhoe first wrote those words in his poem Marmion? | Sir Walter Scott | I | .the team's answer is not clear in the captions ("Yes, sir. No, sir."); the host gave the answer and no points
+T6 | Miscellaneous | Which department store has its name attached to the Thanksgiving Day parade in New York? | Macy's | 1:C | .buzzer not named (the answer came before the host called on the player and earned a warning); Morristown West from the visual bonus that followed
+B6 | Visual | What is the term for the long, slender part of a neuron, as illustrated here, that transmits electrical signals to other cells? | The axon | I | .team said "neurotransmitter"
+T7 | Economics | In a normal supply and demand curve, if demand for good X increases, what happens to the price of good X? | It increases | Tyler:C
+B7 | Economics | What government agency that was created under the Banking Act of 1933 is known by the initials FDIC? What do those four letters represent? | Federal Deposit Insurance Corporation | Mackenzie:I | .Tyler deferred to Mackenzie, who ran out of time
+T8 | Vocabulary | What eight letter word beginning with M means to soak or baste food in a liquid to flavor or tenderize? | Marinate | Mackenzie:C
+B8 | Vocabulary | Part 1: What is the past tense of the verb "cleanse"? // Part 2: What is the past tense of the verb "bring"? | Part 1: Cleansed // Part 2: Brought | P10 | .the team missed Part 1 (apparently answering "cleanse") and got Part 2
+T9 | Geology | Igneous rocks began deep inside the earth as what? | Magma | 2:I | 1:C | .neither buzzer is named; the Happy Valley answer was garbled ("Don't bother") and Morristown West's steal was accepted
+B9 | Geology | Part 1: What is the geologic classification of quartzite? // Part 2: What is the geologic classification of shale? | Part 1: Metamorphic // Part 2: Sedimentary | I | .no answer for Part 1 and the team said igneous for Part 2
+T10 | Math | What is four raised to the fourth power? | 256 | NB | | .nobody answered; the host gave the answer
+T11 | Art | What is the most striking and unusual feature of the Venus de Milo statue? | It has no arms | NB | | .nobody answered; the captions drop the statue's name from the question and the host then named the Venus de Milo and gave the answer
+T12 | U.S. History | Who was the only U.S. president to remain a lifelong bachelor? | James Buchanan | Zeke:I | | .Zeke said John Tyler; no Happy Valley answer captured
+T13 | Mythology | In ancient Greek mythology, who was able to sprout two heads every time one was cut off? | The Hydra | Zeke:I | Tyler:C | .Zeke rang in but did not answer in time
+B13 | Mythology | Which mythological Greek goddess of the soul, the wife of Eros, was often represented with butterfly wings? | Psyche | I | .team said something like "Demeter"
+T14 | Chemistry | Enthalpy of fusion is the heat required to do what? | To melt a solid | NB | | .nobody answered; the host gave the answer
+T15 | Geometry | Which quadrilateral has exactly one pair of parallel sides? | A trapezoid | Winnie:I | Mackenzie:C | .Winnie rang in but did not answer in time
+B15 | Visual | If it takes Victor 90 minutes to travel 120 miles, what is his rate in miles per hour? | 80 miles per hour | Aubrey:I | .Tyler deferred to Aubrey, whose answer was garbled in the captions ("one mile per hour")
+T16 | Music | What American singer-songwriter nicknamed "The Boss" is known for hits like "Born in the U.S.A.," "Hungry Heart" and "Dancing in the Dark"? | Bruce Springsteen | Zeke:C
+B16 | Music | Part 1: What musical term tells the musician to gradually play faster? // Part 2: What musical term tells the musician to gradually play slower? | Part 1: Accelerando // Part 2: Ritardando | I | .the team gave no answers
+T17 | Geography | Daisy Town and the Elkmont Historic District are in which national park? | Great Smoky Mountains National Park | 1:C | .the captions show "Oakmont" for Elkmont; buzzer not named; Morristown West inferred from the bonus ("Motown ...")
+B17 | Geography | Part 1: Which Tennessee city is nicknamed the "Jewel of the Cumberland"? // Part 2: Which Tennessee city is nicknamed "Music City"? | Part 1: Clarksville // Part 2: Nashville | P10 | .the team said Knoxville for Part 1
+T18 | Literature | What American children's book author and illustrator created The Very Hungry Caterpillar? | Eric Carle | Mackenzie:I | | .Mackenzie said Eric Carpenter; no Morristown answer captured
+T19 | Science | What type of mirror can take hundreds of light rays and focus them on a single point? | A concave mirror | Zeke:I | | .Zeke said a prism; no Happy Valley answer captured
+T20 | Economics | Which online retailer has created more U.S. jobs in the last decade than any other? | Amazon | ?:C | .buzzer and team not identified in captions; the question wording is garbled
+B20 | Economics | To comply with Swiss laws when Toblerone production moves to Slovakia at the end of 2023, the chocolate bar's labels will no longer show the image of which famous mountain peak on the border of Switzerland and Italy? | The Matterhorn | I | .team said the Swiss Alps
+T21 | Games | Which board game features Chance and Community Chest cards? | Monopoly | Tyler:C
+B21 | Games | How many triple word score spaces are on a Scrabble game board? | Eight | I | .team said six
+T22 | Government | Who presided over the Constitutional Convention? | George Washington | Zeke:C
+B22 | Government | Part 1: How long is a U.S. senator's term? // Part 2: What position does the Vice President hold in the legislative branch? | Part 1: Six years // Part 2: President of the Senate | Dalton:I | .the team said two years for Part 1 and "legislator" for Part 2
+# ---- second half ----
+T23 | Grammar | What is the term for a noun that establishes the meaning of a pronoun that follows it in a sentence? | Antecedent | 1:I | | .Morristown West's buzzer is not named (the captions show "adjective"); no Happy Valley answer captured
+T24 | Health | What does cancer do when it metastasizes? | It spreads to other parts of the body | 2:I | Kelly:I | .Happy Valley's buzzer and answer are not clear in the captions; Kelly said "multiplies" on the steal
+T25 | Algebra | Name the vertex of the parabola y = (x − 2)² − 5. | (2, −5) | ?:I | | !an answer was given and ruled wrong ("No, he missed") but the buzzer and team are not identified, and no steal is captured; the host gave (2, -5)
+T26 | Architecture | What is the term for an Asian tiered tower with multiple eaves, often used as a shrine? | A pagoda | NB | | .nobody answered; the captions show the host saying "and is a pagoda"
+T27 | U.S. History | Who is credited with making the first American flag in 1776? | Betsy Ross | Mackenzie:C
+B27 | Visual | Who was the Portuguese explorer shown here who was best known for becoming the first European to reach India by sea? | Vasco da Gama | I | .the team gave no answer
+T28 | Foreign Language | What is the French word for the morning wake-up call, especially for military soldiers? | Reveille | 1:I | | .Morristown West's buzzer is not named; the player said "revelry" and the host explained the extra letter changed the word; no Happy Valley answer captured
+T29 | Physics | Which scientist wrote A Brief History of Time? | Stephen Hawking | NB | | .nobody answered; the host gave the answer
+T30 | Astronomy | What color are the hottest stars? | Blue | 1:I | Tyler:C | .Morristown West's buzzer is not named (said red)
+B30 | Astronomy | In 2023, astronomers were baffled by a dying two-faced white dwarf star with each side composed of one of what two elements that are listed first on the periodic table? | Hydrogen and helium | C
+T31 | Music | How many strings are on a violin? | Four | Zeke:I | Mackenzie:I | .Zeke said eight; Mackenzie's steal answer is not captured
+T32 | Geography | What body of water is located at the lowest known elevation, at nearly 1,300 feet below sea level? | The Dead Sea | 1:I | | .Morristown West's buzzer is not named (said the Marianas Trench); no Happy Valley answer captured
+T33 | Spelling | A right or privilege exclusively accorded to individuals is their prerogative. Spell "prerogative." | P-R-E-R-O-G-A-T-I-V-E | Mackenzie:I | Zeke:I | .the captions show "A writer privilege"; Mackenzie spelled P-E-R-R-O-G-A-T-I-V-E and Zeke P-E-R-O-G-A-T-I-V-E
+T34 | Biology | What is the term for an animal such as a lizard replacing its lost tail? | Regeneration | Zeke:I | | .Zeke said molting; no Happy Valley answer captured
+T35 | Pre-Calculus | Solve this equation for x: the cube root of (x − 5) equals 3. | x = 32 | NB | | .nobody answered in time; the host gave the answer
+T36 | Sports | To the nearest mile, how long is a marathon? | 26 miles | Tyler:C
+B36 | Visual | In music notation, what is the symbol shown here and what does it indicate? | Fortissimo (ff): extremely loud | C | .the captions are garbled ("decimal direct ... Extreme allowed"); the symbol and answer are inferred; the host said both parts were right
+T37 | U.S. History | Who was nicknamed "Young Hickory of the Granite Hills" and was the 14th president of the United States? | Franklin Pierce | Zeke:I | | .Zeke said Andrew Jackson; no Happy Valley answer captured
+T38 | Literature | Merlin serves the same function in the legend of King Arthur as what character in The Lord of the Rings? | Gandalf | ?:C | .buzzer and team not identified in captions
+B38 | Literature | Part 1: What city is the setting for George Bernard Shaw's Pygmalion? // Part 2: What is the name of that story's main female character? | Part 1: London // Part 2: Eliza Doolittle | I | .the team said Barcelona for Part 1 and Emily for Part 2
+T39 | Chemistry | What is the term for solids that form during a chemical reaction? | Precipitates | Mackenzie:I | | .Mackenzie's answer is not clear in the captions; no Morristown answer captured
+T40 | Religion | What is the collection of prayer beads separated into decades that are used by Catholics? | The rosary | Mackenzie:I | Dalton:C | .Mackenzie said "rosemary"
+B40 | Religion | In a tradition dating back hundreds of years, King Charles III was anointed during his coronation with oil from the fruit of trees located on what ridge where Jesus ascended to heaven? | The Mount of Olives | I | .the team gave no answer
+T41 | Art | What is the term for a picture painted in two panels and hinged like a book? | A diptych | Tyler:I | | .Tyler's answer is garbled in the captions; no Morristown answer captured
+T42 | History | Which Mexican general and his army were defeated at San Jacinto on April 21, 1836, giving Texas its independence? | Santa Anna | Zeke:C
+B42 | History | Why was New Year's Day celebrated on January 1st for the first time in 45 B.C.? | Because the Julian calendar went into effect | I | .team said "a change of calendar" and then the Gregorian calendar
+T43 | Vocabulary | What nine letter word beginning with D means to disrespect, insult or destroy something sacred? | Desecrate | 1:I | | .Morristown West's buzzer is not named (said dismember); Tyler blurted desecrate before being called on, so the host could not accept it
+T44 | Health | The color pink and the month of October are dedicated to the awareness of what disease? | Breast cancer | Mackenzie:C | .Zeke interrupted before being called on and was not credited
+B44 | Health | Part 1: What have you injured if you've hurt your scapula? // Part 2: What have you injured if you've hurt your patella? | Part 1: Shoulder blade // Part 2: Kneecap | I | .the team said head or skull for Part 1 and hip for Part 2
+T45 | Math | What is 5/9 of 63? | 35 | NB | | .nobody got it in time; the host gave the answer
+T46 | Music | Who wrote the lyrics to "The Star-Spangled Banner"? | Francis Scott Key | ?:C | .buzzer and team not identified in captions
+B46 | Music | What major key signature, when written for piano, has four flats? | A-flat major | I | .the team gave no answer; the game ended after this bonus
